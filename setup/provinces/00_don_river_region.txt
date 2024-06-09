@@ -1,0 +1,108 @@
+﻿8042={ #Tanais
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+8043={ #Tanais
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+8044={ #Tanais
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+8045={ #Tanais
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+8046={ #Tanais
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+8047={ #Rha
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+8048={ #Rha
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+8049={ #Rha
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+8582={ #Tanais
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+8583={ #Tanais
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+8584={ #Tanais
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+8585={ #Tanais
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+

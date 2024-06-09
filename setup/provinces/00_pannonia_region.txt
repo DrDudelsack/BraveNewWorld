@@ -1,0 +1,941 @@
+﻿3653={ #Vindobona
+	terrain="hills"
+	culture="eravisci"
+	religion="druidism"
+	trade_goods="wood"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+3918={ #Carnuntum
+	terrain="forest"
+	culture="eravisci"
+	religion="druidism"
+	trade_goods="hemp"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4024={ #Emona
+	terrain="mountain"
+	culture="carnian"
+	religion="druidism"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4025={ #Carnium
+	terrain="mountain"
+	culture="carnian"
+	religion="druidism"
+	trade_goods="cinnabar"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4026={ #Longaticum
+	terrain="hills"
+	culture="carnian"
+	religion="druidism"
+	trade_goods="horses"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4027={ #Latobicorum
+	terrain="mountain"
+	culture="carnian"
+	religion="druidism"
+	trade_goods="stone"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4028={ #Neviodunum
+	terrain="mountain"
+	culture="carnian"
+	religion="druidism"
+	trade_goods="wood"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4029={ #Celeia
+	terrain="mountain"
+	culture="carnian"
+	religion="druidism"
+	trade_goods="stone"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4030={ #Poetovio
+	terrain="hills"
+	culture="carnian"
+	religion="druidism"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4031={ #Flavia Solva
+	terrain="forest"
+	culture="carnian"
+	religion="druidism"
+	trade_goods="stone"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4039={ #Romula
+	terrain="hills"
+	culture="carnian"
+	religion="druidism"
+	trade_goods="wood"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4047={ #Luena
+	terrain="mountain"
+	culture="noric"
+	religion="druidism"
+	trade_goods="marble"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4048={ #Colatio
+	terrain="mountain"
+	culture="carnian"
+	religion="druidism"
+	trade_goods="horses"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4131={ #Poedicum
+	terrain="mountain"
+	culture="noric"
+	religion="druidism"
+	trade_goods="iron"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4132={ #Volgum
+	terrain="forest"
+	culture="eravisci"
+	religion="druidism"
+	trade_goods="wood"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4133={ #Salla
+	terrain="forest"
+	culture="carnian"
+	religion="druidism"
+	trade_goods="base_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4134={ #Ad Vicessimum
+	terrain="forest"
+	culture="carnian"
+	religion="druidism"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4135={ #Arraboa
+	terrain="forest"
+	culture="carnian"
+	religion="druidism"
+	trade_goods="horses"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4136={ #Halicanum
+	terrain="farmland"
+	culture="carnian"
+	religion="druidism"
+	trade_goods="stone"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4137={ #Populi
+	terrain="farmland"
+	culture="carnian"
+	religion="druidism"
+	trade_goods="woad"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4138={ #Mogentiana
+	terrain="forest"
+	culture="eravisci"
+	religion="druidism"
+	trade_goods="wood"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4139={ #Mestrianis
+	terrain="forest"
+	culture="eravisci"
+	religion="druidism"
+	trade_goods="base_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4140={ #Salia
+	terrain="forest"
+	culture="carnian"
+	religion="druidism"
+	trade_goods="wood"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4141={ #Sabaria
+	terrain="forest"
+	culture="eravisci"
+	religion="druidism"
+	trade_goods="marble"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4142={ #Bassena
+	terrain="forest"
+	culture="eravisci"
+	religion="druidism"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4143={ #Confluentia Latobicorum
+	terrain="forest"
+	culture="carnian"
+	religion="druidism"
+	trade_goods="stone"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4144={ #Scarbantia
+	terrain="forest"
+	culture="eravisci"
+	religion="druidism"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4145={ #Muteno
+	terrain="forest"
+	culture="eravisci"
+	religion="druidism"
+	trade_goods="stone"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4146={ #Mursella Prima
+	terrain="forest"
+	culture="eravisci"
+	religion="druidism"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4147={ #Quadrata
+	terrain="forest"
+	culture="eravisci"
+	religion="druidism"
+	trade_goods="leather"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4148={ #Pelsodis
+	terrain="forest"
+	culture="eravisci"
+	religion="druidism"
+	trade_goods="fish"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4149={ #Crispiana
+	terrain="forest"
+	culture="eravisci"
+	religion="druidism"
+	trade_goods="wood"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4150={ #Arrabona
+	terrain="forest"
+	culture="eravisci"
+	religion="druidism"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4151={ #Murselliana
+	terrain="forest"
+	culture="eravisci"
+	religion="druidism"
+	trade_goods="wood"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4155={ #Brigetio
+	terrain="forest"
+	culture="eravisci"
+	religion="druidism"
+	trade_goods="fur"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4156={ #Crumerum
+	terrain="forest"
+	culture="eravisci"
+	religion="druidism"
+	trade_goods="fur"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4157={ #Aquincum
+	terrain="forest"
+	culture="eravisci"
+	religion="druidism"
+	trade_goods="hemp"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4158={ #Campona
+	terrain="forest"
+	culture="eravisci"
+	religion="druidism"
+	trade_goods="hemp"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4159={ #Floriana
+	terrain="forest"
+	culture="eravisci"
+	religion="druidism"
+	trade_goods="leather"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4160={ #Gorsium
+	terrain="forest"
+	culture="eravisci"
+	religion="druidism"
+	trade_goods="cloth"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4161={ #Intercisa
+	terrain="forest"
+	culture="eravisci"
+	religion="druidism"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4162={ #Alta Ripa
+	terrain="forest"
+	culture="eravisci"
+	religion="druidism"
+	trade_goods="horses"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4163={ #Tricciana
+	terrain="forest"
+	culture="eravisci"
+	religion="druidism"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4164={ #Alisca
+	terrain="forest"
+	culture="eravisci"
+	religion="druidism"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4165={ #Silikenis
+	terrain="forest"
+	culture="pannonian"
+	religion="illyrian_pantheon"
+	trade_goods="fish"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_aecorna
+}
+
+4166={ #Iovia
+	terrain="forest"
+	culture="eravisci"
+	religion="druidism"
+	trade_goods="fur"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4167={ #Limousa
+	terrain="plains"
+	culture="pannonian"
+	religion="illyrian_pantheon"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4168={ #Sopianai
+	terrain="plains"
+	culture="pannonian"
+	religion="illyrian_pantheon"
+	trade_goods="wood"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4169={ #Lugio
+	terrain="plains"
+	culture="eravisci"
+	religion="druidism"
+	trade_goods="horses"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4170={ #Mursa
+	terrain="farmland"
+	culture="eravisci"
+	religion="druidism"
+	trade_goods="fur"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4171={ #Serena
+	terrain="plains"
+	culture="pannonian"
+	religion="illyrian_pantheon"
+	trade_goods="wood"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4172={ #Kardonon
+	terrain="plains"
+	culture="pannonian"
+	religion="illyrian_pantheon"
+	trade_goods="wood"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4173={ #Sonista
+	terrain="plains"
+	culture="pannonian"
+	religion="illyrian_pantheon"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4174={ #Peiratis
+	terrain="plains"
+	culture="pannonian"
+	religion="illyrian_pantheon"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4175={ #Aquae Iasae
+	terrain="hills"
+	culture="carnian"
+	religion="druidism"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4176={ #Pyrrhoi
+	terrain="hills"
+	culture="catari"
+	religion="illyrian_pantheon"
+	trade_goods="horses"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4177={ #Ouarianis
+	terrain="plains"
+	culture="catari"
+	religion="illyrian_pantheon"
+	trade_goods="woad"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4178={ #Iasoreion
+	terrain="plains"
+	culture="catari"
+	religion="illyrian_pantheon"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4179={ #Serota
+	terrain="forest"
+	culture="catari"
+	religion="illyrian_pantheon"
+	trade_goods="woad"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4180={ #Lentoulis
+	terrain="forest"
+	culture="catari"
+	religion="illyrian_pantheon"
+	trade_goods="fur"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4181={ #Sauia
+	terrain="plains"
+	culture="catari"
+	religion="illyrian_pantheon"
+	trade_goods="horses"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4182={ #Claudia
+	terrain="plains"
+	culture="pannonian"
+	religion="illyrian_pantheon"
+	trade_goods="fur"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4183={ #Inkeron
+	terrain="plains"
+	culture="pannonian"
+	religion="illyrian_pantheon"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4184={ #Drauia
+	terrain="hills"
+	culture="pannonian"
+	religion="illyrian_pantheon"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4185={ #Strauianis
+	terrain="hills"
+	culture="pannonian"
+	religion="illyrian_pantheon"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4186={ #Pikentinon
+	terrain="farmland"
+	culture="pannonian"
+	religion="illyrian_pantheon"
+	trade_goods="fur"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4187={ #Moursella Mikra
+	terrain="plains"
+	culture="pannonian"
+	religion="illyrian_pantheon"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4188={ #Kibalai
+	terrain="farmland"
+	culture="pannonian"
+	religion="illyrian_pantheon"
+	trade_goods="hemp"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4189={ #Sirmium
+	terrain="hills"
+	culture="celtic_pannonian"
+	religion="druidism"
+	trade_goods="wood"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4190={ #Bassiana
+	terrain="farmland"
+	culture="celtic_pannonian"
+	religion="druidism"
+	trade_goods="wood"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4191={ #Kausilena
+	terrain="plains"
+	culture="pannonian"
+	religion="illyrian_pantheon"
+	trade_goods="hemp"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4192={ #Spaneta
+	terrain="plains"
+	culture="pannonian"
+	religion="illyrian_pantheon"
+	trade_goods="woad"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4193={ #Altina
+	terrain="plains"
+	culture="celtic_pannonian"
+	religion="druidism"
+	trade_goods="fur"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4842={ #Acumincum
+	terrain="plains"
+	culture="eravisci"
+	religion="druidism"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4843={ #Onagrinum
+	terrain="plains"
+	culture="eravisci"
+	religion="druidism"
+	trade_goods="wood"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4844={ #Florentia
+	terrain="farmland"
+	culture="eravisci"
+	religion="druidism"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4845={ #Agria
+	terrain="forest"
+	culture="eravisci"
+	religion="druidism"
+	trade_goods="wood"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4846={ #Tibiscua
+	terrain="forest"
+	culture="eravisci"
+	religion="druidism"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4847={ #Partiskon
+	terrain="farmland"
+	culture="eravisci"
+	religion="druidism"
+	trade_goods="fur"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4848={ #Triticum
+	terrain="forest"
+	culture="eravisci"
+	religion="druidism"
+	trade_goods="horses"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4849={ #Iazygia
+	terrain="plains"
+	culture="eravisci"
+	religion="druidism"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4850={ #Iazygiana
+	terrain="farmland"
+	culture="eravisci"
+	religion="druidism"
+	trade_goods="horses"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4852={ #Burgus Quadorum
+	terrain="forest"
+	culture="eravisci"
+	religion="druidism"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4854={ #Anartiana
+	terrain="forest"
+	culture="eravisci"
+	religion="druidism"
+	trade_goods="hemp"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4855={ #Ocara
+	terrain="forest"
+	culture="eravisci"
+	religion="druidism"
+	trade_goods="woad"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4866={ #Laugaricio
+	terrain="hills"
+	culture="cotinian"
+	religion="druidism"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4867={ #Navata
+	terrain="forest"
+	culture="eravisci"
+	religion="druidism"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4868={ #Brocasta
+	terrain="forest"
+	culture="eravisci"
+	religion="druidism"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4869={ #Marrica
+	terrain="plains"
+	culture="eravisci"
+	religion="druidism"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4870={ #Maronis
+	terrain="hills"
+	culture="cotinian"
+	religion="druidism"
+	trade_goods="iron"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4871={ #Bekum
+	terrain="hills"
+	culture="cotinian"
+	religion="druidism"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4872={ #Amatria
+	terrain="plains"
+	culture="eravisci"
+	religion="druidism"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4873={ #Collata
+	terrain="hills"
+	culture="cotinian"
+	religion="druidism"
+	trade_goods="wood"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4874={ #Astrum
+	terrain="plains"
+	culture="eravisci"
+	religion="druidism"
+	trade_goods="hemp"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+

@@ -1,0 +1,1038 @@
+﻿483={ #Arda
+	terrain="mountain"
+	culture="armenian"
+	religion="anahitic_religion"
+	trade_goods="stone"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+846={ #Balesh
+	terrain="hills"
+	culture="armenian"
+	religion="anahitic_religion"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+978={ #Datvan
+	terrain="hills"
+	culture="armenian"
+	religion="anahitic_religion"
+	trade_goods="fish"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+987={ #Zoaranda
+	terrain="hills"
+	culture="armenian"
+	religion="anahitic_religion"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+988={ #Tosp
+	terrain="forest"
+	culture="armenian"
+	religion="anahitic_religion"
+	trade_goods="horses"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+989={ #Aparank
+	terrain="hills"
+	culture="armenian"
+	religion="anahitic_religion"
+	trade_goods="stone"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+990={ #Archesh
+	terrain="plains"
+	culture="armenian"
+	religion="anahitic_religion"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+991={ #Arest
+	terrain="forest"
+	culture="armenian"
+	religion="anahitic_religion"
+	trade_goods="honey"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+992={ #Balalesh
+	terrain="mountain"
+	culture="armenian"
+	religion="anahitic_religion"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+993={ #Khlat
+	terrain="plains"
+	culture="armenian"
+	religion="anahitic_religion"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+994={ #Ashtishat
+	terrain="plains"
+	culture="armenian"
+	religion="anahitic_religion"
+	trade_goods="wood"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_vahagn
+}
+
+995={ #Bogunik
+	terrain="forest"
+	culture="armenian"
+	religion="anahitic_religion"
+	trade_goods="fish"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+996={ #Alouaka
+	terrain="hills"
+	culture="armenian"
+	religion="anahitic_religion"
+	trade_goods="wood"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+997={ #Kotorox
+	terrain="mountain"
+	culture="armenian"
+	religion="anahitic_religion"
+	trade_goods="honey"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+998={ #Artamet
+	terrain="hills"
+	culture="armenian"
+	religion="anahitic_religion"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+999={ #Eruandunik
+	terrain="forest"
+	culture="armenian"
+	religion="anahitic_religion"
+	trade_goods="wood"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1500={ #Her
+	terrain="plains"
+	culture="armenian"
+	religion="zoroaster"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1501={ #Nakhchawan
+	terrain="hills"
+	culture="armenian"
+	religion="anahitic_religion"
+	trade_goods="steppe_horses"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1502={ #Tasuk
+	terrain="hills"
+	culture="armenian"
+	religion="zoroaster"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1503={ #Salamat
+	terrain="plains"
+	culture="armenian"
+	religion="zoroaster"
+	trade_goods="horses"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1504={ #Gazrik
+	terrain="plains"
+	culture="armenian"
+	religion="zoroaster"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1505={ #Karenis
+	terrain="plains"
+	culture="armenian"
+	religion="zoroaster"
+	trade_goods="fish"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1506={ #Ormi
+	terrain="plains"
+	culture="armenian"
+	religion="zoroaster"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1507={ #Surenapati
+	terrain="plains"
+	culture="armenian"
+	religion="zoroaster"
+	trade_goods="leather"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1508={ #Balajuk
+	terrain="hills"
+	culture="armenian"
+	religion="zoroaster"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1509={ #Shirakan
+	terrain="hills"
+	culture="median"
+	religion="zoroaster"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1511={ #Vovea
+	terrain="hills"
+	culture="median"
+	religion="zoroaster"
+	trade_goods="wood"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1518={ #Araskh
+	terrain="plains"
+	culture="armenian"
+	religion="zoroaster"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1519={ #Mari
+	terrain="hills"
+	culture="armenian"
+	religion="zoroaster"
+	trade_goods="fish"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1527={ #Parsk
+	terrain="plains"
+	culture="armenian"
+	religion="zoroaster"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1528={ #Marand
+	terrain="hills"
+	culture="armenian"
+	religion="zoroaster"
+	trade_goods="leather"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1529={ #Gabit'ean
+	terrain="hills"
+	culture="armenian"
+	religion="mithra_religion"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1530={ #Bakurakert
+	terrain="mountain"
+	culture="armenian"
+	religion="zoroaster"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1531={ #Malejin
+	terrain="hills"
+	culture="armenian"
+	religion="zoroaster"
+	trade_goods="horses"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1532={ #Zarawand
+	terrain="hills"
+	culture="armenian"
+	religion="zoroaster"
+	trade_goods="stone"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1533={ #Shamiram
+	terrain="hills"
+	culture="armenian"
+	religion="zoroaster"
+	trade_goods="horses"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1534={ #Rusakhinili
+	terrain="hills"
+	culture="armenian"
+	religion="anahitic_religion"
+	trade_goods="leather"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1535={ #Qiz Chakhlu
+	terrain="hills"
+	culture="armenian"
+	religion="anahitic_religion"
+	trade_goods="stone"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1536={ #Maku
+	terrain="mountain"
+	culture="armenian"
+	religion="mithra_religion"
+	trade_goods="wood"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1537={ #Nuarsak
+	terrain="plains"
+	culture="armenian"
+	religion="anahitic_religion"
+	trade_goods="leather"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1538={ #Golt'n
+	terrain="hills"
+	culture="armenian"
+	religion="zoroaster"
+	trade_goods="fruits"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1539={ #Jula
+	terrain="plains"
+	culture="armenian"
+	religion="mithra_religion"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1540={ #Parakan
+	terrain="hills"
+	culture="armenian"
+	religion="anahitic_religion"
+	trade_goods="wood"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1541={ #Sangibut
+	terrain="plains"
+	culture="armenian"
+	religion="zoroaster"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1542={ #Arshat-Ark'ashat
+	terrain="plains"
+	culture="armenian"
+	religion="zoroaster"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1543={ #Avarayr
+	terrain="plains"
+	culture="armenian"
+	religion="zoroaster"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1544={ #Catispi
+	terrain="hills"
+	culture="armenian"
+	religion="mithra_religion"
+	trade_goods="leather"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1545={ #Barun Qal'eh
+	terrain="hills"
+	culture="armenian"
+	religion="anahitic_religion"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1546={ #Shawarshan
+	terrain="hills"
+	culture="armenian"
+	religion="anahitic_religion"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1547={ #Amatunik
+	terrain="hills"
+	culture="armenian"
+	religion="anahitic_religion"
+	trade_goods="wood"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1548={ #Tambat
+	terrain="mountain"
+	culture="armenian"
+	religion="mithra_religion"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1549={ #Arshakavan
+	terrain="hills"
+	culture="armenian"
+	religion="anahitic_religion"
+	trade_goods="precious_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1550={ #Maravan
+	terrain="plains"
+	culture="armenian"
+	religion="zoroaster"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1551={ #Ardeank'
+	terrain="plains"
+	culture="armenian"
+	religion="zoroaster"
+	trade_goods="fruits"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1559={ #Aladagh Qal'eh
+	terrain="hills"
+	culture="armenian"
+	religion="anahitic_religion"
+	trade_goods="leather"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1560={ #Andzevatsik
+	terrain="hills"
+	culture="armenian"
+	religion="anahitic_religion"
+	trade_goods="wood"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_astlik
+}
+
+1561={ #Mardastan
+	terrain="hills"
+	culture="armenian"
+	religion="anahitic_religion"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1562={ #Cumb
+	terrain="forest"
+	culture="armenian"
+	religion="anahitic_religion"
+	trade_goods="wood"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1563={ #Dut'akh
+	terrain="forest"
+	culture="armenian"
+	religion="anahitic_religion"
+	trade_goods="horses"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1564={ #Kolchion
+	terrain="forest"
+	culture="armenian"
+	religion="anahitic_religion"
+	trade_goods="wood"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1566={ #Tateon
+	terrain="forest"
+	culture="armenian"
+	religion="anahitic_religion"
+	trade_goods="wine"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1567={ #Bagrewand
+	terrain="forest"
+	culture="armenian"
+	religion="anahitic_religion"
+	trade_goods="wine"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1568={ #Chakatk'
+	terrain="hills"
+	culture="armenian"
+	religion="anahitic_religion"
+	trade_goods="horses"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_noah
+}
+
+1569={ #Paracata
+	terrain="forest"
+	culture="armenian"
+	religion="anahitic_religion"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1570={ #Armavir
+	terrain="plains"
+	culture="armenian"
+	religion="anahitic_religion"
+	trade_goods="steppe_horses"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_khaldi
+}
+
+1571={ #Artashat
+	terrain="plains"
+	culture="armenian"
+	religion="zoroaster"
+	trade_goods="horses"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_tir
+}
+
+1572={ #Dowin
+	terrain="plains"
+	culture="armenian"
+	religion="anahitic_religion"
+	trade_goods="horses"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1573={ #Garni
+	terrain="hills"
+	culture="armenian"
+	religion="anahitic_religion"
+	trade_goods="stone"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1575={ #Erebuni
+	terrain="plains"
+	culture="armenian"
+	religion="anahitic_religion"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_theispas
+}
+
+1576={ #Vagharshapat
+	terrain="plains"
+	culture="armenian"
+	religion="anahitic_religion"
+	trade_goods="horses"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1577={ #Motene
+	terrain="hills"
+	culture="armenian"
+	religion="mithra_religion"
+	trade_goods="honey"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1579={ #Ashnak
+	terrain="plains"
+	culture="armenian"
+	religion="anahitic_religion"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1580={ #Katnakhpyur
+	terrain="plains"
+	culture="armenian"
+	religion="anahitic_religion"
+	trade_goods="leather"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1581={ #Yervandashat
+	terrain="forest"
+	culture="armenian"
+	religion="mithra_religion"
+	trade_goods="honey"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1582={ #Ani
+	terrain="plains"
+	culture="armenian"
+	religion="anahitic_religion"
+	trade_goods="leather"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1583={ #Dzhrapi
+	terrain="forest"
+	culture="armenian"
+	religion="anahitic_religion"
+	trade_goods="honey"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1585={ #Shirakavan
+	terrain="forest"
+	culture="sasperian"
+	religion="anahitic_religion"
+	trade_goods="wood"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1588={ #Kamo
+	terrain="forest"
+	culture="armenian"
+	religion="anahitic_religion"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1589={ #Atarbegian
+	terrain="forest"
+	culture="armenian"
+	religion="anahitic_religion"
+	trade_goods="iron"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1590={ #Dzhrarat
+	terrain="hills"
+	culture="armenian"
+	religion="anahitic_religion"
+	trade_goods="wood"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1591={ #Karchakhpyur
+	terrain="forest"
+	culture="armenian"
+	religion="anahitic_religion"
+	trade_goods="fish"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_tsovinar
+}
+
+1592={ #Akunk
+	terrain="forest"
+	culture="sasperian"
+	religion="caucasian_religion"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1605={ #Gezlu
+	terrain="forest"
+	culture="sasperian"
+	religion="caucasian_religion"
+	trade_goods="fish"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1606={ #Berdatekh
+	terrain="hills"
+	culture="sasperian"
+	religion="caucasian_religion"
+	trade_goods="wood"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1613={ #Shalat
+	terrain="hills"
+	culture="armenian"
+	religion="anahitic_religion"
+	trade_goods="base_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1615={ #Balaberd
+	terrain="hills"
+	culture="armenian"
+	religion="mithra_religion"
+	trade_goods="iron"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1623={ #Arevik
+	terrain="hills"
+	culture="armenian"
+	religion="mithra_religion"
+	trade_goods="base_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1668={ #Vayots Dzor
+	terrain="hills"
+	culture="armenian"
+	religion="anahitic_religion"
+	trade_goods="fruits"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1669={ #Chahuk
+	terrain="hills"
+	culture="armenian"
+	religion="mithra_religion"
+	trade_goods="leather"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1698={ #Sinara
+	terrain="hills"
+	culture="armenian"
+	religion="anahitic_religion"
+	trade_goods="leather"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1736={ #Vagharshakert
+	terrain="forest"
+	culture="armenian"
+	religion="anahitic_religion"
+	trade_goods="wood"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1744={ #Karana
+	terrain="hills"
+	culture="armenian"
+	religion="anahitic_religion"
+	trade_goods="stone"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1747={ #Basean
+	terrain="hills"
+	culture="armenian"
+	religion="anahitic_religion"
+	trade_goods="horses"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1751={ #Barantea
+	terrain="forest"
+	culture="armenian"
+	religion="anahitic_religion"
+	trade_goods="horses"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1759={ #Sper
+	terrain="hills"
+	culture="lazi"
+	religion="anahitic_religion"
+	trade_goods="precious_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1760={ #Baiberdon
+	terrain="mountain"
+	culture="lazi"
+	religion="anahitic_religion"
+	trade_goods="leather"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1761={ #Charton
+	terrain="hills"
+	culture="lazi"
+	religion="anahitic_religion"
+	trade_goods="stone"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1762={ #Bagariza
+	terrain="hills"
+	culture="armenian"
+	religion="anahitic_religion"
+	trade_goods="fruits"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_mihr
+}
+
+1763={ #Tareina
+	terrain="hills"
+	culture="armenian"
+	religion="anahitic_religion"
+	trade_goods="wood"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1764={ #Bizana
+	terrain="hills"
+	culture="armenian"
+	religion="anahitic_religion"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1765={ #Koubina
+	terrain="hills"
+	culture="armenian"
+	religion="anahitic_religion"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1770={ #Satal
+	terrain="mountain"
+	culture="armenian"
+	religion="anahitic_religion"
+	trade_goods="horses"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4037={ #Kitharizon
+	terrain="hills"
+	culture="armenian"
+	religion="anahitic_religion"
+	trade_goods="wood"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+

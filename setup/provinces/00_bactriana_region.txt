@@ -1,0 +1,824 @@
+﻿6608={ #Kaboura
+	terrain="mountain"
+	culture="sattagydian"
+	religion="zoroaster"
+	trade_goods="iron"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6609={ #Orthospana
+	terrain="mountain"
+	culture="sattagydian"
+	religion="zoroaster"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6611={ #Alexandreia Kaukasou
+	terrain="mountain"
+	culture="macedonian"
+	religion="roman_pantheon"
+	trade_goods="lapis"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6612={ #Nikaia Indike
+	terrain="mountain"
+	culture="sattagydian"
+	religion="zoroaster"
+	trade_goods="stone"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6613={ #Andaca
+	terrain="mountain"
+	culture="sattagydian"
+	religion="zoroaster"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6614={ #Kartane
+	terrain="plains"
+	culture="sattagydian"
+	religion="zoroaster"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_bamyan
+}
+
+6615={ #Alexandreia Opiane
+	terrain="hills"
+	culture="macedonian"
+	religion="roman_pantheon"
+	trade_goods="leather"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6621={ #Sangar
+	terrain="mountain"
+	culture="sattagydian"
+	religion="zoroaster"
+	trade_goods="precious_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6623={ #Tazora
+	terrain="hills"
+	culture="pactyan"
+	religion="zoroaster"
+	trade_goods="spices"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6624={ #Liman
+	terrain="hills"
+	culture="pactyan"
+	religion="zoroaster"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6625={ #Kapissa
+	terrain="mountain"
+	culture="sattagydian"
+	religion="zoroaster"
+	trade_goods="precious_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6626={ #Kham
+	terrain="mountain"
+	culture="sattagydian"
+	religion="zoroaster"
+	trade_goods="hemp"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6627={ #Astakana
+	terrain="mountain"
+	culture="bactrian"
+	religion="vaksh_religion"
+	trade_goods="stone"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6628={ #Nysa Paropamisidaia
+	terrain="mountain"
+	culture="sattagydian"
+	religion="zoroaster"
+	trade_goods="precious_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6629={ #Kourianda
+	terrain="mountain"
+	culture="bactrian"
+	religion="vaksh_religion"
+	trade_goods="iron"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6630={ #Zauiaspa
+	terrain="mountain"
+	culture="bactrian"
+	religion="vaksh_religion"
+	trade_goods="cedar"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6631={ #Daroideia
+	terrain="mountain"
+	culture="bactrian"
+	religion="vaksh_religion"
+	trade_goods="precious_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6634={ #Aspionia
+	terrain="hills"
+	culture="bactrian"
+	religion="vaksh_religion"
+	trade_goods="leather"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6635={ #Tambyzeia
+	terrain="mountain"
+	culture="bactrian"
+	religion="vaksh_religion"
+	trade_goods="stone"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6636={ #Tambyziana
+	terrain="mountain"
+	culture="bactrian"
+	religion="vaksh_religion"
+	trade_goods="stone"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6637={ #Alexandreia Baktriane
+	terrain="hills"
+	culture="bactrian"
+	religion="vaksh_religion"
+	trade_goods="horses"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6638={ #Paros Paropamisidaia
+	terrain="mountain"
+	culture="sattagydian"
+	religion="zoroaster"
+	trade_goods="leather"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6639={ #Rhana
+	terrain="mountain"
+	culture="sattagydian"
+	religion="zoroaster"
+	trade_goods="stone"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6640={ #Alkon
+	terrain="mountain"
+	culture="sattagydian"
+	religion="zoroaster"
+	trade_goods="silk"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6641={ #Naulibis
+	terrain="mountain"
+	culture="sattagydian"
+	religion="zoroaster"
+	trade_goods="glass"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6642={ #Paropamisia
+	terrain="hills"
+	culture="sattagydian"
+	religion="zoroaster"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6643={ #Barzaura
+	terrain="hills"
+	culture="sattagydian"
+	religion="zoroaster"
+	trade_goods="horses"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6644={ #Artousia
+	terrain="hills"
+	culture="sattagydian"
+	religion="zoroaster"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6645={ #Tamazan
+	terrain="mountain"
+	culture="sattagydian"
+	religion="zoroaster"
+	trade_goods="stone"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6648={ #Drapsaka
+	terrain="hills"
+	culture="bactrian"
+	religion="vaksh_religion"
+	trade_goods="horses"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_ramset
+}
+
+6649={ #Battak
+	terrain="mountain"
+	culture="bactrian"
+	religion="vaksh_religion"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6650={ #Kabolitis
+	terrain="mountain"
+	culture="bactrian"
+	religion="vaksh_religion"
+	trade_goods="stone"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6651={ #Choatina
+	terrain="mountain"
+	culture="bactrian"
+	religion="vaksh_religion"
+	trade_goods="lapis"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6652={ #Komeia
+	terrain="steppes"
+	culture="bactrian"
+	religion="roman_pantheon"
+	trade_goods="fur"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6653={ #Komiana
+	terrain="steppes"
+	culture="bactrian"
+	religion="vaksh_religion"
+	trade_goods="woad"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6654={ #Indikomordana
+	terrain="plains"
+	culture="bactrian"
+	religion="vaksh_religion"
+	trade_goods="fruits"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6655={ #Marakodra
+	terrain="plains"
+	culture="bactrian"
+	religion="vaksh_religion"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6665={ #Iasonion
+	terrain="steppes"
+	culture="margian"
+	religion="vaksh_religion"
+	trade_goods="leather"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6667={ #Syrrheusa Margiana
+	terrain="steppes"
+	culture="margian"
+	religion="vaksh_religion"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6668={ #Alexandreia Margiana
+	terrain="plains"
+	culture="macedonian"
+	religion="roman_pantheon"
+	trade_goods="leather"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6669={ #Tapouria
+	terrain="steppes"
+	culture="bactrian"
+	religion="vaksh_religion"
+	trade_goods="horses"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6670={ #Kushke
+	terrain="plains"
+	culture="margian"
+	religion="vaksh_religion"
+	trade_goods="steppe_horses"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6672={ #Rhoitia
+	terrain="plains"
+	culture="bactrian"
+	religion="vaksh_religion"
+	trade_goods="camel"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6673={ #Zeshoi
+	terrain="hills"
+	culture="bactrian"
+	religion="mithra_religion"
+	trade_goods="woad"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6674={ #Menapila
+	terrain="steppes"
+	culture="bactrian"
+	religion="vaksh_religion"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6675={ #Ankui
+	terrain="desert"
+	culture="bactrian"
+	religion="vaksh_religion"
+	trade_goods="fur"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6676={ #Ihnum
+	terrain="steppes"
+	culture="bactrian"
+	religion="vaksh_religion"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6677={ #Denai
+	terrain="hills"
+	culture="bactrian"
+	religion="vaksh_religion"
+	trade_goods="fur"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6678={ #Baktra
+	terrain="hills"
+	culture="bactrian"
+	religion="vaksh_religion"
+	trade_goods="earthware"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_trapusa_and_bahalika
+}
+
+6679={ #Kaouaris
+	terrain="hills"
+	culture="bactrian"
+	religion="vaksh_religion"
+	trade_goods="earthware"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6680={ #Tochara
+	terrain="hills"
+	culture="bactrian"
+	religion="vaksh_religion"
+	trade_goods="hemp"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6681={ #Tachora
+	terrain="hills"
+	culture="bactrian"
+	religion="vaksh_religion"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6684={ #Haroba
+	terrain="plains"
+	culture="bactrian"
+	religion="vaksh_religion"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6685={ #Argadina
+	terrain="steppes"
+	culture="bactrian"
+	religion="mithra_religion"
+	trade_goods="horses"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6686={ #Alexandreia Tarmite
+	terrain="farmland"
+	culture="bactrian"
+	religion="vaksh_religion"
+	trade_goods="hemp"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_vakhsh
+}
+
+6688={ #Alexandreia Oxou
+	terrain="plains"
+	culture="macedonian"
+	religion="roman_pantheon"
+	trade_goods="earthware"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6689={ #Pandokheion
+	terrain="mountain"
+	culture="sogdian"
+	religion="vaksh_religion"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6690={ #Antiocheia Tarmita
+	terrain="plains"
+	culture="sogdian"
+	religion="vaksh_religion"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6691={ #Oxeiana
+	terrain="plains"
+	culture="bactrian"
+	religion="vaksh_religion"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6692={ #Aoronos
+	terrain="hills"
+	culture="bactrian"
+	religion="vaksh_religion"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6693={ #Astakana
+	terrain="mountain"
+	culture="bactrian"
+	religion="vaksh_religion"
+	trade_goods="horses"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6694={ #Alexandreia Ochou
+	terrain="farmland"
+	culture="macedonian"
+	religion="roman_pantheon"
+	trade_goods="lapis"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6695={ #Cholbisina
+	terrain="hills"
+	culture="sogdian"
+	religion="vaksh_religion"
+	trade_goods="glass"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6696={ #Boubakene
+	terrain="hills"
+	culture="sogdian"
+	religion="vaksh_religion"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6697={ #Margineia
+	terrain="hills"
+	culture="sogdian"
+	religion="vaksh_religion"
+	trade_goods="fur"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6723={ #Gouriane
+	terrain="plains"
+	culture="margian"
+	religion="vaksh_religion"
+	trade_goods="camel"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6724={ #Teyen
+	terrain="plains"
+	culture="margian"
+	religion="vaksh_religion"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6759={ #Oskobara
+	terrain="farmland"
+	culture="sogdian"
+	religion="vaksh_religion"
+	trade_goods="iron"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7226={ #Sirake
+	terrain="plains"
+	culture="margian"
+	religion="vaksh_religion"
+	trade_goods="wood"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7227={ #Zamm
+	terrain="steppes"
+	culture="sogdian"
+	religion="vaksh_religion"
+	trade_goods="wild_game"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7228={ #Ebousmou Anassa
+	terrain="steppes"
+	culture="sogdian"
+	religion="vaksh_religion"
+	trade_goods="steppe_horses"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7229={ #Kariatas
+	terrain="steppes"
+	culture="sogdian"
+	religion="vaksh_religion"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7230={ #Sourogana
+	terrain="steppes"
+	culture="sogdian"
+	religion="vaksh_religion"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7232={ #Tarmantis
+	terrain="hills"
+	culture="sogdian"
+	religion="vaksh_religion"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7233={ #Bazaria
+	terrain="hills"
+	culture="sogdian"
+	religion="vaksh_religion"
+	trade_goods="honey"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7234={ #Bazistris
+	terrain="steppes"
+	culture="sogdian"
+	religion="vaksh_religion"
+	trade_goods="fur"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7235={ #Choana Baktriane
+	terrain="steppes"
+	culture="sogdian"
+	religion="vaksh_religion"
+	trade_goods="wood"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7236={ #Dilyar
+	terrain="steppes"
+	culture="sogdian"
+	religion="vaksh_religion"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7237={ #Aqcha
+	terrain="steppes"
+	culture="sogdian"
+	religion="vaksh_religion"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7239={ #Phratroua
+	terrain="steppes"
+	culture="sogdian"
+	religion="vaksh_religion"
+	trade_goods="wild_game"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7243={ #Bezda
+	terrain="desert"
+	culture="sogdian"
+	religion="vaksh_religion"
+	trade_goods="wild_game"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7244={ #Amu
+	terrain="desert"
+	culture="sogdian"
+	religion="vaksh_religion"
+	trade_goods="honey"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+

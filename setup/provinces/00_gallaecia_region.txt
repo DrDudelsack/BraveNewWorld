@@ -1,0 +1,806 @@
+﻿1019={ #Kolounioku
+	terrain="plains"
+	culture="vaccaeian"
+	religion="druidism"
+	trade_goods="wine"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1020={ #Aracillum
+	terrain="hills"
+	culture="cantabrian"
+	religion="druidism"
+	trade_goods="fur"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1021={ #Palantia
+	terrain="plains"
+	culture="vaccaeian"
+	religion="druidism"
+	trade_goods="wood"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1022={ #Segovia
+	terrain="plains"
+	culture="carpetanian"
+	religion="druidism"
+	trade_goods="fur"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1041={ #Intercatia
+	terrain="plains"
+	culture="vaccaeian"
+	religion="druidism"
+	trade_goods="woad"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1042={ #Brigaecium
+	terrain="plains"
+	culture="asturian"
+	religion="druidism"
+	trade_goods="woad"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1044={ #Lancia
+	terrain="plains"
+	culture="asturian"
+	religion="druidism"
+	trade_goods="fur"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1045={ #Asturicia
+	terrain="plains"
+	culture="asturian"
+	religion="druidism"
+	trade_goods="horses"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1047={ #Lucus
+	terrain="forest"
+	culture="callaecian"
+	religion="druidism"
+	trade_goods="steppe_horses"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1048={ #Forum Limicorum
+	terrain="hills"
+	culture="callaecian"
+	religion="druidism"
+	trade_goods="wood"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1093={ #Nova Augusta
+	terrain="plains"
+	culture="vaccaeian"
+	religion="druidism"
+	trade_goods="cloth"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1103={ #Segisama Iulia
+	terrain="plains"
+	culture="cantabrian"
+	religion="druidism"
+	trade_goods="olive"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1108={ #Veseiasueca
+	terrain="hills"
+	culture="cantabrian"
+	religion="druidism"
+	trade_goods="fish"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	port_building=1
+}
+
+1109={ #Maggiaviensium
+	terrain="plains"
+	culture="cantabrian"
+	religion="druidism"
+	trade_goods="marble"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1110={ #Camarica
+	terrain="plains"
+	culture="cantabrian"
+	religion="druidism"
+	trade_goods="fur"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1111={ #Equosera
+	terrain="plains"
+	culture="cantabrian"
+	religion="druidism"
+	trade_goods="stone"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1112={ #Caiellum
+	terrain="hills"
+	culture="cantabrian"
+	religion="druidism"
+	trade_goods="stone"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1113={ #Pallontion
+	terrain="hills"
+	culture="cantabrian"
+	religion="druidism"
+	trade_goods="fur"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1114={ #Gigia
+	terrain="plains"
+	culture="asturian"
+	religion="druidism"
+	trade_goods="fish"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	port_building=1
+}
+
+1115={ #Ad Mare
+	terrain="hills"
+	culture="cantabrian"
+	religion="druidism"
+	trade_goods="leather"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1116={ #Lucus Asturum
+	terrain="hills"
+	culture="asturian"
+	religion="druidism"
+	trade_goods="cinnabar"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1117={ #Memoriana
+	terrain="hills"
+	culture="asturian"
+	religion="druidism"
+	trade_goods="base_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1118={ #Flavionavia
+	terrain="plains"
+	culture="asturian"
+	religion="druidism"
+	trade_goods="fish"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1119={ #Legio Gemina
+	terrain="forest"
+	culture="asturian"
+	religion="druidism"
+	trade_goods="stone"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1120={ #Vallata
+	terrain="plains"
+	culture="asturian"
+	religion="druidism"
+	trade_goods="fur"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1121={ #Interamnium
+	terrain="forest"
+	culture="asturian"
+	religion="druidism"
+	trade_goods="stone"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1122={ #Spadonium
+	terrain="forest"
+	culture="asturian"
+	religion="druidism"
+	trade_goods="precious_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1123={ #Mons Rubeum
+	terrain="forest"
+	culture="asturian"
+	religion="druidism"
+	trade_goods="precious_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1124={ #Paesicia
+	terrain="hills"
+	culture="asturian"
+	religion="druidism"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1125={ #Villadonga
+	terrain="hills"
+	culture="asturian"
+	religion="druidism"
+	trade_goods="steppe_horses"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1126={ #Luggonia
+	terrain="hills"
+	culture="asturian"
+	religion="druidism"
+	trade_goods="precious_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1127={ #Bergidum Flavium
+	terrain="forest"
+	culture="asturian"
+	religion="druidism"
+	trade_goods="stone"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1128={ #Uttaris
+	terrain="farmland"
+	culture="asturian"
+	religion="druidism"
+	trade_goods="fur"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1129={ #Caranicum
+	terrain="farmland"
+	culture="callaecian"
+	religion="druidism"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1130={ #Flavium Brigantium
+	terrain="plains"
+	culture="callaecian"
+	religion="druidism"
+	trade_goods="fish"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1131={ #Phlaouia Lambris
+	terrain="plains"
+	culture="callaecian"
+	religion="druidism"
+	trade_goods="base_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	port_building=1
+}
+
+1132={ #Arronia
+	terrain="plains"
+	culture="callaecian"
+	religion="druidism"
+	trade_goods="base_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1133={ #Varrinia
+	terrain="plains"
+	culture="callaecian"
+	religion="druidism"
+	trade_goods="fish"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1134={ #Varina Marinia
+	terrain="forest"
+	culture="callaecian"
+	religion="druidism"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1135={ #Cibarcia
+	terrain="plains"
+	culture="callaecian"
+	religion="druidism"
+	trade_goods="base_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1136={ #Aviliobris
+	terrain="plains"
+	culture="callaecian"
+	religion="druidism"
+	trade_goods="base_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1137={ #Artabron Limen
+	terrain="plains"
+	culture="callaecian"
+	religion="druidism"
+	trade_goods="fish"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1138={ #Noouion
+	terrain="plains"
+	culture="callaecian"
+	religion="druidism"
+	trade_goods="salt"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	port_building=1
+}
+
+1139={ #Assegonia
+	terrain="plains"
+	culture="callaecian"
+	religion="druidism"
+	trade_goods="precious_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1140={ #Brevis
+	terrain="forest"
+	culture="callaecian"
+	religion="druidism"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1141={ #Aquae Quintinae
+	terrain="forest"
+	culture="callaecian"
+	religion="druidism"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1142={ #Castellum Meidunium
+	terrain="forest"
+	culture="callaecian"
+	religion="druidism"
+	trade_goods="precious_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1143={ #Baedia
+	terrain="hills"
+	culture="callaecian"
+	religion="druidism"
+	trade_goods="base_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1145={ #Gemestarum
+	terrain="forest"
+	culture="asturian"
+	religion="druidism"
+	trade_goods="precious_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1146={ #Interamicia
+	terrain="hills"
+	culture="callaecian"
+	religion="druidism"
+	trade_goods="precious_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1147={ #Lougia
+	terrain="hills"
+	culture="callaecian"
+	religion="druidism"
+	trade_goods="fur"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1148={ #Aquae Gallaecia
+	terrain="hills"
+	culture="callaecian"
+	religion="druidism"
+	trade_goods="base_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1149={ #Ad Duos Pontes
+	terrain="hills"
+	culture="callaecian"
+	religion="druidism"
+	trade_goods="salt"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_berobreo
+}
+
+1150={ #Vicus Spacorum
+	terrain="hills"
+	culture="callaecian"
+	religion="druidism"
+	trade_goods="fish"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	port_building=1
+}
+
+1151={ #Limia
+	terrain="hills"
+	culture="callaecian"
+	religion="druidism"
+	trade_goods="fish"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1152={ #Aquis Querquennis
+	terrain="forest"
+	culture="callaecian"
+	religion="druidism"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1154={ #Aquae Originae
+	terrain="hills"
+	culture="callaecian"
+	religion="druidism"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1155={ #Germinae
+	terrain="hills"
+	culture="callaecian"
+	religion="druidism"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1165={ #Nemetobriga
+	terrain="plains"
+	culture="asturian"
+	religion="druidism"
+	trade_goods="fur"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1166={ #Gigurria
+	terrain="plains"
+	culture="asturian"
+	religion="druidism"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1168={ #Pettavonium
+	terrain="plains"
+	culture="asturian"
+	religion="druidism"
+	trade_goods="precious_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1169={ #Argentiolum
+	terrain="plains"
+	culture="asturian"
+	religion="druidism"
+	trade_goods="precious_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1170={ #Relicta Asturia
+	terrain="forest"
+	culture="asturian"
+	religion="druidism"
+	trade_goods="base_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1171={ #Praterion
+	terrain="plains"
+	culture="asturian"
+	religion="druidism"
+	trade_goods="horses"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1174={ #Amallobriga
+	terrain="forest"
+	culture="vaccaeian"
+	religion="druidism"
+	trade_goods="wood"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1175={ #Septimanca
+	terrain="plains"
+	culture="vaccaeian"
+	religion="druidism"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1177={ #Cauca
+	terrain="plains"
+	culture="carpetanian"
+	religion="druidism"
+	trade_goods="marble"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1178={ #Comeniaca
+	terrain="plains"
+	culture="asturian"
+	religion="druidism"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1181={ #Gella
+	terrain="plains"
+	culture="vaccaeian"
+	religion="druidism"
+	trade_goods="leather"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1182={ #Balneos
+	terrain="plains"
+	culture="vaccaeian"
+	religion="druidism"
+	trade_goods="wood"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1183={ #Vaccaeia Deserta
+	terrain="plains"
+	culture="vaccaeian"
+	religion="druidism"
+	trade_goods="leather"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1184={ #Vaccaeia Relicta
+	terrain="plains"
+	culture="vaccaeian"
+	religion="druidism"
+	trade_goods="marble"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1185={ #Camala
+	terrain="plains"
+	culture="cantabrian"
+	religion="druidism"
+	trade_goods="marble"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1186={ #Viminacium
+	terrain="plains"
+	culture="vaccaeian"
+	religion="druidism"
+	trade_goods="precious_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1187={ #Lacobriga
+	terrain="plains"
+	culture="vaccaeian"
+	religion="druidism"
+	trade_goods="olive"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1189={ #Lateremum
+	terrain="plains"
+	culture="vaccaeian"
+	religion="druidism"
+	trade_goods="precious_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1190={ #Pampligua
+	terrain="plains"
+	culture="vaccaeian"
+	religion="druidism"
+	trade_goods="wood"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1191={ #Rauda
+	terrain="plains"
+	culture="vaccaeian"
+	religion="druidism"
+	trade_goods="wine"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1192={ #Pintia
+	terrain="plains"
+	culture="vaccaeian"
+	religion="druidism"
+	trade_goods="wine"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1193={ #Confluentia
+	terrain="plains"
+	culture="carpetanian"
+	religion="druidism"
+	trade_goods="fur"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+

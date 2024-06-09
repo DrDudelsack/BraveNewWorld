@@ -1,0 +1,270 @@
+﻿7692={ #Indus
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+7693={ #Indus
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+7694={ #Indus
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+7695={ #Indus
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+7696={ #Indus
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+7697={ #Indus
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+7698={ #Indus
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+7699={ #Indus
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+7700={ #Indus
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+7701={ #Ganges
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+7702={ #Ganges
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+7703={ #Ganges
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+7704={ #Ganges
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+7705={ #Ganges
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+7706={ #Ganges
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+7707={ #Ganges
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+7708={ #Ganges
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+7783={ #Dyardanes
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+7784={ #Dyardanes
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+7785={ #Dyardanes
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+7786={ #Ganges
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+7787={ #Ganges
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+7788={ #Ganges
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+7789={ #Ganges
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+7790={ #Ganges
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+7791={ #Ganges
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+7792={ #Ganges
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+7793={ #Ganges
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+7794={ #Ganges
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+7795={ #Ganges
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+

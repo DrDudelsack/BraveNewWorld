@@ -1,0 +1,1098 @@
+﻿633={ #Druka
+	terrain="forest"
+	culture="boran"
+	religion="nilotic_pantheon"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+639={ #Tadu
+	terrain="flood_plain"
+	culture="meroitic"
+	religion="egyptian_pantheon"
+	trade_goods="earthware"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+640={ #Epis
+	terrain="flood_plain"
+	culture="meroitic"
+	religion="egyptian_pantheon"
+	trade_goods="camel"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+641={ #Meroe
+	terrain="farmland"
+	culture="meroitic"
+	religion="egyptian_pantheon"
+	trade_goods="cloth"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_apedmak #Swapped Mandulis with Apedemak, as Apedemak was the patron god of the city of Meroe, and Mandulis was a god of Lower Nubia
+}
+
+642={ #Summarum
+	terrain="flood_plain"
+	culture="meroitic"
+	religion="egyptian_pantheon"
+	trade_goods="horses"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+643={ #Araba
+	terrain="plains"
+	culture="meroitic"
+	religion="egyptian_pantheon"
+	trade_goods="wild_game"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+644={ #Wad ban Naqa
+	terrain="flood_plain"
+	culture="alutan"
+	religion="nilotic_pantheon"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+3310={ #Ameta
+	terrain="desert"
+	culture="alutan"
+	religion="nilotic_pantheon"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+3311={ #Toprate
+	terrain="plains"
+	culture="alutan"
+	religion="nilotic_pantheon"
+	trade_goods="gems"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+3312={ #Petta
+	terrain="desert"
+	culture="alutan"
+	religion="nilotic_pantheon"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+3313={ #Soba
+	terrain="flood_plain"
+	culture="alutan"
+	religion="nilotic_pantheon"
+	trade_goods="honey"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+3314={ #Alwa
+	terrain="flood_plain"
+	culture="alutan"
+	religion="nilotic_pantheon"
+	trade_goods="gems"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_kowth_nhial
+}
+
+3315={ #Gurnah
+	terrain="desert"
+	culture="alutan"
+	religion="nilotic_pantheon"
+	trade_goods="camel"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+3317={ #Attrah
+	terrain="plains"
+	culture="alutan"
+	religion="nilotic_pantheon"
+	trade_goods="earthware"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+3318={ #Kuria
+	terrain="plains"
+	culture="moyan"
+	religion="nilotic_pantheon"
+	trade_goods="spices"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+3319={ #Syuta
+	terrain="plains"
+	culture="moyan"
+	religion="nilotic_pantheon"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+3320={ #Korin
+	terrain="plains"
+	culture="moyan"
+	religion="nilotic_pantheon"
+	trade_goods="steppe_horses"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+3321={ #Rocat
+	terrain="flood_plain"
+	culture="meroitic"
+	religion="egyptian_pantheon"
+	trade_goods="wood"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+3322={ #Borassa
+	terrain="plains"
+	culture="boran"
+	religion="nilotic_pantheon"
+	trade_goods="spices"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+3323={ #Durai
+	terrain="plains"
+	culture="boran"
+	religion="nilotic_pantheon"
+	trade_goods="wild_game"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+3328={ #Thana
+	terrain="plains"
+	culture="boran"
+	religion="nilotic_pantheon"
+	trade_goods="olive"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+3331={ #Zithaa
+	terrain="plains"
+	culture="boran"
+	religion="nilotic_pantheon"
+	trade_goods="dates"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7587={ #Anak
+	terrain="plains"
+	culture="boran"
+	religion="nilotic_pantheon"
+	trade_goods="elephants"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7588={ #Dmut
+	terrain="plains"
+	culture="boran"
+	religion="nilotic_pantheon"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7589={ #Abliata
+	terrain="plains"
+	culture="boran"
+	religion="nilotic_pantheon"
+	trade_goods="hemp"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_deng
+}
+
+7590={ #Demora
+	terrain="forest"
+	culture="boran"
+	religion="nilotic_pantheon"
+	trade_goods="fur"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7591={ #Acranoe
+	terrain="forest"
+	culture="boran"
+	religion="nilotic_pantheon"
+	trade_goods="precious_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7592={ #Ganagaras
+	terrain="flood_plain"
+	culture="meroitic"
+	religion="egyptian_pantheon"
+	trade_goods="iron"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7593={ #Tanachtala
+	terrain="hills"
+	culture="athagaun"
+	religion="arabian_pantheon"
+	trade_goods="fruits"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+8099={ #Meragh
+	terrain="desert"
+	culture="napatan"
+	religion="egyptian_pantheon"
+	trade_goods="earthware"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+8100={ #Hosh
+	terrain="desert"
+	culture="alutan"
+	religion="nilotic_pantheon"
+	trade_goods="stone"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+8101={ #Bum
+	terrain="desert"
+	culture="alutan"
+	religion="nilotic_pantheon"
+	trade_goods="wild_game"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+8102={ #Baggura
+	terrain="desert"
+	culture="alutan"
+	religion="nilotic_pantheon"
+	trade_goods="leather"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+8103={ #Samra
+	terrain="desert"
+	culture="alutan"
+	religion="nilotic_pantheon"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+8104={ #Fashfash
+	terrain="desert"
+	culture="alutan"
+	religion="nilotic_pantheon"
+	trade_goods="camel"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+8105={ #Muqaddam
+	terrain="desert"
+	culture="alutan"
+	religion="nilotic_pantheon"
+	trade_goods="camel"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+8106={ #Amara
+	terrain="plains"
+	culture="moyan"
+	religion="nilotic_pantheon"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+8107={ #Sennar
+	terrain="flood_plain"
+	culture="moyan"
+	religion="nilotic_pantheon"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_wepwawet
+}
+
+8108={ #Jebel Moya
+	terrain="plains"
+	culture="moyan"
+	religion="nilotic_pantheon"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_garang
+}
+
+8109={ #Rabak
+	terrain="flood_plain"
+	culture="moyan"
+	religion="nilotic_pantheon"
+	trade_goods="horses"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+8110={ #Kawah
+	terrain="plains"
+	culture="moyan"
+	religion="nilotic_pantheon"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+8111={ #Manaqil
+	terrain="hills"
+	culture="moyan"
+	religion="nilotic_pantheon"
+	trade_goods="wood"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+8112={ #Singa
+	terrain="flood_plain"
+	culture="moyan"
+	religion="nilotic_pantheon"
+	trade_goods="earthware"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+8113={ #Surayj
+	terrain="plains"
+	culture="moyan"
+	religion="nilotic_pantheon"
+	trade_goods="leather"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+8114={ #Sabbalo
+	terrain="plains"
+	culture="moyan"
+	religion="nilotic_pantheon"
+	trade_goods="wild_game"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+8590={ #Aborepi
+	terrain="hills"
+	culture="meroitic"
+	religion="egyptian_pantheon"
+	trade_goods="gems"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_arensuphis
+}
+
+8591={ #Nagaa
+	terrain="flood_plain"
+	culture="meroitic"
+	religion="egyptian_pantheon"
+	trade_goods="spices"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_amesemi
+}
+
+8592={ #Kasir
+	terrain="plains"
+	culture="meroitic"
+	religion="egyptian_pantheon"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+8593={ #Mahdood
+	terrain="plains"
+	culture="meroitic"
+	religion="egyptian_pantheon"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+8594={ #Hissuna
+	terrain="plains"
+	culture="meroitic"
+	religion="egyptian_pantheon"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+8595={ #Surayriyah
+	terrain="plains"
+	culture="meroitic"
+	religion="egyptian_pantheon"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+8596={ #Sayyidab
+	terrain="plains"
+	culture="meroitic"
+	religion="egyptian_pantheon"
+	trade_goods="wild_game"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+8597={ #Hejeilat
+	terrain="plains"
+	culture="meroitic"
+	religion="egyptian_pantheon"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+8598={ #Hamadab
+	terrain="flood_plain"
+	culture="meroitic"
+	religion="egyptian_pantheon"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+8599={ #Bafalil
+	terrain="plains"
+	culture="meroitic"
+	religion="egyptian_pantheon"
+	trade_goods="wild_game"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+8600={ #Hatab
+	terrain="plains"
+	culture="meroitic"
+	religion="egyptian_pantheon"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+8601={ #Suriba
+	terrain="plains"
+	culture="nubian"
+	religion="nilotic_pantheon"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+8602={ #Adabda
+	terrain="plains"
+	culture="nubian"
+	religion="nilotic_pantheon"
+	trade_goods="leather"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+8603={ #Zariba
+	terrain="hills"
+	culture="nubian"
+	religion="nilotic_pantheon"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+8604={ #Keili
+	terrain="hills"
+	culture="nubian"
+	religion="nilotic_pantheon"
+	trade_goods="precious_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+8605={ #Harazah
+	terrain="plains"
+	culture="nubian"
+	religion="nilotic_pantheon"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+8616={ #Kakabi
+	terrain="plains"
+	culture="meroitic"
+	religion="egyptian_pantheon"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+8617={ #Hufrah
+	terrain="plains"
+	culture="meroitic"
+	religion="egyptian_pantheon"
+	trade_goods="wild_game"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+8618={ #Bagarah
+	terrain="plains"
+	culture="boran"
+	religion="nilotic_pantheon"
+	trade_goods="leather"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+8619={ #Essayal
+	terrain="plains"
+	culture="nubian"
+	religion="nilotic_pantheon"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+8620={ #Mirikh
+	terrain="plains"
+	culture="boran"
+	religion="nilotic_pantheon"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+8621={ #Shirayyet
+	terrain="plains"
+	culture="nubian"
+	religion="nilotic_pantheon"
+	trade_goods="wild_game"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+8622={ #Kawahilah
+	terrain="plains"
+	culture="nubian"
+	religion="nilotic_pantheon"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+8623={ #Thalathun
+	terrain="plains"
+	culture="nubian"
+	religion="nilotic_pantheon"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+8624={ #Qigi
+	terrain="hills"
+	culture="nubian"
+	religion="nilotic_pantheon"
+	trade_goods="leather"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+8625={ #Azraq
+	terrain="plains"
+	culture="nubian"
+	religion="nilotic_pantheon"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+8626={ #Ghorani
+	terrain="plains"
+	culture="nubian"
+	religion="nilotic_pantheon"
+	trade_goods="leather"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+8627={ #Fao
+	terrain="plains"
+	culture="nubian"
+	religion="nilotic_pantheon"
+	trade_goods="earthware"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+8628={ #Singda
+	terrain="plains"
+	culture="nubian"
+	religion="nilotic_pantheon"
+	trade_goods="wild_game"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+8629={ #Qadarif
+	terrain="plains"
+	culture="nubian"
+	religion="nilotic_pantheon"
+	trade_goods="elephants"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_buk
+}
+
+8630={ #Dinder
+	terrain="plains"
+	culture="nubian"
+	religion="nilotic_pantheon"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+8631={ #Qalbi
+	terrain="plains"
+	culture="nubian"
+	religion="nilotic_pantheon"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+8632={ #Simsim
+	terrain="forest"
+	culture="nubian"
+	religion="nilotic_pantheon"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+8633={ #Rumaylah
+	terrain="forest"
+	culture="nubian"
+	religion="nilotic_pantheon"
+	trade_goods="leather"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+8634={ #Gamal
+	terrain="plains"
+	culture="rhizophagian"
+	religion="nilotic_pantheon"
+	trade_goods="honey"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+8635={ #Matamir
+	terrain="plains"
+	culture="rhizophagian"
+	religion="nilotic_pantheon"
+	trade_goods="leather"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+8636={ #Kassala
+	terrain="plains"
+	culture="rhizophagian"
+	religion="nilotic_pantheon"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+8637={ #Hagiz
+	terrain="plains"
+	culture="rhizophagian"
+	religion="nilotic_pantheon"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+8638={ #Gash
+	terrain="plains"
+	culture="rhizophagian"
+	religion="nilotic_pantheon"
+	trade_goods="earthware"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+8639={ #Taragaga
+	terrain="plains"
+	culture="boran"
+	religion="nilotic_pantheon"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+8640={ #Tuwesat
+	terrain="plains"
+	culture="boran"
+	religion="nilotic_pantheon"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+8641={ #Kalakoy
+	terrain="plains"
+	culture="boran"
+	religion="nilotic_pantheon"
+	trade_goods="base_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+8642={ #Baqbaqah
+	terrain="forest"
+	culture="kumuzan"
+	religion="nilotic_pantheon"
+	trade_goods="earthware"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+8643={ #Gabub
+	terrain="forest"
+	culture="kumuzan"
+	religion="nilotic_pantheon"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+8644={ #Barakit
+	terrain="forest"
+	culture="kumuzan"
+	religion="nilotic_pantheon"
+	trade_goods="elephants"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+8645={ #Boval
+	terrain="forest"
+	culture="kumuzan"
+	religion="nilotic_pantheon"
+	trade_goods="wild_game"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+8646={ #Metemmeh
+	terrain="hills"
+	culture="kumuzan"
+	religion="nilotic_pantheon"
+	trade_goods="wood"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+8647={ #Tawirda
+	terrain="forest"
+	culture="kumuzan"
+	religion="nilotic_pantheon"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+8648={ #Gherma
+	terrain="forest"
+	culture="kumuzan"
+	religion="nilotic_pantheon"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+8649={ #Haria
+	terrain="hills"
+	culture="kumuzan"
+	religion="nilotic_pantheon"
+	trade_goods="gems"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+8650={ #Maganan
+	terrain="forest"
+	culture="kumuzan"
+	religion="nilotic_pantheon"
+	trade_goods="wood"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+8651={ #Uacne
+	terrain="hills"
+	culture="kumuzan"
+	religion="nilotic_pantheon"
+	trade_goods="wood"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+8722={ #Weyto
+	terrain="forest"
+	culture="athagaun"
+	religion="arabian_pantheon"
+	trade_goods="fish"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+8723={ #Bana
+	terrain="desert"
+	culture="alutan"
+	religion="nilotic_pantheon"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+8724={ #Kigeira
+	terrain="desert"
+	culture="alutan"
+	religion="nilotic_pantheon"
+	trade_goods="base_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+8725={ #Santah
+	terrain="plains"
+	culture="moyan"
+	religion="nilotic_pantheon"
+	trade_goods="stone"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+8726={ #Abal
+	terrain="marsh"
+	culture="moyan"
+	religion="nilotic_pantheon"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+8727={ #Gisi
+	terrain="forest"
+	culture="nubian"
+	religion="nilotic_pantheon"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+8728={ #Kura
+	terrain="forest"
+	culture="nubian"
+	religion="nilotic_pantheon"
+	trade_goods="precious_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+8729={ #Samtarru
+	terrain="forest"
+	culture="kumuzan"
+	religion="nilotic_pantheon"
+	trade_goods="wood"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+8738={ #Haykota
+	terrain="plains"
+	culture="rhizophagian"
+	religion="nilotic_pantheon"
+	trade_goods="fruits"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+8739={ #Mareb
+	terrain="plains"
+	culture="athagaun"
+	religion="arabian_pantheon"
+	trade_goods="wild_game"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+8740={ #Hambok
+	terrain="hills"
+	culture="athagaun"
+	religion="arabian_pantheon"
+	trade_goods="precious_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+8741={ #Durna
+	terrain="hills"
+	culture="athagaun"
+	religion="arabian_pantheon"
+	trade_goods="elephants"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+

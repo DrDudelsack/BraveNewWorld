@@ -1,0 +1,45 @@
+﻿7884={ #Albis
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+7885={ #Albis
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+7886={ #Albis
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+7887={ #Albis
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+7888={ #Albis
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+

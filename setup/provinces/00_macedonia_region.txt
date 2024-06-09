@@ -1,0 +1,678 @@
+﻿356={ #Thasos
+	terrain="hills"
+	culture="macedonian"
+	religion="roman_pantheon"
+	trade_goods="precious_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+363={ #Neapolis Thrake
+	terrain="plains"
+	culture="macedonian"
+	religion="roman_pantheon"
+	trade_goods="stone"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+364={ #Philippoi
+	terrain="farmland"
+	culture="macedonian"
+	religion="roman_pantheon"
+	trade_goods="iron"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+365={ #Amphipolis
+	terrain="hills"
+	culture="macedonian"
+	religion="roman_pantheon"
+	trade_goods="precious_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	port_building=1
+}
+
+366={ #Tragilos
+	terrain="hills"
+	culture="macedonian"
+	religion="roman_pantheon"
+	trade_goods="olive"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+369={ #Serrhai
+	terrain="plains"
+	culture="macedonian"
+	religion="roman_pantheon"
+	trade_goods="wine"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+371={ #Berge
+	terrain="plains"
+	culture="macedonian"
+	religion="roman_pantheon"
+	trade_goods="glass"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+373={ #Thessalonike
+	terrain="hills"
+	culture="macedonian"
+	religion="roman_pantheon"
+	trade_goods="glass"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	port_building=2
+}
+
+374={ #Kalindoia
+	terrain="hills"
+	culture="macedonian"
+	religion="roman_pantheon"
+	trade_goods="olive"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+376={ #Kassandreia
+	terrain="plains"
+	culture="macedonian"
+	religion="roman_pantheon"
+	trade_goods="precious_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+377={ #Akanthos
+	terrain="hills"
+	culture="macedonian"
+	religion="roman_pantheon"
+	trade_goods="leather"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+378={ #Torone
+	terrain="hills"
+	culture="macedonian"
+	religion="roman_pantheon"
+	trade_goods="fish"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+379={ #Pella
+	terrain="farmland"
+	culture="macedonian"
+	religion="roman_pantheon"
+	trade_goods="wine"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	port_building=2
+}
+
+380={ #Dion
+	terrain="hills"
+	culture="macedonian"
+	religion="roman_pantheon"
+	trade_goods="stone"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+381={ #Beroia
+	terrain="plains"
+	culture="macedonian"
+	religion="roman_pantheon"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+382={ #Edessa
+	terrain="farmland"
+	culture="macedonian"
+	religion="roman_pantheon"
+	trade_goods="glass"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+383={ #Europos Almopias
+	terrain="farmland"
+	culture="macedonian"
+	religion="roman_pantheon"
+	trade_goods="olive"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+384={ #Gortynia
+	terrain="plains"
+	culture="macedonian"
+	religion="roman_pantheon"
+	trade_goods="wood"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+385={ #Tauriana
+	terrain="plains"
+	culture="macedonian"
+	religion="roman_pantheon"
+	trade_goods="horses"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+386={ #Asseros
+	terrain="farmland"
+	culture="macedonian"
+	religion="roman_pantheon"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+388={ #Gonnoi
+	terrain="hills"
+	culture="thessalian"
+	religion="roman_pantheon"
+	trade_goods="hemp"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+389={ #Larisa
+	terrain="farmland"
+	culture="thessalian"
+	religion="roman_pantheon"
+	trade_goods="horses"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+390={ #Pherai
+	terrain="farmland"
+	culture="thessalian"
+	religion="roman_pantheon"
+	trade_goods="earthware"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+391={ #Pagasai
+	terrain="hills"
+	culture="thessalian"
+	religion="roman_pantheon"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	port_building=1
+}
+
+392={ #Meliboia
+	terrain="hills"
+	culture="thessalian"
+	religion="roman_pantheon"
+	trade_goods="fish"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+393={ #Pelagonia
+	terrain="forest"
+	culture="macedonian"
+	religion="roman_pantheon"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+394={ #Pharsalos
+	terrain="farmland"
+	culture="thessalian"
+	religion="roman_pantheon"
+	trade_goods="cloth"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+395={ #Trikke
+	terrain="farmland"
+	culture="thessalian"
+	religion="roman_pantheon"
+	trade_goods="wine"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+396={ #Oichalia
+	terrain="plains"
+	culture="thessalian"
+	religion="roman_pantheon"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+397={ #Stoboi
+	terrain="hills"
+	culture="paeonian"
+	religion="illyrian_pantheon"
+	trade_goods="leather"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_dualos
+}
+
+398={ #Halos
+	terrain="marsh"
+	culture="thessalian"
+	religion="roman_pantheon"
+	trade_goods="fish"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+400={ #Elimeia
+	terrain="farmland"
+	culture="macedonian"
+	religion="roman_pantheon"
+	trade_goods="leather"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+404={ #Oloosson
+	terrain="plains"
+	culture="thessalian"
+	religion="roman_pantheon"
+	trade_goods="honey"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+405={ #Stymbara
+	terrain="forest"
+	culture="macedonian"
+	religion="roman_pantheon"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+408={ #Arnisa
+	terrain="forest"
+	culture="macedonian"
+	religion="roman_pantheon"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+411={ #Herakleia Lynkestis
+	terrain="forest"
+	culture="macedonian"
+	religion="roman_pantheon"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+412={ #Lychnidos
+	terrain="mountain"
+	culture="taulantian"
+	religion="illyrian_pantheon"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+414={ #Keirpara
+	terrain="hills"
+	culture="paeonian"
+	religion="illyrian_pantheon"
+	trade_goods="iron"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+415={ #Epidamnos
+	terrain="farmland"
+	culture="italiotian"
+	religion="roman_pantheon"
+	trade_goods="salt"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	port_building=1
+}
+
+420={ #Peparethos
+	terrain="hills"
+	culture="macedonian"
+	religion="roman_pantheon"
+	trade_goods="fish"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+422={ #Apollonia Epidamnon
+	terrain="farmland"
+	culture="italiotian"
+	religion="roman_pantheon"
+	trade_goods="earthware"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+428={ #Methone
+	terrain="plains"
+	culture="macedonian"
+	religion="roman_pantheon"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+455={ #Dimallon
+	terrain="farmland"
+	culture="epirote"
+	religion="roman_pantheon"
+	trade_goods="olive"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+497={ #Herakleia Sintike
+	terrain="hills"
+	culture="paeonian"
+	religion="illyrian_pantheon"
+	trade_goods="iron"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+498={ #Skaptopara
+	terrain="hills"
+	culture="paeonian"
+	religion="illyrian_pantheon"
+	trade_goods="leather"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+499={ #Spinopara
+	terrain="farmland"
+	culture="triballoi"
+	religion="shamanism"
+	trade_goods="leather"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_zibelthiurdos
+}
+
+1445={ #Chrysondyon
+	terrain="mountain"
+	culture="taulantian"
+	religion="illyrian_pantheon"
+	trade_goods="leather"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2213={ #Albanopolis
+	terrain="hills"
+	culture="taulantian"
+	religion="illyrian_pantheon"
+	trade_goods="fur"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2264={ #Parthos
+	terrain="mountain"
+	culture="taulantian"
+	religion="illyrian_pantheon"
+	trade_goods="leather"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2336={ #Lissos
+	terrain="farmland"
+	culture="taulantian"
+	religion="illyrian_pantheon"
+	trade_goods="fish"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_redon
+	port_building=1
+}
+
+3125={ #Keletron
+	terrain="mountain"
+	culture="macedonian"
+	religion="roman_pantheon"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+3175={ #Eratyra
+	terrain="hills"
+	culture="macedonian"
+	religion="roman_pantheon"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+3356={ #Beue
+	terrain="mountain"
+	culture="taulantian"
+	religion="illyrian_pantheon"
+	trade_goods="fur"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4096={ #Skoupoi
+	terrain="farmland"
+	culture="dardanian"
+	religion="illyrian_pantheon"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_dracondracaena
+}
+
+4097={ #Helice
+	terrain="hills"
+	culture="triballoi"
+	religion="shamanism"
+	trade_goods="base_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4117={ #Pautalia
+	terrain="hills"
+	culture="dardanian"
+	religion="illyrian_pantheon"
+	trade_goods="base_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4152={ #Tranoupara
+	terrain="farmland"
+	culture="dardanian"
+	religion="illyrian_pantheon"
+	trade_goods="woad"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4153={ #Alexandropolis Maedica
+	terrain="hills"
+	culture="paeonian"
+	religion="illyrian_pantheon"
+	trade_goods="wood"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4302={ #Doberos
+	terrain="hills"
+	culture="paeonian"
+	religion="illyrian_pantheon"
+	trade_goods="wood"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4303={ #Astraia
+	terrain="hills"
+	culture="paeonian"
+	religion="illyrian_pantheon"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4304={ #Astibos
+	terrain="farmland"
+	culture="paeonian"
+	religion="illyrian_pantheon"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4305={ #Bylazora
+	terrain="hills"
+	culture="paeonian"
+	religion="illyrian_pantheon"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4306={ #Kiropolis
+	terrain="mountain"
+	culture="paeonian"
+	religion="illyrian_pantheon"
+	trade_goods="wood"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6399={ #Pydna
+	terrain="plains"
+	culture="macedonian"
+	religion="roman_pantheon"
+	trade_goods="earthware"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	port_building=1
+}
+
+8023={ #Tempe Pass
+	terrain="mountain"
+	culture="thessalian"
+	religion="roman_pantheon"
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+8024={ #Boloustana Pass
+	terrain="mountain"
+	culture="thessalian"
+	religion="roman_pantheon"
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+8025={ #Petra Pass
+	terrain="mountain"
+	culture="thessalian"
+	religion="roman_pantheon"
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+

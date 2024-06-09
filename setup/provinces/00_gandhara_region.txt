@@ -1,0 +1,963 @@
+﻿3810={ #Embadina
+	terrain="mountain"
+	culture="gandhari"
+	religion="buddhism"
+	trade_goods="stone"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4300={ #Pushkalavati
+	terrain="mountain"
+	culture="gandhari"
+	religion="hindu"
+	trade_goods="earthware"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4301={ #Nagarahara
+	terrain="plains"
+	culture="gandhari"
+	religion="hindu"
+	trade_goods="earthware"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4308={ #Cakravala
+	terrain="plains"
+	culture="gandhari"
+	religion="hindu"
+	trade_goods="elephants"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4315={ #Jobnathnagar
+	terrain="forest"
+	culture="purus"
+	religion="jainism"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4316={ #Mong
+	terrain="forest"
+	culture="macedonian"
+	religion="roman_pantheon"
+	trade_goods="cedar"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4317={ #Dinkot
+	terrain="hills"
+	culture="gandhari"
+	religion="hindu"
+	trade_goods="fur"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4318={ #Apritas
+	terrain="mountain"
+	culture="gandhari"
+	religion="hindu"
+	trade_goods="stone"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4319={ #Gorydale
+	terrain="hills"
+	culture="gandhari"
+	religion="ajivika"
+	trade_goods="stone"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4320={ #Singhapura
+	terrain="plains"
+	culture="gandhari"
+	religion="buddhism"
+	trade_goods="earthware"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4321={ #Kutte Mar
+	terrain="forest"
+	culture="gandhari"
+	religion="jainism"
+	trade_goods="horses"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4322={ #Manikyal
+	terrain="forest"
+	culture="macedonian"
+	religion="roman_pantheon"
+	trade_goods="cedar"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4323={ #Takht-i-Bahi
+	terrain="hills"
+	culture="gandhari"
+	religion="hindu"
+	trade_goods="cloth"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4324={ #Gorya
+	terrain="mountain"
+	culture="gandhari"
+	religion="hindu"
+	trade_goods="gems"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4325={ #Mardan
+	terrain="forest"
+	culture="gandhari"
+	religion="hindu"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4326={ #Manikyala
+	terrain="forest"
+	culture="gandhari"
+	religion="hindu"
+	trade_goods="cloth"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4327={ #Kaspira
+	terrain="forest"
+	culture="gandhari"
+	religion="hindu"
+	trade_goods="papyrus"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4328={ #Plagira
+	terrain="hills"
+	culture="gandhari"
+	religion="hindu"
+	trade_goods="base_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4329={ #Nara
+	terrain="plains"
+	culture="gandhari"
+	religion="buddhism"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4330={ #Gogaraioi
+	terrain="desert"
+	culture="gandhari"
+	religion="hindu"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4331={ #Khushab
+	terrain="forest"
+	culture="gandhari"
+	religion="jainism"
+	trade_goods="dates"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4332={ #Puranadisthana
+	terrain="forest"
+	culture="dardic"
+	religion="jainism"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4333={ #Huskapura
+	terrain="forest"
+	culture="dardic"
+	religion="jainism"
+	trade_goods="earthware"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4334={ #Harvan
+	terrain="mountain"
+	culture="dardic"
+	religion="jainism"
+	trade_goods="cedar"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4335={ #Labaka
+	terrain="mountain"
+	culture="dardic"
+	religion="hindu"
+	trade_goods="glass"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4336={ #Varahasaila Pass
+	terrain="mountain"
+	culture="dardic"
+	religion="buddhism"
+	trade_goods="fur"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4337={ #Embolima
+	terrain="mountain"
+	culture="dardic"
+	religion="vaksh_religion"
+	trade_goods="stone"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4338={ #Anantanaga
+	terrain="forest"
+	culture="dardic"
+	religion="jainism"
+	trade_goods="incense"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4339={ #Nandi
+	terrain="forest"
+	culture="dardic"
+	religion="jainism"
+	trade_goods="incense"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4340={ #Sakala
+	terrain="farmland"
+	culture="purus"
+	religion="buddhism"
+	trade_goods="cloth"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4341={ #Akhnur
+	terrain="mountain"
+	culture="dardic"
+	religion="hindu"
+	trade_goods="precious_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4342={ #Parvata
+	terrain="hills"
+	culture="dardic"
+	religion="hindu"
+	trade_goods="cedar"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4343={ #Budia
+	terrain="mountain"
+	culture="dardic"
+	religion="buddhism"
+	trade_goods="stone"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4344={ #Chhamb
+	terrain="marsh"
+	culture="dardic"
+	religion="ajivika"
+	trade_goods="elephants"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4345={ #Jhelum
+	terrain="hills"
+	culture="purus"
+	religion="hindu"
+	trade_goods="elephants"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4346={ #Madra
+	terrain="farmland"
+	culture="purus"
+	religion="hindu"
+	trade_goods="silk"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4347={ #Magaris
+	terrain="marsh"
+	culture="dardic"
+	religion="jainism"
+	trade_goods="elephants"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4348={ #Sibipura
+	terrain="plains"
+	culture="sivi"
+	religion="hindu"
+	trade_goods="cloth"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4349={ #Mallia
+	terrain="farmland"
+	culture="sivi"
+	religion="hindu"
+	trade_goods="dates"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_kubera
+}
+
+4351={ #Apakara
+	terrain="desert"
+	culture="sivi"
+	religion="hindu"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4367={ #Arjunava
+	terrain="hills"
+	culture="gandhari"
+	religion="hindu"
+	trade_goods="base_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4370={ #Massaka
+	terrain="mountain"
+	culture="gandhari"
+	religion="hindu"
+	trade_goods="cedar"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4378={ #Osioi
+	terrain="plains"
+	culture="sivi"
+	religion="jainism"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4379={ #Phegas
+	terrain="farmland"
+	culture="purus"
+	religion="hindu"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4380={ #Mallava
+	terrain="plains"
+	culture="gandhari"
+	religion="jainism"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4381={ #Shudrakai
+	terrain="plains"
+	culture="sivi"
+	religion="hindu"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4382={ #Anatachara
+	terrain="farmland"
+	culture="sivi"
+	religion="hindu"
+	trade_goods="earthware"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4383={ #Abortai
+	terrain="desert"
+	culture="gandhari"
+	religion="hindu"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4384={ #Kekayai
+	terrain="plains"
+	culture="gandhari"
+	religion="hindu"
+	trade_goods="horses"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4388={ #Pancapura
+	terrain="plains"
+	culture="sivi"
+	religion="hindu"
+	trade_goods="horses"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4389={ #Iravatyavar
+	terrain="farmland"
+	culture="purus"
+	religion="hindu"
+	trade_goods="earthware"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4390={ #Jalandhara
+	terrain="farmland"
+	culture="purus"
+	religion="hindu"
+	trade_goods="cloth"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4391={ #Udambhara
+	terrain="hills"
+	culture="dardic"
+	religion="buddhism"
+	trade_goods="base_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4392={ #Sarvamanapura
+	terrain="farmland"
+	culture="purus"
+	religion="hindu"
+	trade_goods="base_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4393={ #Okara
+	terrain="plains"
+	culture="purus"
+	religion="hindu"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4394={ #Adrestai
+	terrain="forest"
+	culture="dardic"
+	religion="hindu"
+	trade_goods="elephants"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4395={ #Turvasha
+	terrain="plains"
+	culture="sivi"
+	religion="jainism"
+	trade_goods="dates"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4396={ #Chandaniot
+	terrain="farmland"
+	culture="purus"
+	religion="hindu"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4397={ #Vipasha
+	terrain="farmland"
+	culture="purus"
+	religion="ajivika"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4398={ #Bhatiai
+	terrain="plains"
+	culture="purus"
+	religion="hindu"
+	trade_goods="silk"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4399={ #Jayapura
+	terrain="farmland"
+	culture="purus"
+	religion="hindu"
+	trade_goods="cloth"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4400={ #Taki
+	terrain="farmland"
+	culture="purus"
+	religion="hindu"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4401={ #Rupar
+	terrain="forest"
+	culture="dardic"
+	religion="jainism"
+	trade_goods="cedar"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4409={ #Arispara
+	terrain="forest"
+	culture="kuru"
+	religion="buddhism"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4410={ #Tabarhindh
+	terrain="forest"
+	culture="kuru"
+	religion="hindu"
+	trade_goods="camel"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4414={ #Salagishsha
+	terrain="plains"
+	culture="kuru"
+	religion="hindu"
+	trade_goods="cloth"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4415={ #Sirsa
+	terrain="plains"
+	culture="kuru"
+	religion="hindu"
+	trade_goods="horses"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4416={ #Sunam
+	terrain="forest"
+	culture="kuru"
+	religion="hindu"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4418={ #Satadru
+	terrain="plains"
+	culture="kuru"
+	religion="hindu"
+	trade_goods="base_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4490={ #Baziria
+	terrain="mountain"
+	culture="gandhari"
+	religion="hindu"
+	trade_goods="fur"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+5445={ #Grodaka
+	terrain="plains"
+	culture="kuru"
+	religion="hindu"
+	trade_goods="wild_game"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6751={ #Varana Gandhara
+	terrain="mountain"
+	culture="gandhari"
+	religion="hindu"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6997={ #Ora
+	terrain="mountain"
+	culture="gandhari"
+	religion="hindu"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7314={ #Taksasila
+	terrain="plains"
+	culture="gandhari"
+	religion="buddhism"
+	trade_goods="papyrus"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_varuna
+}
+
+7319={ #Ataka
+	terrain="hills"
+	culture="gandhari"
+	religion="hindu"
+	trade_goods="cloth"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7361={ #Salutara
+	terrain="mountain"
+	culture="gandhari"
+	religion="jainism"
+	trade_goods="base_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7399={ #Rajagrha
+	terrain="forest"
+	culture="purus"
+	religion="buddhism"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7485={ #Sodal
+	terrain="plains"
+	culture="purus"
+	religion="hindu"
+	trade_goods="dates"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7492={ #Aspakora
+	terrain="hills"
+	culture="gandhari"
+	religion="jainism"
+	trade_goods="wild_game"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7657={ #Purushapura
+	terrain="hills"
+	culture="gandhari"
+	religion="hindu"
+	trade_goods="incense"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+9257={ #Gomal
+	terrain="plains"
+	culture="sivi"
+	religion="hindu"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+9258={ #Nuktani
+	terrain="plains"
+	culture="sivi"
+	religion="hindu"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+9259={ #Yazman
+	terrain="plains"
+	culture="sivi"
+	religion="hindu"
+	trade_goods="dates"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+9260={ #Marot
+	terrain="desert"
+	culture="sivi"
+	religion="hindu"
+	trade_goods="camel"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+9261={ #Kanganwala
+	terrain="plains"
+	culture="sivi"
+	religion="hindu"
+	trade_goods="salt"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+9262={ #Patan Minara
+	terrain="plains"
+	culture="sivi"
+	religion="buddhism"
+	trade_goods="cloth"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_sila_parami
+}
+
+9263={ #Inayati
+	terrain="plains"
+	culture="sivi"
+	religion="hindu"
+	trade_goods="leather"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+9264={ #Chishtian
+	terrain="plains"
+	culture="sivi"
+	religion="hindu"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+9265={ #Rojhanwali
+	terrain="plains"
+	culture="sivi"
+	religion="buddhism"
+	trade_goods="horses"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+9266={ #Anupgarh
+	terrain="plains"
+	culture="sivi"
+	religion="hindu"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+9267={ #Badopal
+	terrain="plains"
+	culture="sivi"
+	religion="hindu"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+9278={ #Atari
+	terrain="plains"
+	culture="sivi"
+	religion="hindu"
+	trade_goods="fruits"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+9279={ #Harapa
+	terrain="farmland"
+	culture="sivi"
+	religion="hindu"
+	trade_goods="horses"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+9280={ #Kot Kamalia
+	terrain="plains"
+	culture="sivi"
+	religion="hindu"
+	trade_goods="cloth"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+9281={ #Sukah
+	terrain="plains"
+	culture="sivi"
+	religion="hindu"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+9282={ #Nokhar
+	terrain="farmland"
+	culture="purus"
+	religion="hindu"
+	trade_goods="silk"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+

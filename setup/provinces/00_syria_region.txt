@@ -1,0 +1,831 @@
+﻿738={ #Aire
+	terrain="plains"
+	culture="aramaic"
+	religion="carthaginian_pantheon"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+740={ #Paneias
+	terrain="hills"
+	culture="hebrew"
+	religion="carthaginian_pantheon"
+	trade_goods="honey"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+741={ #Abila
+	terrain="hills"
+	culture="phoenician"
+	religion="carthaginian_pantheon"
+	trade_goods="cedar"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+742={ #Kadasa
+	terrain="forest"
+	culture="hebrew"
+	religion="carthaginian_pantheon"
+	trade_goods="wine"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_deborah
+}
+
+743={ #Tyros
+	terrain="plains"
+	culture="phoenician"
+	religion="carthaginian_pantheon"
+	trade_goods="dye"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_melqart
+	port_building=3
+}
+
+744={ #Ekdippa
+	terrain="plains"
+	culture="phoenician"
+	religion="carthaginian_pantheon"
+	trade_goods="glass"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_qetesh
+}
+
+745={ #Gelil
+	terrain="forest"
+	culture="phoenician"
+	religion="carthaginian_pantheon"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+746={ #Makra Kome
+	terrain="plains"
+	culture="phoenician"
+	religion="carthaginian_pantheon"
+	trade_goods="glass"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+747={ #Tzidon
+	terrain="forest"
+	culture="phoenician"
+	religion="carthaginian_pantheon"
+	trade_goods="dye"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_eshmun
+	port_building=4
+}
+
+748={ #Berytos
+	terrain="forest"
+	culture="phoenician"
+	religion="carthaginian_pantheon"
+	trade_goods="earthware"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+749={ #Brochoi
+	terrain="forest"
+	culture="phoenician"
+	religion="carthaginian_pantheon"
+	trade_goods="cedar"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+750={ #Damaskos
+	terrain="oasis"
+	culture="aramaic"
+	religion="carthaginian_pantheon"
+	trade_goods="cloth"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_ashima
+}
+
+751={ #Leukas Chrysorrhoai
+	terrain="hills"
+	culture="aramaic"
+	religion="carthaginian_pantheon"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+752={ #Gerrha
+	terrain="hills"
+	culture="aramaic"
+	religion="carthaginian_pantheon"
+	trade_goods="cedar"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+753={ #Zenopolis
+	terrain="hills"
+	culture="aramaic"
+	religion="carthaginian_pantheon"
+	trade_goods="glass"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_el
+}
+
+754={ #Palmyra
+	terrain="oasis"
+	culture="qedarite"
+	religion="arabian_pantheon"
+	trade_goods="dates"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_alilat
+}
+
+755={ #Beriaraka
+	terrain="hills"
+	culture="qedarite"
+	religion="arabian_pantheon"
+	trade_goods="stone"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+756={ #Kounna
+	terrain="hills"
+	culture="qedarite"
+	religion="arabian_pantheon"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+757={ #Oneuatha
+	terrain="hills"
+	culture="qedarite"
+	religion="arabian_pantheon"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+758={ #Leuke Koilas
+	terrain="desert"
+	culture="qedarite"
+	religion="arabian_pantheon"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+759={ #Thelseai
+	terrain="desert"
+	culture="aramaic"
+	religion="carthaginian_pantheon"
+	trade_goods="earthware"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+760={ #Iabrouda
+	terrain="desert"
+	culture="aramaic"
+	religion="carthaginian_pantheon"
+	trade_goods="horses"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+761={ #Triparadeisos
+	terrain="hills"
+	culture="aramaic"
+	religion="carthaginian_pantheon"
+	trade_goods="wine"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+762={ #Kone
+	terrain="forest"
+	culture="aramaic"
+	religion="carthaginian_pantheon"
+	trade_goods="cedar"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+763={ #Heliopolis
+	terrain="forest"
+	culture="aramaic"
+	religion="carthaginian_pantheon"
+	trade_goods="cedar"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_baal
+}
+
+764={ #Chalkis Libanon
+	terrain="hills"
+	culture="aramaic"
+	religion="carthaginian_pantheon"
+	trade_goods="honey"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+765={ #Berothai
+	terrain="forest"
+	culture="aramaic"
+	religion="carthaginian_pantheon"
+	trade_goods="cedar"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+766={ #Gebol
+	terrain="forest"
+	culture="phoenician"
+	religion="carthaginian_pantheon"
+	trade_goods="dye"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_baalat
+	port_building=4
+}
+
+767={ #Botrys
+	terrain="plains"
+	culture="phoenician"
+	religion="carthaginian_pantheon"
+	trade_goods="cloth"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+769={ #Tripolis
+	terrain="forest"
+	culture="phoenician"
+	religion="carthaginian_pantheon"
+	trade_goods="earthware"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	port_building=1
+}
+
+770={ #Kara
+	terrain="desert"
+	culture="aramaic"
+	religion="carthaginian_pantheon"
+	trade_goods="honey"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+771={ #Arka
+	terrain="hills"
+	culture="phoenician"
+	religion="carthaginian_pantheon"
+	trade_goods="cedar"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+772={ #Laodicea Libanon
+	terrain="forest"
+	culture="aramaic"
+	religion="carthaginian_pantheon"
+	trade_goods="cedar"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+774={ #Emesa
+	terrain="forest"
+	culture="aramaic"
+	religion="carthaginian_pantheon"
+	trade_goods="wine"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+775={ #Heliaramia
+	terrain="desert"
+	culture="aramaic"
+	religion="carthaginian_pantheon"
+	trade_goods="honey"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+776={ #Otthara
+	terrain="desert"
+	culture="aramaic"
+	religion="carthaginian_pantheon"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+777={ #Amathe
+	terrain="forest"
+	culture="aramaic"
+	religion="carthaginian_pantheon"
+	trade_goods="cedar"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+778={ #Rhaphaneia
+	terrain="hills"
+	culture="aramaic"
+	religion="carthaginian_pantheon"
+	trade_goods="cedar"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+779={ #'Arwod
+	terrain="forest"
+	culture="phoenician"
+	religion="carthaginian_pantheon"
+	trade_goods="cloth"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	port_building=3
+}
+
+780={ #Qarn
+	terrain="hills"
+	culture="phoenician"
+	religion="carthaginian_pantheon"
+	trade_goods="wine"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+781={ #Larissa
+	terrain="forest"
+	culture="aramaic"
+	religion="roman_pantheon"
+	trade_goods="hemp"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+782={ #Pella Orontou
+	terrain="forest"
+	culture="macedonian"
+	religion="roman_pantheon"
+	trade_goods="glass"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+784={ #Sigon
+	terrain="hills"
+	culture="phoenician"
+	religion="carthaginian_pantheon"
+	trade_goods="cedar"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_shahar
+}
+
+785={ #Pelleta
+	terrain="forest"
+	culture="phoenician"
+	religion="carthaginian_pantheon"
+	trade_goods="fish"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+786={ #Leuke Akte
+	terrain="forest"
+	culture="ionian"
+	religion="roman_pantheon"
+	trade_goods="spices"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_astarte
+	port_building=1
+}
+
+787={ #Beloi
+	terrain="hills"
+	culture="aramaic"
+	religion="carthaginian_pantheon"
+	trade_goods="incense"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+788={ #Posideion
+	terrain="forest"
+	culture="ionian"
+	religion="roman_pantheon"
+	trade_goods="cloth"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+789={ #Potamoi Karon
+	terrain="forest"
+	culture="aramaic"
+	religion="carthaginian_pantheon"
+	trade_goods="olive"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	port_building=1
+}
+
+790={ #Antigoneia
+	terrain="hills"
+	culture="macedonian"
+	religion="roman_pantheon"
+	trade_goods="glass"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+791={ #Daphne
+	terrain="hills"
+	culture="aramaic"
+	religion="carthaginian_pantheon"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+792={ #Trapezon
+	terrain="forest"
+	culture="aramaic"
+	religion="roman_pantheon"
+	trade_goods="olive"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+793={ #Gindaros
+	terrain="hills"
+	culture="aramaic"
+	religion="roman_pantheon"
+	trade_goods="olive"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+794={ #Omeros
+	terrain="hills"
+	culture="aramaic"
+	religion="roman_pantheon"
+	trade_goods="olive"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+797={ #Chalkis Belon
+	terrain="plains"
+	culture="aramaic"
+	religion="roman_pantheon"
+	trade_goods="cedar"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+798={ #Chalibon
+	terrain="plains"
+	culture="aramaic"
+	religion="roman_pantheon"
+	trade_goods="cedar"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+799={ #Adrona
+	terrain="plains"
+	culture="aramaic"
+	religion="roman_pantheon"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+800={ #Gennaes
+	terrain="desert"
+	culture="qedarite"
+	religion="arabian_pantheon"
+	trade_goods="wild_game"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+801={ #Alalis
+	terrain="desert"
+	culture="qedarite"
+	religion="arabian_pantheon"
+	trade_goods="spices"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+802={ #Oriza
+	terrain="desert"
+	culture="qedarite"
+	religion="carthaginian_pantheon"
+	trade_goods="wild_game"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+803={ #Rhesapha
+	terrain="desert"
+	culture="aramaic"
+	religion="carthaginian_pantheon"
+	trade_goods="camel"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+804={ #Soura
+	terrain="desert"
+	culture="aramaic"
+	religion="carthaginian_pantheon"
+	trade_goods="stone"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+805={ #Amphipolis Syrias
+	terrain="plains"
+	culture="aramaic"
+	religion="carthaginian_pantheon"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+806={ #Birtha Asporakou
+	terrain="desert"
+	culture="aramaic"
+	religion="carthaginian_pantheon"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+807={ #Manbugh
+	terrain="plains"
+	culture="aramaic"
+	religion="carthaginian_pantheon"
+	trade_goods="cedar"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_atargatis
+}
+
+808={ #Beselatha
+	terrain="plains"
+	culture="aramaic"
+	religion="carthaginian_pantheon"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+809={ #Karkemish
+	terrain="plains"
+	culture="aramaic"
+	religion="carthaginian_pantheon"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+810={ #Zuqarra
+	terrain="plains"
+	culture="macedonian"
+	religion="roman_pantheon"
+	trade_goods="earthware"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_hadad
+}
+
+811={ #Doliche
+	terrain="hills"
+	culture="aramaic"
+	religion="carthaginian_pantheon"
+	trade_goods="base_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+812={ #Nikopolis Syrias
+	terrain="hills"
+	culture="aramaic"
+	religion="roman_pantheon"
+	trade_goods="stone"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+813={ #Chenneseroi
+	terrain="desert"
+	culture="aramaic"
+	religion="roman_pantheon"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+814={ #Barbalissos
+	terrain="plains"
+	culture="aramaic"
+	religion="carthaginian_pantheon"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_amurru
+}
+
+815={ #Seriane
+	terrain="desert"
+	culture="aramaic"
+	religion="carthaginian_pantheon"
+	trade_goods="horses"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+816={ #Theleda
+	terrain="plains"
+	culture="aramaic"
+	religion="carthaginian_pantheon"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+847={ #Dansara
+	terrain="plains"
+	culture="aramaic"
+	religion="carthaginian_pantheon"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+850={ #Okkaraba
+	terrain="desert"
+	culture="aramaic"
+	religion="carthaginian_pantheon"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+851={ #Ammattha
+	terrain="desert"
+	culture="aramaic"
+	religion="carthaginian_pantheon"
+	trade_goods="horses"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+852={ #Chaonia
+	terrain="plains"
+	culture="aramaic"
+	religion="carthaginian_pantheon"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1869={ #Rhabaine
+	terrain="hills"
+	culture="aramaic"
+	religion="carthaginian_pantheon"
+	trade_goods="olive"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1871={ #Pagrai
+	terrain="hills"
+	culture="aramaic"
+	religion="roman_pantheon"
+	trade_goods="olive"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7985={ #Telmenissos
+	terrain="plains"
+	culture="aramaic"
+	religion="carthaginian_pantheon"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+8011={ #Korlon
+	terrain="forest"
+	culture="phoenician"
+	religion="carthaginian_pantheon"
+	trade_goods="cedar"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+

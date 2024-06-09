@@ -1,0 +1,117 @@
+﻿7710={ #Tigris
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+7711={ #Tigris
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+7712={ #Tigris
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+7713={ #Tigris
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+7714={ #Tigris
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+7715={ #Tigris
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+7716={ #Tigris
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+7717={ #Euphrates
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+7718={ #Euphrates
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+7719={ #Euphrates
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+7720={ #Euphrates
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+7721={ #Euphrates
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+7722={ #Tigris
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+

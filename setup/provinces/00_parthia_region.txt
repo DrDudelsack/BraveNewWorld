@@ -1,0 +1,812 @@
+﻿3434={ #Tamis
+	terrain="farmland"
+	culture="parthian"
+	religion="mithra_religion"
+	trade_goods="spices"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+3435={ #Sadrakarta
+	terrain="farmland"
+	culture="parthian"
+	religion="mithra_religion"
+	trade_goods="camel"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_zurvan
+}
+
+3436={ #Asbana
+	terrain="farmland"
+	culture="parthian"
+	religion="mithra_religion"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+3437={ #Sirynx
+	terrain="plains"
+	culture="parthian"
+	religion="mithra_religion"
+	trade_goods="woad"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+3438={ #Tambrax
+	terrain="plains"
+	culture="parthian"
+	religion="mithra_religion"
+	trade_goods="hemp"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+3439={ #Hekatompylos
+	terrain="hills"
+	culture="macedonian"
+	religion="roman_pantheon"
+	trade_goods="steppe_horses"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+3440={ #Taga
+	terrain="hills"
+	culture="parthian"
+	religion="zoroaster"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+3441={ #Argiyan
+	terrain="hills"
+	culture="parthian"
+	religion="mithra_religion"
+	trade_goods="stone"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+3444={ #Bishpauzatis
+	terrain="steppes"
+	culture="parthian"
+	religion="zoroaster"
+	trade_goods="leather"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	#holy_site=omen_adur_berzen_mihr #Doesn't exist - Rework?
+}
+
+3445={ #Sangast
+	terrain="hills"
+	culture="parthian"
+	religion="mithra_religion"
+	trade_goods="wine"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+3446={ #Yetaan
+	terrain="mountain"
+	culture="parthian"
+	religion="mithra_religion"
+	trade_goods="cloth"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+3447={ #Salak
+	terrain="hills"
+	culture="parthian"
+	religion="mithra_religion"
+	trade_goods="base_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+3448={ #Dakhtar
+	terrain="steppes"
+	culture="parthian"
+	religion="mithra_religion"
+	trade_goods="horses"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+3449={ #Sapha
+	terrain="hills"
+	culture="parthian"
+	religion="mithra_religion"
+	trade_goods="horses"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+3450={ #Patigrabana
+	terrain="hills"
+	culture="parthian"
+	religion="zoroaster"
+	trade_goods="spices"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+3451={ #Sathis
+	terrain="steppes"
+	culture="parthian"
+	religion="zoroaster"
+	trade_goods="camel"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+3454={ #Sousia
+	terrain="mountain"
+	culture="parthian"
+	religion="zoroaster"
+	trade_goods="camel"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+3455={ #Deshrae
+	terrain="steppes"
+	culture="parthian"
+	religion="mithra_religion"
+	trade_goods="spices"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+3456={ #Tiras
+	terrain="steppes"
+	culture="parthian"
+	religion="mithra_religion"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+3457={ #Choatras
+	terrain="desert"
+	culture="parthian"
+	religion="mithra_religion"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+3458={ #Kalliope
+	terrain="desert"
+	culture="amardian"
+	religion="mithra_religion"
+	trade_goods="base_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+3459={ #Pasakartia
+	terrain="hills"
+	culture="amardian"
+	religion="mithra_religion"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+3461={ #Eshgabad
+	terrain="desert"
+	culture="sagartian"
+	religion="zoroaster"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+3462={ #Sarmagana
+	terrain="hills"
+	culture="parthian"
+	religion="zoroaster"
+	trade_goods="steppe_horses"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+3463={ #Orthiana
+	terrain="hills"
+	culture="sagartian"
+	religion="zoroaster"
+	trade_goods="wine"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+3464={ #Taua
+	terrain="steppes"
+	culture="parthian"
+	religion="zoroaster"
+	trade_goods="fur"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+3465={ #Siphare
+	terrain="hills"
+	culture="parthian"
+	religion="zoroaster"
+	trade_goods="fur"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+3466={ #Rivash
+	terrain="hills"
+	culture="parthian"
+	religion="mithra_religion"
+	trade_goods="base_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+3467={ #Oskanidatoi
+	terrain="desert"
+	culture="parthian"
+	religion="zoroaster"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+3468={ #Deraza
+	terrain="desert"
+	culture="parthian"
+	religion="zoroaster"
+	trade_goods="camel"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+3469={ #Parvand
+	terrain="desert"
+	culture="parthian"
+	religion="zoroaster"
+	trade_goods="leather"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4994={ #Semina
+	terrain="hills"
+	culture="amardian"
+	religion="mithra_religion"
+	trade_goods="base_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4995={ #Thara
+	terrain="steppes"
+	culture="amardian"
+	religion="mithra_religion"
+	trade_goods="horses"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4996={ #Amarda
+	terrain="farmland"
+	culture="amardian"
+	religion="mithra_religion"
+	trade_goods="silk"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4997={ #Syringis
+	terrain="farmland"
+	culture="amardian"
+	religion="mithra_religion"
+	trade_goods="spices"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4998={ #Shirga
+	terrain="mountain"
+	culture="amardian"
+	religion="mithra_religion"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+5390={ #Acasta
+	terrain="steppes"
+	culture="derbiccan"
+	religion="indo_iranian_religion"
+	trade_goods="salt"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+5391={ #Kalana
+	terrain="steppes"
+	culture="derbiccan"
+	religion="indo_iranian_religion"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+5392={ #Kurah
+	terrain="desert"
+	culture="derbiccan"
+	religion="indo_iranian_religion"
+	trade_goods="steppe_horses"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+5393={ #Artessia
+	terrain="desert"
+	culture="derbiccan"
+	religion="indo_iranian_religion"
+	trade_goods="wild_game"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+5398={ #Salos
+	terrain="desert"
+	culture="derbiccan"
+	religion="indo_iranian_religion"
+	trade_goods="fur"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+5422={ #Tenetis
+	terrain="steppes"
+	culture="derbiccan"
+	religion="indo_iranian_religion"
+	trade_goods="wild_game"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+5423={ #Ahur
+	terrain="hills"
+	culture="derbiccan"
+	religion="indo_iranian_religion"
+	trade_goods="base_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+5424={ #Venas
+	terrain="steppes"
+	culture="derbiccan"
+	religion="indo_iranian_religion"
+	trade_goods="steppe_horses"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+5425={ #Duri
+	terrain="steppes"
+	culture="derbiccan"
+	religion="indo_iranian_religion"
+	trade_goods="fish"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+5426={ #Yone
+	terrain="steppes"
+	culture="derbiccan"
+	religion="indo_iranian_religion"
+	trade_goods="salt"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+5427={ #Bakk
+	terrain="steppes"
+	culture="derbiccan"
+	religion="indo_iranian_religion"
+	trade_goods="wild_game"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+5428={ #Suna
+	terrain="steppes"
+	culture="derbiccan"
+	religion="indo_iranian_religion"
+	trade_goods="steppe_horses"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+5437={ #Pylai Parthias
+	terrain="mountain"
+	culture="derbiccan"
+	religion="mithra_religion"
+	trade_goods="wood"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6542={ #Aktene
+	terrain="hills"
+	culture="parthian"
+	religion="mithra_religion"
+	trade_goods="horses"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6543={ #Souptha
+	terrain="hills"
+	culture="parthian"
+	religion="mithra_religion"
+	trade_goods="earthware"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6544={ #Dirma
+	terrain="hills"
+	culture="parthian"
+	religion="zoroaster"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6545={ #Gouriana
+	terrain="steppes"
+	culture="parthian"
+	religion="zoroaster"
+	trade_goods="woad"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6556={ #Godana
+	terrain="steppes"
+	culture="parthian"
+	religion="zoroaster"
+	trade_goods="camel"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6602={ #Arosape
+	terrain="steppes"
+	culture="sagartian"
+	religion="zoroaster"
+	trade_goods="steppe_horses"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6656={ #Arsake
+	terrain="steppes"
+	culture="parthian"
+	religion="mithra_religion"
+	trade_goods="camel"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6657={ #Parthaunisa
+	terrain="steppes"
+	culture="derbiccan"
+	religion="indo_iranian_religion"
+	trade_goods="steppe_horses"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6658={ #Gathar
+	terrain="hills"
+	culture="margian"
+	religion="vaksh_religion"
+	trade_goods="woad"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6659={ #Kala
+	terrain="steppes"
+	culture="margian"
+	religion="vaksh_religion"
+	trade_goods="fur"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6660={ #Bandiyan
+	terrain="hills"
+	culture="margian"
+	religion="vaksh_religion"
+	trade_goods="fur"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6661={ #Dareion
+	terrain="hills"
+	culture="margian"
+	religion="indo_iranian_religion"
+	trade_goods="earthware"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6662={ #Apaouarktike
+	terrain="hills"
+	culture="margian"
+	religion="vaksh_religion"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6663={ #Sarakia
+	terrain="hills"
+	culture="margian"
+	religion="zoroaster"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6664={ #Alexandreia Parthika
+	terrain="hills"
+	culture="margian"
+	religion="mithra_religion"
+	trade_goods="camel"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6666={ #Abarbina
+	terrain="steppes"
+	culture="margian"
+	religion="vaksh_religion"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6671={ #Rhagaou
+	terrain="steppes"
+	culture="margian"
+	religion="indo_iranian_religion"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6725={ #Akhur
+	terrain="plains"
+	culture="parthian"
+	religion="mithra_religion"
+	trade_goods="dye"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6726={ #Mansur
+	terrain="steppes"
+	culture="derbiccan"
+	religion="indo_iranian_religion"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6727={ #Shikh
+	terrain="plains"
+	culture="parthian"
+	religion="mithra_religion"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6728={ #Kilaleh
+	terrain="hills"
+	culture="parthian"
+	religion="mithra_religion"
+	trade_goods="hemp"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6729={ #Hyrkanis
+	terrain="mountain"
+	culture="parthian"
+	religion="mithra_religion"
+	trade_goods="horses"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6776={ #Dihistan
+	terrain="plains"
+	culture="parthian"
+	religion="mithra_religion"
+	trade_goods="camel"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6806={ #Balkan
+	terrain="steppes"
+	culture="derbiccan"
+	religion="indo_iranian_religion"
+	trade_goods="hemp"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6808={ #Uzboia
+	terrain="steppes"
+	culture="derbiccan"
+	religion="indo_iranian_religion"
+	trade_goods="fur"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6810={ #Sild
+	terrain="steppes"
+	culture="derbiccan"
+	religion="indo_iranian_religion"
+	trade_goods="fur"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6811={ #Hazar
+	terrain="steppes"
+	culture="derbiccan"
+	religion="indo_iranian_religion"
+	trade_goods="dye"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6812={ #Kumdah
+	terrain="steppes"
+	culture="derbiccan"
+	religion="indo_iranian_religion"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7222={ #Kotake
+	terrain="hills"
+	culture="parthian"
+	religion="mithra_religion"
+	trade_goods="wild_game"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7223={ #Badghis
+	terrain="steppes"
+	culture="parthian"
+	religion="mithra_religion"
+	trade_goods="precious_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7638={ #Mura
+	terrain="hills"
+	culture="amardian"
+	religion="mithra_religion"
+	trade_goods="honey"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7639={ #Salos
+	terrain="hills"
+	culture="cadusian"
+	religion="mithra_religion"
+	trade_goods="fish"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+

@@ -1,0 +1,976 @@
+﻿1721={ #Fines
+	terrain="forest"
+	culture="arverni"
+	religion="druidism"
+	trade_goods="wine"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2210={ #Piktonion Akron
+	terrain="plains"
+	culture="pictonian"
+	religion="druidism"
+	trade_goods="fish"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2211={ #Ratiatum
+	terrain="plains"
+	culture="pictonian"
+	religion="druidism"
+	trade_goods="base_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2224={ #Pictavia Borealis
+	terrain="forest"
+	culture="pictonian"
+	religion="druidism"
+	trade_goods="fish"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2225={ #Pictavia Australis
+	terrain="forest"
+	culture="pictonian"
+	religion="druidism"
+	trade_goods="salt"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2226={ #Becciacum
+	terrain="forest"
+	culture="pictonian"
+	religion="druidism"
+	trade_goods="fish"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2227={ #Vertavia
+	terrain="forest"
+	culture="pictonian"
+	religion="druidism"
+	trade_goods="wine"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2228={ #Pictonia
+	terrain="forest"
+	culture="pictonian"
+	religion="druidism"
+	trade_goods="wine"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2229={ #Novioregum Santonum
+	terrain="plains"
+	culture="santonian"
+	religion="druidism"
+	trade_goods="wood"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2230={ #Mediolanum Santonum
+	terrain="plains"
+	culture="santonian"
+	religion="druidism"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2231={ #Lamnum
+	terrain="plains"
+	culture="santonian"
+	religion="druidism"
+	trade_goods="stone"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2232={ #Tannum
+	terrain="plains"
+	culture="santonian"
+	religion="druidism"
+	trade_goods="wine"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2233={ #Noviomagus Aquitanum
+	terrain="marsh"
+	culture="biturigan"
+	religion="druidism"
+	trade_goods="fish"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2234={ #Burgus
+	terrain="marsh"
+	culture="santonian"
+	religion="druidism"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2235={ #Akroterion
+	terrain="forest"
+	culture="biturigan"
+	religion="pre_indo_european_religion"
+	trade_goods="hemp"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2236={ #Burdigala
+	terrain="marsh"
+	culture="biturigan"
+	religion="druidism"
+	trade_goods="wine"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	port_building=1
+}
+
+2237={ #Losa
+	terrain="forest"
+	culture="aquitani"
+	religion="pre_indo_european_religion"
+	trade_goods="salt"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	port_building=1
+}
+
+2238={ #Segosa
+	terrain="forest"
+	culture="aquitani"
+	religion="pre_indo_european_religion"
+	trade_goods="salt"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2239={ #Mosconnum
+	terrain="plains"
+	culture="aquitani"
+	religion="pre_indo_european_religion"
+	trade_goods="fish"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2240={ #Lapurdum
+	terrain="plains"
+	culture="aquitani"
+	religion="pre_indo_european_religion"
+	trade_goods="fish"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_sorginak
+}
+
+2241={ #Telonnum
+	terrain="forest"
+	culture="aquitani"
+	religion="pre_indo_european_religion"
+	trade_goods="hemp"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2242={ #Coequosa
+	terrain="plains"
+	culture="aquitani"
+	religion="pre_indo_european_religion"
+	trade_goods="wine"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2243={ #Aquae Tarbellicae
+	terrain="plains"
+	culture="aquitani"
+	religion="pre_indo_european_religion"
+	trade_goods="wine"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2244={ #Carasa
+	terrain="plains"
+	culture="aquitani"
+	religion="pre_indo_european_religion"
+	trade_goods="precious_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2245={ #Stomatas
+	terrain="forest"
+	culture="aquitani"
+	religion="pre_indo_european_religion"
+	trade_goods="hemp"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2246={ #Iluro
+	terrain="plains"
+	culture="aquitani"
+	religion="pre_indo_european_religion"
+	trade_goods="marble"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2247={ #Bene Harnum
+	terrain="plains"
+	culture="aquitani"
+	religion="pre_indo_european_religion"
+	trade_goods="horses"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2248={ #Novum Oppidum
+	terrain="plains"
+	culture="aquitani"
+	religion="pre_indo_european_religion"
+	trade_goods="horses"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2249={ #Tarba
+	terrain="plains"
+	culture="aquitani"
+	religion="pre_indo_european_religion"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2250={ #Atura
+	terrain="plains"
+	culture="aquitani"
+	religion="pre_indo_european_religion"
+	trade_goods="marble"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2251={ #Aquae Convenarum
+	terrain="plains"
+	culture="aquitani"
+	religion="pre_indo_european_religion"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2252={ #Lugdunum Convenarum
+	terrain="plains"
+	culture="aquitani"
+	religion="pre_indo_european_religion"
+	trade_goods="stone"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_lurraberri
+}
+
+2269={ #Divona
+	terrain="plains"
+	culture="santonian"
+	religion="druidism"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2270={ #Aginnum
+	terrain="plains"
+	culture="santonian"
+	religion="druidism"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2271={ #Lactora
+	terrain="plains"
+	culture="aquitani"
+	religion="pre_indo_european_religion"
+	trade_goods="wine"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2272={ #Cossium
+	terrain="forest"
+	culture="aquitani"
+	religion="pre_indo_european_religion"
+	trade_goods="fur"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2273={ #Eleusa
+	terrain="plains"
+	culture="aquitani"
+	religion="pre_indo_european_religion"
+	trade_goods="cloth"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2274={ #Saviniago
+	terrain="plains"
+	culture="aquitani"
+	religion="pre_indo_european_religion"
+	trade_goods="cloth"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2275={ #Elimberrum
+	terrain="plains"
+	culture="aquitani"
+	religion="pre_indo_european_religion"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2276={ #Calagorris
+	terrain="plains"
+	culture="aquitani"
+	religion="pre_indo_european_religion"
+	trade_goods="base_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_eate
+}
+
+2277={ #Belsinum
+	terrain="plains"
+	culture="aquitani"
+	religion="pre_indo_european_religion"
+	trade_goods="fur"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2278={ #Casinomagus
+	terrain="plains"
+	culture="aquitani"
+	religion="pre_indo_european_religion"
+	trade_goods="stone"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2279={ #Sarnali
+	terrain="plains"
+	culture="aquitani"
+	religion="pre_indo_european_religion"
+	trade_goods="wine"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2281={ #Ussubium
+	terrain="plains"
+	culture="aquitani"
+	religion="pre_indo_european_religion"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2282={ #Vesunna
+	terrain="plains"
+	culture="santonian"
+	religion="druidism"
+	trade_goods="iron"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2283={ #Augustoritum
+	terrain="forest"
+	culture="arverni"
+	religion="druidism"
+	trade_goods="precious_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2287={ #Corterate
+	terrain="plains"
+	culture="santonian"
+	religion="druidism"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2288={ #Praemiacum
+	terrain="forest"
+	culture="aquitani"
+	religion="pre_indo_european_religion"
+	trade_goods="fur"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2289={ #Lucaniacum
+	terrain="plains"
+	culture="santonian"
+	religion="druidism"
+	trade_goods="wine"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2290={ #Iculisma
+	terrain="plains"
+	culture="santonian"
+	religion="druidism"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2291={ #Sarrum
+	terrain="plains"
+	culture="santonian"
+	religion="druidism"
+	trade_goods="wine"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2292={ #Pompegiaco
+	terrain="plains"
+	culture="santonian"
+	religion="druidism"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2293={ #Excisum
+	terrain="plains"
+	culture="santonian"
+	religion="druidism"
+	trade_goods="wine"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2294={ #Travectus
+	terrain="plains"
+	culture="santonian"
+	religion="druidism"
+	trade_goods="horses"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2326={ #Decaniacum
+	terrain="plains"
+	culture="santonian"
+	religion="druidism"
+	trade_goods="wine"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2327={ #Acuciago
+	terrain="plains"
+	culture="santonian"
+	religion="druidism"
+	trade_goods="cloth"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2328={ #Briva
+	terrain="forest"
+	culture="santonian"
+	religion="druidism"
+	trade_goods="wine"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2329={ #Nonniacus
+	terrain="plains"
+	culture="santonian"
+	religion="druidism"
+	trade_goods="iron"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2330={ #Userca
+	terrain="forest"
+	culture="arverni"
+	religion="druidism"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2331={ #Gemilliacum
+	terrain="forest"
+	culture="arverni"
+	religion="druidism"
+	trade_goods="cloth"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2332={ #Negiacum
+	terrain="plains"
+	culture="arverni"
+	religion="druidism"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2333={ #Canaviacum
+	terrain="forest"
+	culture="santonian"
+	religion="druidism"
+	trade_goods="woad"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2334={ #Campaniacum
+	terrain="farmland"
+	culture="santonian"
+	religion="druidism"
+	trade_goods="woad"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2335={ #Marcelliago
+	terrain="plains"
+	culture="santonian"
+	religion="druidism"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2337={ #Argenta
+	terrain="forest"
+	culture="arverni"
+	religion="druidism"
+	trade_goods="cloth"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2338={ #Eustriacum
+	terrain="plains"
+	culture="santonian"
+	religion="druidism"
+	trade_goods="wine"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2340={ #Tiniacum
+	terrain="forest"
+	culture="arverni"
+	religion="druidism"
+	trade_goods="honey"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2341={ #Curisiacum
+	terrain="forest"
+	culture="arverni"
+	religion="druidism"
+	trade_goods="earthware"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2343={ #Salviacum
+	terrain="plains"
+	culture="arverni"
+	religion="druidism"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2344={ #Durotincum
+	terrain="forest"
+	culture="arverni"
+	religion="druidism"
+	trade_goods="earthware"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2345={ #Limonum
+	terrain="plains"
+	culture="pictonian"
+	religion="druidism"
+	trade_goods="wood"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2346={ #Argentomagus
+	terrain="forest"
+	culture="arverni"
+	religion="druidism"
+	trade_goods="hemp"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2382={ #Idunum
+	terrain="forest"
+	culture="arverni"
+	religion="druidism"
+	trade_goods="wood"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2383={ #Ferruciacum
+	terrain="forest"
+	culture="arverni"
+	religion="druidism"
+	trade_goods="wood"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2384={ #Vosagum
+	terrain="forest"
+	culture="arverni"
+	religion="druidism"
+	trade_goods="fur"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2385={ #Andecamulum
+	terrain="forest"
+	culture="arverni"
+	religion="druidism"
+	trade_goods="wine"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2386={ #Ambiacum
+	terrain="plains"
+	culture="arverni"
+	religion="druidism"
+	trade_goods="marble"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2387={ #Exidualum
+	terrain="forest"
+	culture="arverni"
+	religion="druidism"
+	trade_goods="hemp"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2388={ #Comodoliacus
+	terrain="plains"
+	culture="arverni"
+	religion="druidism"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2389={ #Cassinomagum
+	terrain="plains"
+	culture="arverni"
+	religion="druidism"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2390={ #Rauranum
+	terrain="forest"
+	culture="pictonian"
+	religion="druidism"
+	trade_goods="wood"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2391={ #Brigiosum
+	terrain="plains"
+	culture="pictonian"
+	religion="druidism"
+	trade_goods="stone"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2392={ #Aunnedonacum
+	terrain="plains"
+	culture="pictonian"
+	religion="druidism"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2393={ #Voglada
+	terrain="plains"
+	culture="pictonian"
+	religion="druidism"
+	trade_goods="wine"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2395={ #Briggogalus
+	terrain="plains"
+	culture="pictonian"
+	religion="druidism"
+	trade_goods="fish"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2396={ #Clinno
+	terrain="plains"
+	culture="pictonian"
+	religion="druidism"
+	trade_goods="wood"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2397={ #Vultaconum
+	terrain="plains"
+	culture="pictonian"
+	religion="druidism"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2398={ #Segora
+	terrain="plains"
+	culture="pictonian"
+	religion="druidism"
+	trade_goods="leather"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2399={ #Toarcius
+	terrain="plains"
+	culture="pictonian"
+	religion="druidism"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_lugus
+}
+
+2404={ #Sisciacum
+	terrain="forest"
+	culture="arverni"
+	religion="druidism"
+	trade_goods="horses"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2405={ #Pontiniacum
+	terrain="forest"
+	culture="pictonian"
+	religion="druidism"
+	trade_goods="cloth"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2419={ #Claudiomagus
+	terrain="forest"
+	culture="pictonian"
+	religion="druidism"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2420={ #Iciodoro
+	terrain="forest"
+	culture="pictonian"
+	religion="druidism"
+	trade_goods="fur"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2421={ #Cisomagus
+	terrain="plains"
+	culture="pictonian"
+	religion="druidism"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+2422={ #Onia
+	terrain="plains"
+	culture="pictonian"
+	religion="druidism"
+	trade_goods="honey"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+3000={ #Sermanicomago
+	terrain="farmland"
+	culture="santonian"
+	religion="druidism"
+	trade_goods="earthware"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+3307={ #Confluenta
+	terrain="forest"
+	culture="arverni"
+	religion="druidism"
+	trade_goods="wine"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+

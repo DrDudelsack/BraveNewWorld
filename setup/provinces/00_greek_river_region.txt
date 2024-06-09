@@ -1,0 +1,9 @@
+﻿7709={ #Echedoros
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+

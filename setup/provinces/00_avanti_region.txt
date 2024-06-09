@@ -1,0 +1,774 @@
+﻿4420={ #Mathura
+	terrain="farmland"
+	culture="shauraseni"
+	religion="hindu"
+	trade_goods="dye"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_vishnu
+}
+
+4438={ #Vairata
+	terrain="hills"
+	culture="shauraseni"
+	religion="hindu"
+	trade_goods="base_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4439={ #Ambara
+	terrain="hills"
+	culture="shauraseni"
+	religion="ajivika"
+	trade_goods="leather"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4469={ #Padmavati
+	terrain="forest"
+	culture="shauraseni"
+	religion="hindu"
+	trade_goods="leather"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4470={ #Vidisha
+	terrain="plains"
+	culture="matsya"
+	religion="hindu"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4472={ #Barnala
+	terrain="hills"
+	culture="shauraseni"
+	religion="hindu"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4473={ #Madhyamika
+	terrain="plains"
+	culture="matsya"
+	religion="hindu"
+	trade_goods="earthware"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4474={ #Suktimati
+	terrain="forest"
+	culture="atavi"
+	religion="hindu"
+	trade_goods="elephants"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4475={ #Ujjayini
+	terrain="farmland"
+	culture="avanti"
+	religion="hindu"
+	trade_goods="cloth"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_rudra
+}
+
+4477={ #Tripura
+	terrain="jungle"
+	culture="atavi"
+	religion="hindu"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4478={ #Devnimori
+	terrain="hills"
+	culture="avanti"
+	religion="hindu"
+	trade_goods="cloth"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4479={ #Dasapura
+	terrain="plains"
+	culture="avanti"
+	religion="hindu"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4480={ #Ghosundi
+	terrain="forest"
+	culture="matsya"
+	religion="hindu"
+	trade_goods="stone"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4481={ #Barli
+	terrain="plains"
+	culture="shauraseni"
+	religion="ajivika"
+	trade_goods="stone"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4482={ #Kolvi
+	terrain="farmland"
+	culture="avanti"
+	religion="hindu"
+	trade_goods="stone"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4483={ #Kakanada
+	terrain="jungle"
+	culture="atavi"
+	religion="hindu"
+	trade_goods="glass"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4484={ #Pushkara
+	terrain="desert"
+	culture="shauraseni"
+	religion="hindu"
+	trade_goods="salt"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_brahma
+}
+
+4486={ #Devasabha
+	terrain="hills"
+	culture="cedi"
+	religion="hindu"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4497={ #Dadhipadra
+	terrain="plains"
+	culture="avanti"
+	religion="hindu"
+	trade_goods="leather"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4498={ #Dhammanahadika
+	terrain="plains"
+	culture="avanti"
+	religion="hindu"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4499={ #Navagramaka
+	terrain="plains"
+	culture="avanti"
+	religion="hindu"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7300={ #Ayanakagraha
+	terrain="forest"
+	culture="avanti"
+	religion="hindu"
+	trade_goods="earthware"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7301={ #Rajasayana
+	terrain="plains"
+	culture="avanti"
+	religion="hindu"
+	trade_goods="cloth"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7302={ #Kirthagiri
+	terrain="forest"
+	culture="matsya"
+	religion="jainism"
+	trade_goods="wild_game"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7303={ #Airakina
+	terrain="plains"
+	culture="matsya"
+	religion="hindu"
+	trade_goods="wild_game"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7304={ #Bhojapuri
+	terrain="plains"
+	culture="matsya"
+	religion="hindu"
+	trade_goods="cloth"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7305={ #Gopadri
+	terrain="forest"
+	culture="shauraseni"
+	religion="hindu"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7306={ #Ranasthambapura
+	terrain="hills"
+	culture="shauraseni"
+	religion="hindu"
+	trade_goods="stone"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7307={ #Sripatha
+	terrain="forest"
+	culture="shauraseni"
+	religion="hindu"
+	trade_goods="glass"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7308={ #Candhoba
+	terrain="forest"
+	culture="shauraseni"
+	religion="ajivika"
+	trade_goods="earthware"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_nanda_vaccha
+}
+
+7309={ #Mritti Kavati
+	terrain="plains"
+	culture="shauraseni"
+	religion="hindu"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7312={ #Tundikera
+	terrain="jungle"
+	culture="atavi"
+	religion="hindu"
+	trade_goods="stone"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7313={ #Kalumukha
+	terrain="jungle"
+	culture="atavi"
+	religion="hindu"
+	trade_goods="incense"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7387={ #Dausa
+	terrain="forest"
+	culture="shauraseni"
+	religion="hindu"
+	trade_goods="dye"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7388={ #Govindgarh
+	terrain="plains"
+	culture="shauraseni"
+	religion="hindu"
+	trade_goods="wood"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7389={ #Nehrawati
+	terrain="plains"
+	culture="shauraseni"
+	religion="hindu"
+	trade_goods="base_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7418={ #Brahampuri
+	terrain="hills"
+	culture="avanti"
+	religion="hindu"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7419={ #Simalwara
+	terrain="hills"
+	culture="avanti"
+	religion="roman_pantheon"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7425={ #Jhabua
+	terrain="farmland"
+	culture="avanti"
+	religion="hindu"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7426={ #Dhar
+	terrain="plains"
+	culture="avanti"
+	religion="hindu"
+	trade_goods="cloth"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7427={ #Banswara
+	terrain="plains"
+	culture="avanti"
+	religion="hindu"
+	trade_goods="wild_game"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7428={ #Manasa
+	terrain="plains"
+	culture="matsya"
+	religion="hindu"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7429={ #Pratapgarh
+	terrain="plains"
+	culture="avanti"
+	religion="hindu"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7430={ #Aspur
+	terrain="plains"
+	culture="avanti"
+	religion="hindu"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7431={ #Bhindar
+	terrain="forest"
+	culture="avanti"
+	religion="hindu"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7433={ #Binnayaga
+	terrain="plains"
+	culture="matsya"
+	religion="hindu"
+	trade_goods="incense"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7434={ #Candravati
+	terrain="forest"
+	culture="matsya"
+	religion="ajivika"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7435={ #Ramgarh
+	terrain="forest"
+	culture="matsya"
+	religion="hindu"
+	trade_goods="elephants"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7436={ #Kota
+	terrain="plains"
+	culture="matsya"
+	religion="hindu"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7437={ #Dhavagarta
+	terrain="hills"
+	culture="matsya"
+	religion="hindu"
+	trade_goods="glass"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7438={ #Mahanala
+	terrain="hills"
+	culture="matsya"
+	religion="hindu"
+	trade_goods="elephants"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7439={ #Bundi
+	terrain="hills"
+	culture="matsya"
+	religion="hindu"
+	trade_goods="elephants"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7440={ #Khandar
+	terrain="hills"
+	culture="matsya"
+	religion="hindu"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7441={ #Jirapur
+	terrain="farmland"
+	culture="avanti"
+	religion="hindu"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7442={ #Vyaghrapataka
+	terrain="plains"
+	culture="matsya"
+	religion="hindu"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7443={ #Narayana
+	terrain="plains"
+	culture="shauraseni"
+	religion="hindu"
+	trade_goods="salt"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7444={ #Dhawalpur
+	terrain="forest"
+	culture="shauraseni"
+	religion="hindu"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7445={ #Sheopur
+	terrain="forest"
+	culture="shauraseni"
+	religion="hindu"
+	trade_goods="wood"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7446={ #Sabalgarh
+	terrain="forest"
+	culture="shauraseni"
+	religion="hindu"
+	trade_goods="wood"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7447={ #Rajyapura
+	terrain="forest"
+	culture="shauraseni"
+	religion="hindu"
+	trade_goods="elephants"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7448={ #Jhalawar
+	terrain="plains"
+	culture="matsya"
+	religion="hindu"
+	trade_goods="leather"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7449={ #Guna
+	terrain="forest"
+	culture="matsya"
+	religion="hindu"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7450={ #Sarangpur
+	terrain="farmland"
+	culture="avanti"
+	religion="hindu"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7451={ #Seoni
+	terrain="jungle"
+	culture="atavi"
+	religion="hindu"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7452={ #Chhindwara
+	terrain="jungle"
+	culture="atavi"
+	religion="hindu"
+	trade_goods="elephants"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7454={ #Mandla
+	terrain="jungle"
+	culture="atavi"
+	religion="hindu"
+	trade_goods="elephants"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7457={ #Handia
+	terrain="jungle"
+	culture="atavi"
+	religion="hindu"
+	trade_goods="wild_game"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7458={ #Chauragarh
+	terrain="jungle"
+	culture="atavi"
+	religion="hindu"
+	trade_goods="wood"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7459={ #Sihora
+	terrain="jungle"
+	culture="atavi"
+	religion="hindu"
+	trade_goods="elephants"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7460={ #Mauranipur
+	terrain="forest"
+	culture="shauraseni"
+	religion="hindu"
+	trade_goods="stone"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7461={ #Tehri
+	terrain="forest"
+	culture="shauraseni"
+	religion="hindu"
+	trade_goods="hemp"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7462={ #Chanderi
+	terrain="forest"
+	culture="shauraseni"
+	religion="jainism"
+	trade_goods="wood"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7463={ #Dudahi
+	terrain="hills"
+	culture="atavi"
+	religion="hindu"
+	trade_goods="elephants"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7464={ #Bina
+	terrain="forest"
+	culture="matsya"
+	religion="jainism"
+	trade_goods="wood"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7465={ #Shivpuri
+	terrain="forest"
+	culture="shauraseni"
+	religion="hindu"
+	trade_goods="hemp"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7466={ #Bhand Deva
+	terrain="forest"
+	culture="matsya"
+	religion="hindu"
+	trade_goods="wild_game"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7469={ #Gujjar
+	terrain="forest"
+	culture="atavi"
+	religion="hindu"
+	trade_goods="spices"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+

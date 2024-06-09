@@ -1,0 +1,857 @@
+﻿445={ #Leukaspis
+	terrain="desert"
+	culture="egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="fish"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+453={ #Taposiris Megale
+	terrain="desert"
+	culture="egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="salt"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+500={ #Memphis
+	terrain="flood_plain"
+	culture="egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="papyrus"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_ptah
+}
+
+501={ #Heliopolis
+	terrain="flood_plain"
+	culture="egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="cloth"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_ra
+}
+
+502={ #Heroopolis
+	terrain="desert"
+	culture="egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="cloth"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+503={ #Boubastis
+	terrain="flood_plain"
+	culture="egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_bastet #Patron goddess of Per-Bast/Bubastis
+}
+
+504={ #Leontopolis
+	terrain="flood_plain"
+	culture="egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="papyrus"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_sekhmet
+}
+
+505={ #Klysma
+	terrain="desert"
+	culture="egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="cloth"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	port_building=1
+}
+
+506={ #Arsinoe
+	terrain="desert"
+	culture="egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="leather"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_miriam
+}
+
+507={ #Leonton Polis
+	terrain="flood_plain"
+	culture="egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="papyrus"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	port_building=1
+}
+
+508={ #Tanis
+	terrain="marsh"
+	culture="egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="papyrus"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+509={ #Pilousion
+	terrain="marsh"
+	culture="egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="cloth"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	port_building=1
+}
+
+510={ #Daphnai Pelousiai
+	terrain="flood_plain"
+	culture="egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="papyrus"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+511={ #Phakousai
+	terrain="flood_plain"
+	culture="egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_joseph
+}
+
+512={ #Letous Polis
+	terrain="flood_plain"
+	culture="egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+513={ #Athribis
+	terrain="flood_plain"
+	culture="egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+514={ #Nikiou
+	terrain="flood_plain"
+	culture="egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+515={ #Naukratis
+	terrain="flood_plain"
+	culture="macedonian"
+	religion="roman_pantheon"
+	trade_goods="glass"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+516={ #Alexandreia
+	terrain="flood_plain"
+	culture="macedonian"
+	religion="roman_pantheon"
+	trade_goods="glass"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_alexander
+	port_building=3
+	library_building=3
+	commerce_building=2
+	court_building=1
+}
+
+517={ #Hermopolis Mikra
+	terrain="flood_plain"
+	culture="egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="earthware"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	port_building=1
+}
+
+518={ #Boutos
+	terrain="marsh"
+	culture="egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="papyrus"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_wadjet
+}
+
+519={ #Sais
+	terrain="flood_plain"
+	culture="egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="wine"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_neith #Patron goddess of Zau/Sais, moved from Latopolis
+	port_building=1
+}
+
+520={ #Xois
+	terrain="flood_plain"
+	culture="egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+521={ #Sebennytos
+	terrain="flood_plain"
+	culture="egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="hemp"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	port_building=1
+}
+
+522={ #Diospolis Kato
+	terrain="marsh"
+	culture="egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="papyrus"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	port_building=1
+}
+
+523={ #Pachneumounis
+	terrain="marsh"
+	culture="egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="fish"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+524={ #Pharbaithos
+	terrain="flood_plain"
+	culture="egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+525={ #Sile
+	terrain="desert"
+	culture="egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+526={ #Onouphis Ano
+	terrain="flood_plain"
+	culture="egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="dates"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+527={ #Momemphis
+	terrain="flood_plain"
+	culture="macedonian"
+	religion="roman_pantheon"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+528={ #Iseion
+	terrain="flood_plain"
+	culture="egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+529={ #Kanopos
+	terrain="flood_plain"
+	culture="egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="dye"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	port_building=1
+}
+
+530={ #Bolbitine
+	terrain="marsh"
+	culture="egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="fish"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+531={ #Psenemphaia
+	terrain="flood_plain"
+	culture="egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="dates"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+532={ #Chaireon
+	terrain="flood_plain"
+	culture="egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+533={ #Boutike Limne
+	terrain="marsh"
+	culture="egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="fish"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+534={ #Mendes
+	terrain="flood_plain"
+	culture="egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="earthware"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_banebdjedet
+}
+
+535={ #Ostrakine
+	terrain="desert"
+	culture="egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+536={ #Babylon Aigyptou
+	terrain="flood_plain"
+	culture="egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="stone"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	port_building=1
+}
+
+537={ #Panarachthis
+	terrain="flood_plain"
+	culture="middle_egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="cloth"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+538={ #Aphroditopolis
+	terrain="flood_plain"
+	culture="middle_egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="cloth"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+539={ #Ptolemais Euergetis
+	terrain="oasis"
+	culture="middle_egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="marble"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_sobek
+}
+
+540={ #Dionysias
+	terrain="oasis"
+	culture="macedonian"
+	religion="roman_pantheon"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+541={ #Karanis
+	terrain="oasis"
+	culture="middle_egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+542={ #Ankyronpolis
+	terrain="flood_plain"
+	culture="middle_egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+543={ #Neiloupolis
+	terrain="flood_plain"
+	culture="middle_egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="wine"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+544={ #Herakleiopolis
+	terrain="flood_plain"
+	culture="middle_egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_heryshaf #Patron god of Henen-nesut/Herakleiopolis, replaced Set as he no longer possessed a significant cult
+}
+
+545={ #Oxyrrhynchos
+	terrain="flood_plain"
+	culture="middle_egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+546={ #Kynopolis
+	terrain="flood_plain"
+	culture="middle_egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="stone"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+547={ #Chysis
+	terrain="flood_plain"
+	culture="middle_egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+548={ #Alabastronpolis
+	terrain="flood_plain"
+	culture="middle_egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="precious_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+550={ #Peentalis
+	terrain="flood_plain"
+	culture="middle_egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+655={ #Serapieion
+	terrain="desert"
+	culture="macedonian"
+	religion="egyptian_pantheon"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+656={ #Rhinokoloura
+	terrain="desert"
+	culture="phoenician"
+	religion="carthaginian_pantheon"
+	trade_goods="salt"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+701={ #Maghara
+	terrain="desert"
+	culture="phoenician"
+	religion="egyptian_pantheon"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1600={ #Medeia
+	terrain="desert"
+	culture="nabatean"
+	religion="arabian_pantheon"
+	trade_goods="fish"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1604={ #Phoinikon
+	terrain="desert"
+	culture="egyptian"
+	religion="arabian_pantheon"
+	trade_goods="glass"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1675={ #Pharan
+	terrain="desert_hills"
+	culture="nabatean"
+	religion="arabian_pantheon"
+	trade_goods="fish"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1682={ #Rhaithou
+	terrain="desert"
+	culture="nabatean"
+	religion="arabian_pantheon"
+	trade_goods="gems"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1684={ #Ain Hudera
+	terrain="desert_hills"
+	culture="nabatean"
+	religion="arabian_pantheon"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1688={ #Nuweiba
+	terrain="desert"
+	culture="nabatean"
+	religion="arabian_pantheon"
+	trade_goods="fish"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1693={ #Oros Choreb
+	terrain="desert_hills"
+	culture="nabatean"
+	religion="arabian_pantheon"
+	trade_goods="gems"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_moses
+}
+
+1708={ #Tell el-Mashraba
+	terrain="desert_hills"
+	culture="nabatean"
+	religion="arabian_pantheon"
+	trade_goods="fish"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1709={ #Naqb Jedid
+	terrain="desert"
+	culture="nabatean"
+	religion="arabian_pantheon"
+	trade_goods="marble"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1710={ #Sinai Boreioi
+	terrain="desert"
+	culture="nabatean"
+	religion="arabian_pantheon"
+	trade_goods="marble"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+5531={ #Oasis Deutera
+	terrain="oasis"
+	culture="oasis_egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="camel"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+5532={ #Kom Namrud
+	terrain="desert"
+	culture="middle_egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="dates"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+5533={ #Berku
+	terrain="desert"
+	culture="middle_egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="camel"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+5534={ #Varam
+	terrain="desert"
+	culture="oasis_egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="base_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+5535={ #Colira
+	terrain="desert"
+	culture="oasis_egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="leather"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+5541={ #Shunne
+	terrain="desert"
+	culture="libyan"
+	religion="egyptian_pantheon"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+5542={ #Murta
+	terrain="desert"
+	culture="libyan"
+	religion="egyptian_pantheon"
+	trade_goods="fur"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+5543={ #Magrab
+	terrain="desert"
+	culture="libyan"
+	religion="egyptian_pantheon"
+	trade_goods="dates"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+5544={ #Geron
+	terrain="desert"
+	culture="libyan"
+	religion="egyptian_pantheon"
+	trade_goods="leather"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+5546={ #Pseneros
+	terrain="desert"
+	culture="middle_egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="dates"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+5547={ #Philoteris
+	terrain="oasis"
+	culture="middle_egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="dates"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+5548={ #Kerkethoris
+	terrain="desert"
+	culture="middle_egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="wild_game"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+5549={ #Takiris
+	terrain="flood_plain"
+	culture="middle_egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7668={ #Bilbeis
+	terrain="flood_plain"
+	culture="egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="earthware"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7688={ #Thenisos
+	terrain="marsh"
+	culture="egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="cloth"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7689={ #Hermou Polis
+	terrain="flood_plain"
+	culture="egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	#holy_site=omen_thoth - Moved to Hermopolis Magna
+}
+
+7690={ #Tamiathis
+	terrain="marsh"
+	culture="egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="papyrus"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7691={ #Perseos Skope
+	terrain="marsh"
+	culture="egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="papyrus"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+

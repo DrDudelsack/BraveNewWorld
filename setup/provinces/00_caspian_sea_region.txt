@@ -1,0 +1,288 @@
+﻿2988={ #Mare Hyrcanum
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+2989={ #Mare Hyrcanum
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+2990={ #Mare Hyrcanum
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+2991={ #Mare Hyrcanum
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+2992={ #Mare Hyrcanum
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+2993={ #Mare Hyrcanum
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+2994={ #Mare Hyrcanum
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+2995={ #Mare Hyrcanum
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+2996={ #Mare Hyrcanum
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+2997={ #Mare Hyrcanum
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+2998={ #Mare Hyrcanum
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+2999={ #Mare Hyrcanum
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+4569={ #Mare Hyrcanum
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+4570={ #Mare Hyrcanum
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+4571={ #Mare Hyrcanum
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+4572={ #Mare Hyrcanum
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+4573={ #Mare Hyrcanum
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+4574={ #Mare Hyrcanum
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+4575={ #Mare Hyrcanum
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+4576={ #Mare Hyrcanum
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+4577={ #Mare Hyrcanum
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+4578={ #Mare Hyrcanum
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+4579={ #Mare Hyrcanum
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+4580={ #Mare Hyrcanum
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+4581={ #Mare Hyrcanum
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+4582={ #Mare Hyrcanum
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+4583={ #Mare Hyrcanum
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+4584={ #Mare Hyrcanum
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+4585={ #Mare Hyrcanum
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+4586={ #Mare Hyrcanum
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+4587={ #Mare Hyrcanum
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+4588={ #Mare Hyrcanum
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+

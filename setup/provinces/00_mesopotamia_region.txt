@@ -1,0 +1,957 @@
+﻿824={ #Chabora
+	terrain="desert"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods="wild_game"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+825={ #Magdala
+	terrain="desert"
+	culture="aramaic"
+	religion="mesopotamian_religion"
+	trade_goods="leather"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+826={ #Appadana
+	terrain="desert"
+	culture="aramaic"
+	religion="mesopotamian_religion"
+	trade_goods="camel"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+827={ #Phaliga
+	terrain="desert"
+	culture="aramaic"
+	religion="mesopotamian_religion"
+	trade_goods="stone"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+828={ #Asicha
+	terrain="desert"
+	culture="qedarite"
+	religion="arabian_pantheon"
+	trade_goods="wild_game"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+829={ #Doura Europos
+	terrain="desert"
+	culture="macedonian"
+	religion="roman_pantheon"
+	trade_goods="stone"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+835={ #Hatra
+	terrain="desert"
+	culture="qedarite"
+	religion="arabian_pantheon"
+	trade_goods="horses"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+883={ #Libanai
+	terrain="plains"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods="earthware"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_ashshur
+}
+
+885={ #Kyparisson
+	terrain="plains"
+	culture="assyrian"
+	religion="zoroaster"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+888={ #Lair
+	terrain="plains"
+	culture="assyrian"
+	religion="zoroaster"
+	trade_goods="honey"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+889={ #Physkon
+	terrain="plains"
+	culture="babylonian"
+	religion="zoroaster"
+	trade_goods="wild_game"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+890={ #Gouba
+	terrain="plains"
+	culture="babylonian"
+	religion="zoroaster"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+891={ #Birtha
+	terrain="plains"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods="wild_game"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+892={ #Doura
+	terrain="plains"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+893={ #Souma
+	terrain="plains"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods="earthware"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+894={ #Apameia Archidos
+	terrain="flood_plain"
+	culture="babylonian"
+	religion="mesopotamian_religion"
+	trade_goods="dates"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+895={ #Apollonia Tigridos
+	terrain="flood_plain"
+	culture="babylonian"
+	religion="mesopotamian_religion"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+896={ #Artemita
+	terrain="plains"
+	culture="macedonian"
+	religion="roman_pantheon"
+	trade_goods="fruits"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+897={ #Daskara
+	terrain="plains"
+	culture="babylonian"
+	religion="zoroaster"
+	trade_goods="wine"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+898={ #Nikatoropolis
+	terrain="flood_plain"
+	culture="babylonian"
+	religion="mesopotamian_religion"
+	trade_goods="dates"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+899={ #Antiocheia Opida
+	terrain="flood_plain"
+	culture="babylonian"
+	religion="mesopotamian_religion"
+	trade_goods="earthware"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+900={ #Symbra
+	terrain="flood_plain"
+	culture="babylonian"
+	religion="mesopotamian_religion"
+	trade_goods="glass"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+901={ #Kounaxa
+	terrain="flood_plain"
+	culture="babylonian"
+	religion="mesopotamian_religion"
+	trade_goods="honey"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+902={ #Misiche
+	terrain="desert"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods="leather"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+903={ #Karbela
+	terrain="desert"
+	culture="babylonian"
+	religion="mesopotamian_religion"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+904={ #Isiopolis
+	terrain="desert"
+	culture="qedarite"
+	religion="arabian_pantheon"
+	trade_goods="leather"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+905={ #Bechchouphrein
+	terrain="desert"
+	culture="qedarite"
+	religion="arabian_pantheon"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+906={ #Anatho
+	terrain="desert"
+	culture="qedarite"
+	religion="arabian_pantheon"
+	trade_goods="leather"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+907={ #Haradon
+	terrain="desert"
+	culture="qedarite"
+	religion="arabian_pantheon"
+	trade_goods="wild_game"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+908={ #Eddana
+	terrain="desert"
+	culture="qedarite"
+	religion="arabian_pantheon"
+	trade_goods="leather"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+909={ #Neardea
+	terrain="flood_plain"
+	culture="babylonian"
+	religion="mesopotamian_religion"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+910={ #Seleukeia Euphratos
+	terrain="flood_plain"
+	culture="babylonian"
+	religion="mesopotamian_religion"
+	trade_goods="cloth" #changed from grain
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_shamash
+}
+
+911={ #Seleukeia
+	terrain="flood_plain"
+	culture="macedonian"
+	religion="roman_pantheon"
+	trade_goods="papyrus"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+912={ #Ktesiphon
+	terrain="flood_plain"
+	culture="babylonian"
+	religion="mesopotamian_religion"
+	trade_goods="papyrus"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	port_building=1
+}
+
+913={ #Meinas Sabattha
+	terrain="flood_plain"
+	culture="babylonian"
+	religion="mesopotamian_religion"
+	trade_goods="glass"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_nergal
+}
+
+914={ #Opis
+	terrain="flood_plain"
+	culture="macedonian"
+	religion="roman_pantheon"
+	trade_goods="elephants"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+915={ #Koutha
+	terrain="flood_plain"
+	culture="babylonian"
+	religion="mesopotamian_religion"
+	trade_goods="wine" #changed from fruits
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_ereshkigal
+}
+
+916={ #Barophtas
+	terrain="flood_plain"
+	culture="babylonian"
+	religion="mesopotamian_religion"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+917={ #Pakoria
+	terrain="flood_plain"
+	culture="babylonian"
+	religion="mesopotamian_religion"
+	trade_goods="fruits"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+918={ #Babylon
+	terrain="flood_plain"
+	culture="babylonian"
+	religion="mesopotamian_religion"
+	trade_goods="earthware"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_marduk
+	port_building=1
+}
+
+919={ #Borsippa
+	terrain="flood_plain"
+	culture="babylonian"
+	religion="mesopotamian_religion"
+	trade_goods="cloth"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_nabu
+}
+
+920={ #Soura
+	terrain="flood_plain"
+	culture="babylonian"
+	religion="mesopotamian_religion"
+	trade_goods="wine"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+921={ #Belgynaia
+	terrain="flood_plain"
+	culture="babylonian"
+	religion="mesopotamian_religion"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+922={ #Alexandreia Pallakotas
+	terrain="desert"
+	culture="babylonian"
+	religion="mesopotamian_religion"
+	trade_goods="camel"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_ezekiel
+}
+
+923={ #Pharga
+	terrain="flood_plain"
+	culture="babylonian"
+	religion="mesopotamian_religion"
+	trade_goods="leather"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+924={ #Baliktanor
+	terrain="flood_plain"
+	culture="babylonian"
+	religion="mesopotamian_religion"
+	trade_goods="cloth"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+925={ #Laodikeia Chaldaias
+	terrain="plains"
+	culture="babylonian"
+	religion="mesopotamian_religion"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+926={ #Diadochoupolis
+	terrain="flood_plain"
+	culture="babylonian"
+	religion="mesopotamian_religion"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+927={ #Sittake
+	terrain="flood_plain"
+	culture="macedonian"
+	religion="roman_pantheon"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+928={ #Derou
+	terrain="hills"
+	culture="babylonian"
+	religion="mesopotamian_religion"
+	trade_goods="honey"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+929={ #Nippour
+	terrain="flood_plain"
+	culture="babylonian"
+	religion="mesopotamian_religion"
+	trade_goods="glass"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_enlil
+}
+
+930={ #Balagaia
+	terrain="flood_plain"
+	culture="babylonian"
+	religion="mesopotamian_religion"
+	trade_goods="horses"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_bau
+}
+
+931={ #Kolarina
+	terrain="flood_plain"
+	culture="babylonian"
+	religion="mesopotamian_religion"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_nanaya
+}
+
+932={ #Dabron
+	terrain="flood_plain"
+	culture="babylonian"
+	religion="mesopotamian_religion"
+	trade_goods="horses"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+933={ #Apameia Tigridos
+	terrain="flood_plain"
+	culture="macedonian"
+	religion="roman_pantheon"
+	trade_goods="dates"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+934={ #Apameia Selaios
+	terrain="flood_plain"
+	culture="babylonian"
+	religion="mesopotamian_religion"
+	trade_goods="wine"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+935={ #Pantibiblos
+	terrain="flood_plain"
+	culture="babylonian"
+	religion="mesopotamian_religion"
+	trade_goods="steppe_horses"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+936={ #Antiocheia Inannos
+	terrain="flood_plain"
+	culture="babylonian"
+	religion="mesopotamian_religion"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+937={ #Orchoe
+	terrain="flood_plain"
+	culture="babylonian"
+	religion="mesopotamian_religion"
+	trade_goods="base_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_ishtar
+}
+
+938={ #Nina
+	terrain="flood_plain"
+	culture="babylonian"
+	religion="mesopotamian_religion"
+	trade_goods="spices"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+939={ #Alexandreia Euphratos
+	terrain="flood_plain"
+	culture="babylonian"
+	religion="mesopotamian_religion"
+	trade_goods="earthware" #changed from vegetables
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+940={ #Antiocheia Sousianes
+	terrain="flood_plain"
+	culture="macedonian"
+	religion="roman_pantheon"
+	trade_goods="cloth"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	port_building=3
+	holy_site=omen_nanshe
+}
+
+941={ #Oratha
+	terrain="flood_plain"
+	culture="babylonian"
+	religion="zoroaster"
+	trade_goods="dates"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+942={ #Apologou Emporion
+	terrain="marsh"
+	culture="macedonian"
+	religion="roman_pantheon"
+	trade_goods="dates"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_ezra
+}
+
+953={ #Achaiachala
+	terrain="desert"
+	culture="qedarite"
+	religion="arabian_pantheon"
+	trade_goods="leather"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+954={ #Haditha
+	terrain="desert"
+	culture="qedarite"
+	religion="arabian_pantheon"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+955={ #Gorbatha
+	terrain="plains"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+956={ #Peloriarcha
+	terrain="desert"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods="wild_game"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+958={ #Hurhisht
+	terrain="hills"
+	culture="assyrian"
+	religion="zoroaster"
+	trade_goods="leather"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+959={ #Siasouron
+	terrain="hills"
+	culture="assyrian"
+	religion="zoroaster"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+960={ #Theboura
+	terrain="flood_plain"
+	culture="babylonian"
+	religion="mesopotamian_religion"
+	trade_goods="fruits"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+961={ #Doumatha
+	terrain="flood_plain"
+	culture="babylonian"
+	religion="mesopotamian_religion"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+962={ #Saouara
+	terrain="flood_plain"
+	culture="babylonian"
+	religion="mesopotamian_religion"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+963={ #Ikaros
+	terrain="plains"
+	culture="macedonian"
+	religion="roman_pantheon"
+	trade_goods="wine"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+964={ #Diridotis
+	terrain="marsh"
+	culture="babylonian"
+	religion="zoroaster"
+	trade_goods="earthware"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	port_building=1
+}
+
+965={ #Apphana
+	terrain="marsh"
+	culture="babylonian"
+	religion="zoroaster"
+	trade_goods="dates"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+968={ #Eridou
+	terrain="desert"
+	culture="babylonian"
+	religion="mesopotamian_religion"
+	trade_goods="dates"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_ea
+}
+
+969={ #Seleukeia Erythraia
+	terrain="marsh"
+	culture="elamite"
+	religion="mesopotamian_religion"
+	trade_goods="dates"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+971={ #Ampe
+	terrain="marsh"
+	culture="babylonian"
+	religion="zoroaster"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+973={ #Kissia
+	terrain="flood_plain"
+	culture="babylonian"
+	religion="mesopotamian_religion"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+974={ #Kossaia
+	terrain="hills"
+	culture="babylonian"
+	religion="mesopotamian_religion"
+	trade_goods="leather"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+976={ #Sabdata
+	terrain="flood_plain"
+	culture="babylonian"
+	religion="mesopotamian_religion"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+977={ #Boubia
+	terrain="plains"
+	culture="babylonian"
+	religion="mesopotamian_religion"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+979={ #Charra
+	terrain="plains"
+	culture="babylonian"
+	religion="mesopotamian_religion"
+	trade_goods="fruits"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+981={ #Chala
+	terrain="hills"
+	culture="macedonian"
+	religion="roman_pantheon"
+	trade_goods="leather"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+982={ #Zagros
+	terrain="hills"
+	culture="assyrian"
+	religion="zoroaster"
+	trade_goods="leather"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+983={ #Paikoulis
+	terrain="hills"
+	culture="assyrian"
+	religion="zoroaster"
+	trade_goods="stone"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1603={ #Zagrou Pylai
+	terrain="mountain"
+	culture="cossian"
+	religion="mesopotamian_religion"
+	trade_goods="stone"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4970={ #Zaranis
+	terrain="mountain"
+	culture="cossian"
+	religion="mesopotamian_religion"
+	trade_goods="marble"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+4971={ #Sabatika
+	terrain="mountain"
+	culture="cossian"
+	religion="mesopotamian_religion"
+	trade_goods="marble"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+5399={ #Hawmah
+	terrain="desert"
+	culture="babylonian"
+	religion="mesopotamian_religion"
+	trade_goods="camel"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7566={ #Arabia Deserta
+	terrain="desert"
+	culture="qedarite"
+	religion="arabian_pantheon"
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+7567={ #Arabia Deserta
+	terrain="desert"
+	culture="babylonian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+
+7723={ #Charmande
+	terrain="flood_plain"
+	culture="babylonian"
+	religion="mesopotamian_religion"
+	trade_goods="dates"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_sin
+}
+

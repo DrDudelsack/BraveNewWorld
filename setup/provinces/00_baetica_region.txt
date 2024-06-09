@@ -1,0 +1,1024 @@
+﻿1276={ #Baria
+	terrain="plains"
+	culture="bastetanian"
+	religion="animism"
+	trade_goods="wine"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	port_building=1
+}
+
+1278={ #'Orki
+	terrain="hills"
+	culture="carthaginian"
+	religion="carthaginian_pantheon"
+	trade_goods="precious_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	port_building=1
+}
+
+1282={ #Murgi
+	terrain="hills"
+	culture="bastetanian"
+	religion="animism"
+	trade_goods="fish"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1283={ #'Obed 'El
+	terrain="hills"
+	culture="carthaginian"
+	religion="carthaginian_pantheon"
+	trade_goods="wood"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	port_building=1
+}
+
+1284={ #Aboula
+	terrain="plains"
+	culture="bastetanian"
+	religion="animism"
+	trade_goods="base_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1285={ #Accis
+	terrain="hills"
+	culture="bastetanian"
+	religion="animism"
+	trade_goods="stone"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1286={ #Ilugo
+	terrain="hills"
+	culture="oretanian"
+	religion="animism"
+	trade_goods="precious_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1287={ #Salaria
+	terrain="hills"
+	culture="oretanian"
+	religion="animism"
+	trade_goods="precious_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_semnocosus
+}
+
+1324={ #Mirobriga Couneia
+	terrain="plains"
+	culture="couneian"
+	religion="druidism"
+	trade_goods="iron"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1330={ #Patulus Portus
+	terrain="plains"
+	culture="couneian"
+	religion="druidism"
+	trade_goods="salt"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	port_building=1
+}
+
+1333={ #Portus Cibilis
+	terrain="hills"
+	culture="couneian"
+	religion="druidism"
+	trade_goods="base_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1334={ #Ossonoba
+	terrain="plains"
+	culture="couneian"
+	religion="druidism"
+	trade_goods="wood"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	port_building=1
+}
+
+1335={ #Baesuri
+	terrain="plains"
+	culture="turdetanian"
+	religion="carthaginian_pantheon"
+	trade_goods="wine"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1336={ #Mirobigensia
+	terrain="plains"
+	culture="couneian"
+	religion="druidism"
+	trade_goods="iron"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1337={ #Couneia
+	terrain="plains"
+	culture="couneian"
+	religion="druidism"
+	trade_goods="wine"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1338={ #Tartessia
+	terrain="farmland"
+	culture="turdetanian"
+	religion="druidism"
+	trade_goods="olive"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1339={ #Onuba
+	terrain="plains"
+	culture="turdetanian"
+	religion="carthaginian_pantheon"
+	trade_goods="leather"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	port_building=1
+}
+
+1340={ #Ad Rubras
+	terrain="plains"
+	culture="turdetanian"
+	religion="carthaginian_pantheon"
+	trade_goods="olive"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1341={ #Turta
+	terrain="marsh"
+	culture="turdetanian"
+	religion="carthaginian_pantheon"
+	trade_goods="salt"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	port_building=1
+}
+
+1342={ #Hasta
+	terrain="marsh"
+	culture="turdetanian"
+	religion="carthaginian_pantheon"
+	trade_goods="salt"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	port_building=1
+}
+
+1343={ #Nabrissa
+	terrain="marsh"
+	culture="turdetanian"
+	religion="carthaginian_pantheon"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1344={ #Gadir
+	terrain="plains"
+	culture="carthaginian"
+	religion="carthaginian_pantheon"
+	trade_goods="spices"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	port_building=1
+}
+
+1345={ #Margalon
+	terrain="plains"
+	culture="carthaginian"
+	religion="carthaginian_pantheon"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1346={ #Lascuta
+	terrain="hills"
+	culture="turdetanian"
+	religion="carthaginian_pantheon"
+	trade_goods="base_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1347={ #Baylon
+	terrain="plains"
+	culture="carthaginian"
+	religion="carthaginian_pantheon"
+	trade_goods="fish"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	port_building=1
+}
+
+1348={ #Qart 'I
+	terrain="hills"
+	culture="carthaginian"
+	religion="carthaginian_pantheon"
+	trade_goods="dye"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	port_building=1
+}
+
+1349={ #Oba
+	terrain="hills"
+	culture="turdetanian"
+	religion="animism"
+	trade_goods="olive"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1350={ #Acinippo
+	terrain="hills"
+	culture="turdetanian"
+	religion="animism"
+	trade_goods="base_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	port_building=1
+}
+
+1351={ #Turirecina
+	terrain="plains"
+	culture="turdetanian"
+	religion="animism"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1352={ #Ocuri
+	terrain="hills"
+	culture="turdetanian"
+	religion="animism"
+	trade_goods="olive"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1353={ #Urgia
+	terrain="plains"
+	culture="turdetanian"
+	religion="animism"
+	trade_goods="earthware"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1354={ #Carissa
+	terrain="plains"
+	culture="turdetanian"
+	religion="animism"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1355={ #Ispal
+	terrain="plains"
+	culture="turdetanian"
+	religion="carthaginian_pantheon"
+	trade_goods="horses" #Swapped tradegoods with Osset, as this appears to be what was intended by Paradox
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1356={ #Orippo
+	terrain="farmland"
+	culture="turdetanian"
+	religion="animism"
+	trade_goods="iron"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1357={ #Osset
+	terrain="plains"
+	culture="turdetanian"
+	religion="animism"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1358={ #Olontigi
+	terrain="farmland"
+	culture="turdetanian"
+	religion="carthaginian_pantheon"
+	trade_goods="leather"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1359={ #Ilpulla
+	terrain="farmland"
+	culture="turdetanian"
+	religion="carthaginian_pantheon"
+	trade_goods="base_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1360={ #Lucurgentum
+	terrain="plains"
+	culture="turdetanian"
+	religion="animism"
+	trade_goods="wine"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1361={ #Suel
+	terrain="hills"
+	culture="turdetanian"
+	religion="animism"
+	trade_goods="dye"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1362={ #Malako'
+	terrain="hills"
+	culture="carthaginian"
+	religion="carthaginian_pantheon"
+	trade_goods="salt"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	port_building=1
+}
+
+1363={ #Cartima
+	terrain="hills"
+	culture="turdetanian"
+	religion="animism"
+	trade_goods="base_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1364={ #Arunda
+	terrain="hills"
+	culture="turdetanian"
+	religion="animism"
+	trade_goods="horses"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1365={ #Nescania
+	terrain="hills"
+	culture="turdetanian"
+	religion="animism"
+	trade_goods="wood"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1366={ #Menaqo
+	terrain="hills"
+	culture="bastetanian"
+	religion="animism"
+	trade_goods="fish"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1367={ #Tziktz
+	terrain="hills"
+	culture="carthaginian"
+	religion="carthaginian_pantheon"
+	trade_goods="iron"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1368={ #Irni
+	terrain="plains"
+	culture="turdetanian"
+	religion="animism"
+	trade_goods="stone"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1369={ #Urso
+	terrain="plains"
+	culture="turdetanian"
+	religion="animism"
+	trade_goods="wood"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1370={ #Basilippo
+	terrain="plains"
+	culture="turdetanian"
+	religion="animism"
+	trade_goods="wood"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1371={ #Astigi
+	terrain="plains"
+	culture="turdetanian"
+	religion="animism"
+	trade_goods="cloth"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1372={ #Celti
+	terrain="farmland"
+	culture="turdetanian"
+	religion="animism"
+	trade_goods="stone"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1373={ #Naeva
+	terrain="farmland"
+	culture="turdetanian"
+	religion="animism"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1374={ #Karmo
+	terrain="farmland"
+	culture="turdetanian"
+	religion="animism"
+	trade_goods="cloth"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1375={ #Lauro
+	terrain="plains"
+	culture="turdetanian"
+	religion="animism"
+	trade_goods="stone"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1376={ #Sabetanum
+	terrain="plains"
+	culture="turdetanian"
+	religion="animism"
+	trade_goods="olive"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1377={ #Kartuba
+	terrain="farmland"
+	culture="turdetanian"
+	religion="animism"
+	trade_goods="wine"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1378={ #Epora
+	terrain="plains"
+	culture="turdetanian"
+	religion="animism"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1379={ #Sucia
+	terrain="plains"
+	culture="turdetanian"
+	religion="animism"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1380={ #Isiturgis
+	terrain="hills"
+	culture="turdetanian"
+	religion="animism"
+	trade_goods="fish"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1381={ #Kastilo
+	terrain="plains"
+	culture="oretanian"
+	religion="animism"
+	trade_goods="leather"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1382={ #Vivatia
+	terrain="hills"
+	culture="oretanian"
+	religion="animism"
+	trade_goods="precious_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1383={ #Iliturgis
+	terrain="plains"
+	culture="oretanian"
+	religion="animism"
+	trade_goods="fish"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1384={ #Baecula
+	terrain="hills"
+	culture="oretanian"
+	religion="animism"
+	trade_goods="leather"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1385={ #Elvira
+	terrain="hills"
+	culture="bastetanian"
+	religion="animism"
+	trade_goods="olive"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1386={ #Claritas Iulia
+	terrain="farmland"
+	culture="turdetanian"
+	religion="animism"
+	trade_goods="fruits"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1387={ #Ituci
+	terrain="plains"
+	culture="turdetanian"
+	religion="animism"
+	trade_goods="base_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1388={ #Anticaria
+	terrain="hills"
+	culture="turdetanian"
+	religion="animism"
+	trade_goods="stone"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1389={ #Ad Gemellas
+	terrain="hills"
+	culture="turdetanian"
+	religion="animism"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1390={ #Igabrum
+	terrain="hills"
+	culture="turdetanian"
+	religion="animism"
+	trade_goods="precious_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1391={ #Cisimbrium
+	terrain="hills"
+	culture="turdetanian"
+	religion="animism"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1392={ #Antecaria
+	terrain="hills"
+	culture="turdetanian"
+	religion="animism"
+	trade_goods="olive"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1393={ #Ipolcobulcola
+	terrain="hills"
+	culture="oretanian"
+	religion="animism"
+	trade_goods="wine"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1394={ #Iliturgicola
+	terrain="hills"
+	culture="oretanian"
+	religion="animism"
+	trade_goods="spices"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1395={ #Tucci
+	terrain="hills"
+	culture="oretanian"
+	religion="animism"
+	trade_goods="leather"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1396={ #Vergilia
+	terrain="hills"
+	culture="oretanian"
+	religion="animism"
+	trade_goods="olive"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1397={ #Ebura
+	terrain="hills"
+	culture="bastetanian"
+	religion="animism"
+	trade_goods="olive"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1398={ #Calecula
+	terrain="hills"
+	culture="bastetanian"
+	religion="animism"
+	trade_goods="wine"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1399={ #Baesucci
+	terrain="hills"
+	culture="oretanian"
+	religion="animism"
+	trade_goods="wood"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1404={ #Flavium Velares
+	terrain="hills"
+	culture="turdulian"
+	religion="animism"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1405={ #Regina
+	terrain="hills"
+	culture="turdulian"
+	religion="animism"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1406={ #Artigi
+	terrain="plains"
+	culture="turdulian"
+	religion="druidism"
+	trade_goods="leather"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1409={ #Munigua
+	terrain="plains"
+	culture="turdetanian"
+	religion="animism"
+	trade_goods="base_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1410={ #Ilipa
+	terrain="plains"
+	culture="turdetanian"
+	religion="animism"
+	trade_goods="iron"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1411={ #Iporca
+	terrain="farmland"
+	culture="turdulian"
+	religion="animism"
+	trade_goods="leather"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1412={ #Lacunis
+	terrain="hills"
+	culture="turdetanian"
+	religion="animism"
+	trade_goods="wine"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1414={ #Fodinae
+	terrain="plains"
+	culture="turdetanian"
+	religion="animism"
+	trade_goods="honey"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1415={ #Tharsis
+	terrain="farmland"
+	culture="turdetanian"
+	religion="carthaginian_pantheon"
+	trade_goods="iron"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1416={ #Fons Siccus
+	terrain="forest"
+	culture="turdetanian"
+	religion="animism"
+	trade_goods="leather"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1417={ #Arucci
+	terrain="hills"
+	culture="turdetanian"
+	religion="animism"
+	trade_goods="olive"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1439={ #Mirobriga
+	terrain="plains"
+	culture="turdulian"
+	religion="druidism"
+	trade_goods="cinnabar"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1440={ #Baedro
+	terrain="plains"
+	culture="turdulian"
+	religion="druidism"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1441={ #Mellaria
+	terrain="hills"
+	culture="turdulian"
+	religion="animism"
+	trade_goods="base_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1442={ #Mariana Baetica
+	terrain="plains"
+	culture="turdetanian"
+	religion="animism"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1444={ #Solia
+	terrain="plains"
+	culture="turdulian"
+	religion="druidism"
+	trade_goods="cloth"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1446={ #Ad Decimum
+	terrain="hills"
+	culture="turdetanian"
+	religion="animism"
+	trade_goods="marble"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1447={ #Marianus Mons
+	terrain="hills"
+	culture="oretanian"
+	religion="animism"
+	trade_goods="leather"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1448={ #Carcuvium
+	terrain="plains"
+	culture="oretanian"
+	religion="druidism"
+	trade_goods="base_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1449={ #Oretum
+	terrain="plains"
+	culture="oretanian"
+	religion="druidism"
+	trade_goods="horses"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1458={ #Dunites
+	terrain="plains"
+	culture="vettonian"
+	religion="druidism"
+	trade_goods="horses"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1459={ #Messicia
+	terrain="plains"
+	culture="turdulian"
+	religion="druidism"
+	trade_goods="horses"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1460={ #Sattalicia
+	terrain="plains"
+	culture="turdulian"
+	religion="druidism"
+	trade_goods="cloth"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1463={ #Solorbes
+	terrain="plains"
+	culture="vettonian"
+	religion="druidism"
+	trade_goods="fur"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+

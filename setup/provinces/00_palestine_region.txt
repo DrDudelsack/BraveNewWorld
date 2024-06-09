@@ -1,0 +1,823 @@
+﻿648={ #Tarichaia
+	terrain="forest"
+	culture="hebrew"
+	religion="judaism"
+	trade_goods="glass"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+657={ #Bitylion
+	terrain="plains"
+	culture="phoenician"
+	religion="carthaginian_pantheon"
+	trade_goods="fish"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+658={ #Rhaphia
+	terrain="plains"
+	culture="phoenician"
+	religion="carthaginian_pantheon"
+	trade_goods="fish"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+659={ #Gaza
+	terrain="plains"
+	culture="phoenician"
+	religion="carthaginian_pantheon"
+	trade_goods="spices"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_samson
+	port_building=1
+}
+
+660={ #Askalon
+	terrain="plains"
+	culture="phoenician"
+	religion="carthaginian_pantheon"
+	trade_goods="hemp"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+661={ #Azotos
+	terrain="plains"
+	culture="phoenician"
+	religion="carthaginian_pantheon"
+	trade_goods="wine"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+662={ #Iamneia
+	terrain="plains"
+	culture="phoenician"
+	religion="carthaginian_pantheon"
+	trade_goods="fish"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+663={ #Ioppe
+	terrain="plains"
+	culture="phoenician"
+	religion="carthaginian_pantheon"
+	trade_goods="wine"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+664={ #Apollonia Palaistinas
+	terrain="plains"
+	culture="macedonian"
+	religion="roman_pantheon"
+	trade_goods="wine"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	port_building=1
+}
+
+665={ #Stratonos Pyrgos
+	terrain="plains"
+	culture="phoenician"
+	religion="carthaginian_pantheon"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+666={ #Sykaminon
+	terrain="plains"
+	culture="phoenician"
+	religion="carthaginian_pantheon"
+	trade_goods="cloth"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+667={ #Dora
+	terrain="plains"
+	culture="phoenician"
+	religion="carthaginian_pantheon"
+	trade_goods="wine"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+668={ #Boukolonpolis
+	terrain="plains"
+	culture="phoenician"
+	religion="carthaginian_pantheon"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+669={ #Gaba
+	terrain="plains"
+	culture="phoenician"
+	religion="carthaginian_pantheon"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+670={ #Ake
+	terrain="forest"
+	culture="phoenician"
+	religion="carthaginian_pantheon"
+	trade_goods="glass"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	port_building=1
+}
+
+671={ #Gaba Rekabim
+	terrain="plains"
+	culture="hebrew"
+	religion="judaism"
+	trade_goods="hemp"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+672={ #Iezreela
+	terrain="hills"
+	culture="hebrew"
+	religion="judaism"
+	trade_goods="wine"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+673={ #Skythopolis
+	terrain="plains"
+	culture="hebrew"
+	religion="judaism"
+	trade_goods="dates"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+674={ #Philoteria
+	terrain="plains"
+	culture="hebrew"
+	religion="judaism"
+	trade_goods="dates"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+675={ #Pella Palaistinas
+	terrain="plains"
+	culture="hebrew"
+	religion="judaism"
+	trade_goods="honey"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_elijah
+}
+
+676={ #Shalem
+	terrain="plains"
+	culture="hebrew"
+	religion="judaism"
+	trade_goods="earthware"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+677={ #Sepphoris
+	terrain="hills"
+	culture="phoenician"
+	religion="carthaginian_pantheon"
+	trade_goods="wood"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+678={ #Narbata
+	terrain="plains"
+	culture="phoenician"
+	religion="carthaginian_pantheon"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_asherah
+}
+
+679={ #Shomron
+	terrain="plains"
+	culture="hebrew"
+	religion="judaism"
+	trade_goods="hemp"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+680={ #Shekem
+	terrain="hills"
+	culture="hebrew"
+	religion="judaism"
+	trade_goods="dates"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_joshua
+}
+
+681={ #Karak Mo'ab
+	terrain="desert_hills"
+	culture="hebrew"
+	religion="judaism"
+	trade_goods="base_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+682={ #'Apeq
+	terrain="plains"
+	culture="hebrew"
+	religion="judaism"
+	trade_goods="wood"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+683={ #Shilo
+	terrain="plains"
+	culture="hebrew"
+	religion="judaism"
+	trade_goods="earthware"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_caleb_joshua
+}
+
+684={ #Yeriho
+	terrain="plains"
+	culture="hebrew"
+	religion="judaism"
+	trade_goods="honey"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+685={ #Lod
+	terrain="plains"
+	culture="phoenician"
+	religion="judaism"
+	trade_goods="hemp"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+686={ #'Emma'om
+	terrain="plains"
+	culture="hebrew"
+	religion="judaism"
+	trade_goods="wood"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+687={ #Yerushalem
+	terrain="plains"
+	culture="hebrew"
+	religion="judaism"
+	trade_goods="honey"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_samuel
+}
+
+688={ #Teqo'
+	terrain="plains"
+	culture="hebrew"
+	religion="judaism"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+689={ #Bet Tar
+	terrain="plains"
+	culture="hebrew"
+	religion="judaism"
+	trade_goods="wood"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+690={ #Marisa
+	terrain="plains"
+	culture="hebrew"
+	religion="judaism"
+	trade_goods="wine"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+691={ #Hebron
+	terrain="plains"
+	culture="hebrew"
+	religion="judaism"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_abraham
+}
+
+692={ #'Adora
+	terrain="plains"
+	culture="hebrew"
+	religion="judaism"
+	trade_goods="dates"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+693={ #Thala
+	terrain="plains"
+	culture="hebrew"
+	religion="judaism"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+694={ #Maor
+	terrain="plains"
+	culture="phoenician"
+	religion="arabian_pantheon"
+	trade_goods="wine"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+695={ #Chellous
+	terrain="plains"
+	culture="hebrew"
+	religion="judaism"
+	trade_goods="honey"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+696={ #Betomolachon
+	terrain="plains"
+	culture="phoenician"
+	religion="arabian_pantheon"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+697={ #Nessana
+	terrain="desert"
+	culture="phoenician"
+	religion="arabian_pantheon"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+698={ #Shavta
+	terrain="plains"
+	culture="hebrew"
+	religion="arabian_pantheon"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+699={ #'Avodha
+	terrain="plains"
+	culture="nabatean"
+	religion="arabian_pantheon"
+	trade_goods="leather"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+700={ #Mamshith
+	terrain="desert_hills"
+	culture="hebrew"
+	religion="arabian_pantheon"
+	trade_goods="leather"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+702={ #'Atzmon
+	terrain="desert_hills"
+	culture="nabatean"
+	religion="arabian_pantheon"
+	trade_goods="marble"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+703={ #Gypsaria
+	terrain="desert"
+	culture="nabatean"
+	religion="arabian_pantheon"
+	trade_goods="cloth"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+704={ #'Iloth
+	terrain="plains"
+	culture="nabatean"
+	religion="arabian_pantheon"
+	trade_goods="salt"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_al_kutbay
+	port_building=1
+}
+
+705={ #Mivatzra
+	terrain="plains"
+	culture="nabatean"
+	religion="arabian_pantheon"
+	trade_goods="stone"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+706={ #Bossia
+	terrain="plains"
+	culture="nabatean"
+	religion="arabian_pantheon"
+	trade_goods="base_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+707={ #Arieldela
+	terrain="plains"
+	culture="nabatean"
+	religion="arabian_pantheon"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+708={ #Kalgouia
+	terrain="plains"
+	culture="nabatean"
+	religion="arabian_pantheon"
+	trade_goods="cloth"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+709={ #Toloha
+	terrain="plains"
+	culture="nabatean"
+	religion="arabian_pantheon"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+710={ #Tzo'ar
+	terrain="plains"
+	culture="hebrew"
+	religion="judaism"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+711={ #Metzada
+	terrain="plains"
+	culture="hebrew"
+	religion="judaism"
+	trade_goods="cloth"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+712={ #Rabbat Mo'ab
+	terrain="plains"
+	culture="hebrew"
+	religion="judaism"
+	trade_goods="cloth"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+713={ #Bet ha-Ram
+	terrain="plains"
+	culture="hebrew"
+	religion="judaism"
+	trade_goods="horses"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_bethel
+}
+
+714={ #Tzor Gil'ad
+	terrain="plains"
+	culture="hebrew"
+	religion="judaism"
+	trade_goods="wine"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+715={ #Gazara Gil'ad
+	terrain="hills"
+	culture="hebrew"
+	religion="judaism"
+	trade_goods="cloth"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+716={ #Heshbon
+	terrain="plains"
+	culture="hebrew"
+	religion="judaism"
+	trade_goods="cloth"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+717={ #Medaba'
+	terrain="plains"
+	culture="hebrew"
+	religion="judaism"
+	trade_goods="leather"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_chemosh
+}
+
+718={ #Ammana
+	terrain="plains"
+	culture="aramaic"
+	religion="judaism"
+	trade_goods="leather"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+719={ #'Aqrabba
+	terrain="plains"
+	culture="hebrew"
+	religion="judaism"
+	trade_goods="leather"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+720={ #'Ashopon
+	terrain="hills"
+	culture="hebrew"
+	religion="judaism"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+721={ #Gerasa
+	terrain="plains"
+	culture="aramaic"
+	religion="judaism"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+722={ #Gadara
+	terrain="plains"
+	culture="hebrew"
+	religion="judaism"
+	trade_goods="honey"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+723={ #Hippos
+	terrain="plains"
+	culture="hebrew"
+	religion="judaism"
+	trade_goods="wine"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+727={ #Aramaua
+	terrain="desert_hills"
+	culture="nabatean"
+	religion="arabian_pantheon"
+	trade_goods="wine"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+728={ #Hwara
+	terrain="desert_hills"
+	culture="nabatean"
+	religion="arabian_pantheon"
+	trade_goods="stone"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+729={ #Raqma
+	terrain="oasis"
+	culture="nabatean"
+	religion="arabian_pantheon"
+	trade_goods="base_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_al_qaum #Changed back to omen_al_qaum, omen_dushara is established by the Nabateans mission tree in Bostra
+}
+
+730={ #'Adhruh
+	terrain="desert_hills"
+	culture="nabatean"
+	religion="arabian_pantheon"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+731={ #Bet Shor
+	terrain="desert"
+	culture="hebrew"
+	religion="judaism"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+732={ #Adraa
+	terrain="plains"
+	culture="aramaic"
+	religion="carthaginian_pantheon"
+	trade_goods="glass"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+733={ #Abila Dekapoleos
+	terrain="plains"
+	culture="aramaic"
+	religion="judaism"
+	trade_goods="papyrus"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+734={ #Bostra
+	terrain="plains"
+	culture="aramaic"
+	religion="carthaginian_pantheon"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+735={ #Kanatha
+	terrain="plains"
+	culture="aramaic"
+	religion="carthaginian_pantheon"
+	trade_goods="earthware"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+736={ #Mothana
+	terrain="plains"
+	culture="aramaic"
+	religion="carthaginian_pantheon"
+	trade_goods="base_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+737={ #Rhaphana
+	terrain="plains"
+	culture="aramaic"
+	religion="carthaginian_pantheon"
+	trade_goods="cloth"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+739={ #Karneia
+	terrain="plains"
+	culture="hebrew"
+	religion="judaism"
+	trade_goods="cloth"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7554={ #Arabia Deserta
+	terrain="desert"
+	culture="qedarite"
+	religion="carthaginian_pantheon"
+	trade_goods="cloth"
+	civilization_value = 5
+	barbarian_power=0
+}
+
+7555={ #Arabia Deserta
+	terrain="desert"
+	culture="qedarite"
+	religion="arabian_pantheon"
+	trade_goods=""
+	civilization_value = 5
+	barbarian_power=0
+}
+

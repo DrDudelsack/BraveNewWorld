@@ -1,0 +1,902 @@
+﻿6={ #Capua
+	terrain="farmland"
+	culture="roman"
+	religion="italic_pantheon"
+	trade_goods="wine"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_diana
+}
+
+7={ #Neapolis
+	terrain="farmland"
+	culture="italiotian"
+	religion="roman_pantheon"
+	trade_goods="cloth"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	port_building=1
+}
+
+8={ #Saticula
+	terrain="farmland"
+	culture="samnite"
+	religion="italic_pantheon"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+9={ #Pompeii
+	terrain="plains"
+	culture="samnite"
+	religion="italic_pantheon"
+	trade_goods="wine"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	port_building=1
+	holy_site=omen_maphitis
+}
+
+10={ #Irna
+	terrain="plains"
+	culture="samnite"
+	religion="italic_pantheon"
+	trade_goods="olive"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+11={ #Paestum
+	terrain="hills"
+	culture="lucanian"
+	religion="italic_pantheon"
+	trade_goods="wood"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+12={ #Elea
+	terrain="hills"
+	culture="italiotian"
+	religion="roman_pantheon"
+	trade_goods="fruits"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	port_building=1
+}
+
+13={ #Blanda
+	terrain="hills"
+	culture="lucanian"
+	religion="italic_pantheon"
+	trade_goods="fish"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+31={ #Venafrum
+	terrain="hills"
+	culture="roman"
+	religion="italic_pantheon"
+	trade_goods="fruits"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+32={ #Bovianum
+	terrain="plains"
+	culture="samnite"
+	religion="italic_pantheon"
+	trade_goods="horses"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_anterstatai
+}
+
+33={ #Corneliani
+	terrain="hills"
+	culture="samnite"
+	religion="italic_pantheon"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+36={ #Teanum Apulum
+	terrain="hills"
+	culture="messapian"
+	religion="roman_pantheon"
+	trade_goods="fish"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+37={ #Luceria
+	terrain="plains"
+	culture="messapian"
+	religion="roman_pantheon"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+38={ #Sipious
+	terrain="plains"
+	culture="italiotian"
+	religion="roman_pantheon"
+	trade_goods="wine"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	port_building=1
+}
+
+39={ #Canusium
+	terrain="farmland"
+	culture="messapian"
+	religion="roman_pantheon"
+	trade_goods="hemp"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_juppiter_menzanas
+}
+
+40={ #Nola
+	terrain="hills"
+	culture="samnite"
+	religion="italic_pantheon"
+	trade_goods="hemp"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+41={ #Beneventum
+	terrain="hills"
+	culture="samnite"
+	religion="italic_pantheon"
+	trade_goods="fruits"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+42={ #Venusia
+	terrain="farmland"
+	culture="samnite"
+	religion="italic_pantheon"
+	trade_goods="wine"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+43={ #Compsa
+	terrain="hills"
+	culture="samnite"
+	religion="italic_pantheon"
+	trade_goods="olive"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+44={ #Tuticum
+	terrain="plains"
+	culture="samnite"
+	religion="italic_pantheon"
+	trade_goods="olive"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+45={ #Ausculum
+	terrain="plains"
+	culture="samnite"
+	religion="italic_pantheon"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+46={ #Potentia
+	terrain="hills"
+	culture="samnite"
+	religion="italic_pantheon"
+	trade_goods="fur"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+47={ #Volcei
+	terrain="hills"
+	culture="lucanian"
+	religion="italic_pantheon"
+	trade_goods="wine"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+50={ #Urium
+	terrain="hills"
+	culture="messapian"
+	religion="roman_pantheon"
+	trade_goods="earthware"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+51={ #Laus
+	terrain="hills"
+	culture="bruttian"
+	religion="italic_pantheon"
+	trade_goods="fish"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+52={ #Thourioi
+	terrain="hills"
+	culture="italiotian"
+	religion="roman_pantheon"
+	trade_goods="wine"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	port_building=1
+}
+
+53={ #Grumentum
+	terrain="hills"
+	culture="lucanian"
+	religion="italic_pantheon"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+54={ #Herakleia
+	terrain="farmland"
+	culture="italiotian"
+	religion="roman_pantheon"
+	trade_goods="hemp"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	port_building=1
+}
+
+55={ #Metapontion
+	terrain="forest"
+	culture="italiotian"
+	religion="roman_pantheon"
+	trade_goods="hemp"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+56={ #Taras
+	terrain="farmland"
+	culture="italiotian"
+	religion="roman_pantheon"
+	trade_goods="horses"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_aphrodite_areia
+	port_building=1
+}
+
+57={ #Brentesion
+	terrain="plains"
+	culture="messapian"
+	religion="roman_pantheon"
+	trade_goods="olive"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	port_building=1
+}
+
+58={ #Bardoulos
+	terrain="farmland"
+	culture="messapian"
+	religion="roman_pantheon"
+	trade_goods="hemp"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+59={ #Consilinum
+	terrain="hills"
+	culture="lucanian"
+	religion="italic_pantheon"
+	trade_goods="cloth"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+60={ #Bantium
+	terrain="plains"
+	culture="lucanian"
+	religion="italic_pantheon"
+	trade_goods="olive"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+61={ #Siris
+	terrain="plains"
+	culture="lucanian"
+	religion="italic_pantheon"
+	trade_goods="hemp"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+62={ #Mandyrion
+	terrain="forest"
+	culture="messapian"
+	religion="roman_pantheon"
+	trade_goods="salt"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_zis
+}
+
+63={ #Kallipolis
+	terrain="farmland"
+	culture="messapian"
+	religion="roman_pantheon"
+	trade_goods="fish"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+64={ #Hydrous
+	terrain="farmland"
+	culture="messapian"
+	religion="roman_pantheon"
+	trade_goods="earthware"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	port_building=1
+}
+
+65={ #Loupiai
+	terrain="farmland"
+	culture="messapian"
+	religion="roman_pantheon"
+	trade_goods="fish"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+66={ #Barion
+	terrain="farmland"
+	culture="messapian"
+	religion="roman_pantheon"
+	trade_goods="wine"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_lahona
+}
+
+67={ #Egnatia
+	terrain="plains"
+	culture="messapian"
+	religion="roman_pantheon"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	port_building=1
+}
+
+68={ #Thyron
+	terrain="forest"
+	culture="messapian"
+	religion="roman_pantheon"
+	trade_goods="fruits"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+69={ #Netion
+	terrain="forest"
+	culture="messapian"
+	religion="roman_pantheon"
+	trade_goods="fish"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+70={ #Silvium
+	terrain="farmland"
+	culture="messapian"
+	religion="roman_pantheon"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+71={ #Stiglianum
+	terrain="hills"
+	culture="lucanian"
+	religion="italic_pantheon"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+72={ #Rhegion
+	terrain="hills"
+	culture="italiotian"
+	religion="roman_pantheon"
+	trade_goods="glass"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	port_building=1
+}
+
+73={ #Lokroi Epizephyrioi
+	terrain="hills"
+	culture="italiotian"
+	religion="roman_pantheon"
+	trade_goods="earthware"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_persephone
+	port_building=1
+}
+
+74={ #Stylacium
+	terrain="hills"
+	culture="bruttian"
+	religion="italic_pantheon"
+	trade_goods="fish"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+75={ #Hipponion
+	terrain="hills"
+	culture="italiotian"
+	religion="roman_pantheon"
+	trade_goods="wood"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	port_building=1
+}
+
+76={ #Tempsa
+	terrain="hills"
+	culture="bruttian"
+	religion="italic_pantheon"
+	trade_goods="base_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+77={ #Consentia
+	terrain="hills"
+	culture="bruttian"
+	religion="italic_pantheon"
+	trade_goods="salt"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_fufluns
+}
+
+78={ #Kroton
+	terrain="farmland"
+	culture="italiotian"
+	religion="roman_pantheon"
+	trade_goods="earthware"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	port_building=1
+}
+
+79={ #Petelia
+	terrain="farmland"
+	culture="bruttian"
+	religion="italic_pantheon"
+	trade_goods="cloth"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+80={ #Messene
+	terrain="hills"
+	culture="syracusan"
+	religion="roman_pantheon"
+	trade_goods="stone"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	port_building=1
+}
+
+81={ #Tauromenion
+	terrain="hills"
+	culture="syracusan"
+	religion="roman_pantheon"
+	trade_goods="olive"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+82={ #Katane
+	terrain="farmland"
+	culture="syracusan"
+	religion="roman_pantheon"
+	trade_goods="glass"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	port_building=1
+}
+
+83={ #Leontinoi
+	terrain="forest"
+	culture="syracusan"
+	religion="roman_pantheon"
+	trade_goods="wine"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+84={ #Syrakousai
+	terrain="plains"
+	culture="syracusan"
+	religion="roman_pantheon"
+	trade_goods="wine"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_arethousa
+	port_building=3
+}
+
+85={ #Gela
+	terrain="forest"
+	culture="syracusan"
+	religion="roman_pantheon"
+	trade_goods="wood"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	port_building=1
+}
+
+86={ #Akragas
+	terrain="farmland"
+	culture="syracusan"
+	religion="roman_pantheon"
+	trade_goods="horses"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_heracles
+	port_building=1
+}
+
+87={ #Akrai
+	terrain="mountain"
+	culture="syracusan"
+	religion="roman_pantheon"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+88={ #Morgantion
+	terrain="hills"
+	culture="siculian"
+	religion="italic_pantheon"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+89={ #Enna
+	terrain="forest"
+	culture="siculian"
+	religion="italic_pantheon"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+90={ #Hipnot
+	terrain="hills"
+	culture="syracusan"
+	religion="roman_pantheon"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+91={ #Herakleia Minoia
+	terrain="farmland"
+	culture="syracusan"
+	religion="roman_pantheon"
+	trade_goods="salt"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+92={ #Sagashtot
+	terrain="hills"
+	culture="syracusan"
+	religion="roman_pantheon"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+93={ #Selinous
+	terrain="forest"
+	culture="syracusan"
+	religion="roman_pantheon"
+	trade_goods="stone"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+94={ #Le-Lubim
+	terrain="farmland"
+	culture="carthaginian"
+	religion="carthaginian_pantheon"
+	trade_goods="wine"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	port_building=1
+}
+
+95={ #'Erk
+	terrain="plains"
+	culture="syracusan"
+	religion="roman_pantheon"
+	trade_goods="stone"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+96={ #Tzitz
+	terrain="hills"
+	culture="carthaginian"
+	religion="carthaginian_pantheon"
+	trade_goods="wine"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	port_building=1
+}
+
+97={ #Tirm
+	terrain="hills"
+	culture="syracusan"
+	religion="roman_pantheon"
+	trade_goods="fish"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+98={ #Kephaloidion
+	terrain="plains"
+	culture="syracusan"
+	religion="roman_pantheon"
+	trade_goods="wine"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+99={ #Tyndaris
+	terrain="plains"
+	culture="syracusan"
+	religion="roman_pantheon"
+	trade_goods="base_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+100={ #Kale Akte
+	terrain="hills"
+	culture="syracusan"
+	religion="roman_pantheon"
+	trade_goods="glass"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+101={ #Kamarina
+	terrain="farmland"
+	culture="syracusan"
+	religion="roman_pantheon"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1471={ #'I Nun
+	terrain="desert"
+	culture="carthaginian"
+	religion="carthaginian_pantheon"
+	trade_goods="fish"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1472={ #Meligounis
+	terrain="hills"
+	culture="syracusan"
+	religion="roman_pantheon"
+	trade_goods="earthware"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1713={ #Nuceria
+	terrain="hills"
+	culture="samnite"
+	religion="italic_pantheon"
+	trade_goods="glass"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1716={ #Abellinum
+	terrain="hills"
+	culture="samnite"
+	religion="italic_pantheon"
+	trade_goods="wine"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+1718={ #Aeclanum
+	terrain="plains"
+	culture="samnite"
+	religion="italic_pantheon"
+	trade_goods="hemp"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7837={ #Megara Hyblaia
+	terrain="plains"
+	culture="syracusan"
+	religion="roman_pantheon"
+	trade_goods="fish"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7838={ #Kentoripa
+	terrain="farmland"
+	culture="siculian"
+	religion="italic_pantheon"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7839={ #Capitium
+	terrain="hills"
+	culture="siculian"
+	religion="italic_pantheon"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7840={ #Menai
+	terrain="hills"
+	culture="syracusan"
+	religion="roman_pantheon"
+	trade_goods="wood"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7841={ #Myttistraton
+	terrain="hills"
+	culture="siculian"
+	religion="italic_pantheon"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7842={ #Kaprot
+	terrain="hills"
+	culture="carthaginian"
+	religion="carthaginian_pantheon"
+	trade_goods="stone"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7843={ #'Addarnot
+	terrain="hills"
+	culture="syracusan"
+	religion="roman_pantheon"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+

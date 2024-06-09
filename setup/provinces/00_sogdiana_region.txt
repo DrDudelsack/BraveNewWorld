@@ -1,0 +1,1094 @@
+﻿6682={ #Marakanda
+	terrain="hills"
+	culture="sogdian"
+	religion="zoroaster"
+	trade_goods="earthware"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6687={ #Gazaba
+	terrain="hills"
+	culture="sogdian"
+	religion="zoroaster"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6698={ #Ikrone
+	terrain="mountain"
+	culture="sogdian"
+	religion="zoroaster"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6699={ #Marouka
+	terrain="mountain"
+	culture="sogdian"
+	religion="zoroaster"
+	trade_goods="hemp"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6700={ #Petra Arimazou
+	terrain="mountain"
+	culture="sogdian"
+	religion="zoroaster"
+	trade_goods="leather"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6701={ #Petra Chorianou
+	terrain="mountain"
+	culture="sogdian"
+	religion="zoroaster"
+	trade_goods="gems"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6702={ #Shakria
+	terrain="mountain"
+	culture="sogdian"
+	religion="zoroaster"
+	trade_goods="earthware"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6703={ #Kyropolis
+	terrain="hills"
+	culture="sogdian"
+	religion="zoroaster"
+	trade_goods="cloth"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6704={ #Alexandreia Eschate
+	terrain="farmland"
+	culture="ionian"
+	religion="roman_pantheon"
+	trade_goods="silk"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6705={ #Matouaspa
+	terrain="mountain"
+	culture="sogdian"
+	religion="zoroaster"
+	trade_goods="hemp"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6706={ #Kis
+	terrain="hills"
+	culture="sogdian"
+	religion="vaksh_religion"
+	trade_goods="hemp"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6710={ #Xenippa
+	terrain="desert"
+	culture="sogdian"
+	religion="vaksh_religion"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6711={ #Charva
+	terrain="steppes"
+	culture="sogdian"
+	religion="indo_iranian_religion"
+	trade_goods="fur"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6712={ #Gaza Baktriane
+	terrain="hills"
+	culture="sogdian"
+	religion="vaksh_religion"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6713={ #Ostobara
+	terrain="steppes"
+	culture="sogdian"
+	religion="vaksh_religion"
+	trade_goods="earthware"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6714={ #Karnab
+	terrain="hills"
+	culture="sogdian"
+	religion="vaksh_religion"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6715={ #Naura
+	terrain="steppes"
+	culture="sogdian"
+	religion="vaksh_religion"
+	trade_goods="cloth"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6716={ #Nautaka
+	terrain="hills"
+	culture="sogdian"
+	religion="vaksh_religion"
+	trade_goods="fur"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6717={ #Branchidai
+	terrain="desert"
+	culture="sogdian"
+	religion="vaksh_religion"
+	trade_goods="camel"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6719={ #Petra Sisimithrou
+	terrain="hills"
+	culture="sogdian"
+	religion="zoroaster"
+	trade_goods="leather"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6721={ #Drepsiana
+	terrain="mountain"
+	culture="sogdian"
+	religion="zoroaster"
+	trade_goods="leather"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6722={ #Imarash
+	terrain="mountain"
+	culture="sogdian"
+	religion="zoroaster"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6730={ #Khavakand
+	terrain="plains"
+	culture="tayuan"
+	religion="vaksh_religion"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6731={ #Massagetia
+	terrain="farmland"
+	culture="tayuan"
+	religion="vaksh_religion"
+	trade_goods="wood"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6732={ #Makhram
+	terrain="hills"
+	culture="tayuan"
+	religion="vaksh_religion"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6733={ #Istarava
+	terrain="mountain"
+	culture="sogdian"
+	religion="zoroaster"
+	trade_goods="fur"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6734={ #Damna
+	terrain="hills"
+	culture="ionian"
+	religion="roman_pantheon"
+	trade_goods="salt"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6735={ #Dawan
+	terrain="hills"
+	culture="tayuan"
+	religion="vaksh_religion"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site="omen_zhun"
+}
+
+6736={ #Ozola
+	terrain="mountain"
+	culture="tayuan"
+	religion="zoroaster"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6737={ #Throana
+	terrain="hills"
+	culture="ionian"
+	religion="roman_pantheon"
+	trade_goods="base_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6738={ #Namakan
+	terrain="hills"
+	culture="tayuan"
+	religion="vaksh_religion"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6739={ #Akhsiket
+	terrain="plains"
+	culture="tayuan"
+	religion="zoroaster"
+	trade_goods="silk"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6740={ #Shakrikhan
+	terrain="hills"
+	culture="tayuan"
+	religion="vaksh_religion"
+	trade_goods="silk"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6777={ #Uvikat
+	terrain="hills"
+	culture="sogdian"
+	religion="vaksh_religion"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6778={ #Balasaghun
+	terrain="mountain"
+	culture="sakan"
+	religion="indo_iranian_religion"
+	trade_goods="salt"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6779={ #Suyab
+	terrain="mountain"
+	culture="sakan"
+	religion="indo_iranian_religion"
+	trade_goods="base_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6780={ #Nevaket
+	terrain="steppes"
+	culture="sakan"
+	religion="indo_iranian_religion"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6781={ #Yul
+	terrain="mountain"
+	culture="sakan"
+	religion="indo_iranian_religion"
+	trade_goods="salt"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6782={ #Ashpara
+	terrain="mountain"
+	culture="sakan"
+	religion="indo_iranian_religion"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6783={ #Kulan
+	terrain="mountain"
+	culture="sogdian"
+	religion="vaksh_religion"
+	trade_goods="hemp"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6784={ #Barskhan
+	terrain="mountain"
+	culture="sogdian"
+	religion="vaksh_religion"
+	trade_goods="fur"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_tishtar
+}
+
+6785={ #Shelji
+	terrain="mountain"
+	culture="sogdian"
+	religion="vaksh_religion"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6786={ #Tobe
+	terrain="hills"
+	culture="sogdian"
+	religion="vaksh_religion"
+	trade_goods="fur"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6787={ #Narin
+	terrain="mountain"
+	culture="sakan"
+	religion="indo_iranian_religion"
+	trade_goods="horses"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_blessing_life
+}
+
+6788={ #Shura
+	terrain="mountain"
+	culture="sakan"
+	religion="indo_iranian_religion"
+	trade_goods="base_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6789={ #Uskat
+	terrain="mountain"
+	culture="sogdian"
+	religion="vaksh_religion"
+	trade_goods="hemp"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6790={ #Tunket
+	terrain="mountain"
+	culture="sogdian"
+	religion="vaksh_religion"
+	trade_goods="hemp"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6791={ #Chach
+	terrain="mountain"
+	culture="sogdian"
+	religion="zoroaster"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6792={ #Isfijab
+	terrain="hills"
+	culture="sogdian"
+	religion="vaksh_religion"
+	trade_goods="wood"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6793={ #Otrar
+	terrain="hills"
+	culture="massagetaean"
+	religion="indo_iranian_religion"
+	trade_goods="hemp"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6794={ #Kuyruk
+	terrain="hills"
+	culture="massagetaean"
+	religion="indo_iranian_religion"
+	trade_goods="cloth"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+6795={ #Shavgar
+	terrain="hills"
+	culture="massagetaean"
+	religion="indo_iranian_religion"
+	trade_goods="fur"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7238={ #Nikhshapaya
+	terrain="steppes"
+	culture="sogdian"
+	religion="indo_iranian_religion"
+	trade_goods="stone"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7245={ #Chinaz
+	terrain="hills"
+	culture="sogdian"
+	religion="vaksh_religion"
+	trade_goods="hemp"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7263={ #Jaxartes
+	terrain="plains"
+	culture="sogdian"
+	religion="vaksh_religion"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7264={ #Maidanchach
+	terrain="hills"
+	culture="sogdian"
+	religion="vaksh_religion"
+	trade_goods="fur"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7265={ #Zintik
+	terrain="hills"
+	culture="sogdian"
+	religion="vaksh_religion"
+	trade_goods="hemp"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7266={ #Qaram
+	terrain="steppes"
+	culture="massagetaean"
+	religion="vaksh_religion"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7267={ #Araq
+	terrain="steppes"
+	culture="sogdian"
+	religion="zoroaster"
+	trade_goods="steppe_horses"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7268={ #Osht
+	terrain="steppes"
+	culture="sogdian"
+	religion="vaksh_religion"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7270={ #Kashram
+	terrain="steppes"
+	culture="sogdian"
+	religion="vaksh_religion"
+	trade_goods="camel"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7271={ #Kush
+	terrain="steppes"
+	culture="sogdian"
+	religion="vaksh_religion"
+	trade_goods="wild_game"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7273={ #Poshkar
+	terrain="steppes"
+	culture="sogdian"
+	religion="vaksh_religion"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7274={ #Gabae
+	terrain="hills"
+	culture="sogdian"
+	religion="vaksh_religion"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7275={ #Shahr Jaxartha
+	terrain="steppes"
+	culture="sogdian"
+	religion="vaksh_religion"
+	trade_goods="camel"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7276={ #Ust
+	terrain="plains"
+	culture="sogdian"
+	religion="vaksh_religion"
+	trade_goods="fur"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7277={ #Arcum
+	terrain="steppes"
+	culture="sogdian"
+	religion="vaksh_religion"
+	trade_goods="camel"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+7278={ #Padri
+	terrain="steppes"
+	culture="sogdian"
+	religion="vaksh_religion"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+8750={ #Jieshan
+	terrain="hills"
+	culture="sakan"
+	religion="indo_iranian_religion"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+8751={ #Issyk
+	terrain="plains"
+	culture="sakan"
+	religion="indo_iranian_religion"
+	trade_goods="steppe_horses"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+	holy_site=omen_anguipedia
+}
+
+8752={ #Yilihe
+	terrain="steppes"
+	culture="sakan"
+	religion="indo_iranian_religion"
+	trade_goods="steppe_horses"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+8753={ #Aktogay
+	terrain="hills"
+	culture="sakan"
+	religion="indo_iranian_religion"
+	trade_goods="iron"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+8754={ #Chilpek
+	terrain="hills"
+	culture="sakan"
+	religion="indo_iranian_religion"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+8755={ #Bosteri
+	terrain="mountain"
+	culture="sakan"
+	religion="indo_iranian_religion"
+	trade_goods="fish"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+8756={ #Beishan
+	terrain="mountain"
+	culture="sakan"
+	religion="indo_iranian_religion"
+	trade_goods="fish"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+8757={ #Chigu
+	terrain="mountain"
+	culture="sakan"
+	religion="indo_iranian_religion"
+	trade_goods="gems"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+9003={ #Maca
+	terrain="marsh"
+	culture="sakan"
+	religion="indo_iranian_religion"
+	trade_goods="wild_game"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+9004={ #Gik
+	terrain="steppes"
+	culture="sakan"
+	religion="indo_iranian_religion"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+9005={ #Val
+	terrain="steppes"
+	culture="sakan"
+	religion="indo_iranian_religion"
+	trade_goods="hemp"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+9006={ #Vurun
+	terrain="steppes"
+	culture="sakan"
+	religion="indo_iranian_religion"
+	trade_goods="hemp"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+9007={ #Cannabis
+	terrain="steppes"
+	culture="sakan"
+	religion="indo_iranian_religion"
+	trade_goods="hemp"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+9008={ #Iryk
+	terrain="steppes"
+	culture="sakan"
+	religion="indo_iranian_religion"
+	trade_goods="steppe_horses"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+9009={ #Herros
+	terrain="steppes"
+	culture="sakan"
+	religion="indo_iranian_religion"
+	trade_goods="honey"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+9010={ #Ippa
+	terrain="steppes"
+	culture="sakan"
+	religion="indo_iranian_religion"
+	trade_goods="horses"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+9011={ #Chagri
+	terrain="steppes"
+	culture="sakan"
+	religion="indo_iranian_religion"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+9012={ #Arim
+	terrain="steppes"
+	culture="sakan"
+	religion="indo_iranian_religion"
+	trade_goods="wild_game"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+9013={ #Vau
+	terrain="steppes"
+	culture="sakan"
+	religion="indo_iranian_religion"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+9014={ #Ganu
+	terrain="steppes"
+	culture="sakan"
+	religion="indo_iranian_religion"
+	trade_goods="woad"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+9015={ #Agaie
+	terrain="steppes"
+	culture="sakan"
+	religion="indo_iranian_religion"
+	trade_goods="iron"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+9016={ #Galage
+	terrain="steppes"
+	culture="sakan"
+	religion="indo_iranian_religion"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+9017={ #Ecavu
+	terrain="steppes"
+	culture="sakan"
+	religion="indo_iranian_religion"
+	trade_goods="horses"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+9018={ #Lanyar
+	terrain="steppes"
+	culture="sakan"
+	religion="indo_iranian_religion"
+	trade_goods="fruits"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+9019={ #Savu
+	terrain="steppes"
+	culture="sakan"
+	religion="indo_iranian_religion"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+9020={ #Pimna
+	terrain="steppes"
+	culture="sakan"
+	religion="indo_iranian_religion"
+	trade_goods="woad"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+9021={ #Magat
+	terrain="steppes"
+	culture="sakan"
+	religion="indo_iranian_religion"
+	trade_goods="wild_game"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+9022={ #Savan
+	terrain="steppes"
+	culture="sakan"
+	religion="indo_iranian_religion"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+9023={ #Laga
+	terrain="steppes"
+	culture="sakan"
+	religion="indo_iranian_religion"
+	trade_goods="cattle"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+9024={ #Donda
+	terrain="steppes"
+	culture="sakan"
+	religion="indo_iranian_religion"
+	trade_goods="wild_game"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+9025={ #Asxi
+	terrain="steppes"
+	culture="sakan"
+	religion="indo_iranian_religion"
+	trade_goods="fruits"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+9026={ #Arar
+	terrain="steppes"
+	culture="sakan"
+	religion="indo_iranian_religion"
+	trade_goods="base_metals"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+9027={ #Gensa
+	terrain="steppes"
+	culture="sakan"
+	religion="indo_iranian_religion"
+	trade_goods="horses"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+9028={ #Vadar
+	terrain="steppes"
+	culture="sakan"
+	religion="indo_iranian_religion"
+	trade_goods="wild_game"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+9029={ #Dena
+	terrain="steppes"
+	culture="sakan"
+	religion="indo_iranian_religion"
+	trade_goods="steppe_horses"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+9030={ #Vaca
+	terrain="steppes"
+	culture="sakan"
+	religion="indo_iranian_religion"
+	trade_goods="fur"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+9031={ #Zloiar
+	terrain="steppes"
+	culture="sakan"
+	religion="indo_iranian_religion"
+	trade_goods="grain"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+9032={ #Komar
+	terrain="steppes"
+	culture="sakan"
+	religion="indo_iranian_religion"
+	trade_goods="steppe_horses"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+9033={ #Kas
+	terrain="steppes"
+	culture="sakan"
+	religion="indo_iranian_religion"
+	trade_goods="hemp"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+9034={ #Krou
+	terrain="steppes"
+	culture="sakan"
+	religion="indo_iranian_religion"
+	trade_goods="wood"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
+9035={ #Adrug
+	terrain="steppes"
+	culture="sakan"
+	religion="indo_iranian_religion"
+	trade_goods="stone"
+	civilization_value = 5
+	barbarian_power=0
+	tribesmen = { amount = 2 }
+}
+
