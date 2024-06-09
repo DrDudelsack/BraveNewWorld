@@ -1,0 +1,156 @@
+﻿country_decisions = {
+	#Modded Molon Labe		
+	# Form Vindelicia
+	# Created by Shinymewtwo99
+	form_vindelicia = {
+		
+		potential = {
+			num_of_cities >= 1
+			OR = {
+				primary_culture = vindelician
+			}
+			NOT = {
+				tag = VIN
+			}
+			OR = {
+				is_ai = no
+				num_of_cities >= 6
+			}
+			NOR = {
+				is_tier_2_formable_trigger = yes
+				is_endgame_tag_trigger = yes
+			}
+		}
+		
+		highlight = {
+			scope:province = {
+				OR = {
+					province_id = 3752
+					province_id = 3753
+					province_id = 3641
+					province_id = 3640
+					province_id = 3751
+					province_id = 3748
+					province_id = 3749
+					province_id = 3773
+					province_id = 3747
+					province_id = 3750
+					province_id = 3775
+					province_id = 3741
+					province_id = 3747
+					province_id = 3740
+					province_id = 3638
+					province_id = 3637
+					province_id = 3739
+					province_id = 3639
+					province_id = 3636
+
+					province_id = 3766
+					province_id = 3774
+					province_id = 3767
+					province_id = 3768
+					province_id = 3769
+					province_id = 3772
+					province_id = 3771
+					province_id = 3770
+					#is_in_area = helvetia_orientalis_area
+					province_id = 3758
+					province_id = 3759
+					province_id = 3760
+					province_id = 3756
+					province_id = 3755
+					province_id = 3754
+					province_id = 3642
+					province_id = 3757
+					province_id = 3765
+				}
+			}
+		}
+		
+		allow = {
+			custom_tooltip = {
+				text = vindelicia_not_exists
+				NOT = {
+					any_country = {
+						num_of_cities >= 1
+						tag = VIN
+					}
+				}
+			}
+			can_form_nation_trigger = yes
+			owns_or_subject_owns = 3752
+			owns_or_subject_owns = 3753
+			owns_or_subject_owns = 3641
+			owns_or_subject_owns = 3640
+			owns_or_subject_owns = 3751
+			owns_or_subject_owns = 3748
+			owns_or_subject_owns = 3749
+			owns_or_subject_owns = 3773
+			owns_or_subject_owns = 3747
+			owns_or_subject_owns = 3750
+			owns_or_subject_owns = 3775
+			owns_or_subject_owns = 3741
+			owns_or_subject_owns = 3747
+			owns_or_subject_owns = 3740
+			owns_or_subject_owns = 3638
+			owns_or_subject_owns = 3637
+			owns_or_subject_owns = 3739
+			owns_or_subject_owns = 3639
+			owns_or_subject_owns = 3636
+
+			owns_or_subject_owns = 3766
+			owns_or_subject_owns = 3774
+			owns_or_subject_owns = 3767
+			owns_or_subject_owns = 3768
+			owns_or_subject_owns = 3769
+			owns_or_subject_owns = 3772
+			owns_or_subject_owns = 3771
+			owns_or_subject_owns = 3770
+			#owns_or_subject_owns_area = helvetia_orientalis_area
+			owns_or_subject_owns = 3758
+			owns_or_subject_owns = 3759
+			owns_or_subject_owns = 3760
+			owns_or_subject_owns = 3756
+			owns_or_subject_owns = 3755
+			owns_or_subject_owns = 3754
+			owns_or_subject_owns = 3642
+			owns_or_subject_owns = 3757
+			owns_or_subject_owns = 3765
+		}
+		
+		effect = {
+			custom_tooltip = "tier_1_formable_tooltip"
+			change_country_name = "VINDELICIA_NAME"
+			if = {
+				limit = { is_tribal = yes }
+				add_country_modifier = {
+					name = civilized_tribe
+					duration = 5475
+				}
+				change_government = tribal_federation
+				switch_government_type_event_clearup_effect = yes
+			}		
+			hidden_effect = {
+				change_country_adjective = "VINDELICIA_ADJECTIVE"
+				change_country_color =  "vindelicia_color"
+				change_country_tag = VIN
+				change_country_flag = VINDELICIA_FLAG
+				trigger_event = {
+					id = formable_heritage.172
+				}					
+			}
+			capital_scope = {
+				establish_city_effect = yes
+				capital_formable_tribal_effect = yes
+				formable_capital_modifier_tribal_effect = yes
+			}
+			add_2_free_province_investments = yes
+		}
+		
+		ai_will_do = {
+			base = 1
+		}
+	}
+
+} 
+

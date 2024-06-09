@@ -1,0 +1,321 @@
+﻿l_english:
+ #GloriousOlbia
+ form_gloriousolbia:0 "Form the Glorious Democratic Peoples' Republic of Olbia"
+ form_gloriousolbia_desc:0 "The Democratic People's Republic of Olbia has brought cultural enrichment to the barbaric tribes in the frozen wastes of the north by giving them glorious education, civilization, learning, and democracy. After our glorious leader has returned to the Glorious Democratic Peoples' Republic of Olbia after a long, glorious vacation abroad for glorious 'diplomatic' reasons, and as we clearly are glorious, democratic, and a republic, it is now time to proclaim our gloriousness indeed by both officially and formally proclaim our country's name to be the #Y Glorious Democratic Peoples' Republic of Olbia#!"
+ formable_gloriousolbia:0 "Glorious Olbian"
+ GLORIOUSOLBIA_NAME:0 "The Glorious Democratic Peoples' Republic of Olbia"
+ GLORIOUSOLBIA_ADJECTIVE:0 "Glorious Olbian"
+ glorious_olbia_not_exists:0 "#Y The Glorious Democratic Peoples' Republic of Olbia#! must NOT exist."
+ 
+ #Lombardy
+ form_lombardy:0 "Form Lombardy"
+ form_lombardy_desc:0 "Our homeland in Germania has become overpopulated, it's resources no longer are enough to sustain our ever growing population. It's time for us to seek greener pastures, and there are reports of a rich, fertile land south of the Alps ripe for the taking. If we settle in this land, we can make this place our new home, and proclaim it Lombardy."
+ formable_lombardy:0 "Lombadry"
+ LOMBARDY_NAME:0 "Lombardy"
+ LOMBARDY_ADJECTIVE:0 "Lombard"
+ lombardy_not_exists:0 "#Y Lombardy#! must NOT exist."
+
+ #Italy
+ form_italy:0 "Form Italy"
+ form_italy_desc:0 "We have conquered virtually the entirety of Italia, it is now time for us to form a centralized administration, and proclaim ourselves the sole masters of this region by establishing the kingdom of Italy."
+ formable_italy:0 "Italy"
+ ITALY_NAME:0 "Italy"
+ ITALY_ADJECTIVE:0 "Italian"
+ italy_not_exists:0 "#Y Italy#! must NOT exist."
+
+ #Empire of Mann
+ form_mann_empire:0 "Form Empire of Mann"
+ form_mann_empire_desc:0 "We have expanded far beond the reaches of our home island, conquering the vast reaches of Albion under our glorious banner. We can no longer claim to be a mere Isle of Mann, for we are now a vast and mighty Empire of Mann that encompasses the envy of the known world, where our strength knows no bounds and other realms tremble at the very thought of Mann."
+ MANN_EMPIRE_NAME:0 "Empire of Mann"
+ MANN_EMPIRE_ADJECTIVE:0 "Manx"
+ formable_not_mann_empire_exists:0 "#Y Empire of Mann#! must NOT exist."
+
+ #Ostrogothic Kingdom
+ form_ostrogothic_kingdom:0 "Form Ostrogothic Kingdom"
+ form_ostrogothic_kingdom_desc:0 "Our homeland in Germania has become overpopulated, it's resources no longer are enough to sustain our ever growing population. There is a warm, rich, and bountiful paridise to the south, in a city that is called 'Rome.' We can migrate there and take this 'Rome' for ourselves to establish a mighty kingdom."
+ OSTROGOTH_NAME:0 "Ostrogothic Kingdom"
+ OSTROGOTH_ADJECTIVE:0 "Ostrogoth"
+ ostrogoth_not_exists:0 "#Y Ostrogothic Kingdom#! must NOT exist."
+
+ #Vandalia
+ form_vandalia:0 "Form Vandalia"
+ form_vandalia_desc:0 "Germania's forests are cold, overpopulated, and deprived of food. There is a much warmer land south of the Mediterranean with plenty of grain, comfortable beaches and grand cities ripe for plunder. We can abandon Germania and establish a new Vandal kingdom on the hospitable shores of North Africa."
+ VANDALIA_NAME:0 "Vandalia"
+ VANDALIA_ADJECTIVE:0 "Vandal"
+ vandalia_not_exists:0 "#Y Vandalia#! must NOT exist."
+ 
+ #Visigothic Kingdom
+ form_visigothic_kingdom:0 "Form Visigothic Kingdom"
+ form_visigothic_kingdom_desc:0 "Our homeland in Germania has become overpopulated, it's resources no longer are enough to sustain our ever growing population. Beyond Gaul in the lands to the southwest, there are tales of a hospitable climate that would be a perfect fit for our people. We can sieze this land and proclaim ourselves the kingdom of the western Goths."
+ VISIGOTH_NAME:0 "Visigothic Kingdom"
+ VISIGOTH_ADJECTIVE:0 "Visigoth"
+ visigoth_not_exists:0 "#Y Visigothic Kingdom#! must NOT exist."
+
+ #Brennusovia
+ form_brennusovia:0 "Form Brennusovia"
+ form_brennusovia_desc:0 "Our lands are poor, desolate backwaters with little value. To the southeast, however, lies a great civilization fabled to be filled with riches and wealth beyond imagination. They had a legendary warrior king who we could never hope to oppose, but with that king now dead and his empire divided, it is the perfect opportunity for us to sweep in and take those riches for ourselves."
+ BRENNUSOVIA_NAME:0 "Brennusovia"
+ BRENNUSOVIA_ADJECTIVE:0 "Brennusovian"
+ brennusovia_not_exists:0 "#Y Brennusovia#! must NOT exist."
+
+ #Ziqanmakom
+ form_ziqanmakom:0 "Form Ziqanmak'om"
+ form_ziqanmakom_desc:0 "We sailed far north from our costal homeland along the Mediterranian Sea initially to trade with the bearded men of the forests, but instead we found a land habitable enough for us to settle. Just as Dido led the Punics to establish Carthago many generations ago, so too can we establish a vast mercantile empire in these frozen northernly reaches of the world, and thus proclaim ourselves to be Ziqanmak'om."
+ ZIQANMAKOM_NAME:0 "Ziqanmak'om"
+ ZIQANMAKOM_ADJECTIVE:0 "Ziqanmak'om"
+ ziqanmakom_not_exists:0 "#Y Ziqanmak'om#! must NOT exist."
+ formable_ziqanmakom_capital:0 "Our capital must be located in the regions of #Y Germania#!, #Y Scandia#!, or #Y Venedia#!."
+
+ #Alba
+ form_alba:0 "Form Alba"
+ form_alba_desc:0 "We have migrated from our native Hibernia and have conquered the petty Pictish chiefdoms and clans under our glorious banner. It's time that we officially proclaim our lordship over these rugged craigs and become Alba. With the fortress of Caledonia as the center of our realm, we will never be subjected to the whims of outsiders. Alba gu bràth!"
+ ALBA_NAME:0 "Alba"
+ ALBA_ADJECTIVE:0 "Scottish"
+ formable_not_alba_exists:0 "#Y Alba#! must NOT exist."
+ formable_alba_capital:0 "Our capital must be located in the areas of #Y Caledonia#!, #Y Taexalia#!, or #Y Votadinia#!."
+
+ #Graecia Occidentis
+ form_graecia_occidentis:0 "Form Graecia Occidentis"
+ form_graecia_occidentis_desc:0 "From our humble beginnings as a colony, we have grown and expanded far beyond our initial borders, conquoring and Hellenizing the entirety of Gaul in the process. As the bastion of all western Greek civilization, we can no longer title ourselves as a mere colony, but instead proclaim our glorious empire as Graecia Occidentis."
+ GRAECIA_OCCIDENTIS_NAME:0 "Graecia Occidentis"
+ GRAECIA_OCCIDENTIS_ADJECTIVE:0 "Graecia Occidentian"
+ graecia_occidentis_not_exists:0 "#Y Graecia Occidentis#! must NOT exist."
+ formable_graecia_occidentis_capital:0 "Our capital must be located in the regions of #Y Germania#!, #Y Scandia#!, or #Y Venedia#!."
+
+ #Ghabataleanbar
+ form_ghabataleanbar:0 "Form Ghabataleanbar"
+ form_ghabataleanbar_desc:0 "We have migrated beyond the furthest reaches of the desert, to a land in the far north where great trees endlessly cover the horizon and where the long, dark nights are frigid. There is no frankincense in this wilderness, but there are shiny stones the locals call amber, which are just as highly valued. With our past experience dominating the frankincense trade, we can establish a vast monopoly on this amber, and rebrand ourselves as Ghabataleanbar."
+ GHABATALEANBAR_NAME:0 "Ghabataleanbar"
+ GHABATALEANBAR_ADJECTIVE:0 "Ghabataleanbari"
+ ghabataleanbar_not_exists:0 "#Y Ghabataleanbar#! must NOT exist."
+ formable_ghabataleanbar_capital:0 "Our capital must be located in the regions of #Y Venedia#!, #Y Germania#!, or #Y Vistulia#!."
+
+ #Jalabhumi
+ form_jalabhumi:0 "Form Jalabhumi"
+ form_jalabhumi_desc:0 "Our tribe has migrated far beyond our homeland located along the Ganges river, crossing great mountains, vast deserts, dense jungles, and frozen tundras, until we came across a swamp. This swamp would make a glorious base of operations for our weary tribe, as we can build huts to settle our soldiers and we can lay traps in the bogs to defend them. By making this our swamp, we can thus proclaim ourselves to be Jalabhumi."
+ JALABHUMI_NAME:0 "Jalabhumi"
+ JALABHUMI_ADJECTIVE:0 "Jalabhumi"
+ jalabhumi_not_exists:0 "#Y Jalabhumi#! must NOT exist."
+ formable_jalabhumi_capital:0 "Our capital must be located in the regions of #Y Germania#! or #Y Belgica#!."
+ 
+ #Sicsyria
+ form_sicsyria:0 "Form Sicsyria"
+ form_sicsyria_desc:0 "Our homeland was once the center of a vast and mighty empire that stretched from Egypt to Mesopotamia, however it collapsed centuries ago and our people have since been at the heels of foreign conquerors. Although it would have been unthinkable generations earlier, we might finally be able to escape our temporal fate by abandoning our ancestral lands and fleeing to the Mediterranean island of Sicily. It is a long journey by sea, but with Sicily as the center of a new Assyrian realm, we would be in a prime position to dominate trade, and the island's strategic location is an impenetrable fortress that would ensure that we would never be subjugated again. Thus, we will no longer be known as Assyrian, and shall instead proclaim ourselves Sicsyrian!"
+ SICSYRIA_NAME:0 "Sicsyria"
+ SICSYRIA_ADJECTIVE:0 "Sicsyria"
+ formable_not_sicsyria_exists:0 "#Y Sicsyria#! must NOT exist."
+ formable_sicsyria_capital:0 "Our capital must be located on the isle of Sicily!"
+
+ #Erreinu Atlantikoa
+ form_erreinu_atlantikoa:0 "Form Erreinu Atlantikoa"
+ form_erreinu_atlantikoa_desc:0 "During the Bronze Age, a vast trading network existed along the coasts of the Atlantic, connecting people from Lusitania to Caledonia culturally and economically. This system came crashing down when the Indo-European hordes from the steppe attacked, leaving only fragmented pockets and remnants of these cultures scattered across the isolated regions of the continent. If we can conquer the lands along the Atlantic coast, we can re-establish this trading network to serve as the backbone of an Atlantic Empire capable of casting out these invaders from whence they came."
+ ERREINU_ATLANTIKOA_NAME:0 "Erreinu Atlantikoa"
+ ERREINU_ATLANTIKOA_ADJECTIVE:0 "Erreinu Atlantikoan"
+ erreinu_atlantikoa_not_exists:0 "#Y Erreinu Atlantikoa#! must NOT exist."
+
+ #Gothia
+ form_gothia:0 "Form Gothia"
+ form_gothia_desc:0 "Our people have fought and feuded with eachother in petty tribal disputes for as long as we can remember, weakening ourselves while strengthening our adversaries. If we can unite the Gothic tribes along the Baltic under our banner, we will be able to use our combined power to dominate the region."
+ GOTHIA_NAME:0 "Gothia"
+ GOTHIA_ADJECTIVE:0 "Gothic"
+ gothia_not_exists:0 "#Y Gothia#! must NOT exist."
+
+ #Boihaemia Magna
+ form_boihaemia_magna:0 "Form Boihaemia Magna"
+ form_boihaemia_magna_desc:0 "The myriad of tribes spread across northern Europe are powerful and strong, but are scattered, divided, and leaderless. If we mobilize our forces, we can boldly sieze this opportunity to usurp power in this vaccum and annex the region. With our strong leadership, we would be able to fuse our two warlike cultures together and forge a syncretic Celto-Germanic empire capable of fighting all who would dare to oppose us."
+ BOIHAEMIA_MAGNA_NAME:0 "Boihaemia Magna"
+ BOIHAEMIA_MAGNA_ADJECTIVE:0 "Boihaemia Magnan"
+ boihaemia_magna_not_exists:0 "#Y Boihaemia Magna#! must NOT exist."
+
+ #Brittany
+ form_brittany:0 "Form Brittany"
+ form_brittany_desc:0 "The isle of Britain is too scarred, wartorn, and chaotic to ensure the survival of our culture. The conditions of Armorica just across the sea to the south are far more sustainable and prosperous. If we can settle our people there, we can establish a kingdom of Brittany that will ensure our traditions and customs will survive."
+ BRITTANY_NAME:0 "Brittany"
+ BRITTANY_ADJECTIVE:0 "Breton"
+ brittany_not_exists:0 "#Y Brittany#! must NOT exist."
+
+ #Britannia
+ form_britannia:0 "Form Britannia"
+ form_britannia_desc:0 "Our great empire has collapsed, leaving our administration in chaos and disarray. We might be able to secure our survival by relocating our center of governance to the province of Britannia and ruling from there until the time is right to retake our homeland."
+ BRITANNIA_NAME:0 "Britannia"
+ BRITANNIA_ADJECTIVE:0 "Britannian"
+ britannia_not_exists:0 "#Y Britannia#! must NOT exist."
+ formable_britannia_capital:0 "Our capital must be located in the regions of #Y Britannia#! or #Y Caledonia#!."
+ formable_britannia_does_not_own_italy:0 "We must not hold any land in the region of #Y Italia#!."
+
+ #Pannonia
+ form_pannonia_dacia:0 "Form Pannonia"
+ form_pannonia_celtic:0 "Form Pannonia"
+ form_pannonia_germanic:0 "Form Pannonia"
+ form_pannonia_scythian:0 "Form Pannonia"
+ form_pannonia_baltic:0 "Form Pannonia"
+ form_pannonia_dacia_desc:0 "Protected by the mountains in the north and east and shielded by rivers to the south, the Carpathian basin is the perfect place to establish a great kingdom worthy of remembrance. Our bretheren are scattered and divided, lead by lesser rulers unworthy of their title; if we can unite the region, we can proclaim ourselves the true master of Pannonia."
+ form_pannonia_celtic_desc:0 "Protected by the mountains in the north and east and shielded by rivers to the south, the Carpathian basin is the perfect place to establish a great kingdom worthy of remembrance. Our bretheren are scattered and divided, lead by lesser rulers unworthy of their title; if we can unite the region, we can proclaim ourselves the true master of Pannonia."
+ form_pannonia_germanic_desc:0 "Protected by the mountains in the north and east and shielded by rivers to the south, the Carpathian basin is the perfect place to establish a new home for our people, where they will never know fear and the horrors of war again. The inhabitants of this region are sparse and fractured along petty tribal feuds, if we act now, we can conquer this region and establish ourselves as the masters of Pannonia."
+ form_pannonia_scythian_desc:0 "Protected by the mountains in the north and east and shielded by rivers to the south, the Carpathian basin is the perfect place to establish a new home for our people, where they will never know fear and the horrors of war again. The inhabitants of this region are sparse and fractured along petty tribal feuds, if we act now, we can conquer this region and establish ourselves as the masters of Pannonia."
+ form_pannonia_baltic_desc:0 "Protected by the mountains in the north and east and shielded by rivers to the south, the Carpathian basin is the perfect place to establish a new home for our people, where they will never know fear and the horrors of war again. The inhabitants of this region are sparse and fractured along petty tribal feuds, if we act now, we can conquer this region and establish ourselves as the masters of Pannonia."
+ PANNONIA_NAME:0 "Pannonia"
+ PANNONIA_ADJECTIVE:0 "Pannonian"
+ pannonia_not_exists:0 "#Y Pannonia#! must NOT exist."
+ formable_pannonia_capital:0 "Our capital must be located in the regions of #Y Pannonia#! or #Y Dacia#!."
+
+ #Estu Imperija
+ form_estu_imperija:0 "Form Estu Imperija"
+ form_estu_imperija_desc:0 "Our people have always been reliant upon the amber trade in order to survive and thrive. However, our lands are not the only source of this precious stone in the region; there are others to the north and west which produce it as well, but whose people are not subject to our realm. In order to secure the future of our people, we must expand far and wide, creating a vast empire upon which all sources of amber are Aestian! For with our monopoly secured, our lifeblood shall be secured."
+ ESTU_IMPERIJA_NAME:0 "Estu Imperija"
+ ESTU_IMPERIJA_ADJECTIVE:0 "Estu"
+ estu_imperija_not_exists:0 "#Y Estu Imperija#! must NOT exist."
+
+ #Meshwesh
+ form_meshwesh:0 "Form Meshwesh"
+ form_meshwesh_desc:0 "For as long as the sands have flowed in the desert, we have lived in the shadow of our Egyptian neighbors, scavenging for scraps while they feast like kings and erect exorbitant tombs. No more! We shall be the Pharaohs now and take what is rightfully ours!"
+ MESHWESH_NAME:0 "Meshwesh"
+ MESHWESH_ADJECTIVE:0 "Meshweshi"
+ meshwesh_not_exists:0 "#Y Meshwesh#! must NOT exist."
+
+ #Nemedia
+ form_nemedia:0 "Form Nemedia"
+ form_nemedia_desc:0 "Left virtually deserted from years of plague and famine, the Emerald Isle beacons for more people to till it's rich soil, reap it's crops, and establish settlements. While the great journey across the sea will be both perilous and treacherous, as long as we have faith in Thagimasadas, we will survive and then thrive in our new homeland, Nemedia."
+ NEMEDIA_NAME:0 "Nemedia"
+ NEMEDIA_ADJECTIVE:0 "Nemedian"
+ nemedia_not_exists:0 "#Y Nemedia#! must NOT exist."
+
+ #Arfordir Chwal
+ form_arfordir_chwal:0 "Form Arfordir Chwal"
+ form_arfordir_chwal_desc:0 "Britain is a land of constant strife, where the struggles between kings make every day life an uncertainty. Over across the eastern sea lies a land of anglers, where surely schools of fish must be teeming along their coasts, ready to feed a hungry people. Let us raise a host of our finest, most battle-hardened warriors and leave this forsaken island, never to return; for we shall take a new one along the coasts of Arfordir Chwal!"
+ ARFORDIR_CHWAL_NAME:0 "Arfordir Chwal"
+ ARFORDIR_CHWAL_ADJECTIVE:0 "Arfordir Chwalian"
+ arfordir_chwal_not_exists:0 "#Y Arfordir Chwal#! must NOT exist."
+
+ #Ishkuza
+ form_ishkuza:0 "Form Ishkuza"
+ form_ishkuza_desc:0 "Centuries ago, the Mesopotamians regarded the warriors of the Steppe with terror and horror, where the very mention of our names was enough to send shivers down their spines. Now we have been forgotten, neglected and overshadowed by other powers; civilized men give us not even a second thought, if they are at all aware of our existance. For too long we have been passive and soft, content to sit and watch the world go by; let us once again raise a host of warriors and penetrate beyond the mountain passes, where we shall sack and lay ruin to the wealthy and pretentious cities of the world. Only then shall the name Ishkuza once again strike the fear into our enemies that it deserves."
+ ISHKUZA_NAME:0 "Ishkuza"
+ ISHKUZA_ADJECTIVE:0 "Ishkuzan"
+ ishkuza_not_exists:0 "#Y Ishkuza#! must NOT exist."
+
+ #Batatanac
+ form_baratanac:0 "Form the Baratanac Federation"
+ form_baratanac_desc:0 "For generations Dido and Azibal have been two distant Punic colonies deep in a foreign land surrounded by alien countries. If we were to unite with our kin across the channel, we would be in a position to establish a federation capable of monopolizing trade and projecting our influence, becoming a worthy successor to the Punic and Phoenecian realms of our forebearers."
+ BARATANAC_NAME:0 "Baratanac Federation"
+ BARATANAC_ADJECTIVE:0 "Baratanac"
+ baratanac_not_exists:0 "#YThe Baratanac Federation#! must NOT exist."
+
+ #Hekamet
+ form_hekamet:0 "Form Hekamet"
+ form_hekamet_desc:0 "Long have we persecuted and oppressed the followers of Yahweh within our lands, preventing any serious debate or discussion on the message they preach. Now that the Greek pretenders have been ousted, there are some powerful and influential elites within our government who think that there may be some truth in what the Israelites have to say, however, and that we should incorporate some of their ideas into our new kingdom. By adopting Judaism as our official state religion, we will become Hekamet, and with our newfound faith, Yahweh will ensure that our zealous Pharaoh shall keep our lands free from foreign barbarians."
+ HEKAMET_NAME:0 "Hekamet"
+ HEKAMET_ADJECTIVE:0 "Hekameti"
+ hekamet_not_exists:0 "#YHekamet#! must NOT exist."
+
+ #Pannonia (Pannonian)
+ form_pannonia_pannonian:0 "Form Pannonia"
+ form_pannonia_pannonian_desc:0 "Protected by the mountains in the north and east and shielded by rivers to the south, the Carpathian basin is the perfect place to establish a great kingdom worthy of remembrance. Our bretheren are scattered and divided, lead by lesser rulers unworthy of their title; if we can unite the region, we can proclaim ourselves the true master of Pannonia."
+ 
+ #Wigaza
+ form_wigaza:0 "Form Wigaza"
+ form_wigaza_desc:0 "Exiled from our homeland, we have travelled far and wide, surviving by pillaging the settlements we come across and gradually gaining strength by recruiting the stragglers found along the way. To the east lies a wealthy land known to the Greeks as Anatolia that finds itself in the midst of a struggle for power and control; Once our warband is of sufficient size, we will be ready to pounce on these so-called 'great' powers and crush their inept and unprepared armies, to seize control of Anatolia's riches for our own prosperity for generations to come!"
+ WIGAZA_NAME:0 "Wigaza"
+ WIGAZA_ADJECTIVE:0 "Wigazan"
+ wigaza_not_exists:0 "#Y Wigaza#! must NOT exist."
+ formable_wigaza_capital:0 "Our capital must be located in either Anatolia or Greece."
+ 
+ #Iberoalania (Nyguylania)
+ form_nyguylania:0 "Form Iberoalania"
+ form_nyguylania_desc:0 "Scythia is a barren and desolate wasteland; an endless sea of grass stretching as far and as wide as the eye can see, unbefitting and unworthy of a mighty people such as ourselves. Far to the west lays Iberia, a mysterious and bountiful land in which valuable metals and spices abound, yet is occupied by those too weak to exploit or defend it. Let us ride westward and crush these petty barbarians. From the ashes of their world a new empire will arise that will enshrine our names and our people into the annals of history!"
+ NYGUYLANIA_NAME:0 "Iberoalania"
+ NYGUYLANIA_ADJECTIVE:0 "Iberoalanian"
+ nyguylania_not_exists:0 "#Y Iberoalania#! must NOT exist."
+ formable_nyguylania_capital:0 "Our capital must be located on the Iberia peninsula."
+ 
+ #Atrebatia
+ form_atrebatia:0 "Form Atrebatia"
+ form_atrebatia_desc:0 "Long have we crossed the channel to raid and loot the shores of Britannia, earning our warriors great wealth and plunder over the years. However, now that we have begun to create permanent settlements in the area, it is time that we claimed lordship over our new domains by establishing the kingdom of Atrebatia."
+ ATREBATIA_NAME:0 "Atrebatia"
+ ATREBATIA_ADJECTIVE:0 "Atrebatian"
+ atrebatia_not_exists:0 "#Y Atrebatia#! must NOT exist."
+ 
+ #Belgica Magna
+ form_belgica_magna:0 "A Greater Belgium"
+ form_belgica_magna_desc:0 "The Belgae have long been regarded as the strongest and most warlike of the tribes of Gaul, whose reputation causes even the mighty Romans to think twice before strking. However, the civilization that we deplore for its weakness has spread to our neighbors like a plague, and should we fail to stop it, it will surely consume us as well. Let us march out into our neighbors and burn their cities to the ground, and from their ashes we shall have a greater Belgae empire capable of holding the corrupting forces of civilization at bay!"
+ BELGICA_MAGNA_NAME:0 "Belgica Magna"
+ BELGICA_MAGNA_ADJECTIVE:0 "Belgae"
+ belgica_magna_not_exists:0 "#Y Belgica Magna#! must NOT exist."
+ 
+ #Zvejia
+ form_zvejia:0 "Form Zvejia"
+ form_zvejia_desc:0 "For millenia we have lived along these frigid and marshy shores, dredging precious amber from the mud with an expertise that few can match. However, the amber is fast running out, and without any valuable commodities to replace it, soon we will be impovershed. The cold sea beakons to us with the possibility of new and wealthy lands to explore and settle. Let us sail into the sunset, and with faith in our gods, we shall find a new place to call home, the land of Zvejia."
+ ZVEJIA_NAME:0 "Zvejia"
+ ZVEJIA_ADJECTIVE:0 "Zvejia"
+ zvejia_not_exists:0 "#Y Zvejia#! must NOT exist."
+ formable_zvejia_capital:0 "Our capital must be located in the regions of #Y Britannia#! or #Y Caledonia#!."
+ 
+ #Olovia
+ form_olovia:0 "Form Olovia"
+ form_olovia_desc:0 "Our homeland is a frozen and desolate wasteland permiated by a thicket of impregnable forest and envoloped by hostile raiders on the border. Far to the west, however, is an island fabled to contain rich deposits of tin and is only bounded by the hospitible sea. Let us leave these accursed lands behind us and sail to the isle of tin, wherein we shall become more wealthy and prosperous then we ever have before!"
+ OLOVIA_NAME:0 "Olovia"
+ OLOVIA_ADJECTIVE:0 "Olovian"
+ olovia_not_exists:0 "#Y Olovia#! must NOT exist."
+ 
+ #Pannonia (Berber)
+ form_pannonia_berber:0 "Form Pannonia"
+ form_pannonia_berber_desc:0 "Protected by the mountains in the north and east and shielded by rivers to the south, the Carpathian basin is the perfect place to establish a new home for our people, where they will never know fear and the horrors of war again. The inhabitants of this region are sparse and fractured along petty tribal feuds, if we act now, we can conquer this region and establish ourselves as the masters of Pannonia."
+ 
+ #Vapia
+ form_vapia:0 "Form Vapia"
+ form_vapia_desc:0 "The Slavic homeland is a cold, desolate place in which only the strong can survive, ensuring that our warriors are hardier and more powerful then those of the civilized world. With Anatolia in disarray, it is the perfect oportunity to sweep down from the north and take what is rightfully ours! Once the dust has settled, we will have a new homeland for our people along the wealthy coast of the hospitible sea."
+ VAPIA_NAME:0 "Vapia"
+ VAPIA_ADJECTIVE:0 "Vapian"
+ vapia_not_exists:0 "#Y Vapia#! must NOT exist."
+ formable_vapia_capital:0 "Our capital must be located in Anatolia, the region of Armenia, or the region of Colchis."
+ 
+ #Albanian Albania
+ form_albanian_albania:0 "A new Albania"
+ form_albanian_albania_desc:0 "Albania is a mountainous land wedged between the rising powers in Persia and Armenia, which will surely seek our subjugation or conquest in the near future. Instead of fighting tooth and nail for our survival, let us instead leave this rugged, unforgiving place for more prosperous, uncontested lands along the Adriatic sea. From there, a new Albania shall rise that we can all take pride in."
+ ALBANIAN_ALBANIA_NAME:0 "Albanian Albania"
+ ALBANIAN_ALBANIA_ADJECTIVE:0 "Albanian Albanian"
+ albanian_albania_not_exists:0 "#Y Albanian Albania#! must NOT exist."
+ formable_albanian_albania_capital:0 "Our capital must be located in the Balkans."
+ 
+ #Frankish Empire
+ form_frankish_empire:0 "Form the Frankish Empire"
+ form_frankish_empire_desc:0 "From the forests of Thuringia to the coasts of Aquitania, we have forged a mighty domain whose glory and might challenges the pretenders of the east still clinging on to a bygone era; by officially crowning our ruler as emperor, we shall break with the old order and cement the status of the Franks as the dominant power of the west."
+ FRANKISH_EMPIRE_NAME:0 "Frankish Empire"
+ FRANKISH_EMPIRE_ADJECTIVE:0 "Frankish"
+ frankish_empire_not_exists:0 "The #Y Frankish Empire#! must NOT exist."
+ 
+ #Burgundy
+ form_burgundy:0 "Form Burgundy"
+ form_burgundy_desc:0 "Long have we dwellt amongst the frigid and inhospitible forests of Germania and Scandia, whose bitter inhospitality grows each winter, shortening harvests and making scarce the wild game upon which we rely. All the while, many of our neighbors encroach on our borders, displaced after facing defeat by stronger tribes; soon, we may be next. However, to the west lay a great many fertile plains and valleys, unprotected and undefended by any serious force: Let us leave while we can, and travel westward with our strongest to the wealthy lands of a new Burgundy."
+ BURGUNDY_NAME:0 "Burgundy"
+ BURGUNDY_ADJECTIVE:0 "Burgundian"
+ burgundy_not_exists:0 "#Y Burgundy#! must NOT exist."
+ 
+ #Gepidia
+ form_gepidia:0 "Form Gepidia"
+ form_gepidia_desc:0 "For years we have wandered the treacherous and desolate lands of the north, without any luxury or stability. However, the land of Dacia is close to the rich and decadent Hellenic civilizations of the south and is protected from the horse-lords via the Carpathian mountains to the north; by establishing Dacia as our new homeland, we will be in the perfect position to set up a kingdom made prosperous from raiding the great cities of the Aegean with impunity."
+ GEPIDIA_NAME:0 "Gepidia"
+ GEPIDIA_ADJECTIVE:0 "Gepid"
+ gepidia_not_exists:0 "#Y Gepidia#! must NOT exist."
+ 
+ #Scythoscandia
+ form_scythoscandia:0 "Form Scythoscandia"
+ form_scythoscandia_desc:0 "After many years of raiding and pillaging the heart of Europe, our warriors have arrived at the frozen north, where dense thickets of trees span as far as the eye can see and where the biting cold crushes even the most resolute of men. While there is little of value worth looting in this desolate backwater, merely surviving here presents a challenge in of itself found nowhere else, much less thriving; by taking it head-on and overcoming the odds to conquer Scandia, we will prove to the world that our warriors are the greatest of all time."
+ SCYTHOSCANDIA_NAME:0 "Scythoscandia"
+ SCYTHOSCANDIA_ADJECTIVE:0 "Scythoscandian"
+ scythoscandia_not_exists:0 "#Y Scythoscandia#! must NOT exist."
+ formable_scythoscandia_capital:0 "Our capital must be located in the regions of Scandia, Germania Magna, or Vantali."
+ 
+ #Vindelicia
+ form_vindelicia:0 "Form Vindelicia"
+ form_vindelicia_desc:0 "At the rocky foothills of the Alps, the various Vindelician tribes dwell, content to focus on local issues and affairs due to the protection afforded to them by the great mountains to the south and the Danube to the north. However, should either the Danube freeze or the Alps be crossed, the divided Vindelicians would be unable to defend themselves from their neighbors; if we were to confederate the other Vindelician tribes under a single leader, we could coordinate our forces and ward off those who would dare subjugate us."
+ VINDELICIA_NAME:0 "Vindelicia"
+ VINDELICIA_ADJECTIVE:0 "Vindelician"
+ vindelicia_not_exists:0 "#Y Vindelicia#! must NOT exist."
+ 
+ #Varangia
+ form_varangia:0 "Form Varangia"
+ form_varangia_desc:0 "After migrating from the far north, we have proudly served as mercenaries to the various kings of Hellenic world, our highly sought-after skills ensuring access to the most lucrative contracts. However, collapsing authority has led to a power vaccum in which few can continue to afford our services; with our expertise, our battle-hardened warriors can topple these petty despots and establish a Varangian kingdom of our own."
+ VARANGIA_NAME:0 "Varangia"
+ VARANGIA_ADJECTIVE:0 "Varangian"
+ varangia_not_exists:0 "#Y Varangia#! must NOT exist."

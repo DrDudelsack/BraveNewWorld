@@ -1,0 +1,108 @@
+﻿country_decisions = {
+	#Modded Molon Labe		
+	# Form Albanian Albania
+	# Created by Shinymewtwo99
+	form_albanian_albania = {
+		
+		potential = {
+			num_of_cities >= 1
+			OR = {
+				primary_culture = albanian
+			}
+			NOT = {
+				tag = AAL
+			}
+			OR = {
+				is_ai = no
+				num_of_cities >= 6
+			}
+			NOR = {
+				is_tier_2_formable_trigger = yes
+				is_endgame_tag_trigger = yes
+			}
+		}
+		
+		highlight = {
+			scope:province = {
+				OR = {
+					province_id = 467
+					province_id = 474
+					province_id = 421
+					province_id = 1144
+					province_id = 4092
+					province_id = 3356
+					is_in_area = illyria_graeca_area
+				}
+			}
+		}
+		
+		allow = {
+			custom_tooltip = {
+				text = albanian_albania_not_exists
+				NOT = {
+					any_country = {
+						num_of_cities >= 1
+						tag = AAL
+					}
+				}
+			}
+			can_form_nation_trigger = yes
+			owns_or_subject_owns = 467
+			owns_or_subject_owns = 474
+			owns_or_subject_owns = 421
+			owns_or_subject_owns = 1144
+			owns_or_subject_owns = 4092
+			owns_or_subject_owns = 3356
+			owns_or_subject_owns_area = illyria_graeca_area
+			custom_tooltip = {
+				text = formable_albanian_albania_capital
+				capital_scope = {
+						OR = {
+							is_in_region = pannonia_region
+							is_in_region = dacia_region
+							is_in_region = bohemia_region
+							is_in_region = thrace_region
+							is_in_region = macedonia_region
+							is_in_region = greece_region
+							is_in_region = illyria_region
+					}
+				}
+			}
+		}
+		
+		effect = {
+			custom_tooltip = "tier_1_formable_tooltip"
+			change_country_name = "ALBANIAN_ALBANIA_NAME"
+			if = {
+				limit = { is_tribal = yes }
+				add_country_modifier = {
+					name = civilized_tribe
+					duration = 5475
+				}
+				change_government = tribal_federation
+				switch_government_type_event_clearup_effect = yes
+			}		
+			hidden_effect = {
+				change_country_adjective = "ALBANIAN_ALBANIA_ADJECTIVE"
+				change_country_color =  "albanian_albania_color"
+				change_country_tag = AAL
+				change_country_flag = ALBANIAN_ALBANIA_FLAG
+				trigger_event = {
+					id = formable_heritage.169
+				}					
+			}
+			capital_scope = {
+				establish_city_effect = yes
+				capital_formable_tribal_effect = yes
+				formable_capital_modifier_tribal_effect = yes
+			}
+			add_2_free_province_investments = yes
+		}
+		
+		ai_will_do = {
+			base = 1
+		}
+	}
+
+} 
+

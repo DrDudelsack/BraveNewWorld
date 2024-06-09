@@ -1,0 +1,93 @@
+﻿country_decisions = {
+	
+	# Form Scythoscandia
+	# Created by Shinymewtwo99
+	form_scythoscandia = {
+		
+		potential = {
+			num_of_cities >= 1
+			OR = {
+				country_culture_group = scythia
+				country_culture_group = scythian_east
+			}
+			NOT = {
+				tag = SSC
+			}
+			OR = {
+				is_ai = no
+				num_of_cities >= 12
+			}
+			NOR = {
+				is_tier_2_formable_trigger = yes
+				is_endgame_tag_trigger = yes
+			}
+		}
+		
+		highlight = {
+			scope:province = {
+				OR = {
+					is_in_region = scandinavia_region
+				}
+			}
+		}
+		
+		allow = {
+			custom_tooltip = {
+				text = scythoscandia_not_exists
+				NOT = {
+					any_country = {
+						tag = SSC
+					}
+				}
+			}
+			can_form_nation_trigger = yes
+			owns_or_subject_owns_region = scandinavia_region
+			custom_tooltip = {
+				text = formable_scythoscandia_capital
+				capital_scope = {
+						OR = {
+							is_in_region = scandinavia_region
+							is_in_region = germania_region
+							is_in_region = venedia_region
+					}
+				}
+			}
+		}
+		
+		effect = {
+			custom_tooltip = "tier_2_formable_tooltip"
+			change_country_name = "SCYTHOSCANDIA_NAME"
+			if = {
+				limit = { is_tribal = yes }
+				add_country_modifier = {
+					name = civilized_tribe
+					duration = 5475
+				}
+				change_government = tribal_federation
+				switch_government_type_event_clearup_effect = yes
+			}
+			hidden_effect = {
+				change_country_adjective = "SCYTHOSCANDIA_ADJECTIVE"
+				change_country_color = "scythoscandia_color"
+				change_country_tag = SSC
+				change_country_flag = SCYTHOSCANDIA_FLAG
+				trigger_event = {
+					id = formable_heritage.171
+				}					
+			}
+			capital_scope = {
+					establish_city_effect = yes
+					capital_formable_medium_effect = yes
+					formable_capital_modifier_normal_effect = yes
+			}
+			# custom_tooltip = "form_scythoscandia_claims_tooltip"s
+			add_3_free_province_investments = yes
+		}
+		
+		ai_will_do = {
+			base = 1
+		}
+	}
+
+} 
+
