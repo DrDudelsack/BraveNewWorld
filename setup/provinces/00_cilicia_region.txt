@@ -5,6 +5,7 @@
 	trade_goods="wine"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 	port_building=1
 }
@@ -16,6 +17,7 @@
 	trade_goods="honey"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -26,6 +28,7 @@
 	trade_goods="cedar"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -36,6 +39,7 @@
 	trade_goods="dye"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -46,6 +50,7 @@
 	trade_goods="fish"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -56,6 +61,7 @@
 	trade_goods="cattle"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 	port_building=1
 }
@@ -67,6 +73,7 @@
 	trade_goods="cloth"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -77,6 +84,7 @@
 	trade_goods="cedar"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -87,6 +95,7 @@
 	trade_goods="stone"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -97,6 +106,7 @@
 	trade_goods="hemp"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -107,6 +117,7 @@
 	trade_goods="salt"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -117,6 +128,7 @@
 	trade_goods="vegetables"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -127,6 +139,7 @@
 	trade_goods="olive"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -137,6 +150,7 @@
 	trade_goods="glass"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 	port_building=1
 }
@@ -148,6 +162,7 @@
 	trade_goods="cedar"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 	port_building=1
 }
@@ -159,6 +174,7 @@
 	trade_goods="base_metals"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -169,6 +185,7 @@
 	trade_goods="cedar"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 	holy_site=omen_aphrodite
 	port_building=1
@@ -181,6 +198,7 @@
 	trade_goods="olive"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 	port_building=1
 }
@@ -192,6 +210,7 @@
 	trade_goods="base_metals"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -202,6 +221,7 @@
 	trade_goods="base_metals"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -212,6 +232,7 @@
 	trade_goods="cedar"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 	port_building=1
 }
@@ -223,6 +244,7 @@
 	trade_goods="olive"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -231,8 +253,9 @@
 	culture="kennataian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 1872={ #Pylai Kilikiai
@@ -242,6 +265,7 @@
 	trade_goods="vegetables"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -252,6 +276,7 @@
 	trade_goods="cattle"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -262,6 +287,7 @@
 	trade_goods="grain"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -272,6 +298,7 @@
 	trade_goods="honey"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -282,6 +309,7 @@
 	trade_goods="hemp"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -292,6 +320,7 @@
 	trade_goods="iron"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -302,6 +331,7 @@
 	trade_goods="fish"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -312,6 +342,7 @@
 	trade_goods="wine"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 	port_building=1
 }
@@ -323,6 +354,7 @@
 	trade_goods="base_metals"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 	port_building=1
 }
@@ -334,6 +366,7 @@
 	trade_goods="glass"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -344,6 +377,7 @@
 	trade_goods="base_metals"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 	port_building=1
 }
@@ -355,6 +389,7 @@
 	trade_goods="incense"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -365,6 +400,7 @@
 	trade_goods="wine"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -375,6 +411,7 @@
 	trade_goods="fish"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -385,6 +422,7 @@
 	trade_goods="cedar"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -395,6 +433,7 @@
 	trade_goods="cedar"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 	port_building=1
 }
@@ -406,6 +445,7 @@
 	trade_goods="cedar"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -416,6 +456,7 @@
 	trade_goods="honey"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -426,6 +467,7 @@
 	trade_goods="fish"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -436,6 +478,7 @@
 	trade_goods="cedar"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -446,6 +489,7 @@
 	trade_goods="cedar"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 	port_building=1
 }
@@ -457,6 +501,7 @@
 	trade_goods="cloth"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -467,6 +512,7 @@
 	trade_goods="hemp"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -477,6 +523,7 @@
 	trade_goods="honey"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -487,6 +534,7 @@
 	trade_goods="dye"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 	port_building=1
 }
@@ -498,6 +546,7 @@
 	trade_goods="cloth"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -508,6 +557,7 @@
 	trade_goods="base_metals"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -518,6 +568,7 @@
 	trade_goods="cattle"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -528,6 +579,7 @@
 	trade_goods="vegetables"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -538,6 +590,7 @@
 	trade_goods="wine"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -548,6 +601,7 @@
 	trade_goods="iron"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -558,6 +612,7 @@
 	trade_goods="cattle"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -568,6 +623,7 @@
 	trade_goods="honey"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -578,6 +634,7 @@
 	trade_goods="wild_game"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -588,6 +645,7 @@
 	trade_goods="hemp"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -598,6 +656,7 @@
 	trade_goods="cattle"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -608,6 +667,7 @@
 	trade_goods="wine"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -618,6 +678,7 @@
 	trade_goods="hemp"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -628,6 +689,7 @@
 	trade_goods="leather"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -638,6 +700,7 @@
 	trade_goods="cedar"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -648,6 +711,7 @@
 	trade_goods="glass"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -658,6 +722,7 @@
 	trade_goods="cloth"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 	holy_site=omen_kakasbos
 	port_building=1
@@ -670,6 +735,7 @@
 	trade_goods="cedar"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -680,6 +746,7 @@
 	trade_goods="marble"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -690,6 +757,7 @@
 	trade_goods="cedar"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -700,6 +768,7 @@
 	trade_goods="glass"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 	port_building=1
 }
@@ -711,6 +780,7 @@
 	trade_goods="base_metals"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 	port_building=1
 }
@@ -722,6 +792,7 @@
 	trade_goods="grain"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -732,6 +803,7 @@
 	trade_goods="cedar"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -742,6 +814,7 @@
 	trade_goods="hemp"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -752,6 +825,7 @@
 	trade_goods="stone"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -762,6 +836,7 @@
 	trade_goods="cattle"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -772,6 +847,7 @@
 	trade_goods="vegetables"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -782,6 +858,7 @@
 	trade_goods="cattle"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -792,6 +869,7 @@
 	trade_goods="wild_game"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -802,6 +880,7 @@
 	trade_goods="cloth"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -812,6 +891,7 @@
 	trade_goods="cedar"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -822,6 +902,7 @@
 	trade_goods="leather"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -832,6 +913,7 @@
 	trade_goods="base_metals"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -842,6 +924,7 @@
 	trade_goods="cattle"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -850,8 +933,9 @@
 	culture="kennataian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7990={ #Kourion
@@ -861,6 +945,7 @@
 	trade_goods="cedar"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -871,6 +956,7 @@
 	trade_goods="olive"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -879,8 +965,9 @@
 	culture="kennataian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 8022={ #Cilician Gates
@@ -888,7 +975,8 @@
 	culture="kennataian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 

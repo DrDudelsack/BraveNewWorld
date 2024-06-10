@@ -3,8 +3,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2989={ #Mare Hyrcanum
@@ -12,8 +13,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2990={ #Mare Hyrcanum
@@ -21,8 +23,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2991={ #Mare Hyrcanum
@@ -30,8 +33,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2992={ #Mare Hyrcanum
@@ -39,8 +43,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2993={ #Mare Hyrcanum
@@ -48,8 +53,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2994={ #Mare Hyrcanum
@@ -57,8 +63,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2995={ #Mare Hyrcanum
@@ -66,8 +73,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2996={ #Mare Hyrcanum
@@ -75,8 +83,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2997={ #Mare Hyrcanum
@@ -84,8 +93,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2998={ #Mare Hyrcanum
@@ -93,8 +103,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2999={ #Mare Hyrcanum
@@ -102,8 +113,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 4569={ #Mare Hyrcanum
@@ -111,8 +123,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 4570={ #Mare Hyrcanum
@@ -120,8 +133,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 4571={ #Mare Hyrcanum
@@ -129,8 +143,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 4572={ #Mare Hyrcanum
@@ -138,8 +153,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 4573={ #Mare Hyrcanum
@@ -147,8 +163,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 4574={ #Mare Hyrcanum
@@ -156,8 +173,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 4575={ #Mare Hyrcanum
@@ -165,8 +183,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 4576={ #Mare Hyrcanum
@@ -174,8 +193,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 4577={ #Mare Hyrcanum
@@ -183,8 +203,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 4578={ #Mare Hyrcanum
@@ -192,8 +213,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 4579={ #Mare Hyrcanum
@@ -201,8 +223,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 4580={ #Mare Hyrcanum
@@ -210,8 +233,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 4581={ #Mare Hyrcanum
@@ -219,8 +243,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 4582={ #Mare Hyrcanum
@@ -228,8 +253,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 4583={ #Mare Hyrcanum
@@ -237,8 +263,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 4584={ #Mare Hyrcanum
@@ -246,8 +273,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 4585={ #Mare Hyrcanum
@@ -255,8 +283,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 4586={ #Mare Hyrcanum
@@ -264,8 +293,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 4587={ #Mare Hyrcanum
@@ -273,8 +303,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 4588={ #Mare Hyrcanum
@@ -282,7 +313,8 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 

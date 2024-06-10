@@ -3,8 +3,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2501={ #Fretum Siculum
@@ -12,8 +13,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2502={ #Sinus Paestanus
@@ -21,8 +23,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2503={ #Mare Tyrrhenum
@@ -30,8 +33,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2504={ #Mare Tyrrhenum
@@ -39,8 +43,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2505={ #Mare Tyrrhenum
@@ -48,8 +53,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2506={ #Mare Tyrrhenum
@@ -57,8 +63,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2507={ #Sinus Veneticus
@@ -66,8 +73,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2508={ #Mare Superum
@@ -75,8 +83,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2509={ #Mare Superum
@@ -84,8 +93,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2510={ #Mare Ionium
@@ -93,8 +103,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2511={ #Mare Ionium
@@ -102,8 +113,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2512={ #Sinus Liburnus
@@ -111,8 +123,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2513={ #Mare Ionium
@@ -120,8 +133,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2514={ #Mare Ionium
@@ -129,8 +143,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2515={ #Sinus Veneticus
@@ -138,8 +153,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2516={ #Fretum Melitense
@@ -147,8 +163,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2517={ #Fretum Siculum
@@ -156,8 +173,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2518={ #Mare Ionium
@@ -165,8 +183,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2519={ #Fretum Melitense
@@ -174,8 +193,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2520={ #Fretum Siculum
@@ -183,8 +203,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2521={ #Mare Tyrrhenum
@@ -192,8 +213,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2522={ #Sinus Tarentinus
@@ -201,8 +223,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2523={ #Mare Hibericum
@@ -210,8 +233,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2524={ #Mare Balearium
@@ -219,8 +243,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2525={ #Mare Hibericum
@@ -228,8 +253,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2526={ #Sinus Liburnus
@@ -237,8 +263,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2527={ #Mare Superum
@@ -246,8 +273,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2528={ #Mare Superum
@@ -255,8 +283,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2529={ #Mare Superum
@@ -264,8 +293,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2530={ #Sinus Sipontinus
@@ -273,8 +303,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2531={ #Mare Superum
@@ -282,8 +313,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2532={ #Mare Superum
@@ -291,8 +323,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2533={ #Fretum Hydruntis
@@ -300,8 +333,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2534={ #Mare Superum
@@ -309,8 +343,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2535={ #Mare Superum
@@ -318,8 +353,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2536={ #Mare Superum
@@ -327,8 +363,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2537={ #Mare Superum
@@ -336,8 +373,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2538={ #Mare Superum
@@ -345,8 +383,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2539={ #Mare Superum
@@ -354,8 +393,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2540={ #Mare Superum
@@ -363,8 +403,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2541={ #Mare Superum
@@ -372,8 +413,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2542={ #Mare Superum
@@ -381,8 +423,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2544={ #Mare Superum
@@ -390,8 +433,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2545={ #Mare Superum
@@ -399,8 +443,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2546={ #Mare Tyrrhenum
@@ -408,8 +453,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2547={ #Mare Ligusticum
@@ -417,8 +463,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2548={ #Sinus Genuensis
@@ -426,8 +473,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2549={ #Mare Ligusticum
@@ -435,8 +483,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2550={ #Mare Sardoum
@@ -444,8 +493,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2551={ #Sinus Gallicus
@@ -453,8 +503,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2552={ #Sinus Gallicus
@@ -462,8 +513,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2553={ #Mare Internum
@@ -471,8 +523,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2554={ #Mare Hibericum
@@ -480,8 +533,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2555={ #Mare Hibericum
@@ -489,8 +543,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2556={ #Mare Hibericum
@@ -498,8 +553,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2557={ #Mare Hibericum
@@ -507,8 +563,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2558={ #Mare Hibericum
@@ -516,8 +573,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2559={ #Mare Hibericum
@@ -525,8 +583,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2560={ #Mare Hibericum
@@ -534,8 +593,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2561={ #Mare Hibericum
@@ -543,8 +603,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2562={ #Mare Internum
@@ -552,8 +613,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2563={ #Sinus Hipponensis
@@ -561,8 +623,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2564={ #Sinus Uticensis
@@ -570,8 +633,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2565={ #Fretum Siculum
@@ -579,8 +643,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2566={ #Sinus Neapolitanus
@@ -588,8 +653,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2567={ #Mare Libycum
@@ -597,8 +663,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2568={ #Syrtis Minor
@@ -606,8 +673,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2569={ #Mare Libycum
@@ -615,8 +683,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2570={ #Mare Libycum
@@ -624,8 +693,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2571={ #Syrtis Maior
@@ -633,8 +703,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2572={ #Syrtis Maior
@@ -642,8 +713,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2573={ #Syrtis Maior
@@ -651,8 +723,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2574={ #Mare Aegyptium
@@ -660,8 +733,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2575={ #Mare Aegyptium
@@ -669,8 +743,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2576={ #Mare Aegyptium
@@ -678,8 +753,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2577={ #Mare Aegyptium
@@ -687,8 +763,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2578={ #Delta Nili
@@ -696,8 +773,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2579={ #Delta Nili
@@ -705,8 +783,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2580={ #Mare Phoenicium
@@ -714,8 +793,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2581={ #Mare Phoenicium
@@ -723,8 +803,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2582={ #Mare Phoenicium
@@ -732,8 +813,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2583={ #Mare Phoenicium
@@ -741,8 +823,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2584={ #Mare Phoenicium
@@ -750,8 +833,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2585={ #Mare Cilicium
@@ -759,8 +843,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2586={ #Mare Cilicium
@@ -768,8 +853,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2587={ #Mare Lycium
@@ -777,8 +863,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2588={ #Mare Lycium
@@ -786,8 +873,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2589={ #Mare Lycium
@@ -795,8 +883,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2590={ #Mare Icarium
@@ -804,8 +893,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2591={ #Mare Lycium
@@ -813,8 +903,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2592={ #Mare Carpathium
@@ -822,8 +913,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2593={ #Mare Icarium
@@ -831,8 +923,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2594={ #Mare Icarium
@@ -840,8 +933,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2595={ #Mare Icarium
@@ -849,8 +943,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2596={ #Mare Aegyptium
@@ -858,8 +953,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2597={ #Mare Aegyptium
@@ -867,8 +963,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2598={ #Mare Creticum
@@ -876,8 +973,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2599={ #Mare Creticum
@@ -885,8 +983,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2600={ #Mare Aegyptium
@@ -894,8 +993,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2601={ #Mare Aegyptium
@@ -903,8 +1003,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2602={ #Mare Creticum
@@ -912,8 +1013,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2603={ #Sinus Argolicus
@@ -921,8 +1023,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2604={ #Sinus Saronicus
@@ -930,8 +1033,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2605={ #Fretum Carysteum
@@ -939,8 +1043,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2606={ #Mare Creticum
@@ -948,8 +1053,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2607={ #Mare Myrtoum
@@ -957,8 +1063,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2608={ #Mare Aegaeum
@@ -966,8 +1073,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2609={ #Mare Aegaeum
@@ -975,8 +1083,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2610={ #Mare Ionium
@@ -984,8 +1093,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2611={ #Mare Ionium
@@ -993,8 +1103,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2612={ #Mare Ionium
@@ -1002,8 +1113,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2613={ #Mare Ionium
@@ -1011,8 +1123,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2614={ #Fretum Artemisium
@@ -1020,8 +1133,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2615={ #Sinus Thermaeus
@@ -1029,8 +1143,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2616={ #Mare Thracum
@@ -1038,8 +1153,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2617={ #Mare Aegaeum
@@ -1047,8 +1163,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2619={ #Mare Aegaeum
@@ -1056,8 +1173,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2620={ #Mare Aegaeum
@@ -1065,8 +1183,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2621={ #Mare Aegaeum
@@ -1074,8 +1193,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2622={ #Mare Aegaeum
@@ -1083,8 +1203,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2624={ #Fretum Siculum
@@ -1092,8 +1213,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2625={ #Fretum Siculum
@@ -1101,8 +1223,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2626={ #Mare Libycum
@@ -1110,8 +1233,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2627={ #Mare Libycum
@@ -1119,8 +1243,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2628={ #Mare Libycum
@@ -1128,8 +1253,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2629={ #Mare Libycum
@@ -1137,8 +1263,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2630={ #Fretum Melitense
@@ -1146,8 +1273,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2631={ #Mare Libycum
@@ -1155,8 +1283,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2632={ #Mare Libycum
@@ -1164,8 +1293,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2633={ #Mare Libycum
@@ -1173,8 +1303,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2634={ #Mare Libycum
@@ -1182,8 +1313,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2635={ #Mare Libycum
@@ -1191,8 +1323,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2636={ #Mare Libycum
@@ -1200,8 +1333,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2637={ #Mare Libycum
@@ -1209,8 +1343,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2638={ #Mare Ionium
@@ -1218,8 +1353,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2639={ #Mare Ionium
@@ -1227,8 +1363,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2640={ #Mare Libycum
@@ -1236,8 +1373,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2641={ #Mare Libycum
@@ -1245,8 +1383,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2642={ #Mare Libycum
@@ -1254,8 +1393,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2643={ #Syrtis Maior
@@ -1263,8 +1403,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2644={ #Syrtis Maior
@@ -1272,8 +1413,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2645={ #Mare Libycum
@@ -1281,8 +1423,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2646={ #Mare Libycum
@@ -1290,8 +1433,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2647={ #Mare Ionium
@@ -1299,8 +1443,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2648={ #Mare Ionium
@@ -1308,8 +1453,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2649={ #Mare Ionium
@@ -1317,8 +1463,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2650={ #Mare Ionium
@@ -1326,8 +1473,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2651={ #Mare Ionium
@@ -1335,8 +1483,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2652={ #Mare Ionium
@@ -1344,8 +1493,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2653={ #Mare Libycum
@@ -1353,8 +1503,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2654={ #Mare Libycum
@@ -1362,8 +1513,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2655={ #Mare Ionium
@@ -1371,8 +1523,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2656={ #Mare Aegyptium
@@ -1380,8 +1533,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2657={ #Mare Ionium
@@ -1389,8 +1543,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2658={ #Mare Aegyptium
@@ -1398,8 +1553,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2659={ #Mare Aegyptium
@@ -1407,8 +1563,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2660={ #Mare Aegyptium
@@ -1416,8 +1573,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2661={ #Mare Aegyptium
@@ -1425,8 +1583,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2662={ #Mare Aegyptium
@@ -1434,8 +1593,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2663={ #Mare Aegyptium
@@ -1443,8 +1603,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2664={ #Mare Aegyptium
@@ -1452,8 +1613,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2665={ #Mare Aegyptium
@@ -1461,8 +1623,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2666={ #Mare Aegyptium
@@ -1470,8 +1633,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2667={ #Mare Aegyptium
@@ -1479,8 +1643,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2668={ #Mare Aegyptium
@@ -1488,8 +1653,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2669={ #Mare Phoenicium
@@ -1497,8 +1663,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2670={ #Mare Aegyptium
@@ -1506,8 +1673,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2671={ #Mare Phoenicium
@@ -1515,8 +1683,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2672={ #Mare Phoenicium
@@ -1524,8 +1693,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2673={ #Mare Aegyptium
@@ -1533,8 +1703,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2674={ #Mare Internum
@@ -1542,8 +1713,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2675={ #Mare Aegyptium
@@ -1551,8 +1723,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2676={ #Mare Aegyptium
@@ -1560,8 +1733,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2677={ #Mare Phoenicium
@@ -1569,8 +1743,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2678={ #Mare Lycium
@@ -1578,8 +1753,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2679={ #Mare Phoenicium
@@ -1587,8 +1763,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2680={ #Mare Cilicium
@@ -1596,8 +1773,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2681={ #Mare Tyrrhenum
@@ -1605,8 +1783,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2682={ #Mare Tyrrhenum
@@ -1614,8 +1793,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2683={ #Mare Tyrrhenum
@@ -1623,8 +1803,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2684={ #Mare Tyrrhenum
@@ -1632,8 +1813,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2685={ #Mare Tyrrhenum
@@ -1641,8 +1823,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2686={ #Mare Tyrrhenum
@@ -1650,8 +1833,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2687={ #Mare Tyrrhenum
@@ -1659,8 +1843,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2688={ #Mare Sardoum
@@ -1668,8 +1853,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2689={ #Mare Tyrrhenum
@@ -1677,8 +1863,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2690={ #Mare Sardoum
@@ -1686,8 +1873,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2691={ #Mare Tyrrhenum
@@ -1695,8 +1883,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2692={ #Mare Sardoum
@@ -1704,8 +1893,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2693={ #Mare Tyrrhenum
@@ -1713,8 +1903,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2694={ #Mare Ligusticum
@@ -1722,8 +1913,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2695={ #Mare Ligusticum
@@ -1731,8 +1923,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2696={ #Mare Ligusticum
@@ -1740,8 +1933,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2697={ #Mare Tyrrhenum
@@ -1749,8 +1943,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2698={ #Mare Tyrrhenum
@@ -1758,8 +1953,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2699={ #Mare Tyrrhenum
@@ -1767,8 +1963,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2700={ #Mare Tyrrhenum
@@ -1776,8 +1973,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2701={ #Mare Internum
@@ -1785,8 +1983,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2702={ #Mare Internum
@@ -1794,8 +1993,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2703={ #Mare Sardoum
@@ -1803,8 +2003,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2704={ #Mare Sardoum
@@ -1812,8 +2013,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2705={ #Mare Internum
@@ -1821,8 +2023,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2706={ #Mare Sardoum
@@ -1830,8 +2033,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2707={ #Sinus Gallicus
@@ -1839,8 +2043,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2708={ #Mare Sardoum
@@ -1848,8 +2053,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2709={ #Mare Sardoum
@@ -1857,8 +2063,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2710={ #Mare Sardoum
@@ -1866,8 +2073,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2711={ #Mare Sardoum
@@ -1875,8 +2083,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2712={ #Mare Sardoum
@@ -1884,8 +2093,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2713={ #Mare Sardoum
@@ -1893,8 +2103,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2714={ #Mare Sardoum
@@ -1902,8 +2113,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2715={ #Mare Balearium
@@ -1911,8 +2123,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2716={ #Mare Hibericum
@@ -1920,8 +2133,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2717={ #Mare Sardoum
@@ -1929,8 +2143,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2718={ #Mare Hibericum
@@ -1938,8 +2153,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2719={ #Mare Balearium
@@ -1947,8 +2163,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2720={ #Mare Sardoum
@@ -1956,8 +2173,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2721={ #Mare Balearium
@@ -1965,8 +2183,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2722={ #Mare Balearium
@@ -1974,8 +2193,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2723={ #Mare Hibericum
@@ -1983,8 +2203,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2724={ #Mare Hibericum
@@ -1992,8 +2213,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2725={ #Mare Hibericum
@@ -2001,8 +2223,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2726={ #Mare Hibericum
@@ -2010,8 +2233,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2727={ #Mare Hibericum
@@ -2019,8 +2243,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2728={ #Mare Hibericum
@@ -2028,8 +2253,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2729={ #Mare Hibericum
@@ -2037,8 +2263,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 2730={ #Fretum Gaditanum
@@ -2046,8 +2273,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 4723={ #Sinus Messenius
@@ -2055,8 +2283,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 4724={ #Sinus Laconicus
@@ -2064,8 +2293,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5865={ #Mare Myrtoum
@@ -2073,8 +2303,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6418={ #Sinus Thermaeus
@@ -2082,8 +2313,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6436={ #Mare Aegaeum
@@ -2091,8 +2323,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6437={ #Mare Aegaeum
@@ -2100,8 +2333,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7747={ #Sinus Patraicus
@@ -2109,8 +2343,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7748={ #Sinus Corinthius
@@ -2118,8 +2353,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7749={ #Mare Myrtoum
@@ -2127,8 +2363,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7750={ #Mare Myrtoum
@@ -2136,8 +2373,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7906={ #Pagasaeus Sinus
@@ -2145,8 +2383,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7907={ #Sinus Malianus
@@ -2154,8 +2393,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 8020={ #Mare Thracum
@@ -2163,7 +2403,8 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 

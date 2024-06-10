@@ -3,8 +3,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 8036={ #Abus
@@ -12,7 +13,8 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 

@@ -3,8 +3,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7693={ #Indus
@@ -12,8 +13,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7694={ #Indus
@@ -21,8 +23,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7695={ #Indus
@@ -30,8 +33,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7696={ #Indus
@@ -39,8 +43,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7697={ #Indus
@@ -48,8 +53,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7698={ #Indus
@@ -57,8 +63,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7699={ #Indus
@@ -66,8 +73,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7700={ #Indus
@@ -75,8 +83,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7701={ #Ganges
@@ -84,8 +93,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7702={ #Ganges
@@ -93,8 +103,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7703={ #Ganges
@@ -102,8 +113,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7704={ #Ganges
@@ -111,8 +123,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7705={ #Ganges
@@ -120,8 +133,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7706={ #Ganges
@@ -129,8 +143,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7707={ #Ganges
@@ -138,8 +153,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7708={ #Ganges
@@ -147,8 +163,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7783={ #Dyardanes
@@ -156,8 +173,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7784={ #Dyardanes
@@ -165,8 +183,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7785={ #Dyardanes
@@ -174,8 +193,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7786={ #Ganges
@@ -183,8 +203,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7787={ #Ganges
@@ -192,8 +213,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7788={ #Ganges
@@ -201,8 +223,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7789={ #Ganges
@@ -210,8 +233,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7790={ #Ganges
@@ -219,8 +243,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7791={ #Ganges
@@ -228,8 +253,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7792={ #Ganges
@@ -237,8 +263,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7793={ #Ganges
@@ -246,8 +273,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7794={ #Ganges
@@ -255,8 +283,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7795={ #Ganges
@@ -264,7 +293,8 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 

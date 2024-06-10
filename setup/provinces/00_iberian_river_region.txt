@@ -3,8 +3,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7767={ #Tagus
@@ -12,8 +13,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7768={ #Tagus
@@ -21,8 +23,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7769={ #Tagus
@@ -30,8 +33,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7770={ #Tagus
@@ -39,8 +43,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7771={ #Baetis
@@ -48,8 +53,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7772={ #Baetis
@@ -57,8 +63,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7862={ #Flumen Anas
@@ -66,8 +73,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7863={ #Flumen Anas
@@ -75,8 +83,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 8037={ #Iberus
@@ -84,8 +93,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 8038={ #Iberus
@@ -93,8 +103,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 8039={ #Iberus
@@ -102,7 +113,8 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 

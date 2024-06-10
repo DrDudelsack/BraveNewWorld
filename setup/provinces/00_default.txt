@@ -3,8 +3,9 @@
 	culture="phoenician"
 	religion="carthaginian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 783={ #Bargylus Mons
@@ -12,8 +13,9 @@
 	culture="phoenician"
 	religion="carthaginian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 3138={ #
@@ -21,8 +23,9 @@
 	culture="massaesylian"
 	religion="berber_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 3222={ #
@@ -30,8 +33,9 @@
 	culture="massylian"
 	religion="berber_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 3316={ #Sindhian Mountains
@@ -39,8 +43,9 @@
 	culture="sindhi"
 	religion="hindu"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5000={ #Aetna Volcano
@@ -48,8 +53,9 @@
 	culture="syracusan"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5001={ #Aspromons
@@ -57,8 +63,9 @@
 	culture="syracusan"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5002={ #Serrae
@@ -66,8 +73,9 @@
 	culture="bruttian"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5003={ #Sila
@@ -75,8 +83,9 @@
 	culture="bruttian"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5004={ #Mons Pullinus
@@ -84,8 +93,9 @@
 	culture="lucanian"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5005={ #
@@ -93,8 +103,9 @@
 	culture="samnite"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5006={ #
@@ -102,8 +113,9 @@
 	culture="samnite"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5007={ #
@@ -111,8 +123,9 @@
 	culture="samnite"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5008={ #
@@ -120,8 +133,9 @@
 	culture="samnite"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5009={ #
@@ -129,8 +143,9 @@
 	culture="samnite"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5010={ #
@@ -138,8 +153,9 @@
 	culture="samnite"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5011={ #
@@ -147,8 +163,9 @@
 	culture="samnite"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5012={ #
@@ -156,8 +173,9 @@
 	culture="samnite"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5013={ #
@@ -165,8 +183,9 @@
 	culture="samnite"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5014={ #
@@ -174,8 +193,9 @@
 	culture="umbrian"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5015={ #
@@ -183,8 +203,9 @@
 	culture="umbrian"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5016={ #
@@ -192,8 +213,9 @@
 	culture="etruscan"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5017={ #
@@ -201,8 +223,9 @@
 	culture="umbrian"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5018={ #
@@ -210,8 +233,9 @@
 	culture="umbrian"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5019={ #
@@ -219,8 +243,9 @@
 	culture="etruscan"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5020={ #
@@ -228,8 +253,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5021={ #
@@ -237,8 +263,9 @@
 	culture="lepontic"
 	religion="druidism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5022={ #Alpes Maritimae
@@ -246,8 +273,9 @@
 	culture="salluvian"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5023={ #Alpes Cottiae
@@ -255,8 +283,9 @@
 	culture="lepontic"
 	religion="druidism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5024={ #
@@ -264,8 +293,9 @@
 	culture="salluvian"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5025={ #
@@ -273,8 +303,9 @@
 	culture="lepontic"
 	religion="druidism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5026={ #Alpes Graiae
@@ -282,8 +313,9 @@
 	culture="lepontic"
 	religion="druidism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5027={ #
@@ -291,8 +323,9 @@
 	culture="lepontic"
 	religion="druidism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5028={ #Alpes Lepontinae
@@ -300,8 +333,9 @@
 	culture="lepontic"
 	religion="druidism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5029={ #Alpes Rhaeticae
@@ -309,8 +343,9 @@
 	culture="lepontic"
 	religion="druidism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5030={ #Alpes Carnicae
@@ -318,8 +353,9 @@
 	culture="rhaetian"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5031={ #Histria Mons
@@ -327,8 +363,9 @@
 	culture="histrian"
 	religion="illyrian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5032={ #
@@ -336,8 +373,9 @@
 	culture="letobician"
 	religion="druidism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5033={ #
@@ -345,8 +383,9 @@
 	culture="letobician"
 	religion="druidism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5034={ #
@@ -354,8 +393,9 @@
 	culture="letobician"
 	religion="druidism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5035={ #
@@ -363,8 +403,9 @@
 	culture="carnian"
 	religion="druidism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5036={ #
@@ -372,8 +413,9 @@
 	culture="carnian"
 	religion="druidism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5037={ #
@@ -381,8 +423,9 @@
 	culture="noric"
 	religion="druidism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5038={ #Alpes Noricae
@@ -390,8 +433,9 @@
 	culture="noric"
 	religion="druidism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5039={ #
@@ -399,8 +443,9 @@
 	culture="rhaetian"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5040={ #
@@ -408,8 +453,9 @@
 	culture="rhaetian"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5041={ #
@@ -417,8 +463,9 @@
 	culture="lepontic"
 	religion="druidism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5042={ #
@@ -426,8 +473,9 @@
 	culture="helvetian"
 	religion="druidism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5043={ #
@@ -435,8 +483,9 @@
 	culture="helvetian"
 	religion="druidism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5044={ #
@@ -444,8 +493,9 @@
 	culture="helvetian"
 	religion="druidism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5045={ #
@@ -453,8 +503,9 @@
 	culture="helvetian"
 	religion="druidism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5046={ #
@@ -462,8 +513,9 @@
 	culture="arverni"
 	religion="druidism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5047={ #Arverni Highland
@@ -471,8 +523,9 @@
 	culture="arverni"
 	religion="druidism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5048={ #
@@ -480,8 +533,9 @@
 	culture="salluvian"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5049={ #
@@ -489,8 +543,9 @@
 	culture="volcae"
 	religion="druidism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5050={ #
@@ -498,8 +553,9 @@
 	culture="volcae"
 	religion="druidism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5051={ #
@@ -507,8 +563,9 @@
 	culture="ilergetian"
 	religion="animism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5052={ #
@@ -516,8 +573,9 @@
 	culture="aquitani"
 	religion="pre_indo_european_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5053={ #
@@ -525,8 +583,9 @@
 	culture="ilergetian"
 	religion="animism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5054={ #
@@ -534,8 +593,9 @@
 	culture="corsian"
 	religion="nuragic_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5055={ #
@@ -543,8 +603,9 @@
 	culture="nuragic"
 	religion="nuragic_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5056={ #
@@ -552,8 +613,9 @@
 	culture="peloponnesian"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5057={ #
@@ -561,8 +623,9 @@
 	culture="peloponnesian"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5058={ #
@@ -570,8 +633,9 @@
 	culture="peloponnesian"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5059={ #
@@ -579,8 +643,9 @@
 	culture="achaean"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5060={ #
@@ -588,8 +653,9 @@
 	culture="peloponnesian"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5061={ #
@@ -597,8 +663,9 @@
 	culture="achaean"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5062={ #Parnes Mons
@@ -606,8 +673,9 @@
 	culture="athenian"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5063={ #
@@ -615,8 +683,9 @@
 	culture="boeotian"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5064={ #
@@ -624,8 +693,9 @@
 	culture="boeotian"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5065={ #
@@ -633,8 +703,9 @@
 	culture="aetolian"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5066={ #
@@ -642,8 +713,9 @@
 	culture="thessalian"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5067={ #
@@ -651,8 +723,9 @@
 	culture="epirote"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5068={ #Upper Epirus
@@ -660,8 +733,9 @@
 	culture="epirote"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5069={ #
@@ -669,8 +743,9 @@
 	culture="thessalian"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5070={ #
@@ -678,8 +753,9 @@
 	culture="epirote"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5071={ #
@@ -687,8 +763,9 @@
 	culture="thessalian"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5072={ #
@@ -696,8 +773,9 @@
 	culture="macedonian"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5073={ #
@@ -705,8 +783,9 @@
 	culture="macedonian"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5074={ #
@@ -714,8 +793,9 @@
 	culture="macedonian"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5075={ #
@@ -723,8 +803,9 @@
 	culture="taulantian"
 	religion="illyrian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5076={ #Upper Macedonia
@@ -732,8 +813,9 @@
 	culture="taulantian"
 	religion="illyrian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5077={ #
@@ -741,8 +823,9 @@
 	culture="taulantian"
 	religion="illyrian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5078={ #
@@ -750,8 +833,9 @@
 	culture="taulantian"
 	religion="illyrian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5079={ #Dalmatian Mountains
@@ -759,8 +843,9 @@
 	culture="taulantian"
 	religion="illyrian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5080={ #
@@ -768,8 +853,9 @@
 	culture="greco_illyrian"
 	religion="illyrian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5081={ #
@@ -777,8 +863,9 @@
 	culture="greco_illyrian"
 	religion="illyrian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5082={ #
@@ -786,8 +873,9 @@
 	culture="taulantian"
 	religion="illyrian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5083={ #
@@ -795,8 +883,9 @@
 	culture="greco_illyrian"
 	religion="illyrian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5084={ #
@@ -804,8 +893,9 @@
 	culture="greco_illyrian"
 	religion="illyrian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5085={ #Dalmatia
@@ -813,8 +903,9 @@
 	culture="greco_illyrian"
 	religion="illyrian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5086={ #
@@ -822,8 +913,9 @@
 	culture="liburnian_culture"
 	religion="illyrian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5087={ #
@@ -831,8 +923,9 @@
 	culture="greco_illyrian"
 	religion="illyrian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5088={ #
@@ -840,8 +933,9 @@
 	culture="greco_illyrian"
 	religion="illyrian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5089={ #
@@ -849,8 +943,9 @@
 	culture="greco_illyrian"
 	religion="illyrian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5090={ #
@@ -858,8 +953,9 @@
 	culture="greco_illyrian"
 	religion="illyrian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5091={ #
@@ -867,8 +963,9 @@
 	culture="greco_illyrian"
 	religion="illyrian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5092={ #
@@ -876,8 +973,9 @@
 	culture="greco_illyrian"
 	religion="illyrian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5093={ #Upper Dardania
@@ -885,8 +983,9 @@
 	culture="dardanian"
 	religion="illyrian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5094={ #
@@ -894,8 +993,9 @@
 	culture="triballoi"
 	religion="shamanism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5095={ #
@@ -903,8 +1003,9 @@
 	culture="triballoi"
 	religion="shamanism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5096={ #
@@ -912,8 +1013,9 @@
 	culture="dardanian"
 	religion="illyrian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5097={ #
@@ -921,8 +1023,9 @@
 	culture="macedonian"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5098={ #
@@ -930,8 +1033,9 @@
 	culture="macedonian"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5099={ #
@@ -939,8 +1043,9 @@
 	culture="macedonian"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5100={ #
@@ -948,8 +1053,9 @@
 	culture="macedonian"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5101={ #
@@ -957,8 +1063,9 @@
 	culture="thracian"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5102={ #
@@ -966,8 +1073,9 @@
 	culture="thracian"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5103={ #Upper Thrace
@@ -975,8 +1083,9 @@
 	culture="odrysi"
 	religion="shamanism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5104={ #
@@ -984,8 +1093,9 @@
 	culture="thracian"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5105={ #
@@ -993,8 +1103,9 @@
 	culture="triballoi"
 	religion="shamanism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5106={ #
@@ -1002,8 +1113,9 @@
 	culture="moesi"
 	religion="shamanism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5107={ #
@@ -1011,8 +1123,9 @@
 	culture="moesi"
 	religion="shamanism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5108={ #
@@ -1020,8 +1133,9 @@
 	culture="moesi"
 	religion="shamanism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5109={ #
@@ -1029,8 +1143,9 @@
 	culture="dacian"
 	religion="shamanism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5110={ #Carpathia
@@ -1038,8 +1153,9 @@
 	culture="buridavensi"
 	religion="shamanism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5111={ #
@@ -1047,8 +1163,9 @@
 	culture="dacian"
 	religion="shamanism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5112={ #
@@ -1056,8 +1173,9 @@
 	culture="dacian"
 	religion="shamanism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5113={ #
@@ -1065,8 +1183,9 @@
 	culture="getian"
 	religion="shamanism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5114={ #Caucoenia
@@ -1074,8 +1193,9 @@
 	culture="caucoensi"
 	religion="shamanism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5115={ #
@@ -1083,8 +1203,9 @@
 	culture="dacian"
 	religion="shamanism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5116={ #Alpes Iuliae
@@ -1092,8 +1213,9 @@
 	culture="letobician"
 	religion="druidism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5117={ #
@@ -1101,8 +1223,9 @@
 	culture="catari"
 	religion="illyrian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5118={ #
@@ -1110,8 +1233,9 @@
 	culture="catari"
 	religion="illyrian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5119={ #
@@ -1119,8 +1243,9 @@
 	culture="rhaetian"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5120={ #
@@ -1128,8 +1253,9 @@
 	culture="rhaetian"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5121={ #
@@ -1137,8 +1263,9 @@
 	culture="rhaetian"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5122={ #
@@ -1146,8 +1273,9 @@
 	culture="lepontic"
 	religion="druidism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5123={ #
@@ -1155,8 +1283,9 @@
 	culture="lepontic"
 	religion="druidism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5124={ #
@@ -1164,8 +1293,9 @@
 	culture="lepontic"
 	religion="druidism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5125={ #
@@ -1173,8 +1303,9 @@
 	culture="rhaetian"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5126={ #
@@ -1182,8 +1313,9 @@
 	culture="noric"
 	religion="druidism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5127={ #
@@ -1191,8 +1323,9 @@
 	culture="carnian"
 	religion="druidism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5128={ #
@@ -1200,8 +1333,9 @@
 	culture="lepontic"
 	religion="druidism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5129={ #
@@ -1209,8 +1343,9 @@
 	culture="lepontic"
 	religion="druidism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5130={ #
@@ -1218,8 +1353,9 @@
 	culture="lepontic"
 	religion="druidism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5131={ #Alpes Maritimae
@@ -1227,8 +1363,9 @@
 	culture="ligurian"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5132={ #
@@ -1236,8 +1373,9 @@
 	culture="indiketian"
 	religion="animism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5133={ #
@@ -1245,8 +1383,9 @@
 	culture="aquitani"
 	religion="pre_indo_european_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5134={ #
@@ -1254,8 +1393,9 @@
 	culture="helvetian"
 	religion="druidism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5135={ #
@@ -1263,8 +1403,9 @@
 	culture="helvetian"
 	religion="druidism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5136={ #Abnoba Mons
@@ -1272,8 +1413,9 @@
 	culture="helvetian"
 	religion="druidism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5137={ #
@@ -1281,8 +1423,9 @@
 	culture="helvetian"
 	religion="druidism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5138={ #
@@ -1290,8 +1433,9 @@
 	culture="helvetian"
 	religion="druidism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5139={ #
@@ -1299,8 +1443,9 @@
 	culture="helvetian"
 	religion="druidism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5140={ #
@@ -1308,8 +1453,9 @@
 	culture="irminonic"
 	religion="germanic_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5141={ #Germanic Upland
@@ -1317,8 +1463,9 @@
 	culture="irminonic"
 	religion="germanic_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5142={ #
@@ -1326,8 +1473,9 @@
 	culture="irminonic"
 	religion="germanic_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5143={ #
@@ -1335,8 +1483,9 @@
 	culture="irminonic"
 	religion="germanic_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5144={ #
@@ -1344,8 +1493,9 @@
 	culture="irminonic"
 	religion="germanic_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5145={ #Bohaemeian Forest
@@ -1353,8 +1503,9 @@
 	culture="irminonic"
 	religion="germanic_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5146={ #
@@ -1362,8 +1513,9 @@
 	culture="boian"
 	religion="germanic_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5147={ #
@@ -1371,8 +1523,9 @@
 	culture="siculian"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5148={ #
@@ -1380,8 +1533,9 @@
 	culture="syracusan"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5149={ #
@@ -1389,8 +1543,9 @@
 	culture="siculian"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5150={ #
@@ -1398,8 +1553,9 @@
 	culture="siculian"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5151={ #Atlas
@@ -1407,8 +1563,9 @@
 	culture="massaesylian"
 	religion="berber_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5152={ #
@@ -1416,8 +1573,9 @@
 	culture="massaesylian"
 	religion="berber_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5153={ #
@@ -1425,8 +1583,9 @@
 	culture="massaesylian"
 	religion="berber_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5154={ #
@@ -1434,8 +1593,9 @@
 	culture="massaesylian"
 	religion="berber_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5155={ #
@@ -1443,8 +1603,9 @@
 	culture="nabatean"
 	religion="arabian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5156={ #
@@ -1452,8 +1613,9 @@
 	culture="egyptian"
 	religion="egyptian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5157={ #Sinai
@@ -1461,8 +1623,9 @@
 	culture="nabatean"
 	religion="arabian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5158={ #
@@ -1470,8 +1633,9 @@
 	culture="nabatean"
 	religion="arabian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5159={ #
@@ -1479,8 +1643,9 @@
 	culture="carian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5160={ #
@@ -1488,8 +1653,9 @@
 	culture="cabalian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5161={ #
@@ -1497,8 +1663,9 @@
 	culture="milyadian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5162={ #
@@ -1506,8 +1673,9 @@
 	culture="milyadian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5163={ #
@@ -1515,8 +1683,9 @@
 	culture="carian"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5164={ #
@@ -1524,8 +1693,9 @@
 	culture="isaurian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5165={ #
@@ -1533,8 +1703,9 @@
 	culture="lalasian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5166={ #
@@ -1542,8 +1713,9 @@
 	culture="isaurian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5167={ #
@@ -1551,8 +1723,9 @@
 	culture="kennataian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5168={ #
@@ -1560,8 +1733,9 @@
 	culture="kennataian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5169={ #
@@ -1569,8 +1743,9 @@
 	culture="cappadocian"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5170={ #Argaeus Mons Volcano
@@ -1578,8 +1753,9 @@
 	culture="cappadocian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5171={ #
@@ -1587,8 +1763,9 @@
 	culture="paphlagonian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5172={ #
@@ -1596,8 +1773,9 @@
 	culture="paphlagonian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5173={ #
@@ -1605,8 +1783,9 @@
 	culture="paphlagonian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5174={ #
@@ -1614,8 +1793,9 @@
 	culture="cappadocian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5175={ #
@@ -1623,8 +1803,9 @@
 	culture="cappadocian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5176={ #
@@ -1632,8 +1813,9 @@
 	culture="kennataian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5177={ #
@@ -1641,8 +1823,9 @@
 	culture="armenian"
 	religion="anahitic_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5178={ #
@@ -1650,8 +1833,9 @@
 	culture="cappadocian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5179={ #
@@ -1659,8 +1843,9 @@
 	culture="cappadocian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5180={ #
@@ -1668,8 +1853,9 @@
 	culture="kennataian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5181={ #
@@ -1677,8 +1863,9 @@
 	culture="kennataian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5182={ #
@@ -1686,8 +1873,9 @@
 	culture="celtiberian"
 	religion="druidism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5183={ #
@@ -1695,8 +1883,9 @@
 	culture="vaccaeian"
 	religion="druidism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5184={ #Mons Orospeda
@@ -1704,8 +1893,9 @@
 	culture="oretanian"
 	religion="animism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5185={ #
@@ -1713,8 +1903,9 @@
 	culture="contestanian"
 	religion="animism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5186={ #
@@ -1722,8 +1913,9 @@
 	culture="bastetanian"
 	religion="animism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5187={ #
@@ -1731,8 +1923,9 @@
 	culture="bastetanian"
 	religion="animism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5188={ #
@@ -1740,8 +1933,9 @@
 	culture="lusitanian"
 	religion="druidism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5189={ #
@@ -1749,8 +1943,9 @@
 	culture="cappadocian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5190={ #
@@ -1758,8 +1953,9 @@
 	culture="cappadocian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5191={ #
@@ -1767,8 +1963,9 @@
 	culture="armenian"
 	religion="anahitic_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5192={ #
@@ -1776,8 +1973,9 @@
 	culture="armenian"
 	religion="anahitic_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5193={ #
@@ -1785,8 +1983,9 @@
 	culture="armenian"
 	religion="anahitic_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5194={ #
@@ -1794,8 +1993,9 @@
 	culture="armenian"
 	religion="anahitic_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5195={ #
@@ -1803,8 +2003,9 @@
 	culture="armenian"
 	religion="anahitic_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5196={ #
@@ -1812,8 +2013,9 @@
 	culture="armenian"
 	religion="anahitic_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5197={ #
@@ -1821,8 +2023,9 @@
 	culture="ibero"
 	religion="anahitic_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5198={ #
@@ -1830,8 +2033,9 @@
 	culture="armenian"
 	religion="anahitic_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5199={ #
@@ -1839,8 +2043,9 @@
 	culture="armenian"
 	religion="anahitic_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5200={ #
@@ -1848,8 +2053,9 @@
 	culture="ibero"
 	religion="caucasian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5201={ #
@@ -1857,8 +2063,9 @@
 	culture="ibero"
 	religion="caucasian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5202={ #
@@ -1866,8 +2073,9 @@
 	culture="ibero"
 	religion="caucasian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5203={ #
@@ -1875,8 +2083,9 @@
 	culture="colchian"
 	religion="caucasian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5204={ #
@@ -1884,8 +2093,9 @@
 	culture="ibero"
 	religion="caucasian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5205={ #
@@ -1893,8 +2103,9 @@
 	culture="ibero"
 	religion="caucasian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5206={ #
@@ -1902,8 +2113,9 @@
 	culture="ibero"
 	religion="caucasian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5207={ #
@@ -1911,8 +2123,9 @@
 	culture="ibero"
 	religion="caucasian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5208={ #Aragats Volcano
@@ -1920,8 +2133,9 @@
 	culture="ibero"
 	religion="caucasian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5209={ #
@@ -1929,8 +2143,9 @@
 	culture="albanian"
 	religion="caucasian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5210={ #Bamni Volcano
@@ -1938,8 +2153,9 @@
 	culture="armenian"
 	religion="anahitic_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5211={ #
@@ -1947,8 +2163,9 @@
 	culture="armenian"
 	religion="anahitic_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5212={ #Ararat Volcano
@@ -1956,8 +2173,9 @@
 	culture="armenian"
 	religion="anahitic_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5213={ #
@@ -1965,8 +2183,9 @@
 	culture="armenian"
 	religion="anahitic_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5214={ #
@@ -1974,8 +2193,9 @@
 	culture="armenian"
 	religion="anahitic_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5215={ #
@@ -1983,8 +2203,9 @@
 	culture="median"
 	religion="zoroaster"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5216={ #
@@ -1992,8 +2213,9 @@
 	culture="cadusian"
 	religion="zoroaster"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5217={ #Cadusian Highland
@@ -2001,8 +2223,9 @@
 	culture="cadusian"
 	religion="zoroaster"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5218={ #
@@ -2010,8 +2233,9 @@
 	culture="cadusian"
 	religion="zoroaster"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5219={ #
@@ -2019,8 +2243,9 @@
 	culture="median"
 	religion="zoroaster"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5220={ #
@@ -2028,8 +2253,9 @@
 	culture="cadusian"
 	religion="zoroaster"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5221={ #
@@ -2037,8 +2263,9 @@
 	culture="cadusian"
 	religion="zoroaster"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5222={ #
@@ -2046,8 +2273,9 @@
 	culture="cardukoi"
 	religion="anahitic_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5223={ #
@@ -2055,8 +2283,9 @@
 	culture="assyrian"
 	religion="zoroaster"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5224={ #Kelishin
@@ -2064,8 +2293,9 @@
 	culture="median"
 	religion="zoroaster"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5225={ #
@@ -2073,8 +2303,9 @@
 	culture="armenian"
 	religion="anahitic_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5226={ #Syrian Desert
@@ -2082,8 +2313,9 @@
 	culture="qedarite"
 	religion="arabian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5227={ #
@@ -2091,8 +2323,9 @@
 	culture="qedarite"
 	religion="arabian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5228={ #
@@ -2100,8 +2333,9 @@
 	culture="qedarite"
 	religion="arabian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5229={ #
@@ -2109,8 +2343,9 @@
 	culture="qedarite"
 	religion="arabian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5230={ #
@@ -2118,8 +2353,9 @@
 	culture="median"
 	religion="zoroaster"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5231={ #
@@ -2127,8 +2363,9 @@
 	culture="median"
 	religion="zoroaster"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5232={ #Zagros
@@ -2136,8 +2373,9 @@
 	culture="median"
 	religion="zoroaster"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5233={ #Kossioia
@@ -2145,8 +2383,9 @@
 	culture="cossian"
 	religion="mesopotamian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5234={ #
@@ -2154,8 +2393,9 @@
 	culture="cossian"
 	religion="mesopotamian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5235={ #
@@ -2163,8 +2403,9 @@
 	culture="cossian"
 	religion="mesopotamian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5236={ #
@@ -2172,8 +2413,9 @@
 	culture="parthian"
 	religion="zoroaster"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5237={ #Qumis Highland
@@ -2181,8 +2423,9 @@
 	culture="parthian"
 	religion="zoroaster"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5238={ #
@@ -2190,8 +2433,9 @@
 	culture="cadusian"
 	religion="zoroaster"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5239={ #
@@ -2199,8 +2443,9 @@
 	culture="amardian"
 	religion="zoroaster"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5240={ #
@@ -2208,8 +2453,9 @@
 	culture="median"
 	religion="zoroaster"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5241={ #
@@ -2217,8 +2463,9 @@
 	culture="uxian"
 	religion="mesopotamian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5242={ #
@@ -2226,8 +2473,9 @@
 	culture="uxian"
 	religion="mesopotamian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5243={ #
@@ -2235,8 +2483,9 @@
 	culture="uxian"
 	religion="mesopotamian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5244={ #
@@ -2244,8 +2493,9 @@
 	culture="carmanian"
 	religion="zoroaster"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5245={ #
@@ -2253,8 +2503,9 @@
 	culture="pasargadi"
 	religion="zoroaster"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5246={ #
@@ -2262,8 +2513,9 @@
 	culture="utian"
 	religion="zoroaster"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5247={ #Utian Plain
@@ -2271,8 +2523,9 @@
 	culture="utian"
 	religion="zoroaster"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5248={ #Karmanian Mountains
@@ -2280,8 +2533,9 @@
 	culture="gedrosian"
 	religion="zoroaster"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5249={ #Pactyan Desert
@@ -2289,8 +2543,9 @@
 	culture="pactyan"
 	religion="zoroaster"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5250={ #
@@ -2298,8 +2553,9 @@
 	culture="amardian"
 	religion="zoroaster"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5251={ #
@@ -2307,8 +2563,9 @@
 	culture="amardian"
 	religion="zoroaster"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5252={ #Lut
@@ -2316,8 +2573,9 @@
 	culture="sagartian"
 	religion="zoroaster"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5253={ #
@@ -2325,8 +2583,9 @@
 	culture="sagartian"
 	religion="zoroaster"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5254={ #
@@ -2334,8 +2593,9 @@
 	culture="carmanian"
 	religion="zoroaster"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5255={ #
@@ -2343,8 +2603,9 @@
 	culture="carmanian"
 	religion="zoroaster"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5256={ #
@@ -2352,8 +2613,9 @@
 	culture="carmanian"
 	religion="zoroaster"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5257={ #
@@ -2361,8 +2623,9 @@
 	culture="sagartian"
 	religion="zoroaster"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5258={ #
@@ -2370,8 +2633,9 @@
 	culture="parthian"
 	religion="zoroaster"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5259={ #
@@ -2379,8 +2643,9 @@
 	culture="gedrosian"
 	religion="zoroaster"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5260={ #
@@ -2388,8 +2653,9 @@
 	culture="gedrosian"
 	religion="zoroaster"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5261={ #
@@ -2397,8 +2663,9 @@
 	culture="sattagydian"
 	religion="zoroaster"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5262={ #
@@ -2406,8 +2673,9 @@
 	culture="sattagydian"
 	religion="zoroaster"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5263={ #Sogdian Steppe
@@ -2415,8 +2683,9 @@
 	culture="margian"
 	religion="vaksh_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5264={ #
@@ -2424,8 +2693,9 @@
 	culture="derbiccan"
 	religion="vaksh_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5265={ #
@@ -2433,8 +2703,9 @@
 	culture="derbiccan"
 	religion="vaksh_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5266={ #
@@ -2442,8 +2713,9 @@
 	culture="derbiccan"
 	religion="vaksh_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5267={ #
@@ -2451,8 +2723,9 @@
 	culture="derbiccan"
 	religion="vaksh_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5268={ #
@@ -2460,8 +2733,9 @@
 	culture="sogdian"
 	religion="vaksh_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5269={ #
@@ -2469,8 +2743,9 @@
 	culture="margian"
 	religion="zoroaster"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5270={ #Sogdian Mountains
@@ -2478,8 +2753,9 @@
 	culture="sogdian"
 	religion="vaksh_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5271={ #
@@ -2487,8 +2763,9 @@
 	culture="sogdian"
 	religion="vaksh_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5272={ #
@@ -2496,8 +2773,9 @@
 	culture="sogdian"
 	religion="vaksh_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5273={ #
@@ -2505,8 +2783,9 @@
 	culture="sattagydian"
 	religion="zoroaster"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5274={ #Bactrian Highland
@@ -2514,8 +2793,9 @@
 	culture="sattagydian"
 	religion="zoroaster"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5275={ #
@@ -2523,8 +2803,9 @@
 	culture="sattagydian"
 	religion="zoroaster"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5276={ #
@@ -2532,8 +2813,9 @@
 	culture="sattagydian"
 	religion="zoroaster"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5277={ #Ferghanan Mountains
@@ -2541,8 +2823,9 @@
 	culture="tayuan"
 	religion="vaksh_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5278={ #
@@ -2550,8 +2833,9 @@
 	culture="sakan"
 	religion="indo_iranian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5279={ #
@@ -2559,8 +2843,9 @@
 	culture="phryni"
 	religion="vaksh_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5280={ #Talas Highland
@@ -2568,8 +2853,9 @@
 	culture="sogdian"
 	religion="vaksh_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5281={ #
@@ -2577,8 +2863,9 @@
 	culture="tayuan"
 	religion="vaksh_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5282={ #
@@ -2586,8 +2873,9 @@
 	culture="tocharian"
 	religion="eastern_animism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5283={ #Caledonian Highland
@@ -2595,8 +2883,9 @@
 	culture="taexalian"
 	religion="druidism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5284={ #North Caledonian Mountains
@@ -2604,8 +2893,9 @@
 	culture="caledonian"
 	religion="druidism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5285={ #
@@ -2613,8 +2903,9 @@
 	culture="socossian"
 	religion="berber_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5286={ #
@@ -2622,8 +2913,9 @@
 	culture="blemmyan"
 	religion="egyptian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5287={ #
@@ -2631,8 +2923,9 @@
 	culture="nabatean"
 	religion="arabian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5288={ #
@@ -2640,8 +2933,9 @@
 	culture="nabatean"
 	religion="arabian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5289={ #
@@ -2649,8 +2943,9 @@
 	culture="thamudi"
 	religion="arabian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5290={ #Qal'eh
@@ -2658,8 +2953,9 @@
 	culture="thamudi"
 	religion="arabian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5291={ #Hadramut Desert
@@ -2667,8 +2963,9 @@
 	culture="hadhrami"
 	religion="arabian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5292={ #
@@ -2676,8 +2973,9 @@
 	culture="upper_egyptian"
 	religion="egyptian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5293={ #Troikon Oros
@@ -2685,8 +2983,9 @@
 	culture="middle_egyptian"
 	religion="arabian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5294={ #Desert of Klysma
@@ -2694,8 +2993,9 @@
 	culture="egyptian"
 	religion="arabian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5295={ #Syrian Desert
@@ -2703,8 +3003,9 @@
 	culture="qedarite"
 	religion="arabian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5296={ #Mahria
@@ -2712,8 +3013,9 @@
 	culture="hadhrami"
 	religion="arabian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5297={ #Carpathia
@@ -2721,8 +3023,9 @@
 	culture="irminonic"
 	religion="germanic_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5298={ #Carpathia
@@ -2730,8 +3033,9 @@
 	culture="bastarnae"
 	religion="germanic_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5299={ #
@@ -2739,8 +3043,9 @@
 	culture="harpii"
 	religion="shamanism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5300={ #Arabia Felix
@@ -2748,8 +3053,9 @@
 	culture="minaean"
 	religion="arabian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5301={ #Omani Desert
@@ -2757,8 +3063,9 @@
 	culture="makan"
 	religion="arabian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5302={ #
@@ -2766,8 +3073,9 @@
 	culture="makan"
 	religion="arabian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5303={ #Mesopotamian Desert
@@ -2775,8 +3083,9 @@
 	culture="qedarite"
 	religion="arabian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5304={ #
@@ -2784,8 +3093,9 @@
 	culture="tamil"
 	religion="agama"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5305={ #South Nilgiri
@@ -2793,8 +3103,9 @@
 	culture="tamil"
 	religion="agama"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5306={ #
@@ -2802,8 +3113,9 @@
 	culture="tamil"
 	religion="agama"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5307={ #
@@ -2811,8 +3123,9 @@
 	culture="tamil"
 	religion="agama"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5308={ #North Nilgiri
@@ -2820,8 +3133,9 @@
 	culture="tamil"
 	religion="agama"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5309={ #
@@ -2829,8 +3143,9 @@
 	culture="kannadan"
 	religion="agama"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5310={ #
@@ -2838,8 +3153,9 @@
 	culture="tamil"
 	religion="agama"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5311={ #
@@ -2847,8 +3163,9 @@
 	culture="tamil"
 	religion="agama"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5312={ #
@@ -2856,8 +3173,9 @@
 	culture="tamil"
 	religion="agama"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5313={ #Eastern Ghats
@@ -2865,8 +3183,9 @@
 	culture="tamil"
 	religion="agama"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5315={ #Baglana
@@ -2874,8 +3193,9 @@
 	culture="rathikan"
 	religion="hindu"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5316={ #
@@ -2883,8 +3203,9 @@
 	culture="telugu"
 	religion="agama"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5317={ #
@@ -2892,8 +3213,9 @@
 	culture="telugu"
 	religion="agama"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5318={ #
@@ -2901,8 +3223,9 @@
 	culture="telugu"
 	religion="agama"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5319={ #
@@ -2910,8 +3233,9 @@
 	culture="kalingan"
 	religion="hindu"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5320={ #Eastern Gaetulia
@@ -2919,8 +3243,9 @@
 	culture="gaetulian"
 	religion="berber_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5321={ #Western Gaetulia
@@ -2928,8 +3253,9 @@
 	culture="gaetulian"
 	religion="berber_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5322={ #
@@ -2937,8 +3263,9 @@
 	culture="siraci"
 	religion="indo_iranian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5323={ #Caucasus Mons Volcano
@@ -2946,8 +3273,9 @@
 	culture="colchian"
 	religion="caucasian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5324={ #Iberia Mons Volcano
@@ -2955,8 +3283,9 @@
 	culture="ibero"
 	religion="caucasian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5325={ #
@@ -2964,8 +3293,9 @@
 	culture="ibero"
 	religion="caucasian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5326={ #
@@ -2973,8 +3303,9 @@
 	culture="scythian"
 	religion="indo_iranian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5327={ #
@@ -2982,8 +3313,9 @@
 	culture="albanian"
 	religion="caucasian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5328={ #
@@ -2991,8 +3323,9 @@
 	culture="meroitic"
 	religion="egyptian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5329={ #
@@ -3000,8 +3333,9 @@
 	culture="meroitic"
 	religion="egyptian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5330={ #
@@ -3009,8 +3343,9 @@
 	culture="meroitic"
 	religion="egyptian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5331={ #
@@ -3018,8 +3353,9 @@
 	culture="meroitic"
 	religion="egyptian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5332={ #
@@ -3027,8 +3363,9 @@
 	culture="meroitic"
 	religion="egyptian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5333={ #Desert of Aswan
@@ -3036,8 +3373,9 @@
 	culture="lower_nubian"
 	religion="egyptian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5334={ #Desert of Luxor
@@ -3045,8 +3383,9 @@
 	culture="upper_egyptian"
 	religion="egyptian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5335={ #
@@ -3054,8 +3393,9 @@
 	culture="aksumite"
 	religion="arabian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5336={ #
@@ -3063,8 +3403,9 @@
 	culture="aksumite"
 	religion="arabian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5337={ #Puntic Highlands
@@ -3072,8 +3413,9 @@
 	culture="avalitian"
 	religion="arabian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5338={ #Farafra
@@ -3081,8 +3423,9 @@
 	culture="libyan"
 	religion="egyptian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5339={ #
@@ -3090,8 +3433,9 @@
 	culture="libyan"
 	religion="egyptian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5340={ #
@@ -3099,8 +3443,9 @@
 	culture="libyan"
 	religion="egyptian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5341={ #Desert of Kharga
@@ -3108,8 +3453,9 @@
 	culture="lower_nubian"
 	religion="egyptian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5342={ #
@@ -3117,8 +3463,9 @@
 	culture="egyptian"
 	religion="egyptian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5343={ #
@@ -3126,8 +3473,9 @@
 	culture="vidharban"
 	religion="hindu"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5344={ #
@@ -3135,8 +3483,9 @@
 	culture="sattagydian"
 	religion="zoroaster"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5345={ #
@@ -3144,8 +3493,9 @@
 	culture="pactyan"
 	religion="zoroaster"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5346={ #
@@ -3153,8 +3503,9 @@
 	culture="pactyan"
 	religion="zoroaster"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5347={ #
@@ -3162,8 +3513,9 @@
 	culture="parecanian"
 	religion="zoroaster"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5348={ #Carmanian Highland
@@ -3171,8 +3523,9 @@
 	culture="gandhari"
 	religion="hindu"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5349={ #Sharhistan Desert
@@ -3180,8 +3533,9 @@
 	culture="gandhari"
 	religion="hindu"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5350={ #
@@ -3189,8 +3543,9 @@
 	culture="libyan"
 	religion="egyptian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5351={ #
@@ -3198,8 +3553,9 @@
 	culture="libyan"
 	religion="berber_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5352={ #Troglodytica
@@ -3207,8 +3563,9 @@
 	culture="blemmyan"
 	religion="egyptian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5353={ #Pendactylos Mons
@@ -3216,8 +3573,9 @@
 	culture="blemmyan"
 	religion="egyptian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5354={ #
@@ -3225,8 +3583,9 @@
 	culture="blemmyan"
 	religion="egyptian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5355={ #Koha
@@ -3234,8 +3593,9 @@
 	culture="avalitian"
 	religion="arabian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5356={ #
@@ -3243,8 +3603,9 @@
 	culture="avanti"
 	religion="hindu"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5357={ #
@@ -3252,8 +3613,9 @@
 	culture="avanti"
 	religion="hindu"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5358={ #
@@ -3261,8 +3623,9 @@
 	culture="shauraseni"
 	religion="hindu"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5359={ #Vindhya
@@ -3270,8 +3633,9 @@
 	culture="atavi"
 	religion="hindu"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5360={ #
@@ -3279,8 +3643,9 @@
 	culture="atavi"
 	religion="hindu"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5361={ #
@@ -3288,8 +3653,9 @@
 	culture="shauraseni"
 	religion="hindu"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5362={ #
@@ -3297,8 +3663,9 @@
 	culture="atavi"
 	religion="hindu"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5363={ #
@@ -3306,8 +3673,9 @@
 	culture="shauraseni"
 	religion="hindu"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5364={ #
@@ -3315,8 +3683,9 @@
 	culture="atavi"
 	religion="hindu"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5365={ #
@@ -3324,8 +3693,9 @@
 	culture="kalingan"
 	religion="hindu"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5366={ #Western Musalamia
@@ -3333,8 +3703,9 @@
 	culture="gaetulian"
 	religion="berber_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5367={ #Tritonis
@@ -3342,8 +3713,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5368={ #
@@ -3351,8 +3723,9 @@
 	culture="pactyan"
 	religion="zoroaster"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5369={ #
@@ -3360,8 +3733,9 @@
 	culture="kamarupi"
 	religion="hindu"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5370={ #
@@ -3369,8 +3743,9 @@
 	culture="magadhi"
 	religion="hindu"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5371={ #
@@ -3378,8 +3753,9 @@
 	culture="bangli"
 	religion="hindu"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5372={ #
@@ -3387,8 +3763,9 @@
 	culture="gandhari"
 	religion="hindu"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5373={ #
@@ -3396,8 +3773,9 @@
 	culture="gandhari"
 	religion="hindu"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5374={ #
@@ -3405,8 +3783,9 @@
 	culture="gandhari"
 	religion="hindu"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5375={ #
@@ -3414,8 +3793,9 @@
 	culture="zhangzhung"
 	religion="bon_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5376={ #
@@ -3423,8 +3803,9 @@
 	culture="sakan"
 	religion="indo_iranian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5377={ #
@@ -3432,8 +3813,9 @@
 	culture="tocharian"
 	religion="eastern_animism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5378={ #Tarim
@@ -3441,8 +3823,9 @@
 	culture="yuezhi"
 	religion="vaksh_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5379={ #
@@ -3450,8 +3833,9 @@
 	culture="sakan"
 	religion="indo_iranian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5380={ #
@@ -3459,8 +3843,9 @@
 	culture="sattagydian"
 	religion="vaksh_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5381={ #Thule
@@ -3468,8 +3853,9 @@
 	culture="scandian"
 	religion="germanic_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5382={ #
@@ -3477,8 +3863,9 @@
 	culture="gandhari"
 	religion="hindu"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5384={ #
@@ -3486,8 +3873,9 @@
 	culture="bangli"
 	religion="hindu"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5385={ #
@@ -3495,8 +3883,9 @@
 	culture="zhangzhung"
 	religion="bon_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5386={ #
@@ -3504,8 +3893,9 @@
 	culture="parthian"
 	religion="zoroaster"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5387={ #
@@ -3513,8 +3903,9 @@
 	culture="parthian"
 	religion="zoroaster"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5388={ #
@@ -3522,8 +3913,9 @@
 	culture="pasargadi"
 	religion="zoroaster"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5389={ #
@@ -3531,8 +3923,9 @@
 	culture="cappadocian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5439={ #Kavir Desert
@@ -3540,8 +3933,9 @@
 	culture="median"
 	religion="zoroaster"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5440={ #Syria Deserta
@@ -3549,8 +3943,9 @@
 	culture="assyrian"
 	religion="mesopotamian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5441={ #Kavir Desert
@@ -3558,8 +3953,9 @@
 	culture="median"
 	religion="zoroaster"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5443={ #Chattisgarh Jungle
@@ -3567,8 +3963,9 @@
 	culture="atavi"
 	religion="hindu"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5447={ #
@@ -3576,8 +3973,9 @@
 	culture="median"
 	religion="zoroaster"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5448={ #
@@ -3585,8 +3983,9 @@
 	culture="atavi"
 	religion="hindu"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5449={ #Maru Desert
@@ -3594,8 +3993,9 @@
 	culture="shauraseni"
 	religion="hindu"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5450={ #Maru Desert
@@ -3603,8 +4003,9 @@
 	culture="shauraseni"
 	religion="hindu"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5667={ #Mount Popa
@@ -3612,8 +4013,9 @@
 	culture="pyu"
 	religion="bon_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5669={ #Burma Mountains
@@ -3621,8 +4023,9 @@
 	culture="mon"
 	religion="burmese_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5782={ #Lacus Flevo
@@ -3630,8 +4033,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5882={ #Multen
@@ -3639,8 +4043,9 @@
 	culture="massagetaean"
 	religion="indo_iranian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5883={ #Fors
@@ -3648,8 +4053,9 @@
 	culture="scythian"
 	religion="indo_iranian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5934={ #Agraeia
@@ -3657,8 +4063,9 @@
 	culture="qedarite"
 	religion="arabian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5935={ #
@@ -3666,8 +4073,9 @@
 	culture="nabatean"
 	religion="arabian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5936={ #
@@ -3675,8 +4083,9 @@
 	culture="hadhrami"
 	religion="arabian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5937={ #
@@ -3684,8 +4093,9 @@
 	culture="makan"
 	religion="arabian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5938={ #
@@ -3693,8 +4103,9 @@
 	culture="minaean"
 	religion="arabian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5939={ #
@@ -3702,8 +4113,9 @@
 	culture="thamudi"
 	religion="arabian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5940={ #
@@ -3711,8 +4123,9 @@
 	culture="makan"
 	religion="arabian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5941={ #
@@ -3720,8 +4133,9 @@
 	culture="qedarite"
 	religion="arabian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5942={ #
@@ -3729,8 +4143,9 @@
 	culture="puntic"
 	religion="egyptian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5943={ #
@@ -3738,8 +4153,9 @@
 	culture="aksumite"
 	religion="egyptian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5944={ #
@@ -3747,8 +4163,9 @@
 	culture="meroitic"
 	religion="egyptian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5945={ #
@@ -3756,8 +4173,9 @@
 	culture="meroitic"
 	religion="egyptian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5946={ #
@@ -3765,8 +4183,9 @@
 	culture="libyan"
 	religion="egyptian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5947={ #
@@ -3774,8 +4193,9 @@
 	culture="macaean"
 	religion="berber_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5948={ #Desert
@@ -3783,8 +4203,9 @@
 	culture="lotophagoi"
 	religion="berber_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5949={ #
@@ -3792,8 +4213,9 @@
 	culture="gaetulian"
 	religion="berber_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5950={ #
@@ -3801,8 +4223,9 @@
 	culture="gaetulian"
 	religion="berber_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5951={ #
@@ -3810,8 +4233,9 @@
 	culture="socossian"
 	religion="berber_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5952={ #
@@ -3819,8 +4243,9 @@
 	culture="suiones"
 	religion="germanic_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5953={ #
@@ -3828,8 +4253,9 @@
 	culture="rugian"
 	religion="germanic_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5954={ #
@@ -3837,8 +4263,9 @@
 	culture="zhangzhung"
 	religion="bon_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5955={ #
@@ -3846,8 +4273,9 @@
 	culture="zhangzhung"
 	religion="bon_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5956={ #
@@ -3855,8 +4283,9 @@
 	culture="zhangzhung"
 	religion="bon_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5957={ #
@@ -3864,8 +4293,9 @@
 	culture="tsang"
 	religion="bon_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5958={ #Himalayan Highland
@@ -3873,8 +4303,9 @@
 	culture="tsang"
 	religion="bon_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5959={ #
@@ -3882,8 +4313,9 @@
 	culture="yarlung"
 	religion="bon_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5960={ #
@@ -3891,8 +4323,9 @@
 	culture="kamarupi"
 	religion="hindu"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5961={ #
@@ -3900,8 +4333,9 @@
 	culture="zhangzhung"
 	religion="vaksh_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5962={ #Karakoram
@@ -3909,8 +4343,9 @@
 	culture="sakan"
 	religion="vaksh_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5963={ #
@@ -3918,8 +4353,9 @@
 	culture="sakan"
 	religion="vaksh_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5964={ #
@@ -3927,8 +4363,9 @@
 	culture="mon"
 	religion="burmese_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5965={ #
@@ -3936,8 +4373,9 @@
 	culture="shan"
 	religion="burmese_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5966={ #
@@ -3945,8 +4383,9 @@
 	culture="tocharian"
 	religion="eastern_animism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5967={ #
@@ -3954,8 +4393,9 @@
 	culture="tocharian"
 	religion="eastern_animism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5968={ #
@@ -3963,8 +4403,9 @@
 	culture="kharesmian"
 	religion="vaksh_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5969={ #
@@ -3972,8 +4413,9 @@
 	culture="scythian"
 	religion="indo_iranian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5970={ #
@@ -3981,8 +4423,9 @@
 	culture="sarmatian"
 	religion="indo_iranian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5971={ #
@@ -3990,8 +4433,9 @@
 	culture="scythian"
 	religion="indo_iranian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5972={ #Ona Mountains
@@ -3999,8 +4443,9 @@
 	culture="aestian"
 	religion="matrist_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5973={ #
@@ -4008,8 +4453,9 @@
 	culture="aestian"
 	religion="matrist_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5974={ #Sudan Impassable
@@ -4017,8 +4463,9 @@
 	culture="nubian"
 	religion="nilotic_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5975={ #Sudan Impassable
@@ -4026,8 +4473,9 @@
 	culture="nubian"
 	religion="nilotic_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5976={ #
@@ -4035,8 +4483,9 @@
 	culture="suiones"
 	religion="germanic_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5977={ #
@@ -4044,8 +4493,9 @@
 	culture="brigantic"
 	religion="druidism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5978={ #
@@ -4053,8 +4503,9 @@
 	culture="brigantic"
 	religion="druidism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5979={ #
@@ -4062,8 +4513,9 @@
 	culture="brigantic"
 	religion="druidism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5980={ #
@@ -4071,8 +4523,9 @@
 	culture="brigantic"
 	religion="druidism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5981={ #
@@ -4080,8 +4533,9 @@
 	culture="sarmatian"
 	religion="indo_iranian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5982={ #Moeris
@@ -4089,8 +4543,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5983={ #Sabatinus
@@ -4098,8 +4553,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5984={ #High Atlas
@@ -4107,8 +4563,9 @@
 	culture="perorsian"
 	religion="berber_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5985={ #Inner Mauritania
@@ -4116,8 +4573,9 @@
 	culture="autolalean"
 	religion="berber_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5986={ #Middle Atlas
@@ -4125,8 +4583,9 @@
 	culture="socossian"
 	religion="berber_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5987={ #Maurian Plateau
@@ -4134,8 +4593,9 @@
 	culture="massaesylian"
 	religion="berber_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5988={ #Sahara
@@ -4143,8 +4603,9 @@
 	culture="phazani"
 	religion="berber_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5989={ #Desert
@@ -4152,8 +4613,9 @@
 	culture="macaean"
 	religion="berber_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5990={ #
@@ -4161,8 +4623,9 @@
 	culture="libyan"
 	religion="berber_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5991={ #Jungle
@@ -4170,8 +4633,9 @@
 	culture="libyan"
 	religion="berber_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5992={ #Desert
@@ -4179,8 +4643,9 @@
 	culture="garamantic"
 	religion="berber_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5993={ #Cyrenaica
@@ -4188,8 +4653,9 @@
 	culture="libyan"
 	religion="berber_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5994={ #Desert of Philoteris
@@ -4197,8 +4663,9 @@
 	culture="libyan"
 	religion="egyptian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5995={ #Oasis Parva
@@ -4206,8 +4673,9 @@
 	culture="libyan"
 	religion="egyptian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5996={ #
@@ -4215,8 +4683,9 @@
 	culture="egyptian"
 	religion="egyptian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5997={ #Antilibanus Mons
@@ -4224,8 +4693,9 @@
 	culture="middle_egyptian"
 	religion="egyptian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5998={ #
@@ -4233,8 +4703,9 @@
 	culture="dacian"
 	religion="shamanism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 5999={ #
@@ -4242,8 +4713,9 @@
 	culture="celtic_pannonian"
 	religion="druidism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6044={ #
@@ -4251,8 +4723,9 @@
 	culture="qedarite"
 	religion="arabian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6045={ #Nabatean Desert
@@ -4260,8 +4733,9 @@
 	culture="nabatean"
 	religion="arabian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6046={ #Arabian Desert
@@ -4269,8 +4743,9 @@
 	culture="thamudi"
 	religion="arabian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6048={ #Hejaz
@@ -4278,8 +4753,9 @@
 	culture="taif"
 	religion="arabian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6049={ #Arabia Deserta Ulterior
@@ -4287,8 +4763,9 @@
 	culture="makan"
 	religion="arabian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6050={ #Meghalaya
@@ -4296,8 +4773,9 @@
 	culture="jaintia"
 	religion="burmese_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6051={ #Arunachal
@@ -4305,8 +4783,9 @@
 	culture="kamarupi"
 	religion="hindu"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6052={ #Chattisgarh
@@ -4314,8 +4793,9 @@
 	culture="vanga"
 	religion="hindu"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6053={ #Dakshina Koshala
@@ -4323,8 +4803,9 @@
 	culture="atavi"
 	religion="hindu"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6054={ #Kalingana
@@ -4332,8 +4813,9 @@
 	culture="kalingan"
 	religion="hindu"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6055={ #Dandakaranya
@@ -4341,8 +4823,9 @@
 	culture="savara"
 	religion="hindu"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6056={ #Gondwana
@@ -4350,8 +4833,9 @@
 	culture="atavi"
 	religion="hindu"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6057={ #Marudesa
@@ -4359,8 +4843,9 @@
 	culture="kaccha"
 	religion="hindu"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6058={ #Abhiria Secunda
@@ -4368,8 +4853,9 @@
 	culture="sivi"
 	religion="hindu"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6059={ #Abhiria
@@ -4377,8 +4863,9 @@
 	culture="kaccha"
 	religion="hindu"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6060={ #Siwi
@@ -4386,8 +4873,9 @@
 	culture="parecanian"
 	religion="zoroaster"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6061={ #Gedrosia
@@ -4395,8 +4883,9 @@
 	culture="gedrosian"
 	religion="zoroaster"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6062={ #Parecania
@@ -4404,8 +4893,9 @@
 	culture="parecanian"
 	religion="zoroaster"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6063={ #Parecaniana
@@ -4413,8 +4903,9 @@
 	culture="gedrosian"
 	religion="zoroaster"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6064={ #Aral
@@ -4422,8 +4913,9 @@
 	culture="massagetaean"
 	religion="indo_iranian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6299={ #
@@ -4431,8 +4923,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6300={ #
@@ -4440,8 +4933,9 @@
 	culture="socossian"
 	religion="berber_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6303={ #
@@ -4449,8 +4943,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6304={ #
@@ -4458,8 +4953,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6305={ #
@@ -4467,8 +4963,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6306={ #
@@ -4476,8 +4973,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6307={ #
@@ -4485,8 +4983,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6308={ #
@@ -4494,8 +4993,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6309={ #
@@ -4503,8 +5003,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6310={ #
@@ -4512,8 +5013,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6312={ #
@@ -4521,8 +5023,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6313={ #
@@ -4530,8 +5033,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6314={ #
@@ -4539,8 +5043,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6315={ #
@@ -4548,8 +5053,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6316={ #
@@ -4557,8 +5063,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6317={ #Kopais
@@ -4566,8 +5073,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6318={ #
@@ -4575,8 +5083,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6319={ #
@@ -4584,8 +5093,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6320={ #
@@ -4593,8 +5103,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6321={ #
@@ -4602,8 +5113,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6322={ #
@@ -4611,8 +5123,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6323={ #
@@ -4620,8 +5133,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6324={ #
@@ -4629,8 +5143,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6325={ #
@@ -4638,8 +5153,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6326={ #
@@ -4647,8 +5163,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6327={ #
@@ -4656,8 +5173,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6328={ #
@@ -4665,8 +5183,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6329={ #
@@ -4674,8 +5193,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6330={ #
@@ -4683,8 +5203,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6331={ #
@@ -4692,8 +5213,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6332={ #
@@ -4701,8 +5223,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6333={ #Lim
@@ -4710,8 +5233,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6334={ #
@@ -4719,8 +5243,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6335={ #
@@ -4728,8 +5253,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6336={ #
@@ -4737,8 +5263,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6337={ #
@@ -4746,8 +5273,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6338={ #
@@ -4755,8 +5283,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6339={ #
@@ -4764,8 +5293,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6340={ #
@@ -4773,8 +5303,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6341={ #
@@ -4782,8 +5313,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6342={ #
@@ -4791,8 +5323,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6343={ #
@@ -4800,8 +5333,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6344={ #
@@ -4809,8 +5343,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6345={ #
@@ -4818,8 +5353,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6346={ #
@@ -4827,8 +5363,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6347={ #
@@ -4836,8 +5373,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6348={ #
@@ -4845,8 +5383,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6349={ #
@@ -4854,8 +5393,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6350={ #
@@ -4863,8 +5403,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6351={ #
@@ -4872,8 +5413,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6352={ #
@@ -4881,8 +5423,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6353={ #
@@ -4890,8 +5433,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6356={ #Pelsodis
@@ -4899,8 +5443,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6357={ #
@@ -4908,8 +5453,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6358={ #
@@ -4917,8 +5463,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6359={ #
@@ -4926,8 +5473,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6360={ #
@@ -4935,8 +5483,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6361={ #Labeatis
@@ -4944,8 +5493,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6362={ #Everdunensis
@@ -4953,8 +5503,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6363={ #
@@ -4962,8 +5513,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6364={ #
@@ -4971,8 +5523,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6365={ #Brigantinus
@@ -4980,8 +5533,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6366={ #Lemannus
@@ -4989,8 +5543,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6367={ #
@@ -4998,8 +5553,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6368={ #
@@ -5007,8 +5563,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6369={ #
@@ -5016,8 +5573,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6370={ #
@@ -5025,8 +5583,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6371={ #
@@ -5034,8 +5593,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6372={ #
@@ -5043,8 +5603,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6373={ #Benacus
@@ -5052,8 +5613,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6374={ #
@@ -5061,8 +5623,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6375={ #Volsinii
@@ -5070,8 +5633,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6377={ #Fucinus
@@ -5079,8 +5643,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6378={ #Trasumennus
@@ -5088,8 +5653,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6379={ #
@@ -5097,8 +5663,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6380={ #
@@ -5106,8 +5673,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6381={ #
@@ -5115,8 +5683,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6382={ #Brygeis Megale
@@ -5124,8 +5693,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6383={ #Brygeis Mikra
@@ -5133,8 +5703,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6384={ #Pambotis
@@ -5142,8 +5713,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6385={ #Trichonis
@@ -5151,8 +5723,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6386={ #
@@ -5160,8 +5733,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6387={ #
@@ -5169,8 +5743,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6388={ #Koroneia
@@ -5178,8 +5753,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6389={ #Bolbe
@@ -5187,8 +5763,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6390={ #
@@ -5196,8 +5773,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6391={ #
@@ -5205,8 +5783,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6392={ #
@@ -5214,8 +5793,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6393={ #Dascylitis
@@ -5223,8 +5803,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6394={ #Apolloniatis
@@ -5232,8 +5813,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6395={ #Ascania
@@ -5241,8 +5823,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6396={ #
@@ -5250,8 +5833,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6398={ #
@@ -5259,8 +5843,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6400={ #
@@ -5268,8 +5853,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6401={ #
@@ -5277,8 +5863,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6402={ #
@@ -5286,8 +5873,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6403={ #
@@ -5295,8 +5883,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6404={ #
@@ -5304,8 +5893,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6405={ #
@@ -5313,8 +5903,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6406={ #Carallis
@@ -5322,8 +5913,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6407={ #Tatta
@@ -5331,8 +5923,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6408={ #
@@ -5340,8 +5933,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6409={ #
@@ -5349,8 +5943,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6410={ #
@@ -5358,8 +5953,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6411={ #
@@ -5367,8 +5963,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6412={ #
@@ -5376,8 +5973,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6413={ #Asphaltites
@@ -5385,8 +5983,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6414={ #Gennesar
@@ -5394,8 +5993,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6415={ #
@@ -5403,8 +6003,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6416={ #
@@ -5412,8 +6013,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6417={ #
@@ -5421,8 +6023,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6419={ #
@@ -5430,8 +6033,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6421={ #
@@ -5439,8 +6043,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6422={ #
@@ -5448,8 +6053,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6423={ #
@@ -5457,8 +6063,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6424={ #Arsissa
@@ -5466,8 +6073,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6425={ #Matianus
@@ -5475,8 +6083,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6426={ #
@@ -5484,8 +6093,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6427={ #
@@ -5493,8 +6103,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6428={ #Lychnitis
@@ -5502,8 +6113,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6429={ #
@@ -5511,8 +6123,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6430={ #
@@ -5520,8 +6133,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6432={ #
@@ -5529,8 +6143,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6434={ #
@@ -5538,8 +6153,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6435={ #
@@ -5547,8 +6163,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6438={ #
@@ -5556,8 +6173,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6439={ #
@@ -5565,8 +6183,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6440={ #
@@ -5574,8 +6193,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6441={ #
@@ -5583,8 +6203,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6442={ #
@@ -5592,8 +6213,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6443={ #Sarygamysh
@@ -5601,8 +6223,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6445={ #
@@ -5610,8 +6233,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6446={ #
@@ -5619,8 +6243,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6447={ #
@@ -5628,8 +6253,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6448={ #Issyk-Kul
@@ -5637,8 +6263,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6449={ #
@@ -5646,8 +6273,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6450={ #
@@ -5655,8 +6283,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6451={ #
@@ -5664,8 +6293,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6452={ #
@@ -5673,8 +6303,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6453={ #
@@ -5682,8 +6313,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6454={ #
@@ -5691,8 +6323,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6455={ #
@@ -5700,8 +6333,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6456={ #
@@ -5709,8 +6343,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6457={ #
@@ -5718,8 +6353,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6458={ #
@@ -5727,8 +6363,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6459={ #
@@ -5736,8 +6373,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6460={ #
@@ -5745,8 +6383,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6461={ #
@@ -5754,8 +6393,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6462={ #
@@ -5763,8 +6403,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6463={ #
@@ -5772,8 +6413,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6464={ #
@@ -5781,8 +6423,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6465={ #
@@ -5790,8 +6433,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6466={ #
@@ -5799,8 +6443,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6467={ #
@@ -5808,8 +6453,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6468={ #
@@ -5817,8 +6463,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6482={ #
@@ -5826,8 +6473,9 @@
 	culture="socossian"
 	religion="berber_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6483={ #
@@ -5835,8 +6483,9 @@
 	culture="socossian"
 	religion="berber_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6488={ #
@@ -5844,8 +6493,9 @@
 	culture="socossian"
 	religion="berber_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6493={ #
@@ -5853,8 +6503,9 @@
 	culture="socossian"
 	religion="berber_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6494={ #
@@ -5862,8 +6513,9 @@
 	culture="socossian"
 	religion="berber_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6495={ #
@@ -5871,8 +6523,9 @@
 	culture="socossian"
 	religion="berber_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6496={ #
@@ -5880,8 +6533,9 @@
 	culture="nabatean"
 	religion="arabian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6497={ #
@@ -5889,8 +6543,9 @@
 	culture="upper_egyptian"
 	religion="egyptian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6498={ #
@@ -5898,8 +6553,9 @@
 	culture="libyan"
 	religion="egyptian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 6499={ #
@@ -5907,8 +6563,9 @@
 	culture="libyan"
 	religion="egyptian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7279={ #Masht
@@ -5916,8 +6573,9 @@
 	culture="kharesmian"
 	religion="vaksh_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7280={ #
@@ -5925,8 +6583,9 @@
 	culture="massagetaean"
 	religion="vaksh_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7281={ #
@@ -5934,8 +6593,9 @@
 	culture="tocharian"
 	religion="eastern_animism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7282={ #
@@ -5943,8 +6603,9 @@
 	culture="gedrosian"
 	religion="zoroaster"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7283={ #
@@ -5952,8 +6613,9 @@
 	culture="gedrosian"
 	religion="zoroaster"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7284={ #
@@ -5961,8 +6623,9 @@
 	culture="carmanian"
 	religion="zoroaster"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7285={ #
@@ -5970,8 +6633,9 @@
 	culture="sindhi"
 	religion="hindu"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7286={ #
@@ -5979,8 +6643,9 @@
 	culture="sindhi"
 	religion="hindu"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7287={ #
@@ -5988,8 +6653,9 @@
 	culture="sindhi"
 	religion="hindu"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7288={ #
@@ -5997,8 +6663,9 @@
 	culture="kalingan"
 	religion="hindu"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7289={ #
@@ -6006,8 +6673,9 @@
 	culture="atavi"
 	religion="hindu"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7290={ #
@@ -6015,8 +6683,9 @@
 	culture="magadhi"
 	religion="buddhism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7291={ #Upper Terrai
@@ -6024,8 +6693,9 @@
 	culture="himalayan"
 	religion="bon_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7292={ #
@@ -6033,8 +6703,9 @@
 	culture="magadhi"
 	religion="hindu"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7293={ #
@@ -6042,8 +6713,9 @@
 	culture="magadhi"
 	religion="hindu"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7294={ #
@@ -6051,8 +6723,9 @@
 	culture="magadhi"
 	religion="hindu"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7295={ #
@@ -6060,8 +6733,9 @@
 	culture="dardic"
 	religion="hindu"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7296={ #
@@ -6069,8 +6743,9 @@
 	culture="dardic"
 	religion="hindu"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7297={ #
@@ -6078,8 +6753,9 @@
 	culture="gandhari"
 	religion="hindu"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7640={ #Caspica
@@ -6087,8 +6763,9 @@
 	culture="thyssagetaen"
 	religion="indo_iranian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7641={ #Alania
@@ -6096,8 +6773,9 @@
 	culture="sarmatian"
 	religion="indo_iranian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7643={ #Fennia
@@ -6105,8 +6783,9 @@
 	culture="aestian"
 	religion="germanic_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7646={ #
@@ -6114,8 +6793,9 @@
 	culture="nabatean"
 	religion="arabian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7647={ #
@@ -6123,8 +6803,9 @@
 	culture="nabatean"
 	religion="arabian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7648={ #
@@ -6132,8 +6813,9 @@
 	culture="qedarite"
 	religion="arabian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7649={ #
@@ -6141,8 +6823,9 @@
 	culture="babylonian"
 	religion="arabian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7661={ #
@@ -6150,8 +6833,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7662={ #
@@ -6159,8 +6843,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7663={ #
@@ -6168,8 +6853,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7664={ #
@@ -6177,8 +6863,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7733={ #Vesuvius Volcano
@@ -6186,8 +6873,9 @@
 	culture="samnite"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7734={ #Methana Volcano
@@ -6195,8 +6883,9 @@
 	culture="peloponnesian"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7735={ #Argaios Mons Volcano
@@ -6204,8 +6893,9 @@
 	culture="lycaonian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7736={ #Ausara Volcano
@@ -6213,8 +6903,9 @@
 	culture="qedarite"
 	religion="arabian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7737={ #Qarqar Volcano
@@ -6222,8 +6913,9 @@
 	culture="armenian"
 	religion="anahitic_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7751={ #Mesogis Mons
@@ -6231,8 +6923,9 @@
 	culture="carian"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7752={ #Tmolus Mons
@@ -6240,8 +6933,9 @@
 	culture="lydian"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7753={ #Tempsis Mons
@@ -6249,8 +6943,9 @@
 	culture="lydian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7754={ #Sipylos Mons
@@ -6258,8 +6953,9 @@
 	culture="lydian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7755={ #Olympus Mons
@@ -6267,8 +6963,9 @@
 	culture="mysian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7756={ #Kadmons Mons
@@ -6276,8 +6973,9 @@
 	culture="carian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7757={ #
@@ -6285,8 +6983,9 @@
 	culture="carian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7758={ #
@@ -6294,8 +6993,9 @@
 	culture="pisidian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7759={ #
@@ -6303,8 +7003,9 @@
 	culture="phrygian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7761={ #Sophon Mons
@@ -6312,8 +7013,9 @@
 	culture="bithynian"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7762={ #
@@ -6321,8 +7023,9 @@
 	culture="bithynian"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7764={ #
@@ -6330,8 +7033,9 @@
 	culture="bithynian"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7797={ #Parnassus Mons
@@ -6339,8 +7043,9 @@
 	culture="boeotian"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7800={ #
@@ -6348,8 +7053,9 @@
 	culture="athenian"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7801={ #
@@ -6357,8 +7063,9 @@
 	culture="aetolian"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7847={ #
@@ -6366,8 +7073,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7848={ #
@@ -6375,8 +7083,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7849={ #
@@ -6384,8 +7093,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7850={ #
@@ -6393,8 +7103,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7851={ #
@@ -6402,8 +7113,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7852={ #
@@ -6411,8 +7123,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7853={ #
@@ -6420,8 +7133,9 @@
 	culture="massylian"
 	religion="berber_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7854={ #
@@ -6429,8 +7143,9 @@
 	culture="massylian"
 	religion="berber_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7855={ #
@@ -6438,8 +7153,9 @@
 	culture="massylian"
 	religion="berber_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7856={ #
@@ -6447,8 +7163,9 @@
 	culture="massylian"
 	religion="berber_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7857={ #
@@ -6456,8 +7173,9 @@
 	culture="massylian"
 	religion="berber_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7858={ #
@@ -6465,8 +7183,9 @@
 	culture="massylian"
 	religion="berber_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7859={ #
@@ -6474,8 +7193,9 @@
 	culture="massylian"
 	religion="berber_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7860={ #
@@ -6483,8 +7203,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7861={ #Strongyle Volcano
@@ -6492,8 +7213,9 @@
 	culture="syracusan"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7895={ #Arachnaion Mons
@@ -6501,8 +7223,9 @@
 	culture="achaean"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7900={ #Dirphys Mons
@@ -6510,8 +7233,9 @@
 	culture="euboean"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7909={ #Ida Mons
@@ -6519,8 +7243,9 @@
 	culture="mysian"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7910={ #Markaion Mons
@@ -6528,8 +7253,9 @@
 	culture="mysian"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7911={ #
@@ -6537,8 +7263,9 @@
 	culture="phrygian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7912={ #
@@ -6546,8 +7273,9 @@
 	culture="phrygian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7913={ #
@@ -6555,8 +7283,9 @@
 	culture="bithynian"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7915={ #
@@ -6564,8 +7293,9 @@
 	culture="mysian"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7916={ #
@@ -6573,8 +7303,9 @@
 	culture="mysian"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7917={ #
@@ -6582,8 +7313,9 @@
 	culture="bithynian"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7918={ #
@@ -6591,8 +7323,9 @@
 	culture="bithynian"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7919={ #
@@ -6600,8 +7333,9 @@
 	culture="mysian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7920={ #
@@ -6609,8 +7343,9 @@
 	culture="mysian"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7921={ #
@@ -6618,8 +7353,9 @@
 	culture="bithynian"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7922={ #
@@ -6627,8 +7363,9 @@
 	culture="mysian"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7923={ #
@@ -6636,8 +7373,9 @@
 	culture="mysian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7924={ #
@@ -6645,8 +7383,9 @@
 	culture="lydian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7925={ #
@@ -6654,8 +7393,9 @@
 	culture="phrygian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7926={ #
@@ -6663,8 +7403,9 @@
 	culture="lydian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7927={ #
@@ -6672,8 +7413,9 @@
 	culture="lydian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7928={ #
@@ -6681,8 +7423,9 @@
 	culture="lydian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7929={ #
@@ -6690,8 +7433,9 @@
 	culture="carian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7930={ #
@@ -6699,8 +7443,9 @@
 	culture="carian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7931={ #
@@ -6708,8 +7453,9 @@
 	culture="carian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7932={ #
@@ -6717,8 +7463,9 @@
 	culture="carian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7933={ #
@@ -6726,8 +7473,9 @@
 	culture="ionian"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7940={ #
@@ -6735,8 +7483,9 @@
 	culture="carian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7943={ #
@@ -6744,8 +7493,9 @@
 	culture="lycian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7944={ #
@@ -6753,8 +7503,9 @@
 	culture="cabalian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7945={ #
@@ -6762,8 +7513,9 @@
 	culture="milyadian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7946={ #
@@ -6771,8 +7523,9 @@
 	culture="lycian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7950={ #
@@ -6780,8 +7533,9 @@
 	culture="lycian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7952={ #
@@ -6789,8 +7543,9 @@
 	culture="pisidian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7953={ #
@@ -6798,8 +7553,9 @@
 	culture="lycian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7955={ #
@@ -6807,8 +7563,9 @@
 	culture="pisidian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7957={ #
@@ -6816,8 +7573,9 @@
 	culture="pisidian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7959={ #
@@ -6825,8 +7583,9 @@
 	culture="oroandian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7960={ #
@@ -6834,8 +7593,9 @@
 	culture="isaurian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7965={ #
@@ -6843,8 +7603,9 @@
 	culture="oroandian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7966={ #
@@ -6852,8 +7613,9 @@
 	culture="isaurian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7967={ #
@@ -6861,8 +7623,9 @@
 	culture="isaurian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7969={ #
@@ -6870,8 +7633,9 @@
 	culture="phrygian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7970={ #
@@ -6879,8 +7643,9 @@
 	culture="phrygian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7972={ #
@@ -6888,8 +7653,9 @@
 	culture="cappadocian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7973={ #
@@ -6897,8 +7663,9 @@
 	culture="cappadocian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7974={ #
@@ -6906,8 +7673,9 @@
 	culture="cappadocian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7975={ #
@@ -6915,8 +7683,9 @@
 	culture="cappadocian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7976={ #
@@ -6924,8 +7693,9 @@
 	culture="cappadocian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7977={ #
@@ -6933,8 +7703,9 @@
 	culture="cappadocian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7978={ #
@@ -6942,8 +7713,9 @@
 	culture="cappadocian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7979={ #
@@ -6951,8 +7723,9 @@
 	culture="cappadocian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7980={ #
@@ -6960,8 +7733,9 @@
 	culture="cappadocian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7982={ #
@@ -6969,8 +7743,9 @@
 	culture="cappadocian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7983={ #
@@ -6978,8 +7753,9 @@
 	culture="armenian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7984={ #
@@ -6987,8 +7763,9 @@
 	culture="carian"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7987={ #
@@ -6996,8 +7773,9 @@
 	culture="kennataian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7988={ #Hermon Mons
@@ -7005,8 +7783,9 @@
 	culture="phoenician"
 	religion="carthaginian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7989={ #Trogodos Mons
@@ -7014,8 +7793,9 @@
 	culture="cypriot"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7992={ #
@@ -7023,8 +7803,9 @@
 	culture="cappadocian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7993={ #
@@ -7032,8 +7813,9 @@
 	culture="cappadocian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7995={ #
@@ -7041,8 +7823,9 @@
 	culture="cappadocian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7996={ #
@@ -7050,8 +7833,9 @@
 	culture="cappadocian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 7997={ #
@@ -7059,8 +7843,9 @@
 	culture="cappadocian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 8000={ #
@@ -7068,8 +7853,9 @@
 	culture="armenian"
 	religion="anahitic_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 8001={ #
@@ -7077,8 +7863,9 @@
 	culture="armenian"
 	religion="anahitic_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 8002={ #
@@ -7086,8 +7873,9 @@
 	culture="armenian"
 	religion="anahitic_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 8004={ #
@@ -7095,8 +7883,9 @@
 	culture="armenian"
 	religion="anahitic_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 8005={ #
@@ -7104,8 +7893,9 @@
 	culture="armenian"
 	religion="anahitic_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 8006={ #
@@ -7113,8 +7903,9 @@
 	culture="armenian"
 	religion="anahitic_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 8012={ #
@@ -7122,8 +7913,9 @@
 	culture="phrygian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 8013={ #
@@ -7131,8 +7923,9 @@
 	culture="phrygian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 8014={ #Idaion Mons
@@ -7140,8 +7933,9 @@
 	culture="cretan"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 8017={ #Leuka Mons
@@ -7149,8 +7943,9 @@
 	culture="cretan"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 8040={ #
@@ -7158,8 +7953,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 8041={ #
@@ -7167,8 +7963,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 8052={ #
@@ -7176,8 +7973,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 8053={ #
@@ -7185,8 +7983,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 8054={ #
@@ -7194,8 +7993,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 8055={ #
@@ -7203,8 +8003,9 @@
 	culture="cypriot"
 	religion="roman_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 8056={ #
@@ -7212,8 +8013,9 @@
 	culture="mysian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 8057={ #
@@ -7221,8 +8023,9 @@
 	culture="phrygian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 8058={ #
@@ -7230,8 +8033,9 @@
 	culture="mysian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 8059={ #
@@ -7239,8 +8043,9 @@
 	culture="phrygian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 8060={ #
@@ -7248,8 +8053,9 @@
 	culture="phrygian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 8061={ #
@@ -7257,8 +8063,9 @@
 	culture="phrygian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 8062={ #
@@ -7266,8 +8073,9 @@
 	culture="phrygian"
 	religion="anatolian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 8115={ #Northern Bayuda Desert
@@ -7275,8 +8083,9 @@
 	culture="napatan"
 	religion="egyptian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 8116={ #Southern Bayuda Desert
@@ -7284,8 +8093,9 @@
 	culture="napatan"
 	religion="egyptian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 8117={ #Troglodytic Desert
@@ -7293,8 +8103,9 @@
 	culture="blemmyan"
 	religion="egyptian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 8118={ #Upper Egyptian Desert
@@ -7302,8 +8113,9 @@
 	culture="blemmyan"
 	religion="egyptian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 8119={ #Allaqi Desert
@@ -7311,8 +8123,9 @@
 	culture="blemmyan"
 	religion="egyptian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 8120={ #Kerman Desert
@@ -7320,8 +8133,9 @@
 	culture="blemmyan"
 	religion="egyptian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 8135={ #Desert
@@ -7329,8 +8143,9 @@
 	culture="phazani"
 	religion="berber_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 8148={ #Eastern Black Mountains
@@ -7338,8 +8153,9 @@
 	culture="macaean"
 	religion="berber_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 8150={ #Psyllic Desert
@@ -7347,8 +8163,9 @@
 	culture="psyllic"
 	religion="berber_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 8165={ #Western Psyllic Desert
@@ -7356,8 +8173,9 @@
 	culture="macaean"
 	religion="berber_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 8167={ #Zamzam Desert
@@ -7365,8 +8183,9 @@
 	culture="macaean"
 	religion="berber_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 8176={ #Desert
@@ -7374,8 +8193,9 @@
 	culture="macaean"
 	religion="berber_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 8177={ #Desert
@@ -7383,8 +8203,9 @@
 	culture="macaean"
 	religion="berber_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 8183={ #Desert
@@ -7392,8 +8213,9 @@
 	culture="macaean"
 	religion="berber_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 8185={ #Garamantic Desert
@@ -7401,8 +8223,9 @@
 	culture="garamantic"
 	religion="berber_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 8186={ #Desert
@@ -7410,8 +8233,9 @@
 	culture="macaean"
 	religion="berber_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 8187={ #Western Black Mountains
@@ -7419,8 +8243,9 @@
 	culture="garamantic"
 	religion="berber_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 8188={ #Desert
@@ -7428,8 +8253,9 @@
 	culture="macaean"
 	religion="berber_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 8240={ #Sand Sea
@@ -7437,8 +8263,9 @@
 	culture="phazani"
 	religion="berber_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 8388={ #Salinae Tubunenses
@@ -7446,8 +8273,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 8390={ #Iberia Impassable
@@ -7455,8 +8283,9 @@
 	culture="ilercavonian"
 	religion="animism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 8392={ #Iberia Impassable
@@ -7464,8 +8293,9 @@
 	culture="cantabrian"
 	religion="druidism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 8394={ #Bazensis
@@ -7473,8 +8303,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 8550={ #Meroe Desert
@@ -7482,8 +8313,9 @@
 	culture="adabulian"
 	religion="egyptian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 8678={ #Ethiopian Mountain
@@ -7491,8 +8323,9 @@
 	culture="aksumite"
 	religion="arabian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 8691={ #Aromata Desert
@@ -7500,8 +8333,9 @@
 	culture="puntic"
 	religion="puntic_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 8692={ #Mosylon Mountains
@@ -7509,8 +8343,9 @@
 	culture="puntic"
 	religion="puntic_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 8693={ #Ethiopian Mountains
@@ -7518,8 +8353,9 @@
 	culture="aksumite"
 	religion="arabian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 8694={ #Berberia Desert
@@ -7527,8 +8363,9 @@
 	culture="berberian"
 	religion="puntic_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 8716={ #Somali Desert
@@ -7536,8 +8373,9 @@
 	culture="puntic"
 	religion="puntic_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 8717={ #Somali Desert
@@ -7545,8 +8383,9 @@
 	culture="puntic"
 	religion="puntic_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 8718={ #Somali Desert
@@ -7554,8 +8393,9 @@
 	culture="puntic"
 	religion="puntic_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 8719={ #Somali Desert
@@ -7563,8 +8403,9 @@
 	culture="ona"
 	religion="arabian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 8720={ #Somali Desert
@@ -7572,8 +8413,9 @@
 	culture="berberian"
 	religion="puntic_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 8721={ #Lake Tana
@@ -7581,8 +8423,9 @@
 	culture="athagaun"
 	religion="arabian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 8737={ #Brebana
@@ -7590,8 +8433,9 @@
 	culture="athagaun"
 	religion="arabian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 8745={ #Lake Abbe
@@ -7599,8 +8443,9 @@
 	culture="avalitian"
 	religion="arabian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 8746={ #Lake Asal
@@ -7608,8 +8453,9 @@
 	culture="avalitian"
 	religion="arabian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 8747={ #Marib Reservoir
@@ -7617,8 +8463,9 @@
 	culture="sheban"
 	religion="arabian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 8758={ #Talgar
@@ -7626,8 +8473,9 @@
 	culture="sakan"
 	religion="indo_iranian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 8792={ #Burma Mountains
@@ -7635,8 +8483,9 @@
 	culture="pubu"
 	religion="burmese_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 8793={ #Burma Mountains
@@ -7644,8 +8493,9 @@
 	culture="pubu"
 	religion="burmese_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 8794={ #Burma Mountains
@@ -7653,8 +8503,9 @@
 	culture="pubu"
 	religion="burmese_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 8795={ #Burma Mountains
@@ -7662,8 +8513,9 @@
 	culture="pubu"
 	religion="burmese_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 8796={ #Burma Mountains
@@ -7671,8 +8523,9 @@
 	culture="bangli"
 	religion="hindu"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 8797={ #Burma Mountains
@@ -7680,8 +8533,9 @@
 	culture="mon"
 	religion="burmese_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 8803={ #Burma Mountains
@@ -7689,8 +8543,9 @@
 	culture="rhakine"
 	religion="burmese_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 8814={ #
@@ -7698,8 +8553,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 8882={ #
@@ -7707,8 +8563,9 @@
 	culture="yamama"
 	religion="arabian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 8883={ #
@@ -7716,8 +8573,9 @@
 	culture="yamama"
 	religion="arabian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 8884={ #
@@ -7725,8 +8583,9 @@
 	culture="gerrhan"
 	religion="arabian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 8885={ #
@@ -7734,8 +8593,9 @@
 	culture="yamama"
 	religion="arabian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 8886={ #
@@ -7743,8 +8603,9 @@
 	culture="yamama"
 	religion="arabian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 8887={ #
@@ -7752,8 +8613,9 @@
 	culture="kindite"
 	religion="arabian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 8888={ #
@@ -7761,8 +8623,9 @@
 	culture="adite"
 	religion="arabian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 8889={ #
@@ -7770,8 +8633,9 @@
 	culture="qedarite"
 	religion="arabian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 8893={ #
@@ -7779,8 +8643,9 @@
 	culture="adite"
 	religion="arabian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 8894={ #
@@ -7788,8 +8653,9 @@
 	culture="adite"
 	religion="arabian_pantheon"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9117={ #
@@ -7797,8 +8663,9 @@
 	culture="sakan"
 	religion="indo_iranian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9118={ #
@@ -7806,8 +8673,9 @@
 	culture="sakan"
 	religion="indo_iranian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9119={ #
@@ -7815,8 +8683,9 @@
 	culture="sakan"
 	religion="indo_iranian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9120={ #
@@ -7824,8 +8693,9 @@
 	culture="sakan"
 	religion="indo_iranian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9133={ #
@@ -7833,8 +8703,9 @@
 	culture="berberian"
 	religion="puntic_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9134={ #
@@ -7842,8 +8713,9 @@
 	culture="berberian"
 	religion="puntic_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9135={ #
@@ -7851,8 +8723,9 @@
 	culture="garamantic"
 	religion="berber_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9136={ #
@@ -7860,8 +8733,9 @@
 	culture="garamantic"
 	religion="berber_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9137={ #
@@ -7869,8 +8743,9 @@
 	culture="garamantic"
 	religion="berber_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9138={ #
@@ -7878,8 +8753,9 @@
 	culture="garamantic"
 	religion="berber_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9139={ #
@@ -7887,8 +8763,9 @@
 	culture="garamantic"
 	religion="berber_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9140={ #
@@ -7896,8 +8773,9 @@
 	culture="garamantic"
 	religion="berber_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9141={ #
@@ -7905,8 +8783,9 @@
 	culture="daphnitaean"
 	religion="berber_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9142={ #
@@ -7914,8 +8793,9 @@
 	culture="perorsian"
 	religion="berber_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9143={ #
@@ -7923,8 +8803,9 @@
 	culture="gaetulian"
 	religion="berber_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9144={ #
@@ -7932,8 +8813,9 @@
 	culture="gaetulian"
 	religion="berber_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9145={ #
@@ -7941,8 +8823,9 @@
 	culture="gaetulian"
 	religion="berber_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9146={ #Nile
@@ -7950,8 +8833,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9147={ #Nile
@@ -7959,8 +8843,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9148={ #Nile
@@ -7968,8 +8853,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9149={ #Nile
@@ -7977,8 +8863,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9150={ #Nile
@@ -7986,8 +8873,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9151={ #Nile
@@ -7995,8 +8883,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9152={ #Nile
@@ -8004,8 +8893,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9153={ #Nile
@@ -8013,8 +8903,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9154={ #Nile
@@ -8022,8 +8913,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9155={ #Nile
@@ -8031,8 +8923,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9156={ #Nile
@@ -8040,8 +8933,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9157={ #Nile
@@ -8049,8 +8943,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9158={ #Nile
@@ -8058,8 +8953,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9159={ #Baetis
@@ -8067,8 +8963,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9160={ #Flumen Anas
@@ -8076,8 +8973,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9161={ #Flumen Anas
@@ -8085,8 +8983,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9162={ #Tagus
@@ -8094,8 +8993,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9163={ #Tagus
@@ -8103,8 +9003,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9164={ #Iberus
@@ -8112,8 +9013,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9165={ #Garumna
@@ -8121,8 +9023,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9166={ #Liger
@@ -8130,8 +9033,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9167={ #Liger
@@ -8139,8 +9043,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9168={ #Sequana
@@ -8148,8 +9053,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9169={ #Sequana
@@ -8157,8 +9063,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9170={ #Rhodanus
@@ -8166,8 +9073,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9171={ #Rhodanus
@@ -8175,8 +9083,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9172={ #Rhodanus
@@ -8184,8 +9093,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9173={ #Rhenus
@@ -8193,8 +9103,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9174={ #Tamesis
@@ -8202,8 +9113,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9175={ #Sionna
@@ -8211,8 +9123,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9176={ #Sionna
@@ -8220,8 +9133,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9177={ #Viadrus
@@ -8229,8 +9143,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9178={ #Ouistoula
@@ -8238,8 +9153,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9179={ #Ouistoula
@@ -8247,8 +9163,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9180={ #Ouistoula
@@ -8256,8 +9173,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9181={ #Ouistoula
@@ -8265,8 +9183,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9182={ #Ouistoula
@@ -8274,8 +9193,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9183={ #Ouistoula
@@ -8283,8 +9203,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9184={ #Ister
@@ -8292,8 +9213,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9185={ #Ister
@@ -8301,8 +9223,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9186={ #Ister
@@ -8310,8 +9233,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9187={ #Ister
@@ -8319,8 +9243,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9188={ #Ister
@@ -8328,8 +9253,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9189={ #Ister
@@ -8337,8 +9263,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9190={ #Ister
@@ -8346,8 +9273,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9191={ #Hypanis
@@ -8355,8 +9283,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9192={ #Tanais
@@ -8364,8 +9293,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9193={ #Tanais
@@ -8373,8 +9303,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9194={ #Rha
@@ -8382,8 +9313,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9195={ #Rha
@@ -8391,8 +9323,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9196={ #Rha
@@ -8400,8 +9333,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9197={ #Rha
@@ -8409,8 +9343,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9198={ #Rha
@@ -8418,8 +9353,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9199={ #Indus
@@ -8427,8 +9363,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9200={ #Indus
@@ -8436,8 +9373,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9201={ #Indus
@@ -8445,8 +9383,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9202={ #Satluj
@@ -8454,8 +9393,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9203={ #Satluj
@@ -8463,8 +9403,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9204={ #Satluj
@@ -8472,8 +9413,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9205={ #Chenab
@@ -8481,8 +9423,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9206={ #Narmada
@@ -8490,8 +9433,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9207={ #Narmada
@@ -8499,8 +9443,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9208={ #Narmada
@@ -8508,8 +9453,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9209={ #Narmada
@@ -8517,8 +9463,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9210={ #Narmada
@@ -8526,8 +9473,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9211={ #Tapi
@@ -8535,8 +9483,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9212={ #Cauvery
@@ -8544,8 +9493,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9213={ #Cauvery
@@ -8553,8 +9503,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9214={ #Cauvery
@@ -8562,8 +9513,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9215={ #Cauvery
@@ -8571,8 +9523,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9216={ #Cauvery
@@ -8580,8 +9533,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9217={ #Penner
@@ -8589,8 +9543,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9218={ #Penner
@@ -8598,8 +9553,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9219={ #Krishna
@@ -8607,8 +9563,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9220={ #Krishna
@@ -8616,8 +9573,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9221={ #Godavari
@@ -8625,8 +9583,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9222={ #Godavari
@@ -8634,8 +9593,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9223={ #Ganges
@@ -8643,8 +9603,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9224={ #Ganges
@@ -8652,8 +9613,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9225={ #Ganges
@@ -8661,8 +9623,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9226={ #Ganges
@@ -8670,8 +9633,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9227={ #Ganges
@@ -8679,8 +9643,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9228={ #Ganges
@@ -8688,8 +9653,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9229={ #Ganges
@@ -8697,8 +9663,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9230={ #Ganges
@@ -8706,8 +9673,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9231={ #Ganges
@@ -8715,8 +9683,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9232={ #Yamuna
@@ -8724,8 +9693,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9233={ #Dyardanes
@@ -8733,8 +9703,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9234={ #Dyardanes
@@ -8742,8 +9713,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9235={ #Sububus
@@ -8751,8 +9723,9 @@
 	culture=""
 	religion=""
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9244={ #
@@ -8760,8 +9733,9 @@
 	culture="kharesmian"
 	religion="indo_iranian_religion"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9246={ #
@@ -8769,8 +9743,9 @@
 	culture="kalingan"
 	religion="buddhism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9250={ #
@@ -8778,8 +9753,9 @@
 	culture="kuntalan"
 	religion="agama"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9283={ #
@@ -8787,8 +9763,9 @@
 	culture="telugu"
 	religion="agama"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9284={ #
@@ -8796,8 +9773,9 @@
 	culture="telugu"
 	religion="agama"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9285={ #
@@ -8805,8 +9783,9 @@
 	culture="alupan"
 	religion="agama"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9286={ #
@@ -8814,8 +9793,9 @@
 	culture="tamil"
 	religion="agama"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9287={ #
@@ -8823,8 +9803,9 @@
 	culture="tamil"
 	religion="agama"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9288={ #
@@ -8832,8 +9813,9 @@
 	culture="asturian"
 	religion="druidism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9289={ #
@@ -8841,8 +9823,9 @@
 	culture="cantabrian"
 	religion="druidism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9290={ #
@@ -8850,8 +9833,9 @@
 	culture="vettonian"
 	religion="druidism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9291={ #
@@ -8859,8 +9843,9 @@
 	culture="carpetanian"
 	religion="druidism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9292={ #
@@ -8868,8 +9853,9 @@
 	culture="cantabrian"
 	religion="druidism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9293={ #
@@ -8877,8 +9863,9 @@
 	culture="asturian"
 	religion="druidism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9294={ #
@@ -8886,8 +9873,9 @@
 	culture="asturian"
 	religion="druidism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 
 9295={ #
@@ -8895,7 +9883,8 @@
 	culture="callaecian"
 	religion="druidism"
 	trade_goods=""
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 }
 

@@ -3,8 +3,9 @@
 	culture="ubian"
 	religion="druidism"
 	trade_goods="vegetables"
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -13,8 +14,9 @@
 	culture="ubian"
 	religion="druidism"
 	trade_goods="wood"
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -23,8 +25,9 @@
 	culture="vindelician"
 	religion="druidism"
 	trade_goods="fur"
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -33,8 +36,9 @@
 	culture="vindelician"
 	religion="druidism"
 	trade_goods="grain"
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -43,8 +47,9 @@
 	culture="ubian"
 	religion="druidism"
 	trade_goods="fur"
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -53,8 +58,9 @@
 	culture="boian"
 	religion="druidism"
 	trade_goods="wood"
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -63,8 +69,9 @@
 	culture="boian"
 	religion="druidism"
 	trade_goods="leather"
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -73,8 +80,9 @@
 	culture="boian"
 	religion="druidism"
 	trade_goods="cloth"
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -83,8 +91,9 @@
 	culture="boian"
 	religion="druidism"
 	trade_goods="hemp"
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -93,8 +102,9 @@
 	culture="boian"
 	religion="druidism"
 	trade_goods="cattle"
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -105,6 +115,7 @@
 	trade_goods="grain"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -115,6 +126,7 @@
 	trade_goods="wood"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -125,6 +137,7 @@
 	trade_goods="hemp"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -133,8 +146,9 @@
 	culture="ubian"
 	religion="druidism"
 	trade_goods="wood"
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -143,8 +157,9 @@
 	culture="ubian"
 	religion="druidism"
 	trade_goods="fur"
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -153,8 +168,9 @@
 	culture="ubian"
 	religion="druidism"
 	trade_goods="leather"
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -163,8 +179,9 @@
 	culture="boian"
 	religion="druidism"
 	trade_goods="fur"
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -173,8 +190,9 @@
 	culture="boian"
 	religion="druidism"
 	trade_goods="fur"
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -183,8 +201,9 @@
 	culture="boian"
 	religion="druidism"
 	trade_goods="earthware"
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -195,6 +214,7 @@
 	trade_goods="cattle"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -203,8 +223,9 @@
 	culture="boian"
 	religion="druidism"
 	trade_goods="cloth"
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -215,6 +236,7 @@
 	trade_goods="cattle"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -225,6 +247,7 @@
 	trade_goods="wood"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -233,8 +256,9 @@
 	culture="eravisci"
 	religion="druidism"
 	trade_goods="leather"
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -243,8 +267,9 @@
 	culture="boian"
 	religion="druidism"
 	trade_goods="fish"
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -253,8 +278,9 @@
 	culture="boian"
 	religion="druidism"
 	trade_goods="cattle"
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -263,8 +289,9 @@
 	culture="boian"
 	religion="druidism"
 	trade_goods="wood"
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -275,6 +302,7 @@
 	trade_goods="wood"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -283,8 +311,9 @@
 	culture="eravisci"
 	religion="druidism"
 	trade_goods="horses"
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -293,8 +322,9 @@
 	culture="eravisci"
 	religion="druidism"
 	trade_goods="fur"
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -303,8 +333,9 @@
 	culture="boian"
 	religion="druidism"
 	trade_goods="horses"
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -313,8 +344,9 @@
 	culture="eravisci"
 	religion="druidism"
 	trade_goods="cattle"
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -323,8 +355,9 @@
 	culture="boian"
 	religion="druidism"
 	trade_goods="wood"
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -333,8 +366,9 @@
 	culture="boian"
 	religion="druidism"
 	trade_goods="fur"
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -343,8 +377,9 @@
 	culture="boian"
 	religion="druidism"
 	trade_goods="leather"
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -355,6 +390,7 @@
 	trade_goods="hemp"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -363,8 +399,9 @@
 	culture="boian"
 	religion="druidism"
 	trade_goods="wood"
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -375,6 +412,7 @@
 	trade_goods="vegetables"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -385,6 +423,7 @@
 	trade_goods="fur"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -395,6 +434,7 @@
 	trade_goods="grain"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -405,6 +445,7 @@
 	trade_goods="fur"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -415,6 +456,7 @@
 	trade_goods="wood"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -425,6 +467,7 @@
 	trade_goods="grain"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -435,6 +478,7 @@
 	trade_goods="fish"
 	civilization_value = 5
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -443,8 +487,9 @@
 	culture="boian"
 	religion="druidism"
 	trade_goods="wood"
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -453,8 +498,9 @@
 	culture="boian"
 	religion="druidism"
 	trade_goods="stone"
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -463,8 +509,9 @@
 	culture="boian"
 	religion="druidism"
 	trade_goods="cattle"
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -473,8 +520,9 @@
 	culture="boian"
 	religion="druidism"
 	trade_goods="wood"
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -483,8 +531,9 @@
 	culture="boian"
 	religion="druidism"
 	trade_goods="wood"
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -493,8 +542,9 @@
 	culture="boian"
 	religion="druidism"
 	trade_goods="leather"
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -503,8 +553,9 @@
 	culture="ubian"
 	religion="druidism"
 	trade_goods="cattle"
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -513,8 +564,9 @@
 	culture="ubian"
 	religion="druidism"
 	trade_goods="leather"
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -523,8 +575,9 @@
 	culture="teurian"
 	religion="druidism"
 	trade_goods="cattle"
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -533,8 +586,9 @@
 	culture="irminonic"
 	religion="germanic_religion"
 	trade_goods="woad"
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -543,8 +597,9 @@
 	culture="vandal"
 	religion="germanic_religion"
 	trade_goods="fish"
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -553,8 +608,9 @@
 	culture="vandal"
 	religion="germanic_religion"
 	trade_goods="fish"
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -563,8 +619,9 @@
 	culture="vandal"
 	religion="germanic_religion"
 	trade_goods="leather"
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -573,8 +630,9 @@
 	culture="vandal"
 	religion="germanic_religion"
 	trade_goods="stone"
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -583,8 +641,9 @@
 	culture="vandal"
 	religion="germanic_religion"
 	trade_goods="cattle"
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -593,8 +652,9 @@
 	culture="boian"
 	religion="druidism"
 	trade_goods="cloth"
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -603,8 +663,9 @@
 	culture="boian"
 	religion="druidism"
 	trade_goods="wood"
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -613,8 +674,9 @@
 	culture="vandal"
 	religion="germanic_religion"
 	trade_goods="grain"
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -623,8 +685,9 @@
 	culture="vandal"
 	religion="germanic_religion"
 	trade_goods="fur"
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -633,8 +696,9 @@
 	culture="vandal"
 	religion="germanic_religion"
 	trade_goods="grain"
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -643,8 +707,9 @@
 	culture="boian"
 	religion="druidism"
 	trade_goods="fur"
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -653,8 +718,9 @@
 	culture="boian"
 	religion="druidism"
 	trade_goods="fish"
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -663,8 +729,9 @@
 	culture="boian"
 	religion="druidism"
 	trade_goods="stone"
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -673,8 +740,9 @@
 	culture="boian"
 	religion="druidism"
 	trade_goods="horses"
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
@@ -683,8 +751,9 @@
 	culture="cotinian"
 	religion="druidism"
 	trade_goods="wood"
-	civilization_value = 5
+	civilization_value=0
 	barbarian_power=0
+	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
 
