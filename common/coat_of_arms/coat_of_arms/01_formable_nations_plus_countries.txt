@@ -2883,3 +2883,54 @@ MEE = {
 		instance = { rotation = 180 }
 	}
 }
+
+ARI = { #placeholder flag (it's still a nice one though)
+	# pattern = "pattern_solid.tga"
+    # color1 = "amyntid_color"
+    # color2 = "ariarathid_color"
+
+    # colored_emblem = {
+    #     texture = "ce_parthia_symbol.dds"
+    #     color1 = "ariarathid_color"
+    # }
+
+    # colored_emblem = {
+    #     texture = "ce_border_simple_01.tga"
+    #     color1 = "edom_red"
+    #     instance = {
+    #         rotation = 180
+    #     }
+    # }
+	pattern = "pattern_solid.tga"
+	color1 = "spartan_rust" #ariarathid_color is too light
+	color2 = "light_gold"
+
+	colored_emblem = {
+		texture = "ce_cappadocia_ariarathes.dds"
+		color1 = "ck2_white"
+		color2 = "ck2_yellow"
+		instance = { 
+			scale = { 1.25 1.25 }
+			position={ 0.50 0.53 }
+		}
+	}
+	
+	colored_emblem = {
+		texture = "ce_border_stars_03.dds"
+		color1 = "ck2_yellow"
+		instance = { rotation = 90 }
+		instance = { rotation = 270 }
+	}
+}
+
+EUM = {
+	pattern = "pattern_solid.tga"
+	color1 = "samnite_beige"
+	color2 = "samnite_beige"
+
+	colored_emblem = {
+		texture = "ce_cappadocia_eumenid.dds"
+		color1 = "rust_brown"
+		color2 = "phrygia_red"
+	}
+}

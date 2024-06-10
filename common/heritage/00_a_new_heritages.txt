@@ -41,6 +41,39 @@ babylonian_heritage = {
 		monthly_wage_modifier = 0.1
 	}
 	trigger = {
-		tag = MEE
+		tag = BBY
+	}
+}
+
+elamite_heritage = {
+	modifier = {
+		country_civilization_value = 5
+		build_cost = -0.1
+		build_time = 0.1
+	}
+	trigger = {
+		tag = ELM
+	}
+}
+
+eumenid_heritage = {
+	modifier = {
+		land_morale_modifier = 0.05
+		character_loyalty = -3
+		army_movement_speed = 0.05
+	}
+	trigger = {
+		tag = EUM
+	}
+}
+
+ariarathid_heritage = {
+	modifier = {
+		diplomatic_reputation = 2
+		monthly_political_influence_modifer = 0.1
+		land_morale_recovery = -0.03
+	}
+	trigger = {
+		tag = ARI
 	}
 }

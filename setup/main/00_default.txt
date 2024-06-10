@@ -2415,6 +2415,12 @@ family={
 		# 	culture=phoenician
 		# 	owner=SID
 		# }
+		47={
+			key = "Eumenid"
+			prestige = 300
+			culture=macedonian
+			owner=EUM
+		}
 		#Rhodes
 		48={
 			key = "Demaratid"
@@ -2429,6 +2435,12 @@ family={
 		# 	culture=ionian
 		# 	owner=MLO
 		# }
+		49={
+			key = "Ariarathid"
+			prestige=300
+			culture=pasargadi
+			owner=ARI
+		}
 		#Paeonia
 		50={
 			key = "Argestaiid"
@@ -5264,7 +5276,7 @@ country = {
 			family = 26
 			family = 68
 			family = 69
-			government = 3256
+			government = tribal_chiefdom
 			primary_culture = carthaginian
 			religion = carthaginian_pantheon
 			
@@ -10386,18 +10398,18 @@ country = {
 			family = 34
 			government = tribal_chiefdom
 			#primary_culture = cappadocian
-			primary_culture = macedonian
+			primary_culture = cappadocian
 			#religion = zoroaster
-			religion = roman_pantheon
+			religion = anatolian_religion
 
 			historical_regnal_numbers = {
 				Ariarathes = 1
 			}
 
-			capital = 1799
+			capital = 172
 
 			own_control_core = 	{
-				1799
+				172
 			}
 
 			pantheon = {
@@ -10405,6 +10417,43 @@ country = {
 				{ deity = 301 } # Sraosha
 				{ deity = 352 } # Men
 				{ deity = 353 } # Cybele
+			}
+		}
+
+		EUM = {
+			family = 47
+			government = tribal_chiefdom
+			#primary_culture = cappadocian
+			primary_culture = macedonian
+			#religion = zoroaster
+			religion = roman_pantheon
+
+			historical_regnal_numbers = {
+				Eumenes = 1
+			}
+
+			capital = 1788
+
+			own_control_core = 	{
+				1788
+			}
+		}
+
+		ARI = {
+			family = 49
+			government = tribal_chiefdom
+			#primary_culture = cappadocian
+			primary_culture = pasargadi
+			religion = zoroaster
+
+			historical_regnal_numbers = {
+				Ariarathes = 1
+			}
+
+			capital = 1854
+
+			own_control_core = 	{
+				1854
 			}
 		}
 
@@ -10766,6 +10815,17 @@ country = {
 			}
 		}
 
+		ELM = {
+			government = tribal_chiefdom
+	 		primary_culture = elamite
+			religion = mesopotamian_religion
+	 		capital = 946
+
+			own_control_core = 	{
+				946
+			}
+		}
+
 		BBY = {
 			government = tribal_chiefdom
 	 		primary_culture = babylonian
@@ -10845,7 +10905,7 @@ country = {
 			family = 61
 			government = tribal_chiefdom
 			primary_culture = bactrian
-			religion = roman_pantheon
+			religion = vaksh_religion
 			capital = 6678 #Bactra
 
 			technology={
@@ -10891,7 +10951,7 @@ country = {
 		PAR = {
 			government = tribal_chiefdom
 			primary_culture = parthian
-			religion = zoroaster
+			religion = mithra_religion
 			capital = 3435
 
 			own_control_core = {
@@ -10979,8 +11039,6 @@ country = {
 	 		primary_culture = median
 	 		religion = zoroaster
 	 		capital = 1595
-
-			treasures = { 192 }
 
 	 		own_control_core = 	{
 	 			1595
@@ -12380,10 +12438,10 @@ country = {
 
 			treasures = { 225 226 }
 
-			capital = 641
+			capital = 626
 
 			own_control_core = {
-				641
+				626
 			}
 		}
 
@@ -12495,19 +12553,17 @@ country = {
 	# 		}
 	# 	}
 
-	# 	BOR = {
-	# 		government = tribal_kingdom
-	# 		primary_culture = boran
-	# 		religion = nilotic_pantheon
+		BOR = {
+			government = tribal_chiefdom
+			primary_culture = boran
+			religion = nilotic_pantheon
 
-	# 		capital = 7589
+			capital = 7589
 
-	# 		own_control_core = {
-	# 			7589 7590 7591 7588 7587 633 3331 3328 3323 3322
-	# 			8618 8619 8620 8621 8622 8623 #kartub
-	# 			8639 8640 8641 #Gash
-	# 		}
-	# 	}
+			own_control_core = {
+				7589
+			}
+		}
 
 		AUT = {
 			government = tribal_chiefdom
@@ -12702,17 +12758,17 @@ country = {
 	# 		}
 	# 	}
 
-		MND = {
-			government = tribal_chiefdom
-			primary_culture = puntic
-			religion = puntic_religion
+		# MND = {
+		# 	government = tribal_chiefdom
+		# 	primary_culture = puntic
+		# 	religion = puntic_religion
 
-			capital = 7523
+		# 	capital = 7523
 
-			own_control_core = {
-				7523
-			}
-		}
+		# 	own_control_core = {
+		# 		7523
+		# 	}
+		# }
 
 		MYL = {
 			government = tribal_chiefdom

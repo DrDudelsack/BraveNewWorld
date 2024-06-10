@@ -6,6 +6,12 @@
  MEE_ADJ:0 "Median"
  BBY:0 "Babylon"
  BBY_ADJ:0 "Babylonian"
+ ELM:0 "Elam"
+ ELM_ADJ:0 "Elamite"
+ EUM:0 "Eumenid Kingdom"
+ EUM_ADJ:0 "Eumenid"
+ ARI:0 "Ariarathid Kingdom"
+ ARI_ADJ:0 "Ariarathid"
 
  # Heritages 
  tyros_heritage:0 "Tyrian Heritage"
@@ -14,3 +20,9 @@
  median_heritage_desc:0 "The Medes were a people of the Iranian plateau. The would unite against outsiders until united for good as an Empire in the 8th century BC. Most likely, the had equal succession which splintered the power of a clan over time."
  babylonian_heritage:0 "Babylonioan Heritage"
  babylonian_heritage_desc:0 "Babylon is an ancient city, a beating heart of civilization. Many generations have lived and died for this wondrous city."
+ elamite_heritage:0 "Elamite Heritage"
+ elamite_heritage_desc:0 "The Elamites are an ancient people from southern Iran that started the building of ziggurats and discovered writing independently soon after the Sumerians did."
+ eumenid_heritage:0 "Eumenid Heritage"
+ eumenid_heritage_desc:0 "Eumenes was Alexander's secretary and his sons' last supporter before being betrayed by the silver shields."
+ ariarathid_heritage:0 "Ariarathid Heritage"
+ ariarathid_heritage_desc:0 "The Ariarathids were satraps of the Persian Empire in Cappadocia and ruled there unti Alexander" drove them out. Later on, Ariarathes's son, Ariarathes II, reclaimed the throne with Armenian help.
