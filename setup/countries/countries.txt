@@ -56,7 +56,7 @@ PAA = "setup/countries/greece/paeonia.txt"
 TAN = "setup/countries/greece/tanagra.txt"
 HRM = "setup/countries/greece/hermione.txt"
 ORE = "setup/countries/greece/oreos.txt"
-PER = "setup/countries/anatolia/pergamon.txt"
+PRM = "setup/countries/anatolia/pergamon.txt"
 
 #Added Asia
 KAO = "setup/countries/anatolia/kaounos.txt"
@@ -127,6 +127,7 @@ ALB = "setup/countries/caucasiamesopotamia/albania.txt"
 TRZ = "setup/countries/caucasiamesopotamia/trapezous.txt"
 BAC = "setup/countries/bactria/bactria.txt"
 PAR = "setup/countries/caucasiamesopotamia/parthia.txt"
+LAQ = "setup/countries/caucasiamesopotamia/lazica.txt"
 
 #Syria
 COM = "setup/countries/syria/commagene.txt"
@@ -533,6 +534,11 @@ KHB = "setup/countries/india/khambojas.txt"
 KLS = "setup/countries/india/kalasas.txt"
 MGT = "setup/countries/india/massagetae.txt"
 VDP = "setup/countries/india/vidarbha.txt"
+JAI = "setup/countries/india/jaintia.txt"
+SAT = "setup/countries/india/satrunavha.txt"
+KAC = "setup/countries/india/kaccha.txt"
+KOT = "setup/countries/india/kota.txt"
+ROR = "setup/countries/india/roruka.txt"
 
 #Germanic
 BST = "setup/countries/germania/bastarnae.txt"

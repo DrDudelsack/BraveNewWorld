@@ -1,7 +1,7 @@
 ﻿l_english:
 
- PER:0 "Pergamon"
- PER_ADJ:0 "Pergamine"
+ PRM:0 "Pergamon"
+ PRM_ADJ:0 "Pergamine"
  MEE:0 "Media"
  MEE_ADJ:0 "Median"
  BBY:0 "Babylon"
@@ -12,6 +12,18 @@
  EUM_ADJ:0 "Eumenid"
  ARI:0 "Ariarathid Kingdom"
  ARI_ADJ:0 "Ariarathid"
+ JAI:0 "Jaintia"
+ JAI_ADJ:0 "Jaintian"
+ SAT:0 "Satrunavha"
+ SAT_ADJ:0 "Satrunavhan"
+ KAC:0 "Kaccha"
+ KAC_ADJ:0 "Kacchan"
+ KOT:0 "Kota"
+ KOT_ADJ:0 "Kotan"
+ LAQ:0 "Rhizaion"
+ LAQ_ADJ:0 "Rhizaionian"
+ ROR:0 "Roruka"
+ ROR_ADJ:0 "Rorukan"
 
  # Heritages 
  tyros_heritage:0 "Tyrian Heritage"
