@@ -424,7 +424,6 @@
 		add_zeal=5
 		no_traits=yes
 		add_trait="brave"
-		add_as_governor=p:8003.governorship # greece_region
 	}
 	430={
 		first_name="Eunostos"
