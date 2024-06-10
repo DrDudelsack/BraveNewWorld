@@ -1,5 +1,5 @@
-﻿"ORE"={
-	country="ORE"
+﻿"ATH"={
+	country="ATH"
 	366={
 		first_name="Sophia"
 		family_name = "Diamandis"

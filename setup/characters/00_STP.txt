@@ -1,5 +1,5 @@
-﻿"STP"={
-	country="STP"
+﻿"SPA"={
+	country="SPA"
 	216={
 		first_name="Timon"
 		family_name="Timarchid"

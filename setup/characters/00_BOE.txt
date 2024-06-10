@@ -1,5 +1,5 @@
-﻿"BOE"={
-	country="BOE"
+﻿"ATH"={
+	country="ATH"
 	383={
 		first_name="Pisis"
 		birth_date=417.3.12

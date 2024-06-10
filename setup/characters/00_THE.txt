@@ -1,5 +1,5 @@
-﻿"THE"={
-	country="THE"
+﻿"ATH"={
+	country="ATH"
 	75={
 		first_name="Krates"
 		family_name="Askondid"

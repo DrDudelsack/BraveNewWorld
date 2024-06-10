@@ -1,5 +1,5 @@
-﻿"MGA"={
-	country="MGA"
+﻿"ATH"={
+	country="ATH"
 	217={
 		first_name="Stilpon"
 		family_name="Stilpid"

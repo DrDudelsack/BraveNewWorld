@@ -1,5 +1,5 @@
-﻿"KOS"={
-	country="KOS"
+﻿"RHO"={
+	country="RHO"
 	53={
 		first_name="Berossus"
 		family_name="mar Warad-Marduk"
@@ -65,8 +65,5 @@
 		add_charisma=8
 		add_finesse=7
 		add_zeal=6
-		c:KOS = {
-			set_as_ruler = char:401
-		}
 	}
 }

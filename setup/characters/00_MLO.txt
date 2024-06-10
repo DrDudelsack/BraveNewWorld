@@ -1,5 +1,5 @@
-﻿"MLO"={
-	country="MLO"
+﻿"ION"={
+	country="ION"
 	29={
 		first_name="Eurydike"
 		family = c:MAC.fam:Antipatrid
@@ -14,7 +14,7 @@
 	}
 	98={
 		first_name="Aristodemus"
-		family = c:MLO.fam:Aristodemid
+		family_name = "Aristodemid"
 		birth_date=410.3.4
 		culture="ionian"
 		religion="roman_pantheon"
@@ -27,9 +27,6 @@
 		add_trait="poet"
 		add_gold=200
 		add_popularity=80
-		c:MLO={
-			set_as_ruler=char:98
-		}
 		dna="DPEM8ZZ4lnjWvda9AmwCbAJpAmkCZgJmAnYCdgTQBNACkgKSBLcEtwKGAoYCZwJnApQClAKHAocCdAJ0AnkCeQKSApIEpQSlA60DrQFkAWQChgKGApcClwJ0AnQCfQJ9AmwCbAOlA6UCcwJzA6MDowKSApICkQKRApQClAFcAVwAIAAgAooCigKVApUCgAKAAn8CfwJmAmYBYAFgApUClQKFAoUBXQFdA6EDoQKOAo4CcQJxAnACcAJyAnIClgKWBNME0wKQApACkQKRAoECgQJpAmkCdwJ3AV0BXQKOAo4CigKKAo8CjwLfAt8AsgCyABoAGgK3ArcCyQLJAQgBCAB0AHQAqwCrAFkAWQDfAN8AGAAYABYAFgAAAAAAZQBlAUEBQQADAAMArwCvAUUBRQFwAXAAUgBSAEcARwAAAAAAawBrACUAJQLHAscAqQCpAuMC4wAmACYBQAFAA2EDYQElASUBLAEsApUClQNsA2wJ3AncAAAAAAT5BPkF1AXUAGoAagXpBekCIwIjAjgCOAAAAAAAAAAAAAAAAA=="
 	}
 	317={

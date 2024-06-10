@@ -220,7 +220,6 @@
 	civilization_value = 5
 	barbarian_power=0
 	tribesmen = { amount = 2 }
-	port_building=1
 }
 
 7523={ #Moundou
@@ -232,7 +231,6 @@
 	barbarian_power=0
 	tribesmen = { amount = 2 }
 	holy_site=omen_wagar
-	port_building=1
 }
 
 7524={ #Macajilayn
