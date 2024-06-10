@@ -1,5 +1,5 @@
-﻿"PER"={
-	country="PER"
+﻿"PRM"={
+	country="PRM"
 	67={
 		first_name="Attalos" # Father of Philetairos of Pergamon
 		family = c:PER.fam:Attalid

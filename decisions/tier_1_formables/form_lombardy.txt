@@ -24,7 +24,7 @@
 		highlight = {
 			scope:province = {
 				OR = {
-					is_in_area = liguria_aemilia_area
+					is_in_area = aemilla_area
 					#province_id = 1
 				}
 			}
@@ -41,7 +41,7 @@
 			}
 			can_form_nation_trigger = yes
 			OR = {
-				owns_or_subject_owns_area = liguria_aemilia_area
+				owns_or_subject_owns_area = aemilla_area
 			}
 		}
 		

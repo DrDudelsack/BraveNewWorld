@@ -5428,6 +5428,42 @@ country = {
 
 		}
 
+		SIW = {
+			government = tribal_chiefdom
+			primary_culture = oasis_egyptian
+			religion = egyptian_pantheon
+			capital = 5537 
+
+			own_control_core = 	{
+				5537
+			}
+
+		}
+
+		MEF = {
+			government = tribal_chiefdom
+			primary_culture = egyptian
+			religion = egyptian_pantheon
+			capital = 500
+
+			own_control_core = 	{
+				500
+			}
+
+		}
+
+		WST = {
+			government = tribal_chiefdom
+			primary_culture = upper_egyptian
+			religion = egyptian_pantheon
+			capital = 569
+
+			own_control_core = 	{
+				569
+			}
+
+		}
+
 		EGY = {
 			family = 6
 			family = 7
@@ -11179,18 +11215,16 @@ country = {
 	 		}
 	 	}
 
-	# 	ATV = {
-	# 		government = tribal_kingdom
-	# 		primary_culture = atavi
-	# 		religion = hindu
-	# 		centralization=-10
-	# 		capital = 7467
+		ATV = {
+			government = tribal_chiefdom
+			primary_culture = atavi
+			religion = hindu
+			capital = 7455
 
-	# 		own_control_core = 	{
-	# 			4431 4432 4467 4468 4471 7320 7321 7453 7467 7468 7475 #east_cedi_region
-	# 			4477 7129 7451 7454 7458 7459 7474
-	# 		}
-	# 	}
+			own_control_core = 	{
+				7455
+			}
+		}
 
 	# 	HYA = { #Haihaya
 	# 		family=84
@@ -11620,20 +11654,17 @@ country = {
 	# 		treasures = { 879 }
 	# 	}
 
-	# 	ANH = {
-	# 		government = tribal_kingdom
-	# 		primary_culture = andhran
-	# 		religion = agama
-	# 		centralization=10
-	# 		capital = 7019
+		ANH = {
+			government = tribal_chiefdom
+			primary_culture = andhran
+			religion = agama
+			capital = 7019
 
-	# 		own_control_core = 	{
-	# 			7019 7040 7046 7084 7045 7041 7039 7043 7042 7044 7054 7056
-	# 			7013 7048 7049
-	# 			7091
-	# 		}
-	# 		treasures = { 880 }
-	# 	}
+			own_control_core = 	{
+				7019
+			}
+			treasures = { 880 }
+		}
 
 		KAL = { #Kalinga
 			family = 39

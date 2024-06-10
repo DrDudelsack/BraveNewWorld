@@ -169,3 +169,54 @@ ELM = {
 		}
 	}
 }
+
+SIW = {
+	pattern = "pattern_solid.tga"
+	color1 = "bone_white"
+	color2 = "thessalian_color"
+
+	colored_emblem = {
+		texture = "ce_ram_head.dds"
+		color1 = "thessalian_color"
+		color2 = "pitch_black"
+	}
+
+	colored_emblem = {
+		texture = "ce_border_ancient_egyptian_pattern_01.dds"
+		color1 = "bone_white"
+		color2 = "pitch_black"
+		instance = {
+			rotation = 180
+		}
+		instance = {
+			rotation = 0
+		}
+	}
+}	
+
+MEF = {
+	pattern = "pattern_solid.tga"
+	color1 = "ariarathid_color"
+	color2 = "bone_white"
+
+	colored_emblem = {
+		texture = "ce_egyptian_05.dds"
+		color1 = "bone_white"
+		color2 = "pitch_black"
+		instance = {
+			scale = { 0.95 0.95 } 
+		}
+	}
+}
+
+WST = {
+	pattern = "pattern_solid.tga"
+	color1 = "arabia_color"
+	color2 = "alis_ubbo_color"
+
+	colored_emblem = {
+		texture = "ce_egypt_udjat_eye.dds"
+		color1 = "alis_ubbo_color"
+		color2 = "pitch_black"
+	}
+}
