@@ -4323,16 +4323,16 @@ country = {
 			}
 		}
 
-	# 	SAM = {
-	# 		family = 29
-	# 		family = 87
-	# 		family = 88
-	# 		government = aristocratic_republic
-	# 		diplomatic_stance=warmongering_stance
-	# 		primary_culture = samnite
-	# 		religion = italic_pantheon
-	# 		centralization=10
-	# 		capital = 32
+	 	SAM = {
+	 		family = 29
+	 		family = 87
+	 		family = 88
+	 		government = tribal_chiefdom
+	 		diplomatic_stance=warmongering_stance
+	 		primary_culture = samnite
+	 		religion = italic_pantheon
+			centralization=10
+	 		capital = 32
 
 	# 		technology={
 	# 			military_tech={ level=2 progress=0 }
@@ -4341,12 +4341,12 @@ country = {
 	# 			religious_tech= { level=2 progress=0  }
 	# 		}
 
-	# 		own_control_core = 	{
-	# 			33 32 41 42 46 43 44 10 45 1716 1718
-	# 		}
+	 		own_control_core = 	{
+	 			32
+	 		}
 
 	# 		treasures = { 41 }
-	# 	}
+	 	}
 
 	# 	MRS = {
 	# 		government = tribal_kingdom
@@ -4392,7 +4392,7 @@ country = {
 	# 	}
 
 	# 	NUC = {
-	# 		government = plutocratic_republic
+	#		government = tribal_chiefdom
 	# 		diplomatic_stance=trading_stance
 	# 		primary_culture = samnite
 	# 		religion = roman_pantheon
@@ -4407,7 +4407,7 @@ country = {
 	# 		capital = 1713
 
 	# 		own_control_core = 	{
-	# 			1713 9
+	# 			1713
 	# 		}
 
 
@@ -4787,18 +4787,18 @@ country = {
 	# 		}
 	# 	}
 
-	# 	BOI = {
-	# 		government = tribal_kingdom
-	# 		primary_culture = lepontic
-	# 		religion = druidism
-	# 		centralization=60
+	 	BOI = {
+	 		government = tribal_chiefdom
+	 		primary_culture = lepontic
+	 		religion = druidism
+			centralization=10
 
-	# 		capital = 146
+	 		capital = 146
 
-	# 		own_control_core = 	{
-	# 			146 149 151 152 153 3576 3587 3588 3591
-	# 		}
-	# 	}
+	 		own_control_core = 	{
+	 			146
+	 		}
+	 	}
 
 	# 	LGN = {
 	# 		government = tribal_kingdom
@@ -4868,18 +4868,18 @@ country = {
 	# 		}
 	# 	}
 
-	# 	RAE = {
-	# 		government = tribal_kingdom
-	# 		primary_culture = rhaetian
-	# 		religion = italic_pantheon
-	# 		centralization=10
+		RAE = {
+	 		government = tribal_chiefdom
+	 		primary_culture = rhaetian
+	 		religion = italic_pantheon
+	 		centralization=10
 
-	# 		capital = 3663
+	 		capital = 3663
 
-	# 		own_control_core = 	{
-	# 			3660 3659 3663 3658 3656 3655 3654 3661 3666 3665
-	# 		}
-	# 	}
+			own_control_core = 	{
+	 			3663
+			}
+	 	}
 
 	# 	BRE = { #change Galatia
 	# 		government = tribal_kingdom
@@ -5096,10 +5096,10 @@ country = {
 
 	# 	}
 
-	# 	SCU = {
-	# 		government = tribal_kingdom
-	# 		primary_culture = siculian
-	# 		religion = italic_pantheon
+	 	SCU = {
+	 		government = tribal_chiefdom
+	 		primary_culture = siculian
+	 		religion = italic_pantheon
 
 	# 		technology={
 	# 			military_tech={ level=2 progress=0 }
@@ -5108,13 +5108,13 @@ country = {
 	# 			religious_tech= { level=2 progress=0  }
 	# 		}
 
-	# 		capital = 89
+	 		capital = 89
 
-	# 		own_control_core = 	{
-	# 			89 7839
-	# 		}
+	 		own_control_core = 	{
+	 			89
+	 		}
 
-	# 	}
+	 	}
 
 	# 	# Misc
 
@@ -5435,12 +5435,12 @@ country = {
 	# 		treasures = { 96 }
 	# 	}
 
-	# 	SYR = {
+	 	SYR = {
 	# 		family = 24
-	# 		government = aristocratic_monarchy
-	# 		primary_culture = syracusan
-	# 		religion = roman_pantheon
-	# 		capital = 84
+	 		government = tribal_chiefdom
+	 		primary_culture = syracusan
+	 		religion = roman_pantheon
+			capital = 84
 
 	# 		technology={
 	# 			military_tech={ level=2 progress=0 }
@@ -5449,12 +5449,12 @@ country = {
 	# 			religious_tech= { level=2 progress=0  }
 	# 		}
 
-	# 		historical_regnal_numbers = {
-	# 			Gelon = 1
-	# 			Dionysios = 2
-	# 			Dion = 1
-	# 			Timoleon = 1
-	# 		}
+	 		historical_regnal_numbers = {
+	 			Gelon = 1
+	 			Dionysios = 2
+	 			Dion = 1
+	 			Timoleon = 1
+	 		}
 
 	# 		pantheon = {
 
@@ -5465,11 +5465,11 @@ country = {
 
 	# 		}
 
-	# 		own_control_core = 	{
-	# 			82 83 84 88 101 87 81 80 7837 7838 7840
-	# 		}
+	 		own_control_core = 	{
+	 			84
+	 		}
 
-	# 	}
+	 	}
 
 	# 	DOD = {
 	# 		family = 57
@@ -5556,19 +5556,18 @@ country = {
 	# 		}
 	# 	}
 
-	# 	PSY = { #Nasamonian Tributary
-	# 		government = tribal_chiefdom
-	# 		primary_culture = psyllic
-	# 		religion = berber_religion
+	 	PSY = { #Nasamonian Tributary
+	 		government = tribal_chiefdom
+	 		primary_culture = psyllic
+	 		religion = berber_religion
 
-	# 		capital = 3333
+	 		capital = 3333
 
-	# 		own_control_core = {
-	# 			8199 8200 8201 8202 #psyllia
-	# 			3332 3333 3334 3335 3336 3337 #syrtica
+	 		own_control_core = {
+	 			3333
 
-	# 		}
-	# 	}
+	 		}
+	 	}
 
 	# 	MKA = {
 	# 		government = tribal_federation
@@ -5639,23 +5638,23 @@ country = {
 	# 		}
 	# 	}
 
-	# 	MHY = {
-	# 		government = tribal_chiefdom
-	# 		primary_culture = macaean
-	# 		religion = berber_religion
+	 	MHY = {
+	 		government = tribal_chiefdom
+	 		primary_culture = macaean
+	 		religion = berber_religion
 
 
-	# 		capital = 8142
+	 		capital = 8142
 
-	# 		own_control_core = {
-	# 			8140 8141 8142 8143 8144 8145 8146 8147 #syrtis
-	# 		}
-	# 	}
+	 		own_control_core = {
+	 			8142
+	 		}
+	 	}
 
-	# 	GAR = {
-	# 		government = tribal_kingdom
-	# 		primary_culture = garamantic
-	# 		religion = egyptian_pantheon
+	 	GAR = {
+	 		government = tribal_chiefdom
+	 		primary_culture = garamantic
+	 		religion = egyptian_pantheon
 
 	# 		technology={
 	# 			military_tech={ level=1 progress=0 }
@@ -5664,15 +5663,12 @@ country = {
 	# 			religious_tech= { level=1 progress=0  }
 	# 		}
 
-	# 		capital = 8168
+	 		capital = 8168
 
-	# 		own_control_core = {
-	# 			8149 8152 8154 8155 8156 8157 8159 8160 #shatti
-	# 			8161 8162 8163 8164 8166 8168 8169 8171 #hayaa
-	# 			8173 8174 8175 8178 8179 8181 8182 8184 #murzuq
-	# 			8189 8190 8191 8192 8193 8194 #himka
-	# 		}
-	# 	}
+	 		own_control_core = {
+	 			8168
+	 		}
+	 	}
 
 	# 	ATO = {
     #         government = tribal_federation
@@ -6757,18 +6753,18 @@ country = {
 	# 		}
 	# 	}
 
-	# 	VSC = {
-	# 		government = tribal_kingdom
-	# 		primary_culture = vasconian
-	# 		religion = pre_indo_european_religion
-	# 		centralization=10
+	 	VSC = {
+	 		government = tribal_chiefdom
+	 		primary_culture = vasconian
+	 		religion = pre_indo_european_religion
+	 		centralization=10
 
-	# 		capital = 1016
+	 		capital = 1016
 
-	# 		own_control_core = 	{
-	# 			1074 1014 1073 1075 1076 1077 1080 1081 1088 1072 1016
-	# 		}
-	# 	}
+	 		own_control_core = 	{
+	 			1016
+			}
+	 	}
 
 	# 	EPO = {
 	# 		government = plutocratic_republic
@@ -6865,18 +6861,18 @@ country = {
 
 	# 	#GAUL
 
-	# 	BOA = {
-	# 		government = tribal_chiefdom
-	# 		primary_culture = boian
-	# 		religion = druidism
-	# 		centralization=0
+	 	BOA = {
+	 		government = tribal_chiefdom
+			primary_culture = boian
+	 		religion = druidism
+	 		centralization=10
 
-	# 		capital = 3937
+	 		capital = 3937
 
-	# 		own_control_core = {
-	# 			3938 3939 3931 3935 3937 3914 3916 3923 3933 3917 3819 3934 3817 3818 3936
-	# 		}
-	# 	}
+	 		own_control_core = {
+	 			3937
+	 		}
+	 	}
 
 	# 	ABC = {
 	# 		government = tribal_kingdom
@@ -7060,19 +7056,19 @@ country = {
 	# 		}
 	# 	}
 
-	# 	AVN = {
-	# 		government = tribal_federation
-	# 		primary_culture = arverni
-	# 		religion = druidism
-	# 		centralization=10
+	 	AVN = {
+	 		government = tribal_chiefdom
+	 		primary_culture = arverni
+	 		religion = druidism
+	 		centralization=10
 
-	# 		#is_antagonist = yes
-	# 		capital = 2373
+	 		#is_antagonist = yes
+	 		capital = 2373
 
-	# 		own_control_core = 	{
-	# 			2284 2298 2299 2371 2373 2375 2300 1719 2342 2376 2374 2372 2370
-	# 		}
-	# 	}
+	 		own_control_core = 	{
+	 			2373
+	 		}
+	 	}
 
 	# 	NTB = {
 	# 		government = tribal_kingdom
@@ -7348,18 +7344,18 @@ country = {
 	# 		}
 	# 	}
 
-	# 	CTN = { #change Galatia
-	# 		government = tribal_kingdom
-	# 		primary_culture = vindelician
-	# 		religion = druidism
-	# 		centralization=10
+	 	CTN = { #change Galatia
+			government = tribal_chiefdom
+	 		primary_culture = vindelician
+	 		religion = druidism
+	 		centralization=10
 
-	# 		capital = 3752
+	 		capital = 3749
 
-	# 		own_control_core = 	{
-	# 			3752 3757 3749 3748 3773
-	# 		}
-	# 	}
+	 		own_control_core = 	{
+	 			3749
+	 		}
+	 	}
 
 	# 	TLG = {
 	# 		government = tribal_kingdom
@@ -7734,18 +7730,18 @@ country = {
 	# 		}
 	# 	}
 
-	# 	PRS = {
-	# 		government = tribal_kingdom
-	# 		primary_culture = sennonian
-	# 		religion = druidism
-	# 		centralization=10
+	 	PRS = {
+	 		government = tribal_chiefdom
+	 		primary_culture = sennonian
+	 		religion = druidism
+	 		centralization=10
 
-	# 		capital = 2475
+	 		capital = 2475
 
-	# 		own_control_core = 	{
-	# 			2475 2477 2476 2481 2483 2485
-	# 		}
-	# 	}
+	 		own_control_core = 	{
+	 			2475
+	 		}
+	 	}
 
 	# 	CTL = {
 	# 		government = tribal_kingdom
@@ -8844,17 +8840,17 @@ country = {
 	# 		}
 	# 	}
 
-	# 	BUD = {
-	# 		government = tribal_kingdom
-	# 		primary_culture = buridavensi
-	# 		religion = shamanism
+	 	BUD = {
+	 		government = tribal_chiefdom
+	 		primary_culture = buridavensi
+	 		religion = shamanism
 
-	# 		capital = 4273
+	 		capital = 4273
 
-	# 		own_control_core = 	{
-	# 			4281 4287 4280 4273 4272 4299 4292 4295 4269 4271
-	# 		}
-	# 	}
+	 		own_control_core = 	{
+	 			4273
+	 		}
+		}
 
 	# 	APP = { #change Galatia
 	# 		government = tribal_kingdom
@@ -8916,18 +8912,18 @@ country = {
 	# 		}
 	# 	}
 
-	# 	NRC = { #change Galatia
-	# 		government = tribal_kingdom
-	# 		primary_culture = noric
-	# 		religion = druidism
-	# 		centralization=75
+	 	NRC = { #change Galatia
+	 		government = tribal_chiefdom
+	 		primary_culture = noric
+	 		religion = druidism
+	 		centralization=10
 
-	# 		capital = 3671
+	 		capital = 3672
 
-	# 		own_control_core = 	{
-	# 			3671 3672 3673 4131 3674 3649 3648 3647 3650 3651 3652
-	# 		}
-	# 	}
+	 		own_control_core = 	{
+	 			3672
+			}
+	 	}
 
 	# 	TSC = { #change Galatia
 	# 		government = tribal_kingdom
@@ -10955,23 +10951,23 @@ country = {
 
 
 	# 	#Syria
-	# 	JUD	= { #Judean Subject State, at the start loyal to the Antigonids. Would later be a Ptolemaic subject.
+	 	JUD	= { #Judean Subject State, at the start loyal to the Antigonids. Would later be a Ptolemaic subject.
 	# 		family = 60
-	# 		government = theocratic_monarchy
-	# 		primary_culture = hebrew
-	# 		religion = judaism
+	 		government = tribal_chiefdom
+	 		primary_culture = hebrew
+	 		religion = judaism
 	# 		monarchy_military_reforms = recruit_from_nobles
 
-	# 		capital = 687
+	 		capital = 687
 
-	# 		pantheon = {
+	 		pantheon = {
 
-	# 			{ deity = 907 }
-	# 			{ deity = 902 }
-	# 			{ deity = 905 }
-	# 			{ deity = 909 }
+	 			{ deity = 907 }
+	 			{ deity = 902 }
+	 			{ deity = 905 }
+	 			{ deity = 909 }
 
-	# 		}
+	 		}
 
 	# 		technology={
 	# 			military_tech={ level=1 progress=0 }
@@ -10980,16 +10976,15 @@ country = {
 	# 			religious_tech= { level=1 progress=0  }
 	# 		}
 
-	# 		own_control_core = 	{
-	# 			683 684 685 686 687 688 689 691 692 711 713 715 #judea_region
-	# 			681 710 712 714 716 717 720 731
-	# 		}
-	# 	}
-	# 	SMA	= { #Samarian Subject State, at the start loyal to the Antigonids. Would later be a Ptolemaic subject.
+	 		own_control_core = 	{
+	 			687
+	 		}
+	 	}
+	 	SMA	= { #Samarian Subject State, at the start loyal to the Antigonids. Would later be a Ptolemaic subject.
 	# 		family = 58
-	# 		government = theocratic_monarchy
-	# 		primary_culture = hebrew
-	# 		religion = judaism
+	 		government = tribal_chiefdom
+	 		primary_culture = hebrew
+	 		religion = judaism
 	# 		monarchy_military_reforms = recruit_from_nobles
 
 	# 		technology={
@@ -10999,12 +10994,12 @@ country = {
 	# 			religious_tech= { level=1 progress=0  }
 	# 		}
 
-	# 		capital = 680
+	 		capital = 680
 
-	# 		own_control_core = 	{
-	# 			671 676 678 679 680 682 719
-	# 		}
-	# 	}
+	 		own_control_core = 	{
+	 			680
+	 		}
+	 	}
 
 		SID = { #Sidon
 			family = 47
@@ -11150,13 +11145,13 @@ country = {
 	# 		}
 	# 	}
 
-	# 	SEL = {
+	 	SEL = {
 	# 		family = 30
 	# 		family = 70
-	# 		government = aristocratic_monarchy
-	# 		primary_culture = macedonian
-	# 		religion = roman_pantheon
-	# 		capital = 911
+	 		government = tribal_chiefdom
+	 		primary_culture = macedonian
+			religion = roman_pantheon
+	 		capital = 911
 	# 		diplomatic_stance=warmongering_stance
 	# 		monarchy_military_reforms = work_for_the_best
 
@@ -11174,56 +11169,25 @@ country = {
 	# 			religious_tech= { level=2 progress=0  }
 	# 		}
 
-	# 		own_control_core = 	{
-	# 			6551 6561 6552 6570 #pactya_area
-	# 			6645 6621 6639 6640 6641 6609 6615 6624 6623 6612 #sattagydia
-	# 			6643 6644 6642 6628 6631 6638 6614 6608 6611 6625 6626 #bamyan
-	# 			900 902 903 904 909 901 910 915 917 918 919 922 #babylonia_region
-	# 			898 899 911 912 913 914 916 924 926 927 929 960 #asoristan_region
-	# 			824 825 905 906 907 908 953 954 #euphrates_region
-	# 			896 897 979 925 928 933 934 961 962 973 974 976 #beth_daraye_region
-	# 			920 921 923 930 931 932 935 936 939 937 938 968 #veh_kavad_region
-	# 			943 945 946 947 948 949 950 967 970 972 975 980 4969 #susiana_region
-	# 			885 888 889 890 959 981 982 983 1603 #garamig_region
-	# 			835 883 891 892 893 894 895 955 956 977 #tigris_region
-	# 			822 823 830 831 832 855 871 872 873 874 875 876 #upper_mesopotamia_region
-	# 			773 861 862 863 864 866 868 882 #niniveh_region
-	# 			940 941 942 944 964 965 969 971 963 #meshan_region
-	# 			951 952 966 4779 4780 #pars_region
-	# 			1594 1596 1597 1598 1599 1601 1602 3393 4965 4968 4966 4967 4971 4970 #kossioi
-	# 			1595 4963 4964 4981 4982 4980 4979 3391 4976 4974 3392 4975 #ecbatana
-	# 			4991 4999 3381 3396 3382 4983 3395 3394 3452 4993 3453 # rhagai
-	# 			3442 3443 6509 3433 3398 4973 6510 6507 3432 3397 4972 #aspadana
-	# 			4977 3399 3431 6508 3419 3418 3417 3428 3420 3430 #media_felix
-	# 			3407 3422 3423 3421 3429 3414 3413 3412 3416 3473 #ardashir
-	# 			6500 6501 6505 6502 6503 6504 3475 3474 3472 3471 3470 3460 #namek
-	# 			4994 3459 3458 4995 3457 3456 3439 #parthia_komishene
-	# 			6587 6576 6528 6529 4961 4959 3415 3426 3427 3424 3425 #carmania
-	# 			6605 6562 6566 6604 6606 6599 6597 6603 6600 6598 6601 6602 #sagartia
-	# 			4997 4998 4996 3434 7638 7639 #hyrcania
-	# 			6574 6586 6584 6577 6575 6585 6589 6591 6588 6590 6607 6560 #Drangiana
-	# 			6559 6558 6565 6557 6564 6646 6647 6596 6568 6567 6563 # Aria
-	# 			6518 # Aria
-	# 			6954 6955 6956 6957 6958 6959 6960 6961 6962 6963 6964 #Media Choromithrene
-	# 			3461 3463 7224 7225 7223 7723  #New
-	# 			870 821
-	# 		}
+	 		own_control_core = 	{
+	 			911
+	 		}
 
-	# 		pantheon = {
-	# 			{ deity = 758 }
-	# 			{ deity = 755 }
-	# 			{ deity = 103 }
-	# 			{ deity = 114 }
-	# 		}
+	 		pantheon = {
+	 			{ deity = 758 }
+	 			{ deity = 755 }
+	 			{ deity = 103 }
+	 			{ deity = 114 }
+			}
 
 	# 		treasures = { 102 }
-	# 	}
+		}
 
-	# 	CRD = {
-	# 		government = tribal_kingdom
-	# 		primary_culture = cardukoi
-	# 		religion = mesopotamian_religion
-	# 		capital = 833 #Pinaka
+	 	CRD = {
+	 		government = tribal_chiefdom
+	 		primary_culture = cardukoi
+	 		religion = mesopotamian_religion
+	 		capital = 833 #Pinaka
 
 	# 		technology={
 	# 			military_tech={ level=3 progress=0 }
@@ -11232,15 +11196,14 @@ country = {
 	# 			religious_tech= { level=2 progress=0  }
 	# 		}
 
-	# 		own_control_core = 	{
-	# 			833 834 843 869 992 #corduene_region
-	# 			867 986
-	# 		}
+	 		own_control_core = 	{
+	 			833
+	 		}
 
 	# 		#pantheon = {
 	# 		#	{ deity = 789 }
 	# 		#}
-	# 	}
+	 	}
 
 	# 	SPH = {
 	# 		government = despotic_monarchy
@@ -11347,17 +11310,17 @@ country = {
 
 	# 	}
 
-	# 	ADI = { #Seleukid Subject State
+	 	ADI = { #Seleukid Subject State
 	# 		family = 14
 	# 		family = 15
 	# 		family = 16
 	# 		family = 17
 
-	# 		government = despotic_monarchy
-	# 		primary_culture = assyrian
-	# 		religion = mesopotamian_religion
+	 		government = tribal_chiefdom
+	 		primary_culture = assyrian
+	 		religion = mesopotamian_religion
 
-	# 		capital = 880
+	 		capital = 880
 
 	# 		technology={
 	# 			military_tech={ level=2 progress=0 }
@@ -11366,11 +11329,11 @@ country = {
 	# 			religious_tech= { level=2 progress=0  }
 	# 		}
 
-	# 		own_control_core = 	{
-	# 			865 880 881 884 886 887 957 958 984 985 1578 #adiabene_region
-	# 		}
+	 		own_control_core = 	{
+	 			880
+	 		}
 
-	# 	}
+		}
 
 		ARM = {
 			family = 71
@@ -11428,12 +11391,12 @@ country = {
 	# 		}
 	# 	}
 
-	# 	MAP = {
+	 	MAP = {
 	# 		family = 31
-	# 		government = despotic_monarchy
-	# 		primary_culture = median
-	# 		religion = zoroaster
-	# 		capital = 1515
+	 		government = tribal_chiefdom
+	 		primary_culture = median
+	 		religion = zoroaster
+	 		capital = 1515
 	# 		diplomatic_stance=appeasement_stance
 
 	# 		technology={
@@ -11445,22 +11408,17 @@ country = {
 
 	# 		treasures = { 192 }
 
-	# 		own_control_core = 	{
-	# 			1514 1515 1516 1517 1520 1521 1522 1523 1524 1525 1526 1565 #media_atropatene_region
-	# 			1620 1621 1622 1624 1625 1626 1627 1628 1629 1593 3390 3387 #kadousioi_region
-	# 			1510 1512 1513 1552 1553 1554 1555 1556 1557 1558 1574 3386 #media_region
-	# 			1618 1619 1630 1631 1632 1638 1648 1649 1652 1654 #paytankert_region
-	# 			1505 1506 1507 1508 1509 1511 1518 1519 #parskahayk_region
-	# 			4985 4986 4987 4989 3389 4988 3383 3388 4984 3385 3384 4990 # Amardioi
-	# 		}
+	 		own_control_core = 	{
+	 			1515
+	 		}
 
-	# 		pantheon = {
-	# 			{ deity = 307 } # Atar
-	# 			{ deity = 301 } # Sraosha
-	# 			{ deity = 302 } # Zoroaster
-	# 			{ deity = 303 } # Tishtrya
-	# 		}
-	# 	}
+	 		pantheon = {
+	 			{ deity = 307 } # Atar
+	 			{ deity = 301 } # Sraosha
+	 			{ deity = 302 } # Zoroaster
+	 			{ deity = 303 } # Tishtrya
+	 		}
+	 	}
 
 	# 	IBR = {
 	# 		family = 32
@@ -11509,21 +11467,18 @@ country = {
 
 		}
 
-	# 	ALB = {
-	# 		government = tribal_chiefdom
-	# 		primary_culture = albanian
-	# 		religion = caucasian_religion
+	 	ALB = {
+	 		government = tribal_chiefdom
+	 		primary_culture = albanian
+	 		religion = caucasian_religion
 
-	# 		capital = 1636
+	 		capital = 1636
 
-	# 		own_control_core = 	{
-	# 			1633 1634 1635 1636 1642 1644 1645 1647 1655 1656 1662 #caucasian_albania_region
-	# 			1584 1608 1637 1646 1651 1661 1670 1671 1672 #arran_region
-	# 			1641 1643 1659 1660 5435 7603 7604 7605
-	# 			7602 7632 7633 7621 # added from Legia
-	# 		}
+	 		own_control_core = 	{
+	 			1636
+	 		}
 
-	# 	}
+	 	}
 
 	# 	LGA = {
 	# 		government = tribal_chiefdom
@@ -11578,20 +11533,17 @@ country = {
 
 	# 	# India and Tibet
 
-	# 	ZHZ = {
-	# 		government = tribal_kingdom
-	# 		primary_culture = zhangzhung
-	# 		religion = bon_religion
+	 	ZHZ = {
+	 		government = tribal_chiefdom
+	 		primary_culture = zhangzhung
+	 		religion = bon_religion
 
-	# 		capital = 5557
+	 		capital = 5577
 
-	# 		own_control_core = 	{
-	# 			5597 5593 5598 5592 5594 5596 5595 5601 5558 5559 #gilgit
-	# 			5566 5591 5565 5561 5560 5564 5567 5568 5563 5562 #suvarna_gotra
-	# 			5570 5582 5569 5577 5557 5571 5576 5575 5614 5574 #zhangzhung
-	# 			5615 5616 5581 5578 5580 5579 5612 5617 5583 5609 #jangtang
-	# 		}
-	# 	}
+	 		own_control_core = 	{
+	 			5577
+	 		}
+	 	}
 
 	# 	ATV = {
 	# 		government = tribal_kingdom
@@ -11758,12 +11710,12 @@ country = {
 	# 		}
 	# 	}
 
-	# 	PRA = { #Pauravas
+	 	PRA = { #Pauravas
 	# 		family=85
-	# 		government = despotic_monarchy
-	# 		primary_culture = purus
-	# 		religion = hindu
-	# 		capital = 4340
+	 		government = tribal_chiefdom
+	 		primary_culture = purus
+	 		religion = hindu
+	 		capital = 4340
 
 	# 		technology={
 	# 			military_tech={ level=2 progress=0 }
@@ -11772,28 +11724,25 @@ country = {
 	# 			religious_tech= { level=2 progress=0  }
 	# 		}
 
-	# 		own_control_core = 	{
-	# 			4340 4346 4379 4389 4396 4397 4400
-	# 			#added
-	# 			4315 4316 4398 4399 7399
-	# 			9282
-	# 		}
-	# 		pantheon = {
-	# 			{ deity = 1113 }
-	# 			{ deity = 1120 }
-	# 			{ deity = 1136 }
-	# 			{ deity = 1057 }
-	# 		}
-	# 	}
+	 		own_control_core = 	{
+	 			4340
+			}
+	 		pantheon = {
+	 			{ deity = 1113 }
+	 			{ deity = 1120 }
+	 			{ deity = 1136 }
+	 			{ deity = 1057 }
+	 		}
+	 	}
 
-	# 	YDD = { #Yadheuya Republic
-	# 		government = oligarchic_republic
-	# 		primary_culture = kuru
-	# 		religion = hindu
+	 	YDD = { #Yadheuya Republic
+	 		government = tribal_chiefdom
+	 		primary_culture = kuru
+	 		religion = hindu
 	# 		family = 400
 	# 		family = 401
 	# 		family = 402
-	# 		capital = 4406
+	 		capital = 4406
 	# 		technology={
 	# 			military_tech={ level=2 progress=0 }
 	# 			civic_tech={ level=2 progress=0 }
@@ -11801,27 +11750,24 @@ country = {
 	# 			religious_tech= { level=2 progress=0  }
 	# 		}
 
-	# 		own_control_core = 	{
-	# 			4387 4406 4407 4408 4409 4410 4411 4412 4413 4414 4415 4416 4417 4418 7485
-	# 			5445 4404
-	# 			4390 4392 4393
-	# 			9264 9265 9266 9267
-	# 		}
+	 		own_control_core = 	{
+	 			4406
+	 		}
 	# 		treasures = { 872 }
-	# 		pantheon = {
-	# 			{ deity = 1133 }
-	# 			{ deity = 1131 }
-	# 			{ deity = 1140 }
-	# 			{ deity = 1112 }
-	# 		}
-	# 	}
+	 		pantheon = {
+	 			{ deity = 1133 }
+	 			{ deity = 1131 }
+	 			{ deity = 1140 }
+	 			{ deity = 1112 }
+	 		}
+	 	}
 
-	# 	KHB = { #Khambojas
-	# 		government = tribal_kingdom
-	# 		primary_culture = gandhari
-	# 		religion = hindu
-	# 		centralization=-10
-	# 		capital = 6997
+	 	KHB = { #Khambojas
+	 		government = tribal_chiefdom
+	 		primary_culture = gandhari
+	 		religion = hindu
+	 		centralization=-10
+	 		capital = 6997
 
 	# 		technology={
 	# 			military_tech={ level=2 progress=0 }
@@ -11830,10 +11776,10 @@ country = {
 	# 			religious_tech= { level=2 progress=0  }
 	# 		}
 
-	# 		own_control_core = 	{
-	# 			3810 4324 4370 4490 5599 5600 6751 6997
-	# 		}
-	# 	}
+	 		own_control_core = 	{
+	 			6997
+	 		}
+	 	}
 
 	# 	KLS = { #Kalasas
 	# 		family=80
@@ -11875,19 +11821,19 @@ country = {
 	# 		}
 	# 	}
 
-	# 	SMT = { #Samatata
-	# 		government = tribal_kingdom
-	# 		primary_culture = bangli
-	# 		religion = hindu
-	# 		centralization=-10
-	# 		capital = 7356
+	 	SMT = { #Samatata
+	 		government = tribal_chiefdom
+	 		primary_culture = bangli
+	 		religion = hindu
+	 		centralization=10
+	 		#capital = 7356
+	 		capital = 7336
 
-	# 		own_control_core = 	{
-	# 			7340 7331 7332 7333 7334 7356 7401 7490 7491 7494 7495 7496 #samatata_area
-	# 			7330 7394 7395 7396
-	# 		}
+	 		own_control_core = 	{
+				7336
+	 		}
 	# 		treasures = { 873 }
-	# 	}
+	 	}
 
 	# 	TSA = {
 	# 		government = tribal_kingdom
@@ -11915,18 +11861,17 @@ country = {
 	# 		}
 	# 	}
 
-	# 	SMP = {
-	# 		government = tribal_kingdom
-	# 		primary_culture = sumpa
-	# 		religion = bon_religion
-	# 		centralization=-10
-	# 		capital = 5618
+	 	SMP = {
+	 		government = tribal_chiefdom
+	 		primary_culture = sumpa
+	 		religion = bon_religion
+	 		centralization=10
+	 		capital = 5618
 
-	# 		own_control_core = 	{
-	# 			5641 5640 5618 5621 5619 5620 5655 5658 5656 5659 5663 5664 #lhasa
-	# 			5661 5662 5660 5657 5643 5646 5651 5644 5650 5652 #sumpa
-	# 		}
-	# 	}
+	 		own_control_core = 	{
+	 			5618
+	 		}
+	 	}
 
 		ALU = {
 			family = 38
@@ -11958,17 +11903,17 @@ country = {
 	# 		treasures = { 878 }
 	# 	}
 
-	# 	PIT = {
-	# 		government = tribal_kingdom
-	# 		primary_culture = maharashtran
-	# 		religion = hindu
-	# 		centralization=10
-	# 		capital = 7061
+	 	PIT = {
+	 		government = tribal_chiefdom
+	 		primary_culture = maharashtran
+	 		religion = hindu
+	 		centralization=10
+	 		capital = 7061
 
-	# 		own_control_core = 	{
-	# 			7061 7104 6875 6874 6873 6872 7060 6871 7103 6876 7059 6877 6878 7052 6880 6879
-	# 		}
-	# 	}
+	 		own_control_core = 	{
+	 			7061
+	 		}
+	 	}
 
 	# 	BOJ = {
 	# 		government = tribal_kingdom
@@ -12483,10 +12428,10 @@ country = {
 	# 		}
 	# 	}
 
-	# 	KSA = {
-	# 		government = despotic_monarchy
-	# 		primary_culture = tocharian
-	# 		religion = eastern_animism
+	 	KSA = {
+	 		government = tribal_chiefdom
+	 		primary_culture = tocharian
+	 		religion = eastern_animism
 
 	# 		technology={
 	# 			military_tech={ level=1 progress=0 }
@@ -12495,15 +12440,15 @@ country = {
 	# 			religious_tech= { level=1 progress=0  }
 	# 		}
 
-	# 		capital = 7184
+	 		capital = 7184
 
-	# 		own_control_core = 	{
-	# 			5665 7184 8761 8762 8763
-	# 		}
-	# 	}
+			own_control_core = 	{
+	 			7184
+	 		}
+	 	}
 
 	# 	KHT = {
-	# 		government = despotic_monarchy
+	# 		government = tribal_chiefdom
 	# 		primary_culture = khotanese
 	# 		religion = indo_iranian_religion
 	# 		technology={
@@ -12516,18 +12461,18 @@ country = {
 	# 		capital = 6741
 
 	# 		own_control_core = 	{
-	# 			6741 6743
+	# 			6741
 	# 		}
 	# 	}
 
-	# 	MRY = { #Maurya
-	# 		family = 27
-	# 		family = 28
-	# 		government = aristocratic_monarchy
-	# 		primary_culture = magadhi
-	# 		religion = hindu
+	 	MRY = { #Maurya
+	 		family = 27
+	 		family = 28
+	 		government = tribal_chiefdom
+	 		primary_culture = magadhi
+	 		religion = hindu
 	# 		diplomatic_stance=appeasement_stance
-	# 		capital = 4440 # Pataliputra
+			capital = 4440 # Pataliputra
 
 	# 		poptype_rights = {
 	# 			{
@@ -12547,56 +12492,18 @@ country = {
 	# 			religious_tech= { level=2 progress=0  }
 	# 		}
 
-	# 		own_control_core = {
-	# 			4353 4354 4356 4357 4358 4359 4360 4363 6827 7660 #sauvira_region
-	# 			4489 6826 6850 6851 6853 6856 6857 7412 7414 7220 7415 #abhiria_region
-	# 			4487 4491 4488 4495 4496 6843 7310 7390 7413 7417 7432 7658 #maru_region
-	# 			4473 4480 7428 7431 7434 7435 7436 7438 7439 7442 7448 7466 #madhyamika_region
-	# 			4438 4439 4472 4481 4484 7309 7387 7388 7389 7437 7440 7443 #matsya_region
-	# 			4420 4469 7305 7306 7307 7308 7444 7445 7446 7447 7460 7465 #surasena_region
-	# 			4434 4435 4466 4485 7219 7409 7376 7470 7471 7472 #west_cedi_region
-	# 			4428 4429 4430 4433 4465 7370 7371 7373 7473 7476 #kasi_region
-	# 			4425 4426 4427 4436 7375 7404 7218 7408 7410 7411 #pancala_region
-	# 			4424 4453 4456 7377 7381 7403 7405 7406 7407 7378 #ahicchatra_region
-	# 			4437 4451 4455 7374 7379 7380 7382 7482 7483 7484 #kosala_region
-	# 			4448 7360 7479 7488 #vrji_region
-	# 			4441 4449 7369 7372 7477 7478 #malla_region
-	# 			4440 4442 4443 4444 4445 4462 4463 7367 7338 7400 7659 7480 #magadha_region
-	# 			4446 4447 7327 7328 7337 7345 7364 7365 7368 7392 #anga_region
-	# 			7325 7326 7335 7398 7493 7497 7498 7499 7651 #pundra_region
-	# 			7177 7362 7363 7391 #radha_region
-	# 			7329 7336 7358 7359 7393 7397 #vanga_region
-	# 			7322 7650 #kamata_region
-	# 			4405 4421 4422 4423 4452 #kuru_region
-	# 			4308 4317 4318 4320 4322 4326 4327 4328 4329 7314 7492 #taxila_region
-	# 			7361 #kasmira_region
-	# 			4331 4380 4384 4395 #panchanada_region
-	# 			4319 4321 4330 4348 4350 4351 4383 4385 4386 #sivi_region
-	# 			4349 4371 4373 4374 4378 4372 4375 4377 4381 4382 #north_sindhu_region
-	# 			6833 6840 6844 6845 6841 6825 6842 #kaccha_region
-	# 			4475 4479 4482 4498 7425 7426 7301 7304 7433 7441 7450 #avanti_region
-	# 			4470 4474 7302 7303 7449 7461 7462 7463 7464 7469 #dasarna_region
-	# 			4478 4497 4499 7300 7416 7418 7419 7427 7429 7430 #anartta_region
-	# 			6854 6855 6858 6859 #aparanta_region
-	# 			6813 6823 6816 6817 6824 6814 6819 6818 6828 6834 6829 #outer_saurashtra_region
-	# 			4494 6831 6835 6820 6839 6832 6846 6847 6838 6837 6836 6830 #inner_saurashtra_region
-	# 			4352 4355 4361 4362 4364 4365 4366 4368 4376 #south_sindhu_region
-	# 			6526 6527 6815 6821 6822 6848 6852 6849 #patalene_region
-	# 		    4388 4369
-	# 			9257 9258 9259 9260 9261 9262 9263 #Rodewala #New Indus
-	# 			9268 9269 9270 9271 9272 9273 9274 9275 9276 #damodar 
-	# 			7357 7796 #Sundarbans
-	# 			9278 9279 9280 9281 #New Mallia
-	# 		}
+	 		own_control_core = {
+	 			4440
+	 		}
 
-	# 		pantheon = {
-	# 			{ deity = 1106 }
-	# 			{ deity = 1112 }
-	# 			{ deity = 1101 }
-	# 			{ deity = 1111 }
-	# 		}
+	 		pantheon = {
+	 			{ deity = 1106 }
+	 			{ deity = 1112 }
+	 			{ deity = 1101 }
+	 			{ deity = 1111 }
+	 		}
 	# 		treasures = { 874 877 883 }
-	# 	}
+	 	}
 
 	# 	MDP = {
 	# 		government = despotic_monarchy
@@ -12653,10 +12560,10 @@ country = {
 	# 		}
 	# 	}
 
-	# 	PHY = {
-	# 		government = despotic_monarchy
-	# 		primary_culture = phryni
-	# 		religion = vaksh_religion
+	 	PHY = {
+	 		government = tribal_chiefdom
+	 		primary_culture = phryni
+	 		religion = vaksh_religion
 
 	# 		technology={
 	# 			military_tech={ level=1 progress=0 }
@@ -12665,12 +12572,12 @@ country = {
 	# 			religious_tech= { level=1 progress=0  }
 	# 		}
 
-	# 		capital = 6771
+	 		capital = 6769
 
-	# 		own_control_core = {
-	# 			6760 6770 6767 6769 6764 6763 6766 6765 6762 6768 6771
-	# 		}
-	# 	}
+	 		own_control_core = {
+	 			6769
+	 		}
+	 	}
 
 	# 	TAY = {
 	# 		government = despotic_monarchy
@@ -12828,31 +12735,23 @@ country = {
 
 		}
 
-	# 	SCY = {
+	 	SCY = {
 	# 		family = 63
-	# 		government = tribal_kingdom
-	# 		primary_culture = scythian
-	# 		religion = indo_iranian_religion
-	# 		centralization=15
+	 		government = tribal_chiefdom
+	 		primary_culture = scythian
+	 		religion = indo_iranian_religion
+	 		centralization=10
 
-	# 		capital = 6144 # old capital = 4557
+	 		capital = 6144 # old capital = 4557
 
-	# 		own_control_core = {
-	# 			4535 4545 4533 4551 4552 4532 4546 4547 4548 #moved to Iazygia: 4553 7193 4554 4555 4556 4557
-	# 			7188 7191 7190 7192 6124
-	# 			6144 6146 6147 # new provinces
-	# 			6145 6142 6139 6130 6129 6128 6117 6107 6141 6121 #borysthenia invictus
-	# 			6103 6102 6119 6118 6123 6122 6108 #sarmatia superior additional invictus
-	# 			6098 6100 7187 #sarmatia invictus
-	# 			6099 6104 6105 #hypania invictus
-	# 			6140 6143 6148 #borysthenia maioris invictus
-	# 			6131 #transborysthenia invictus
-	# 		}
-	# 	}
+	 		own_control_core = {
+				6144
+	 		}
+	 	}
 
 	# 	ZGY = {
 	# 		family = 65
-	# 		government = tribal_kingdom
+	# 		government = tribal_chiefdom
 	# 		primary_culture = abasgoi
 	# 		religion = indo_iranian_religion
 
@@ -12863,17 +12762,17 @@ country = {
 	# 		}
 	# 	}
 
-	# 	HNY = {
-	# 		government = tribal_kingdom
-	# 		primary_culture = abasgoi
-	# 		religion = caucasian_religion
+	 	HNY = {
+	 		government = tribal_chiefdom
+	 		primary_culture = abasgoi
+	 		religion = caucasian_religion
 
-	# 		capital = 1742
+	 		capital = 1742
 
-	# 		own_control_core = {
-	# 			1742 1743 1745
-	# 		}
-	# 	}
+	 		own_control_core = {
+	 			1742
+	 		}
+	 	}
 
 	# 	PHI = {
 	# 		government = plutocratic_republic
@@ -12908,12 +12807,12 @@ country = {
 	# 		}
 	# 	}
 
-	# 	OLB = {
-	# 		government = democratic_republic
-	# 		primary_culture = bosporan
-	# 		religion = roman_pantheon
+	 	OLB = { #A glorious nation indeed
+	 		government = tribal_chiefdom
+	 		primary_culture = bosporan
+	 		religion = roman_pantheon
 	# 		diplomatic_stance=trading_stance
-	# 		capital = 4529
+	 		capital = 4529
 
 	# 		technology={
 	# 			military_tech={ level=2 progress=0 }
@@ -12922,10 +12821,10 @@ country = {
 	# 			religious_tech= { level=2 progress=0  }
 	# 		}
 
-	# 		own_control_core = {
-	# 			4529 4530 4531 4528
-	# 		}
-	# 	}
+	 		own_control_core = {
+	 			4529
+	 		}
+	 	}
 
 	# 	TYS = {
 	# 		government = democratic_republic
@@ -13764,49 +13663,49 @@ country = {
 	# 		}
 	# 	}
 
-	# 	SMN = { #change
-	# 		government = tribal_chiefdom
-	# 		primary_culture = irminonic
-	# 		religion = germanic_religion
-	# 		centralization=-50
+	 	SMN = { #change
+	 		government = tribal_chiefdom
+	 		primary_culture = irminonic
+	 		religion = germanic_religion
+	 		centralization=10
 
-	# 		pantheon = { #Suebian deities
+	 		pantheon = { #Suebian deities
 
-	# 		{ deity = 1006 }
-	# 		{ deity = 1008 }
-	# 		{ deity = 1010 }
-	# 		{ deity = 1003 }
+	 		{ deity = 1006 }
+	 		{ deity = 1008 }
+	 		{ deity = 1010 }
+	 		{ deity = 1003 }
 
-	# 		}
+	 		}
 
-	# 		capital = 3986
+	 		capital = 3986
 
-	# 		own_control_core = {
-	# 			3989 3909 3987 3994 3996 3995 4000 3999 3982 3986 3984 3983
-	# 		}
-	# 	}
+	 		own_control_core = {
+	 			3986
+	 		}
+	 	}
 
-	# 	LGB = { #change
-	# 		government = tribal_chiefdom
-	# 		primary_culture = irminonic
-	# 		religion = germanic_religion
-	# 		centralization=-50
+	 	LGB = { #change
+			government = tribal_chiefdom
+	 		primary_culture = irminonic
+	 		religion = germanic_religion
+	 		centralization=10
 
-	# 		pantheon = { #Suebian deities
+	 		pantheon = { #Suebian deities
 
-	# 		{ deity = 1006 }
-	# 		{ deity = 1008 }
-	# 		{ deity = 1010 }
-	# 		{ deity = 1003 }
+	 		{ deity = 1006 }
+	 		{ deity = 1008 }
+	 		{ deity = 1010 }
+	 		{ deity = 1003 }
 
-	# 		}
+	 		}
 
-	# 		capital = 3970
+	 		capital = 3970
 
-	# 		own_control_core = {
-	# 			3970 3971 3969 3968 3975 3972
-	# 		}
-	# 	}
+	 		own_control_core = {
+	 			3970
+	 		}
+	 	}
 
 	# 	MCM = { #change
 	# 		government = tribal_chiefdom
@@ -13947,27 +13846,27 @@ country = {
 	# 		}
 	# 	}
 
-	# 	GTH = { #change Germania
-	# 		government = tribal_chiefdom
-	# 		primary_culture = gothonic
-	# 		religion = germanic_religion
+	 	GTH = { #change Germania
+	 		government = tribal_chiefdom
+			primary_culture = gothonic
+	 		religion = germanic_religion
 
-	# 		pantheon = { #Gothonic deities
+	 		pantheon = { #Gothonic deities
 
-	# 		{ deity = 1006 }
-	# 		{ deity = 1008 }
-	# 		{ deity = 1012 }
-	# 		{ deity = 1003 }
+	 		{ deity = 1006 }
+	 		{ deity = 1008 }
+	 		{ deity = 1012 }
+	 		{ deity = 1003 }
 
-	# 		}
+	 		}
 
-	# 		capital = 4764
+	 		capital = 4764
 
-	# 		own_control_core = {
-	# 			4764 4765 4760 4754 4766
-	# 		}
+	 		own_control_core = {
+	 			4764
+	 		}
 
-	# 	}
+	 	}
 
 	# 	RGG = { #Germania change
 	# 		government = tribal_chiefdom
@@ -14221,26 +14120,26 @@ country = {
 	# 		}
 	# 	}
 
-	# 	BUR = { #change Germania
-	# 		government = tribal_chiefdom
-	# 		primary_culture = vandal #Burgundians were continental Vandals
-	# 		religion = germanic_religion
+	 	BUR = { #change Germania
+	 		government = tribal_chiefdom
+	 		primary_culture = vandal #Burgundians were continental Vandals
+	 		religion = germanic_religion
 
-	# 		pantheon = { #Vandal/Bastarnian deities
+	 		pantheon = { #Vandal/Bastarnian deities
 
-	# 		{ deity = 1012 }
-	# 		{ deity = 1013 }
-	# 		{ deity = 1002 }
-	# 		{ deity = 1003 }
+	 		{ deity = 1012 }
+	 		{ deity = 1013 }
+	 		{ deity = 1002 }
+	 		{ deity = 1003 }
 
-	# 		}
+	 		}
 
-	# 		capital = 4761
+	 		capital = 4761
 
-	# 		own_control_core = {
-	# 			4763 4768 4761 4769
-	# 		}
-	# 	}
+			own_control_core = {
+	 			4761
+			}
+	 	}
 
 	# 	BLR = {
 	# 		government = tribal_federation
@@ -14888,10 +14787,10 @@ country = {
 	# 		}
 	# 	}
 
-	# 	LYC = { # Lycia
-	# 		government = oligarchic_republic
-	# 		primary_culture = lycian
-	# 		religion = roman_pantheon
+	 	LYC = { # Lycia
+	 		government = tribal_chiefdom
+	 		primary_culture = lycian
+	 		religion = roman_pantheon
 
 	# 		technology={
 	# 			military_tech={ level=2 progress=0 }
@@ -14900,12 +14799,12 @@ country = {
 	# 			religious_tech= { level=2 progress=0  }
 	# 		}
 
-	# 		capital = 1993
+	 		capital = 1993
 
-	# 		own_control_core = {
-	# 			1993 1998 156 161 162 1995 1992 7948 7949
-	# 		}
-	# 	}
+	 		own_control_core = {
+	 			1993
+	 		}
+	 	}
 
 	# 	ISU = { # Isauria
 	# 		government = tribal_federation
@@ -14919,17 +14818,17 @@ country = {
 	# 		}
 	# 	}
 
-	# 	LAR = { # Larandia
-	# 		government = tribal_federation
-	# 		primary_culture = isaurian
-	# 		religion = anatolian_religion
+	 	LAR = { # Larandia
+	 		government = tribal_chiefdom
+	 		primary_culture = isaurian
+	 		religion = anatolian_religion
 
-	# 		capital = 169
+	 		capital = 169
 
-	# 		own_control_core = {
-	# 			169 1955 7964
-	# 		}
-	# 	}
+	 		own_control_core = {
+	 			169
+	 		}
+		}
 
 	# 	MYD = { # Mariandynia
 	# 		government = tribal_chiefdom
@@ -15199,11 +15098,11 @@ country = {
 	# 		}
 	# 	}
 
-	# 	CRM = { #Karmoia
-	# 		government = tribal_federation
-	# 		primary_culture = turdetanian
-	# 		religion = animism
-	# 		centralization = 50
+	 	CRM = { #Karmoia
+	 		government = tribal_chiefdom
+	 		primary_culture = turdetanian
+	 		religion = animism
+	 		centralization = 10
 	# 		diplomatic_stance=warmongering_stance
 	# 		tribal_currency_laws = coin_minting_law
 	# 		tribal_authority_laws = absolute_authority
@@ -15216,14 +15115,14 @@ country = {
 	# 			religious_tech= { level=1 progress=0  }
 	# 		}
 
-	# 		capital = 1374
+	 		capital = 1374
 
-	# 		own_control_core = 	{
-	# 			1355 1357 1370 1372 1373 1374
-	# 		}
+	 		own_control_core = 	{
+	 			1374
+	 		}
 
 	# 		treasures = { 504 }
-	# 	}
+	 	}
 
 	# 	ASG = { #Astigi
 	# 		government = tribal_federation
@@ -15553,7 +15452,7 @@ country = {
 	# 	}
 		
 	# 	TTM = {
-	# 		government = tribal_kingdom
+	# 		government = tribal_chiefdom
 	# 		primary_culture = pyu
 	# 		religion = bon_religion
 	# 		capital = 8775
@@ -15580,11 +15479,11 @@ country = {
 	# 		}
 	# 	}
 		
-	# 	HWK = {
-	# 		government = tribal_kingdom
-	# 		primary_culture = pyu
-	# 		religion = bon_religion
-	# 		capital = 8776
+	 	HWK = {
+	 		government = tribal_chiefdom
+	 		primary_culture = pyu
+	 		religion = bon_religion
+	 		capital = 8776
 	# 		technology = {
 	# 			military_tech = {
 	# 				level = 1
@@ -15603,10 +15502,10 @@ country = {
 	# 				progress = 0
 	# 			}
 	# 		}
-	# 		own_control_core = {
-	# 			8776 8804
-	# 		}
-	# 	}
+	 		own_control_core = {
+	 			8776
+	 		}
+	 	}
 		
 	# 	HAL = {
 	# 		government = tribal_kingdom
@@ -15632,10 +15531,10 @@ country = {
 	# 			}
 	# 		}
 	# 		own_control_core = {
-	# 			8778 8789
+	#			8778
 	# 		}
 	# 	}
-		
+	#	
 	# 	AKN = {
 	# 		government = tribal_kingdom
 	# 		primary_culture = rhakine
@@ -15692,11 +15591,11 @@ country = {
 	# 		}
 	# 	}
 		
-	# 	FGD = {
-	# 		government = tribal_kingdom
-	# 		primary_culture = mon
-	# 		religion = burmese_religion
-	# 		capital = 8771
+	 	FGD = {
+	 		government = tribal_chiefdom
+	 		primary_culture = mon
+	 		religion = burmese_religion
+	 		capital = 8771
 	# 		technology = {
 	# 			military_tech = {
 	# 				level = 1
@@ -15715,16 +15614,16 @@ country = {
 	# 				progress = 0
 	# 			}
 	# 		}
-	# 		own_control_core = {
-	# 			8770 8771
-	# 		}
-	# 	}
+	 		own_control_core = {
+	 			8771
+	 		}
+	 	}
 		
-	# 	SHN = {
-	# 		government = tribal_kingdom
-	# 		primary_culture = shan
-	# 		religion = burmese_religion
-	# 		capital = 8808
+	 	SHN = {
+	 		government = tribal_chiefdom
+	 		primary_culture = shan
+	 		religion = burmese_religion
+	 		capital = 8808
 	# 		technology = {
 	# 			military_tech = {
 	# 				level = 1
@@ -15743,10 +15642,10 @@ country = {
 	# 				progress = 0
 	# 			}
 	# 		}
-	# 		own_control_core = {
-	# 			8806 8807 8808 8809
-	# 		}
-	# 	}
+	 		own_control_core = {
+	 			8808
+	 		}
+	 	}
 		
 	# 	#Chattia
 	# 	CHA = {
@@ -16022,15 +15921,15 @@ country = {
 	# 	}
 	# 	#Cosuanetia
 	# 	COS = {
-	# 		government = tribal_kingdom
+	#		government = tribal_chiefdom
 	# 		primary_culture = vindelician
 	# 		religion = druidism
-	# 		centralization=50
+	# 		centralization=10
 
 	# 		capital = 3761
 
 	# 		own_control_core = {
-	# 			3756 3760 3761
+	# 			3761
 	# 		}
 	# 	}
 	# 	#Rucinatia
@@ -16390,27 +16289,27 @@ country = {
 	# 			3785 3786 3787
 	# 		}
 	# 	}
-	# 	#Bructeria
-	# 	BRU = {
-	# 		government = tribal_chiefdom
-	# 		primary_culture = istvaeonic
-	# 		pantheon = {
+	 	#Bructeria
+	 	BRU = {
+	 		government = tribal_chiefdom
+	 		primary_culture = istvaeonic
+	 		pantheon = {
 
-	# 		{ deity = 1006 }
-	# 		{ deity = 1008 }
-	# 		{ deity = 1011 }
-	# 		{ deity = 1007 }
+	 		{ deity = 1006 }
+	 		{ deity = 1008 }
+	 		{ deity = 1011 }
+	 		{ deity = 1007 }
 
-	# 		}
-	# 		religion = germanic_religion
-	# 		centralization=-25
+	 		}
+	 		religion = germanic_religion
+	 		centralization=10
 
-	# 		capital = 3776
+	 		capital = 3783
 
-	# 		own_control_core = 	{
-	# 			3776 3850 3851 3778 3777 3783 3782
-	# 		}
-	# 	}
+	 		own_control_core = 	{
+	 			3783
+	 		}
+	 	}
 
 	# 	HEV = {
 	# 		government = tribal_chiefdom
@@ -16581,46 +16480,42 @@ country = {
 	# 		}
 	# 	}
 	# 	#Rubrensia
-	# 	RUB = {
-	# 		government = tribal_kingdom
-	# 		primary_culture = nuragic
-	# 		religion = nuragic_pantheon
-	# 		centralization = 50
+	 	RUB = {
+	 		government = tribal_chiefdom
+	 		primary_culture = nuragic
+	 		religion = nuragic_pantheon
+	 		centralization = 10
 
-	# 		pantheon = {
-	# 			{ deity = 2104 } #Orgia
-	# 			{ deity = 2108 } #Maimon
-	# 			{ deity = 432 } #Sardo
-	# 			{ deity = 2100 } #Merre
-	# 		}
+	 		pantheon = {
+	 			{ deity = 2104 } #Orgia
+	 			{ deity = 2108 } #Maimon
+	 			{ deity = 432 } #Sardo
+	 			{ deity = 2100 } #Merre
+	 		}
 
-	# 		capital =  3488
+	 		capital =  3488
 
-	# 		own_control_core = {
-	# 			 3488 3489 3487
-	# 		}
-	# 	}
+	 		own_control_core = {
+	 			 3488
+	 		}
+	 	}
 
-	# 	#Iazygia
-	# 	IAZ = {
-	# 		government = tribal_chiefdom
-	# 		primary_culture = sarmatian
-	# 		religion = indo_iranian_religion
+	 	#Iazygia
+	 	IAZ = {
+	 		government = tribal_chiefdom
+	 		primary_culture = sarmatian
+	 		religion = indo_iranian_religion
 	# 		diplomatic_stance=warmongering_stance
 
 	# 		centralization = -75
 
-	# 		capital = 4557
+	 		capital = 4557
 
-	# 		own_control_core = {
-	# 			4553 7193 4554 4555 4556 4557 6154 6155 6157 6163 6164 6165 6170 6177 6178 6180 6187 6189
-	# 			6149 6153 #borysthenia maioris
-	# 			6156 6159 6158 6151 6169 6162 6138 6161 6160 6135 6167 #danaia
-	# 			6168 6172 6173 6176 6175 6179 6183 #danaia superioris
-	# 			6132 6133 6134 6136 6137 6150 6152 #borysthenia maioris
+			own_control_core = {
+	 			4557
 
-	# 		}
-	# 	}
+			}
+	 	}
 	# 	#Roxolania
 	# 	ROX = {
 	# 		government = tribal_chiefdom
@@ -16640,25 +16535,21 @@ country = {
 	# 			5901
 	# 		}
 	# 	}
-	# 	#Aorsia
-	# 	AOR = {
-	# 		government = tribal_chiefdom
-	# 		primary_culture = alani
-	# 		religion = indo_iranian_religion
-	# 		diplomatic_stance=warmongering_stance
+	 	#Aorsia
+	 	AOR = {
+	 		government = tribal_chiefdom
+	 		primary_culture = alani
+	 		religion = indo_iranian_religion
+	 		diplomatic_stance=warmongering_stance
 
-	# 		centralization = -75
+	 		centralization = 10
 
-	# 		capital = 6225
+	 		capital = 6225
 
-	# 		own_control_core = {
-	# 			6210 6209 6215 6212 6213 6218 6216 6211 6217 6220 6221 5904
-	# 			5903 5906 5905 5907 5908 5909 5910 5876 5877 5878 8050
-	# 			6219 6222 6224 6223 6225 6226 6227 6228 6230 6229 6231 6232
-	# 			8949 8950 8951 8954 8955 8956
-	# 			5902
-	# 		}
-	# 	}
+	 		own_control_core = {
+	 			6225
+	 		}
+	 	}
 	# 	#Gelon
 	# 	GLO = {
 	# 		government = despotic_monarchy
@@ -16695,42 +16586,36 @@ country = {
 	# 	}
 
 	# 	#Budini
-	# 	BDI = {
-	# 		government = tribal_chiefdom
-	# 		primary_culture = budinian
-	# 		religion = matrist_religion
+	 	BDI = {
+	 		government = tribal_chiefdom
+	 		primary_culture = budinian
+	 		religion = matrist_religion
 	# 		diplomatic_stance=warmongering_stance
 
-	# 		centralization = -50
+	# 		centralization = 10
 
-	# 		capital = 8413
+	 		capital = 8413
 
-	# 		own_control_core = {
-	# 			7644 8401 8402 8403 8404 8405
-	# 			8408 8409 8410 8411 8412 8413 8414 8415 8416 8417 8418
-	# 			8452 8453 8454 8456 8457 8458 #desna
-	# 			8476 8477 #seym
-	# 			8428
-	# 		}
-	# 	}
+	 		own_control_core = {
+	 			8413
+	 		}
+	 	}
 
-	# 	#Melanchlaeni
-	# 	MLN = {
-	# 		government = tribal_chiefdom
-	# 		primary_culture = melanchlaenian
-	# 		religion = matrist_religion
+	 	#Melanchlaeni
+	 	MLN = {
+	 		government = tribal_chiefdom
+	 		primary_culture = melanchlaenian
+			religion = matrist_religion
 	# 		diplomatic_stance=warmongering_stance
 
-	# 		centralization = -75
+	 		centralization = 10
 
-	# 		capital = 8466
+	 		capital = 8466
 
-	# 		own_control_core = {
-	# 			8459 8460 8462 #desna
-	# 			8463 8464 8465 8466 8467 8468 8469 8470 8471 8472 #yukhnovo
-	# 			8473 8474 8475 8478 8479 8480 #seym
-	# 		}
-	# 	}
+	 		own_control_core = {
+	 			8466
+	 		}
+	 	}
 
 	# 	#Alizones
 	# 	ALZ = {
@@ -16785,25 +16670,21 @@ country = {
 	# 		}
 	# 	}
 
-	# 	#Neuri
-	# 	NEU = {
-	# 		government = tribal_chiefdom
-	# 		primary_culture = neuric
-	# 		religion = matrist_religion
+	 	#Neuri
+	 	NEU = {
+	 		government = tribal_chiefdom
+	 		primary_culture = neuric
+	 		religion = matrist_religion
 	# 		diplomatic_stance=warmongering_stance
 
-	# 		centralization = -75
+	 		centralization = 10
 
-	# 		capital = 8437
+	 		capital = 8437
 
-	# 		own_control_core = {
-	# 			7642 8429 8430 8431 8432 8433 8434 8435 8436 8437 8438 8439 #volyn
-	# 			6237 6089 #bassetia
-	# 			6240 6241 7828 #amodocia occidentalis
-	# 			8440 8441 8442 8443 8444 8445 8446 8447 8448 8449 8450 8451 #milograd
-	# 			8455 8461 #desna
-	# 		}
-	# 	}
+	 		own_control_core = {
+	 			8437
+	 		}
+	 	}
 
 	# 	#Agathyrsi
 	# 	AGA = {
@@ -17144,15 +17025,15 @@ country = {
 			}
 		}
 		
-	# 	SA0 = {
-	# 		government = tribal_chiefdom
-	# 		primary_culture = alani
-	# 		religion = indo_iranian_religion
-	# 		diplomatic_stance=warmongering_stance
+	 	SA0 = {
+	 		government = tribal_chiefdom
+	 		primary_culture = alani
+	 		religion = indo_iranian_religion
+	 		diplomatic_stance=warmongering_stance
 
-	# 		centralization = -75
+	 		centralization = 10
 
-	# 		capital = 8906
+	 		capital = 8906
 			
 	# 		technology= {
 	# 			military_tech={ level=1 progress=0 }
@@ -17161,15 +17042,10 @@ country = {
 	# 			religious_tech= { level=1 progress=0  }
 	# 		}
 
-	# 		own_control_core = {
-	# 			8895 8896 8897 8898 8899 8900 8901 8902 8903 8904
-	# 			8905 8906 8907 8908 8909 8910 8911 8912 8913 8914
-	# 			8915 8916 8917 8918 8919 8920 8921 8922 8923 8924 8925 8926
-	# 			8927 8928 8929 8930 8931 8932 8933 8934 8935 8936 8937
-	# 			5879 5880 5881 5911 5912 5913 5914
-	# 			8938 8939 8940 8941 8942 8944 8945 8946
-	# 		}
-	# 	}
+	 		own_control_core = {
+	 			8906
+	 		}
+	 	}
 		
 	# 	SA1 = {
 	# 		government = tribal_chiefdom
@@ -17193,22 +17069,20 @@ country = {
 	# 		}
 	# 	}
 		
-	# 	SA2 = {
-	# 		government = tribal_chiefdom
-	# 		primary_culture = jurcan
-	# 		religion = indo_iranian_religion
+	 	SA2 = {
+	 		government = tribal_chiefdom
+	 		primary_culture = jurcan
+	 		religion = indo_iranian_religion
 
-	# 		centralization = -75
+	 		centralization = 10
 
-	# 		capital = 9114
+	 		capital = 9114
 			
 
-	# 		own_control_core = {
-	# 		9105 9106 9107 9108 9109 9110 9111 9112 9113 9114 9115 9116
-	# 		8943 8947
-	# 		9102 9103 9104
-	# 		}
-	# 	}
+	 		own_control_core = {
+	 			9114
+	 		}
+	 	}
 		
 	# 	SA3 = {
 	# 		government = tribal_chiefdom
