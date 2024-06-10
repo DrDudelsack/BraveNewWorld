@@ -319,3 +319,11 @@
  VARANGIA_NAME:0 "Varangia"
  VARANGIA_ADJECTIVE:0 "Varangian"
  varangia_not_exists:0 "#Y Varangia#! must NOT exist."
+ 
+ #Keturesapa
+ form_keturesapa:0 "Form Keturesapa"
+ form_keturesapa_desc:0 "Our people have been wandering the east for generations, waiting patiently for an opportunity to arise from which to propel ourselves out of poverty and obscurity. With the Ptolemies engulfed in chaos and the Nile left undefended, however, we can march across the desert to take the riches of the delta for ourselves and establish a new Baltic dynasty of Egypt."
+ KETURESAPA_NAME:0 "Keturesapa"
+ KETURESAPA_ADJECTIVE:0 "Keturesapan"
+ keturesapa_not_exists:0 "#Y Keturesapa#! must NOT exist."
+ formable_keturesapa_capital:0 "Our capital must be located in the regions of Lower Egypt, Upper Egypt, Lower Nubia, Nubia, Punt, or Cyrenaica."

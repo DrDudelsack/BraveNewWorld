@@ -274,4 +274,6 @@ colors = {
 
 	varangia_color = rgb { 34 17 81 }
 	varangia_flag_color = rgb { 37 29 58 }
+
+	keturesapa_color = rgb { 0 59 99 }
 }

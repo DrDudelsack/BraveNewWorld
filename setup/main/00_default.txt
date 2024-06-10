@@ -13641,10 +13641,10 @@ country = {
 
 			}
 
-			capital = 6028
+			capital = 6038
 
 			own_control_core = {
-				6028
+				6038
 			}
 		}
 

@@ -1,0 +1,118 @@
+﻿country_decisions = {
+	
+	# Form Keturesapa
+	# Created by Shinymewtwo99, name created by Edgor12
+
+	form_keturesapa = {
+		
+		potential = {
+			num_of_cities >= 1
+			NOT = { tag = KET }
+			OR = {
+				primary_culture = aestian
+				#primary_culture = galindian
+				#primary_culture = curonian
+				#primary_culture = semigallian
+				#primary_culture = selonian
+			}
+			NOT = {
+				is_endgame_tag_trigger = yes
+			}
+		}
+		
+		highlight = {
+			scope:province = {
+				OR = {
+					is_in_region = lower_egypt_region
+					#is_in_region = upper_egypt_region
+					is_in_area = ammon_area
+					is_in_area = marmarica_orientalis_area
+					#province_id = 1
+					is_in_area = eastern_desert_area
+					is_in_area = farfara_area
+					is_in_area = hema_nome_area
+					is_in_area = kharga_area
+					is_in_area = khargana_area
+					is_in_area = luxor_area
+					is_in_area = myos_hormos_area
+					is_in_area = troglodytica_area
+				}
+			}
+		}
+		
+		allow = {
+			custom_tooltip = {
+				text = keturesapa_not_exists
+				NOT = {
+					any_country = {
+						tag = KET
+					}
+				}
+			}
+			owns_or_subject_owns_region = lower_egypt_region
+			owns_or_subject_owns_area = ammon_area
+			owns_or_subject_owns_area = marmarica_orientalis_area
+			owns_or_subject_owns_area = eastern_desert_area
+			owns_or_subject_owns_area = farfara_area
+			owns_or_subject_owns_area = hema_nome_area
+			owns_or_subject_owns_area = kharga_area
+			owns_or_subject_owns_area = khargana_area
+			owns_or_subject_owns_area = luxor_area
+			owns_or_subject_owns_area = myos_hormos_area
+			owns_or_subject_owns_area = troglodytica_area
+			custom_tooltip = {
+				text = formable_keturesapa_capital
+				capital_scope = {
+						OR = {
+							is_in_region = lower_egypt_region
+							is_in_region = upper_egypt_region
+							is_in_region = lower_nubia_region
+							is_in_region = nubia_region
+							is_in_region = punt_region
+							is_in_region = cyrenaica_region
+					}
+				}
+			}
+
+		}
+		
+		effect = {
+			custom_tooltip = "tier_3_formable_tooltip"
+			change_country_name = "KETURESAPA_NAME"
+			change_country_flag = KETURESAPA_FLAG
+			if = {
+				limit = { is_tribal = yes }
+				add_country_modifier = {
+					name = civilized_tribe
+					duration = 5475
+				}
+				change_government = despotic_monarchy
+				switch_government_type_event_clearup_effect = yes
+			}			
+			capital_scope = {
+				establish_city_effect = yes
+				capital_formable_medium_effect = yes
+				formable_capital_modifier_normal_effect = yes
+			}
+			hidden_effect = {
+				change_country_adjective = "KETURESAPA_ADJECTIVE"
+				change_country_color =  "keturesapa_color"
+				change_country_tag = KET
+				#trigger_event = {
+				#	id = formable_heritage.109
+				#}
+			}
+			add_5_free_province_investments = yes
+		}
+		
+		ai_will_do = {
+			base = 1
+			modifier = {
+				add = 10
+				current_date > 600.1.1
+			}
+		}
+	}
+
+} 
+

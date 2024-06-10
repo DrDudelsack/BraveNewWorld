@@ -224,6 +224,7 @@ is_endgame_tag_trigger = {
 		tag = BEM #Belgica Magna
 		tag = FKE #Frankish Empire
 		tag = VRN #Varangia
+		tag = KET #Keturesapa
 	}
 }
 
