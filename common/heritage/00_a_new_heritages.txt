@@ -22,3 +22,25 @@ tyros_heritage = {
 		tag = SUR
 	}
 }
+
+median_heritage = {
+	modifier = {
+		price_found_city_cost_modifier = -0.1
+		character_loyalty = 3
+		research_points_modifier = -0.05
+	}
+	trigger = {
+		tag = MEE
+	}
+}
+
+babylonian_heritage = {
+	modifier = {
+		country_civilization_value = 5
+		global_population_capacity_modifier = 0.1
+		monthly_wage_modifier = 0.1
+	}
+	trigger = {
+		tag = MEE
+	}
+}

@@ -1,5 +1,41 @@
 ﻿"ATH"={
 	country="ATH"
+	75={
+		first_name="Krates"
+		family_name="Askondid"
+		birth_date=390.5.11
+		culture="athenian"
+		religion="roman_pantheon"
+		no_stats=yes
+		add_martial=2
+		add_charisma=5
+		add_finesse=8
+		add_zeal=3
+		no_traits=yes
+		add_trait="orator"
+		add_trait="just"
+		add_popularity=90
+		dna="N98335p3mnckoSShBMoEygKPAo8ChAKEAnECcQJ4AngCmAKYAnACcAJ9An0BVQFVAmcCZwKFAoUCkwKTAWMBYwKRApECfgJ+AVUBVQKEAoQCcQJxAmgCaAJ9An0CiwKLAosCiwKEAoQCkwKTA5wDnAJrAmsEvwS/AocChwFMAUwCigKKAncCdwA1ADUCiQKJBNIE0gJ/An8CggKCAmoCagJrAmsCjAKMAoMCgwKOAo4CggKCApgCmAJ7AnsCdgJ2AVEBUQJrAmsCfQJ9ApACkAKHAocCjwKPAnoCegFgAWACfAJ8AosCiwJsAmwBcAFwAGoAagD/AP8A8ADwAC8ALwAXABcA/wD/APkA+QFYAVgAIQAhAsACwAAAAAABHAEcAHkAeQFcAVwAawBrAHUAdQKuAq4B3wHfAu4C7gAAAAAAEwATAQMBAwA9AD0AnACcASQBJAEYARgBXQFdBP0E/QDeAN4BagFqBKEEoQLSAtIKnwqfAAAAAAIvAi8FkQWRADcANwXPBc8CpgKmAr4CvgAAAAAAAAAAAAAAAA=="
+	}
+	76={
+		first_name="Hipparchia"
+		family_name="Maroneid"
+		female=yes
+		birth_date=420.1.29
+		culture="thracian"
+		religion="roman_pantheon"
+		marry_character=char:75
+		no_stats=yes
+		add_martial=2
+		add_charisma=5
+		add_finesse=8
+		add_zeal=3
+		no_traits=yes
+		add_trait="ambitious"
+		add_trait="uncaring"
+		add_popularity=90
+		dna="D+4P7syLzIv6p/qnAoACgAJ2AnYCiQKJAngCeAJ1AnUCiQKJAoQChAFjAWMClwKXAoYChgKEAoQCggKCAmsCawJ5AnkChgKGAmoCagKNAo0BXgFeAnECcQKIAogCjAKMAocChwJpAmkCkQKRApkCmQKVApUCaAJoAnACcATbBNsCiQKJAowCjAFZAVkCgQKBAVwBXAJsAmwCfAJ8AncCdwKMAowCgAKAAoMCgwTLBMsCmAKYAm8CbwKCAoICawJrAm8CbwJuAm4CdQJ1AngCeAJ+An4CkwKTACwALAJyAnICbgJuAoMCgwLgAuAAGQAZALcAtwBXAFcBLgEuAUMBQwDSANIA+AD4ABoAGgKjAqMEvgS+AAgACAAAAAAA/AD8AScBJwDPAM8AeAB4ApACkABlAGUDfwN/ACQAJAAAAAACfwJ/AFkAWQAUABQAEgASAO0A7QF3AXcAOAA4BKUEpQBAAEAA1QDVAMYAxgA8ADwKdQp1AAAAAAN0A3QF6AXoAKQApAXpBekCTgJOApUClQAAAAAAAAAAAAAAAA=="
+	}
 	106={
 		first_name="Demochares"
 		family = c:ATH.fam:Demostenid
@@ -198,6 +234,25 @@
 		add_popularity=70
 		dna="COwI7Ml3yXe+0L7QAm4CbgJ7AnsDmgOaAm0CbQKXApcCfAJ8AnICcgOvA68CgQKBAnMCcwJnAmcCZgJmAn8CfwJ4AngCkwKTAmkCaQKVApUBTgFOApQClAJqAmoClwKXA40DjQJzAnMCbAJsAoQChAJtAm0CiAKIAmYCZgJtAm0ClgKWAn4CfgJ8AnwCgQKBAogCiAJoAmgCewJ7AmsCawKLAosCeAJ4A68DrwKNAo0CdgJ2AngCeAKDAoMCfgJ+A7IDsgJ9An0CfQJ9AmwCbAJmAmYCcgJyAoYChgKTApMClAKUAmsCawR3BHcAxQDFAEcARwFpAWkAzgDOAOkA6QKaApoAdAB0AWoBagAFAAUAawBrAOAA4AAAAAABfwF/AW0BbQA6ADoCnwKfAMcAxwKAAoAA5wDnAMYAxgAAAAAA0QDRAqkCqQEiASICzALMAE8ATwFRAVEANAA0BPwE/ALaAtoBRAFEATIBMgA5ADkCjgKOAAAAAAGNAY0FtQW1AI0AjQUFBQUC/wL/Ak8CTwAAAAAAAAAAAAAAAA=="
 	}
+	217={
+		first_name="Stilpon"
+		family_name="Stilpid"
+		birth_date=392.11.15
+		culture="athenian"
+		religion="roman_pantheon"
+		no_stats=yes
+		add_martial=5
+		add_charisma=7
+		add_finesse=7
+		add_zeal=6
+		no_traits=yes
+		add_trait="scholar"
+		add_trait="plain_speaking"
+		add_trait="self_controlled"
+		add_gold=100
+		add_popularity=60
+		dna="E/AT8LJzsnP+n/6fAmkCaQKDAoMCawJrBM4EzgKRApECcAJwAm4CbgJuAm4ClQKVAogCiAKAAoACkQKRAWIBYgJzAnMCiAKIAnkCeQKZApkCggKCA6gDqAJzAnMCbAJsAn0CfQJ0AnQChwKHAU4BTgOlA6UCewJ7ApgCmAJ4AngCaAJoACEAIQKEAoQChAKEApQClAKEAoQCfAJ8An4CfgOkA6QCagJqAokCiQJvAm8ClAKUAmsCawKJAokCfQJ9AmsCawOaA5oCiQKJApQClAKWApYDqwOrAoMCgwJxAnEBWQFZAmoCagKtAq0ANQA1AHcAdwFfAV8BUgFSAAkACQCLAIsBMQExAWUBZQEsASwBfgF+AHUAdQAAAAABbAFsANMA0wL/Av8ACwALAL8AvwDdAN0ArACsAFgAWAAAAAAA7QDtAP8A/wBpAGkAoQChAt4C3gK/Ar8A/AD8AMkAyQBpAGkAEwATADMAMwEoASgAYwBjAAAAAASmBKYFCQUJABQAFAUcBRwCigKKAtIC0gAAAAAAAAAAAAAAAA=="
+	}
 	218={
 		first_name="Epikouros"
 		family_name="Neoklid"
@@ -253,6 +308,24 @@
 		add_gold=100
 		add_popularity=60
 		dna="M9kz2bR/tH/2nvaeA6wDrAOkA6QCiAKIAnQCdAKSApICggKCAmcCZwKFAoUCjAKMAVYBVgJ+An4ChAKEA6QDpAJ/An8ChgKGA7IDsgJmAmYCjQKNApcClwJuAm4DogOiAngCeAKWApYCbAJsAnoCegKQApAClQKVAm4CbgJyAnICgAKAAV8BXwJzAnMCfAJ8BMUExQKDAoMCcAJwAm4CbgAmACYCbAJsAoECgQJmAmYCeAJ4ApYClgJzAnMCkQKRAmcCZwKGAoYCawJrAm0CbQFeAV4CcwJzAnwCfAJ+An4CeQJ5AmsCawIxAjEAVgBWAWkBaQEHAQcA9AD0AGQAZADYANgBGwEbAvIC8gDtAO0DKgMqAogCiAAAAAABVgFWASgBKAEAAQAAJwAnAGkAaQFUAVQAugC6AMYAxgAAAAAAKgAqAAEAAQE+AT4ADQANAW0BbQKfAp8CiwKLANsA2wAdAB0BMAEwAwsDCwAjACMJzAnMAAAAAAMdAx0FTgVOAFkAWQUkBSQCWwJbAskCyQAAAAAAAAAAAAAAAA=="
+	}
+	231={
+		first_name="Bryson"
+		family_name="Achaid"
+		birth_date=418.5.25
+		culture="achaean"
+		religion="roman_pantheon"
+		no_stats=yes
+		add_martial=6
+		add_charisma=8
+		add_finesse=7
+		add_zeal=6
+		no_traits=yes
+		add_trait="sceptical"
+		add_trait="pious"
+		add_gold=100
+		add_popularity=60
+		dna="ZNVk1cGFwYXspeylAosCiwKWApYCbwJvAmoCagOdA50CZwJnA6IDogKBAoECcQJxAmwCbAJ8AnwCjwKPA6MDowJ7AnsCegJ6ApICkgOdA50CagJqAmwCbAJ1AnUBcAFwAn4CfgKAAoAClwKXA5kDmQKNAo0CZgJmAoQChAOoA6gCdgJ2AV4BXgKOAo4CgQKBApUClQJmAmYClwKXBLIEsgKNAo0CiwKLApACkAJzAnMCkAKQAoICggKPAo8DnwOfA58DnwKLAosE2gTaAmwCbAJrAmsClAKUAmYCZgOfA58CeQJ5AnMCcwIoAigAVgBWAFYAVgAWABYCgAKAAU8BTwFFAUUBGgEaAKEAoQBIAEgDEQMRALgAuAAAAAAA6wDrARIBEgK3ArcAJgAmAR0BHQEEAQQCswKzAI4AjgAAAAAAAQABAFMAUwKkAqQCxwLHAXYBdgBgAGAAQABABLgEuAAaABoAWwBbA1UDVQAuAC4C3wLfAAAAAAPSA9IF/wX/AMIAwgXGBcYCcAJwAvwC/AAAAAAAAAAAAAAAAA=="
 	}
 	232={
 		first_name="Tyrtamos"
@@ -310,6 +383,28 @@
 		add_popularity=60
 		dna="WlxaXJSIlIhzbHNsA5sDmwFYAVgCkAKQApECkQJ/An8CigKKAnICcgKPAo8DrQOtAoACgAKNAo0CZgJmACUAJQKMAowCbQJtApQClAJxAnEClwKXAoQChAKBAoEDqgOqAmoCagJtAm0CggKCApQClAKHAocClgKWAo0CjQKQApAEzgTOAmsCawFUAVQCjwKPABwAHAKTApMCiAKIAoUChQKHAocCawJrAm8CbwOvA68CcQJxApkCmQKPAo8ChgKGApQClAJ6AnoCbAJsAnICcgFfAV8CiQKJAmkCaQKGAoYCkAKQAnsCewKLAosBLwEvALsAuwBSAFIAJQAlAIUAhQKnAqcAuwC7AXUBdQBWAFYAJAAkANQA1AAAAAAAVgBWABIAEgL2AvYA7ADsAX4BfgEGAQYAvwC/AE8ATwAAAAABAgECAAUABQDkAOQAnwCfAu8C7wBoAGgBOwE7AEUARQBjAGMBJwEnAKoAqgS3BLcDjgOOAAAAAARbBFsFlgWWAGMAYwUTBRMCnQKdAukC6QAAAAAAAAAAAAAAAA=="
 	}
+	366={
+		first_name="Sophia"
+		family_name = "Diamandis"
+		birth_date=421.3.23
+		female=yes
+		culture="euboean"
+		religion="roman_pantheon"
+		no_stats=yes
+		add_martial=5
+		add_charisma=5
+		add_finesse=5
+		add_zeal=5
+		no_traits=yes
+		add_trait="assertive"
+		add_trait="crafty"
+		add_trait="stubborn"
+		add_trait="honest"
+		add_trait="brave"
+		add_gold=150
+		add_popularity=30
+		dna="LbGghWJ2xXnIbMh/AoECgQIoApMCeQJ5A5sDmwJwAnACcAJwApUClQFTAVMCjwKPApMCkwKOAo4CgQKBA6IDogKFAoUCewJ7An4CfgFaAVoChgKGAm4CbgJ1AnUCawJrAoYChgS7BLsCagJqAnkCeQJpAmkCmQKZAnMCcwJqAmoCawJrAooCigJuAm4CbgJuAowCjAJ2AnYCkgKSAnECcQKCAoICjAKMAoYChgJ4AngCjAKMAoUChQKGAoYDsQOxApECkQKCAoIDowOjAnQCdAJwAnACaAJoApkCmQKMAowCcAJwAmkCaQIOAg4AtQC1AKIAogFKAUoBcgFyAPEA8QLKAsoC6QLpAUYBRgCFAIUE9gT2AHYAdgAAAAAAQABAAHEAcQD+AP4AjACMACQAJAFfAV8AUwBTAVYBVgAAAAACiQKJAJwAnAEXARcAGAAYAB4AHgS+BL4CogKiAJoAmgCyALIDCwMLAucC5wNeA14DeQN5AAAAAACjAKMJoAUNAdsAsgWFBbICPQJ5AmcCAAAAAAAAAAAAAAAAAA=="
+	}
 	379={
 		first_name="Timaios"
 		family_name="Tauromeneid"
@@ -327,6 +422,40 @@
 		add_gold=200
 		add_popularity=60
 		dna="q6WrpcN6w3oSYxJjAm8CbwFOAU4CjQKNAn8CfwKGAoYCkQKRApACkAKJAokDqQOpApICkgFPAU8CaQJpAoECgQJyAnICkwKTAnwCfAJyAnICfQJ9AooCigOoA6gChwKHAnICcgJ0AnQCgAKAApUClQKKAooDpQOlAnMCcwKHAocCZgJmAmcCZwKAAoACggKCAn4CfgJoAmgCegJ6AnwCfAKGAoYChgKGA6wDrAJwAnACbgJuAm0CbQJrAmsAOQA5AoMCgwOpA6kCdgJ2AoICggJ5AnkClQKVApYClgOfA58ClAKUAnICcgIAAgAA1wDXAEwATAB8AHwBBQEFAP8A/wCcAJwA7gDuAQMBAwAVABUA8gDyAN0A3QAAAAAA0QDRADUANQC1ALUAxADEAUUBRQK9Ar0AfwB/AHAAcAAAAAABJgEmAuUC5QK7ArsBVwFXARsBGwDdAN0BfgF+AEcARwCxALEAgQCBAH0AfQNbA1sHzwfPAAAAAASDBIMFlQWVAFsAWwXNBc0CyALIAhICEgAAAAAAAAAAAAAAAA=="
+	}
+	380={
+		first_name="Demetrios"
+		family_name="Phalerid"
+		birth_date=404.2.16
+		culture="athenian"
+		religion="roman_pantheon"
+		no_stats=yes
+		add_martial=6
+		add_charisma=6
+		add_finesse=9
+		add_zeal=6
+		no_traits=yes
+		add_trait="gluttonous"
+		add_trait="founder"
+		add_trait="just"
+		add_trait="orator"
+		add_gold=100
+		add_popularity=50
+		dna="I/Aj8LV8tXxEpESkAo0CjQJ1AnUCbgJuAmkCaQFiAWIBYwFjAmgCaAJ7AnsE2QTZApECkQJrAmsBUgFSAo8CjwJnAmcCbgJuApgCmAKRApECjgKOAocChwKHAocCmQKZAnUCdQKYApgCjQKNAnMCcwJyAnICkwKTAocChwJ7AnsCbAJsAncCdwJvAm8CZwJnAEQARAKOAo4CfAJ8AnECcQKPAo8ClAKUAnYCdgKIAogCbQJtAmgCaAKLAosDsgOyAm4CbgKUApQCfQJ9AmsCawKBAoECdwJ3AnkCeQKFAoUCmQKZApQClAJdAl0ARwBHAogCiABRAFEA/wD/ArMCswBrAGsAPAA8AEMAQwDSANIBEwETADUANQAAAAAA3gDeASABIAAPAA8A/wD/AA4ADgEOAQ4AfQB9ADsAOwAAAAAAvAC8AXQBdABoAGgAngCeALYAtgAhACEA1wDXARsBGwANAA0AXgBeA0kDSQTuBO4FewV7AAAAAARyBHIFVAVUAJwAnAV9BX0CUQJRAjcCNwAAAAAAAAAAAAAAAA=="
+	}
+	383={
+		first_name="Pisis"
+		birth_date=417.3.12
+		culture="boeotian"
+		religion="roman_pantheon"
+		no_stats=yes
+		add_martial=7
+		add_charisma=8
+		add_finesse=7
+		add_zeal=6
+		no_traits=yes
+		add_gold=50
+		add_popularity=60
 	}
 	391={
 		first_name="Lachares"

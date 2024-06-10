@@ -851,6 +851,9 @@ persian_heritage = {
         naval_morale_modifier = -0.2
     }
     trigger = {
+		NOT = {
+			tag = BBY
+		}
         OR = {
 	        primary_culture = pasargadi
 			capital_scope = {

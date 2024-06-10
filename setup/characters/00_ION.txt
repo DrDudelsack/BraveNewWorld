@@ -1,5 +1,17 @@
 ﻿"ION"={
 	country="ION"
+	29={
+		first_name="Eurydike"
+		family = c:MAC.fam:Antipatrid
+		birth_date=407.3.4
+		culture="macedonian"
+		religion="roman_pantheon"
+		father="char:9"
+		female="yes"
+		no_traits = yes
+		add_trait="antipatrid"
+		add_trait="cautious"
+	}
 	86={
 		first_name="Hipparchos"
 		family = c:ION.fam:Hipparchid
@@ -20,6 +32,23 @@
 		}
 		dna="Cv8K/618rXys0azRA6IDogOhA6EDrAOsAnwCfAKUApQCagJqApkCmQKQApACagJqAnwCfAKBAoECjgKOAn0CfQOcA5wDowOjAosCiwTTBNMCjQKNA7EDsQKTApMBcAFwAoUChQJzAnMCfgJ+A6QDpAKVApUCbwJvAnMCcwJvAm8CkAKQAoQChAKVApUClwKXAm4CbgKDAoMCbgJuAnoCegJqAmoAJwAnBNwE3AKZApkCcgJyApECkQKKAooCkQKRAngCeAJoAmgClAKUAooCigKDAoMCggKCAm8CbwJwAnAClAKUAm0CbQCLAIsAvwC/ALgAuAERAREC8gLyAD4APgBWAFYArgCuAGwAbABiAGIDPQM9AI0AjQAAAAABZQFlAFkAWQC7ALsAwADAABkAGQKHAocAJQAlAS8BLwAAAAABQQFBAEIAQgFfAV8AqgCqAqICogKXApcAmwCbAQ8BDwFnAWcBJAEkAJcAlwEkASQCZQJlAAAAAAPUA9QFoAWgAPIA8gUbBRsC2gLaApACkAAAAAAAAAAAAAAAAA=="
 	}
+	98={
+		first_name="Aristodemus"
+		family_name = "Aristodemid"
+		birth_date=410.3.4
+		culture="ionian"
+		religion="roman_pantheon"
+		no_stats=yes
+		add_martial=4
+		add_charisma=8
+		add_finesse=8
+		add_zeal=4
+		no_traits=yes
+		add_trait="poet"
+		add_gold=200
+		add_popularity=80
+		dna="DPEM8ZZ4lnjWvda9AmwCbAJpAmkCZgJmAnYCdgTQBNACkgKSBLcEtwKGAoYCZwJnApQClAKHAocCdAJ0AnkCeQKSApIEpQSlA60DrQFkAWQChgKGApcClwJ0AnQCfQJ9AmwCbAOlA6UCcwJzA6MDowKSApICkQKRApQClAFcAVwAIAAgAooCigKVApUCgAKAAn8CfwJmAmYBYAFgApUClQKFAoUBXQFdA6EDoQKOAo4CcQJxAnACcAJyAnIClgKWBNME0wKQApACkQKRAoECgQJpAmkCdwJ3AV0BXQKOAo4CigKKAo8CjwLfAt8AsgCyABoAGgK3ArcCyQLJAQgBCAB0AHQAqwCrAFkAWQDfAN8AGAAYABYAFgAAAAAAZQBlAUEBQQADAAMArwCvAUUBRQFwAXAAUgBSAEcARwAAAAAAawBrACUAJQLHAscAqQCpAuMC4wAmACYBQAFAA2EDYQElASUBLAEsApUClQNsA2wJ3AncAAAAAAT5BPkF1AXUAGoAagXpBekCIwIjAjgCOAAAAAAAAAAAAAAAAA=="
+	}
 	219={
 		first_name="Nausiphanes"
 		family_name="Nausiphanid"
@@ -37,5 +66,19 @@
 		add_gold=100
 		add_popularity=60
 		dna="FPMU88eBx4GwwbDBApICkgJmAmYCiAKIAn8CfwJ7AnsClAKUAoYChgKMAowCbgJuAoUChQJ3AncCfgJ+AnECcQOjA6MChwKHAocChwJyAnICbwJvAn0CfQJ4AngCjQKNAn0CfQJ5AnkDrAOsA6MDowJ2AnYCdgJ2AosCiwJtAm0CawJrApkCmQKPAo8DogOiAWYBZgJnAmcChwKHAowCjAKGAoYCcAJwAmkCaQJ3AncCfQJ9AnsCewJnAmcBTwFPAoACgAKMAowClAKUApQClAJ8AnwCaQJpAooCigKEAoQCiQKJAo8CjwRcBFwAkQCRAQMBAwKgAqAAGAAYAQYBBgFVAVUAogCiAKwArAFLAUsAzQDNASkBKQAAAAACoAKgAJcAlwDaANoBDwEPATkBOQALAAsAwgDCAXIBcgAAAAAACAAIAEsASwDqAOoCtwK3ACYAJgFdAV0C1QLVAH0AfQC0ALQCxQLFALUAtQCQAJAHjwePAAAAAAF9AX0FmQWZAB8AHwVxBXECbgJuAlgCWAAAAAAAAAAAAAAAAA=="
+	}
+	317={
+		first_name="Ptolemais"
+		family = c:EGY.fam:Lagid
+		birth_date=434.4.23
+		culture="macedonian"
+		religion="roman_pantheon"
+		father="char:42"
+		mother="char:29"
+		female="yes"
+		no_traits = yes
+		add_trait = trusting
+		add_trait="lagids"
+		add_trait="antipatrid"
 	}
 }

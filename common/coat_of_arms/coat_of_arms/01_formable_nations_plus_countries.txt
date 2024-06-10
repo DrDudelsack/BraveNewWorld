@@ -2818,22 +2818,68 @@ PER = {
 	}
 }
 
+BBY = {
+	pattern = "pattern_solid.tga"
+	color1 = "babylon_flag_colour"
+	color2 = "babylon_color"
+
+    colored_emblem = {
+        texture = "ce_ishtar_lion.dds"
+        color1 = "samnite_beige"
+        instance = { scale = { 0.90 0.90 }  position = { 0.50 0.45 } }
+    }
+
+    colored_emblem = {
+        texture = "ce_babylon.dds"
+        color1 = "samnite_beige"
+        instance = { scale = { 1.10 1.10 }  position = { 0.50 0.47 } }
+    }
+}
+
 SUR = {
 	pattern = "pattern_solid.tga"
-	color1 = "mid_grey"
-	color2 = "offwhite"
+	color1 = "cimmerian_color"
+	color2 = "roman_gold"
 
 	colored_emblem = {
-		texture = "ce_snake_02.dds"
+		texture = "ce_hippocampus.dds"
 		color1 = "roman_gold"
 		color2 = "roman_gold"
+		instance = {
+			scale = {
+				0.8 0.8
+			}
+		}
 	}
 	
 	colored_emblem = {
 		texture = "ce_border_meander_01.tga"
 		color1 = "roman_gold"
 		color2 = "pitch_black"
-		instance = { rotation = 90 }
-		instance = { rotation = 270 }
+		instance = { rotation = 0 }
+		instance = { rotation = 180 }
+	}
+}
+
+MEE = {
+	pattern = "pattern_solid.tga"
+	color1 = "mid_grey"
+	color2 = "offwhite"
+
+	colored_emblem = {
+		texture="ce_gryphon_01.dds"
+		color1 = "roman_gold"
+		color2 = "roman_gold"
+		instance = {
+			scale = { 0.8 0.8 }
+		}
+	}
+	
+	colored_emblem = {
+		texture = "ce_border_stars_02.dds"
+		color1 = "roman_gold"
+		color2 = "pitch_black"
+		instance = { rotation = 0 }
+		instance = { rotation = 180 }
 	}
 }

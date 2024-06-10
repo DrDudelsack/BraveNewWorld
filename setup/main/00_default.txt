@@ -2554,13 +2554,13 @@ family={
 			culture=meroitic
 			owner=KSH
 		}
-# 		# Elatea
-# 		73 = {
-# 			key = "Xanthippid"
-# 			prestige=300
-# 			culture=boeotian
-# 			owner=PHO
-# 		}
+		# Elatea
+		73 = {
+			key = "Xanthippid"
+			prestige=300
+			culture=boeotian
+			owner=PHO
+		}
 # 		#Khasa
 # 		80={
 # 			key = "Abisarid"
@@ -10766,6 +10766,17 @@ country = {
 			}
 		}
 
+		BBY = {
+			government = tribal_chiefdom
+	 		primary_culture = babylonian
+			religion = mesopotamian_religion
+	 		capital = 918
+
+			own_control_core = 	{
+				918
+			}
+		}
+
 	 	SEL = {
 			family = 30
 			family = 70
@@ -10962,6 +10973,19 @@ country = {
 	# 			1733 1775 7844 7845 1858
 	# 		}
 	# 	}
+
+		MEE = {
+			government = tribal_chiefdom
+	 		primary_culture = median
+	 		religion = zoroaster
+	 		capital = 1595
+
+			treasures = { 192 }
+
+	 		own_control_core = 	{
+	 			1595
+	 		}
+		}
 
 	 	MAP = {
 			family = 31

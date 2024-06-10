@@ -2,7 +2,15 @@
 
  PER:0 "Pergamon"
  PER_ADJ:0 "Pergamine"
+ MEE:0 "Media"
+ MEE_ADJ:0 "Median"
+ BBY:0 "Babylon"
+ BBY_ADJ:0 "Babylonian"
 
  # Heritages 
  tyros_heritage:0 "Tyrian Heritage"
  tyros_heritage_desc:0 "Tyre was a great phoenician city that founded many colonies. The most important of those was Carthage."
+ median_heritage:0 "Median Heritage"
+ median_heritage_desc:0 "The Medes were a people of the Iranian plateau. The would unite against outsiders until united for good as an Empire in the 8th century BC. Most likely, the had equal succession which splintered the power of a clan over time."
+ babylonian_heritage:0 "Babylonioan Heritage"
+ babylonian_heritage_desc:0 "Babylon is an ancient city, a beating heart of civilization. Many generations have lived and died for this wondrous city."
