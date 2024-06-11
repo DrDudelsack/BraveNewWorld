@@ -13371,7 +13371,7 @@ country = {
 			religion = matrist_religion
 			centralization=-50
 
-			capital = 7835
+			capital = 7833
 
 			own_control_core = {
 				7833
