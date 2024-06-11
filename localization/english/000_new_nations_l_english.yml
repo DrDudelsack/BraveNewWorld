@@ -52,3 +52,13 @@
  memphis_heritage_desc:0 "The old capital of Egypt, Memphis is said to be protected by Ptah, the god of craftsmen."
  civ_waset_heritage:0 "Heritage of Waset"
  civ_waset_heritage_desc:0 "Known to the Greeks as Thebes, Waset is one of the oldest and most important Upper Egyptian cities. It was a valuable trade hub and served as the capital of the Middle Kingdom and the New Kingdom for a long time."
+
+ # Startup events
+ bnw_startup_events.1.t:0 "A Brave New World"
+ bnw_startup_events.1.desc:0 "One day, the sky suddenly began to rumble and the erath shattered. Then, the Gods spoke: for their amusement, all peoples would be divided and set on an equal footing so that the mortal men could prove themselves to their Gods. Only by defeating and subjugating the others could they prove their superiority."
+ bnw_startup_events.1.a:0 "In the name of the Gods!"
+ bnw_startup_events_tt_1:0 "The Gods have sent a champion and some reinforcements to your settlement!"
+
+ # Modifiers
+ divine_favour:0 "Divine Favour"
+ divine_favour_desc:0 "The Gods have blessed you! They will send some more souls to fight for your cause."

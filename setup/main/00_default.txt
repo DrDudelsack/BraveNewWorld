@@ -9634,7 +9634,7 @@ country = {
 			primary_culture = aetolian
 			religion = roman_pantheon
 
-			capital = 446 #Elis
+			capital = 439 # Olympia
 
 			pantheon = {
 
@@ -9646,7 +9646,7 @@ country = {
 			}
 
 			own_control_core = 	{
-				446
+				439
 			}
 
 			treasures = { 113 115 }

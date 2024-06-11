@@ -1,0 +1,104 @@
+﻿namespace = bnw_startup_events
+
+bnw_startup_events.1 = {
+	type = country_event
+	title = bnw_startup_events.1.t
+	desc = bnw_startup_events.1.desc
+	picture = greeks_marching
+
+	fire_only_once = yes
+
+	option = {
+		name = bnw_startup_events.1.a
+		custom_tooltip = bnw_startup_events_tt_1
+		add_country_modifier = {
+			name = divine_favour
+			duration = -1
+		}
+		hidden_effect = {
+			random_list = { # "Champions of the Gods" xD
+				10 = { # Great Warrior and Commander
+					create_character = {
+						add_martial = 8
+						add_trait = intelligent
+						add_trait = victorious
+						add_character_experience = 75
+					}
+				}
+				10 = { # Great Administrator
+					create_character = {
+						add_finesse = 8
+						add_trait = intelligent
+						add_trait = just
+						add_character_experience = 75
+					}
+				}
+				10 = { # Great Priest
+					create_character = {
+						add_zeal = 8
+						add_trait = intelligent
+						add_trait = zealous
+						add_character_experience = 75
+					}
+				}
+				10 = { # Great Politician
+					create_character = {
+						add_charisma = 8
+						add_trait = intelligent
+						add_trait = orator
+						add_character_experience = 75
+					}
+				}
+			}
+			capital_scope = {
+				if = {
+					limit = {
+						any_pops_in_province = {
+							NOT = {
+								pop_culture = root.culture
+							}
+						}
+					}
+					every_pops_in_province = {
+						limit = {
+							NOT = {
+								pop_culture = root.culture
+							}	
+						}
+						set_pop_culture = root.culture
+					}
+				}
+				if = {
+					limit = {
+						any_pops_in_province = {
+							NOT = {
+								pop_religion = root.religion
+							}
+						}
+					}
+					every_pops_in_province = {
+						limit = {
+							NOT = {
+								pop_religion = root.religion
+							}	
+						}
+						set_pop_religion = root.religion
+					}
+				}
+				# Currently: 1 Nobles, 1 Citizen, 2 Freemen and 8 Tribesmen
+				create_state_pop = nobles
+				create_state_pop = citizen
+				create_state_pop = freemen
+				create_state_pop = freemen
+				create_state_pop = tribesmen
+				create_state_pop = tribesmen
+				create_state_pop = tribesmen
+				create_state_pop = tribesmen
+				create_state_pop = tribesmen
+				create_state_pop = tribesmen
+				create_state_pop = tribesmen
+				create_state_pop = tribesmen
+			}
+		}
+	}
+}
