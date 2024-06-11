@@ -2,3 +2,11 @@
 	global_population_growth = 0.05
 	omen_power = 0.05
 }
+
+incentivised_pop_growth = {
+	local_population_growth = 1.5 # relatively short durations
+}
+
+change_of_scenery_mod = {
+	start_migration_cost_modifier = -0.5 # 2 years
+}

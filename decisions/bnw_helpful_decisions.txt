@@ -1,0 +1,148 @@
+﻿country_decisions = {
+	
+	urban_development_capital = {
+		potential = {
+			current_date < 550.1.1 # only first 100 years
+			capital_scope = {
+				has_city_status = no
+			}
+		}
+
+		allow = {
+			treasury >= 150
+			political_influence >= 50
+			capital_scope = {
+				total_population >= 25
+				civilization_value >= 10
+			}
+		}
+
+		effect = {
+			add_treasury = -150
+			add_political_influence = -50
+			add_centralization = 25
+			change_government = tribal_kingdom
+			capital_scope = {
+				found_city_effect = yes
+				capital_formable_tribal_effect = yes
+                formable_capital_modifier_tribal_effect = yes
+			}
+		}
+	}
+
+	incentivise_pop_growth_city = {
+		potential = {
+			country_population < 1000 # can't get it once you have at least 1k pops
+			NOT = {
+				has_variable = city_pop_growth_cooldown_var
+			}
+			any_owned_province = {
+				has_city_status = yes
+			}
+		}
+
+		allow = {
+			treasury >= 150
+			political_influence >= 50
+		}
+
+		effect = {
+			add_treasury = -150
+			add_political_influence = -50
+			add_centralization = 1
+			set_variable = {
+				name = city_pop_growth_cooldown_var
+				days = 9125 # 25 years
+			}
+			ordered_owned_province = {
+				limit = {
+					has_city_status = yes
+				}
+				order_by = {
+					value = 0
+					add = population_cap
+					subtract = total_population
+				}
+				max = 5
+				add_province_modifier = {
+					name = incentivised_pop_growth
+					duration = 3650 # 10 years
+				}
+			}
+		}
+	}
+
+	incentivise_pop_growth_rural = {
+		potential = {
+			country_population < 1000 # can't get it once you have at least 1k pops
+			NOT = {
+				has_variable = rural_pop_growth_cooldown_var
+			}
+			any_owned_province = {
+				has_city_status = no
+			}
+		}
+
+		allow = {
+			treasury >= 150
+			political_influence >= 50
+		}
+
+		effect = {
+			add_treasury = -150
+			add_political_influence = -50
+			add_centralization = 1
+			set_variable = {
+				name = rural_pop_growth_cooldown_var
+				days = 9125 # 25 years
+			}
+			ordered_owned_province = {
+				limit = {
+					has_city_status = no
+				}
+				order_by = {
+					value = 0
+					add = population_cap
+					subtract = total_population
+				}
+				max = 5
+				add_province_modifier = {
+					name = incentivised_pop_growth
+					duration = 3650 # 10 years
+				}
+			}
+		}
+	}
+
+	change_of_scenery = { # migration buff
+		potential = {
+			government = tribal_chiefdom
+			NOT = {
+				any_owned_province = {
+					has_city_status = yes
+				}
+			}
+			NOT = {
+				has_variable = migration_ongoing
+			}
+		}
+
+		allow = {
+			centralization < 0
+			political_influence >= 50
+		}
+
+		effect = {
+			set_variable = {
+				name = migration_ongoing
+				days = 9125 # 25 years
+			}
+			add_political_influence = -50
+			add_centralization = -25
+			add_country_modifier = {
+				name = change_of_scenery_mod
+				duration = 730 # 2 years
+			}
+		}
+	}
+} 
