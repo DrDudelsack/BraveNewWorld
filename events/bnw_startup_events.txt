@@ -121,14 +121,14 @@ bnw_startup_events.2 = {
 			limit = {
 				list_size = {
 					name = distribution_treasure_list
-					value > 3
+					value > 2
 				}
 			}
 			random_country = {
 				limit = {
 					NOT = { this = root }
 					any_country_treasure = {
-						count < 4
+						count < 2
 					}
 				}
 				save_scope_as = treasure_target_country

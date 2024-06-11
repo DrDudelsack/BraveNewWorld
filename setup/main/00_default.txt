@@ -10228,7 +10228,7 @@ country = {
 
 		} 
 
-		treasures = { 97 106 }
+		#treasures = { 97 106 }
 
 		own_control_core = 	{
 			278
@@ -11131,7 +11131,7 @@ country = {
 		COL = {
 			family = 33
 			family = 90
-			government = tribal_cheifdom
+			government = tribal_chiefdom
 			primary_culture = colchian
 			religion = caucasian_religion
 
