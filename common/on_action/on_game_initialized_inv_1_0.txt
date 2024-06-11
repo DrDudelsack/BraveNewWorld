@@ -9,6 +9,7 @@
 
 	events = {
 		bnw_startup_events.1
+		bnw_startup_events.2
 	}
 
 	effect = {

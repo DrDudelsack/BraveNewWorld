@@ -113,7 +113,7 @@ graeco_pontic_heritage = {
 
 	trigger = {
 		primary_culture = greco_pontic
-		NOT = { tag = PER }
+		NOT = { tag = PRM }
 	}
 }
  

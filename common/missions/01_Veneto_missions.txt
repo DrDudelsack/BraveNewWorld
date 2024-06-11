@@ -2203,14 +2203,14 @@
         on_completion = {
         	custom_tooltip = secure_venetia_venetic_urbanization_program_tt
         	trigger_event = { id = secure_venetia_mission_event.56 }
-        	show_as_tooltip = {
-        		capital_scope = {
-        			add_province_modifier = {
-        				name = me_venetic_city_urbanization_pmod
-        				duration = -1
-        			}
-        		}
-        	}
+        	# show_as_tooltip = {
+        	# 	capital_scope = {
+        	# 		add_province_modifier = {
+        	# 			name = me_venetic_city_urbanization_pmod
+        	# 			duration = -1
+        	# 		}
+        	# 	}
+        	# }
         	show_as_tooltip = {
                 add_country_modifier = {
                     name = me_venetian_urbanization_program_cmod

@@ -334,7 +334,7 @@
         }
 
         on_completion = {
-            custom_tooltip = colchis_misisons_task_6_tt
+            #custom_tooltip = colchis_misisons_task_6_tt
             hidden_effect = {
                 area:colchis_area = {
                 every_area_province = {
