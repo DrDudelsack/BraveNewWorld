@@ -66,8 +66,8 @@
  change_of_scenery_mod:0 "Preparing Migration"
 
  # Decisions
- urban_development_capital:0 "Urbanisation of [ROOT.GetCountry.GetCapital.GetName]"
- urban_development_capital_desc:0 "[ROOT.GetCountry.GetCapital.GetName] has started to attract more and more people. This concentration has favoured the settling down of many families. Maybe it is time that we invest more into our seat of power?"
+ urban_development_capital:0 "Urbanising our Capital"
+ urban_development_capital_desc:0 "The Capital has started to attract more and more people. This concentration has favoured the settling down of many families. Maybe it is time that we invest more into our seat of power?"
  incentivise_pop_growth_city:0 "Incentivise Population Growth in the Cities"
  incentivise_pop_growth_city_desc:0 "If we can secure food and housing for our people, many will be more inclined to raise more children. Let us do so."
  incentivise_pop_growth_rural:0 "Incentivise Population Growth in the Countryside"
