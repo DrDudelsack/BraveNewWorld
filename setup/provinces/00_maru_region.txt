@@ -7,7 +7,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_samba
 }
 
 4352={ #Roruka
@@ -440,7 +439,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_krishna
 	port_building=1
 }
 
@@ -476,7 +474,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_soma
 	port_building=1
 }
 
@@ -500,7 +497,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_neminatha
 }
 
 6819={ #Ujjayanta
@@ -645,7 +641,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_rishabhanatha
 	port_building=1
 }
 

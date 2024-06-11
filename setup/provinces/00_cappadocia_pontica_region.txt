@@ -64,7 +64,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_mithra
 	port_building=1
 }
 
@@ -88,7 +87,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_anahit
 }
 
 1768={ #Til
@@ -100,7 +98,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_nane #Removed duplicate in Ibora
 }
 
 1769={ #Sabos
@@ -619,7 +616,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_barshamin
 }
 
 7994={ #Kizari

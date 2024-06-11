@@ -277,7 +277,6 @@
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 	port_building=1
-	holy_site=omen_uni_astarte
 }
 
 3550={ #Coeba
@@ -786,7 +785,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_reitia	
 }
 
 3596={ #Vicetia
@@ -820,7 +818,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_altinos
 }
 
 3599={ #Tarvisium
@@ -888,7 +885,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_trumsiate	
 }
 
 3605={ #Forum Iulii

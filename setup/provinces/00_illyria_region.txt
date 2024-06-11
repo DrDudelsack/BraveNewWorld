@@ -40,7 +40,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_histria
 	port_building=1
 }
 
@@ -53,7 +52,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_ica
 }
 
 4022={ #Piquentum
@@ -153,7 +151,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_vidasus
 }
 
 4041={ #Segestike
@@ -275,7 +272,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_latra
 }
 
 4054={ #Idassa
@@ -421,7 +417,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_tadenus
 }
 
 4067={ #Baridouon
@@ -655,7 +650,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_medaurus
 }
 
 4089={ #Medeon

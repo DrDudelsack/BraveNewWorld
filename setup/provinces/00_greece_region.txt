@@ -53,7 +53,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_diktean_zeus
 	port_building=1
 }
 
@@ -66,7 +65,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_ariadne
 	port_building=1
 }
 
@@ -126,7 +124,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_karmanor
 }
 
 372={ #Korion
@@ -274,7 +271,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_athena
 	port_building=2
 }
 
@@ -344,7 +340,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_apollo
 }
 
 425={ #Dodona
@@ -367,7 +362,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_dionysus
 }
 
 427={ #Sparta
@@ -503,7 +497,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_zeus
 }
 
 440={ #Argos
@@ -515,7 +508,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_hera
 	port_building=1
 }
 
@@ -528,7 +520,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_asclepius
 	port_building=1
 }
 
@@ -789,7 +780,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_hekate
 }
 
 468={ #Thespiai
@@ -901,7 +891,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_poseidon
 	port_building=1
 }
 
@@ -1079,7 +1068,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_demeter
 }
 
 7898={ #Rhamnous
@@ -1136,7 +1124,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_hestia
 }
 
 7904={ #Styra

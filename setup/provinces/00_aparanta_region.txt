@@ -73,7 +73,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_bhrigu
 	port_building=1
 }
 

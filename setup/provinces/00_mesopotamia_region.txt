@@ -84,7 +84,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_ashshur
 }
 
 885={ #Kyparisson
@@ -349,7 +348,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_shamash
 }
 
 911={ #Seleukeia
@@ -384,7 +382,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_nergal
 }
 
 914={ #Opis
@@ -407,7 +404,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_ereshkigal
 }
 
 916={ #Barophtas
@@ -441,7 +437,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_marduk
 	port_building=1
 }
 
@@ -454,7 +449,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_nabu
 }
 
 920={ #Soura
@@ -488,7 +482,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_ezekiel
 }
 
 923={ #Pharga
@@ -566,7 +559,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_enlil
 }
 
 930={ #Balagaia
@@ -578,7 +570,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_bau
 }
 
 931={ #Kolarina
@@ -590,7 +581,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_nanaya
 }
 
 932={ #Dabron
@@ -657,7 +647,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_ishtar
 }
 
 938={ #Nina
@@ -692,7 +681,6 @@
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 	port_building=3
-	holy_site=omen_nanshe
 }
 
 941={ #Oratha
@@ -715,7 +703,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_ezra
 }
 
 953={ #Achaiachala
@@ -860,7 +847,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_ea
 }
 
 969={ #Seleukeia Erythraia
@@ -1046,6 +1032,5 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_sin
 }
 

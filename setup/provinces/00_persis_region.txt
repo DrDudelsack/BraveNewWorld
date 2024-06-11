@@ -29,7 +29,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_daniel
 }
 
 947={ #Choaspes
@@ -195,7 +194,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	#holy_site=omen_adur_farnbag #Doesn't exist - Rework?
 }
 
 3402={ #Darabgird
@@ -706,7 +704,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_anahita
 }
 
 4948={ #Pylai Sousianes
@@ -751,7 +748,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_asha
 }
 
 4953={ #Croatis

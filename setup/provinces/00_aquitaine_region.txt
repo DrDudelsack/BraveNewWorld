@@ -218,7 +218,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_sorginak
 }
 
 2241={ #Telonnum
@@ -351,7 +350,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_lurraberri
 }
 
 2269={ #Divona
@@ -440,7 +438,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_eate
 }
 
 2277={ #Belsinum
@@ -980,7 +977,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_lugus
 }
 
 2404={ #Sisciacum

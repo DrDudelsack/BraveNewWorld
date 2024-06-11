@@ -29,7 +29,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_idaea
 }
 
 252={ #Kyzikos
@@ -185,7 +184,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_helios
 	port_building=1
 }
 
@@ -434,7 +432,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_artemis
 	port_building=1
 }
 
@@ -469,7 +466,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_agdistis
 }
 
 294={ #Larisa Ionias
@@ -503,7 +499,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_sipylene
 }
 
 298={ #Aigai
@@ -713,7 +708,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_berecyntia
 }
 
 1952={ #Aphrodisias

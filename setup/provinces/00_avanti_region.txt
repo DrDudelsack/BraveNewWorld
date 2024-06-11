@@ -7,7 +7,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_vishnu
 }
 
 4438={ #Vairata
@@ -96,7 +95,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_rudra
 }
 
 4477={ #Tripura
@@ -185,7 +183,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_brahma
 }
 
 4486={ #Devasabha
@@ -329,7 +326,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_nanda_vaccha
 }
 
 7309={ #Mritti Kavati

@@ -128,7 +128,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_vagdavercustis
 }
 
 3786={ #Arbalo
@@ -349,7 +348,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_tuisto
 }
 
 3829={ #Idisiwihsa
@@ -372,7 +370,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_tamfana
 }
 
 3831={ #Hattalanda
@@ -440,7 +437,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_baduhenna
 }
 
 3837={ #Hanhistingagabi
@@ -1115,7 +1111,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_frijjo
 }
 
 3977={ #Luppia
@@ -1215,7 +1210,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_irmin
 }
 
 3987={ #Caluconiana

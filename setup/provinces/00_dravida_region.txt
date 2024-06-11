@@ -63,7 +63,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_murugan
 	port_building=1
 }
 
@@ -577,7 +576,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_sigiriya
 }
 
 6979={ #Simhalava

@@ -50,7 +50,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_armazi
 }
 
 1677={ #Algeti
@@ -73,7 +72,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_gacim
 }
 
 1680={ #Zalissa
@@ -85,7 +83,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_zadeni
 }
 
 1681={ #Aragvispiri
@@ -97,7 +94,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_kopala
 }
 
 1683={ #Aghaiani
@@ -153,7 +149,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_phrixus
 }
 
 1691={ #Doghlauri
@@ -209,7 +204,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_ghmerti
 }
 
 1697={ #Akhaltsikhe
@@ -310,7 +304,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_ge
 }
 
 1707={ #Kutaisi
@@ -333,7 +326,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_leukothea
 }
 
 1714={ #Onogouris
@@ -356,7 +348,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_amirani
 }
 
 1717={ #Chaladidi
@@ -380,7 +371,6 @@
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 	port_building=1
-	holy_site=omen_phasia
 }
 
 1722={ #Vashnari
@@ -438,7 +428,6 @@
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 	port_building=1
-	holy_site=omen_apsyrtus
 }
 
 1727={ #Kissa
@@ -507,7 +496,6 @@
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 	slave_mine_building=1
-	holy_site=omen_boseli
 }
 
 1740={ #Tzibile
@@ -520,7 +508,6 @@
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 	slave_mine_building=1
-	holy_site=omen_shavkhani
 }
 
 1741={ #Dioskourias
@@ -533,7 +520,6 @@
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 	port_building=1
-	holy_site=omen_dioscuri
 }
 
 1742={ #Anakopia
@@ -590,7 +576,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_dali
 }
 
 1749={ #Brili

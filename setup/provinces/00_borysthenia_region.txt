@@ -41,7 +41,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_gelonus
 }
 
 8400={ #Merla

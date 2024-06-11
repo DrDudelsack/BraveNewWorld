@@ -40,7 +40,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_samson
 	port_building=1
 }
 
@@ -220,7 +219,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_elijah
 }
 
 676={ #Shalem
@@ -254,7 +252,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_asherah
 }
 
 679={ #Shomron
@@ -277,7 +274,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_joshua
 }
 
 681={ #Karak Mo'ab
@@ -311,7 +307,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_caleb_joshua
 }
 
 684={ #Yeriho
@@ -356,7 +351,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_samuel
 }
 
 688={ #Teqo'
@@ -401,7 +395,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_abraham
 }
 
 692={ #'Adora
@@ -534,7 +527,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_al_kutbay
 	port_building=1
 }
 
@@ -635,7 +627,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_bethel
 }
 
 714={ #Tzor Gil'ad
@@ -680,7 +671,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_chemosh
 }
 
 718={ #Ammana
@@ -780,7 +770,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_al_qaum #Changed back to omen_al_qaum, omen_dushara is established by the Nabateans mission tree in Bostra
 }
 
 730={ #'Adhruh

@@ -7,7 +7,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_jupiter
 }
 
 2={ #Tibur
@@ -30,7 +29,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_diana_nemorensis
 }
 
 4={ #Circeii
@@ -64,7 +62,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_apulu
 	port_building=2
 }
 
@@ -89,7 +86,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_vea
 }
 
 17={ #Tarchuna
@@ -102,7 +98,6 @@
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 	port_building=1
-	holy_site=omen_tages
 }
 
 18={ #Nepete
@@ -147,7 +142,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_voltumna
 }
 
 22={ #Velcal
@@ -159,7 +153,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_turan
 	port_building=1
 }
 
@@ -260,7 +253,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_aesernia
 }
 
 35={ #Buca
@@ -351,7 +343,6 @@
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 	port_building=1
-	holy_site=omen_fladukia
 }
 
 107={ #Interamnia
@@ -407,7 +398,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_mater_matuta
 }
 
 112={ #Tlamun
@@ -509,7 +499,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_uni
 }
 
 121={ #Sena
@@ -577,7 +566,6 @@
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 	port_building=2
-	holy_site=omen_hercle
 }
 
 127={ #Ilva
@@ -612,7 +600,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_menrva
 }
 
 130={ #Saina
@@ -635,7 +622,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_tinia
 }
 
 132={ #Sarsina
@@ -748,7 +734,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_norax
 }
 
 3484={ #Karali
@@ -771,7 +756,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_babai
 }
 
 3486={ #Sarcapos
@@ -794,7 +778,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_orgia
 }
 
 3488={ #Sulki Tyrsen
@@ -961,7 +944,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_sardus_can
 }
 
 3503={ #Coclearia

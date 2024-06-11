@@ -7,7 +7,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_agathyrus
 }
 
 4771={ #Leucaristus

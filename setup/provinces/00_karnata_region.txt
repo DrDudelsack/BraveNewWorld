@@ -221,7 +221,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_kanya_devi
 	port_building=1
 }
 
@@ -454,7 +453,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_purana
 }
 
 7009={ #Talavanapura
@@ -576,7 +574,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_bhadrabahu
 }
 
 7023={ #Srnguri

@@ -317,7 +317,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_shwemhtwehla
 }
 
 8770={ #Taledan
@@ -329,7 +328,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_kujii
 }
 
 8771={ #Sri Ksetra
@@ -352,7 +350,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_shwemyethna
 }
 
 8773={ #Binnaka
@@ -386,7 +383,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_chuu
 }
 
 8776={ #Hnaw Kan
@@ -420,7 +416,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_irrawaddy
 }
 
 8779={ #Dalhi
@@ -443,7 +438,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_mahagiri
 }
 
 8781={ #Mawlaik
@@ -630,7 +624,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_kroon
 }
 
 8810={ #Shweli

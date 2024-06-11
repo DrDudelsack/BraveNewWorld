@@ -176,7 +176,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_goitosyrus
 }
 
 4546={ #Urgat
@@ -310,7 +309,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_thagimasadas
 	port_building=1
 }
 
@@ -490,7 +488,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_api
 }
 
 5891={ #Avrar
@@ -678,7 +675,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_scythes
 	port_building=1
 }
 
@@ -867,7 +863,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_papaios
 }
 
 7617={ #Stepna

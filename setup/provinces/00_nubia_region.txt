@@ -40,7 +40,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_apedmak #Swapped Mandulis with Apedemak, as Apedemak was the patron god of the city of Meroe, and Mandulis was a god of Lower Nubia
 }
 
 642={ #Summarum
@@ -129,7 +128,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_kowth_nhial
 }
 
 3315={ #Gurnah
@@ -273,7 +271,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_deng
 }
 
 7590={ #Demora
@@ -417,7 +414,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_wepwawet
 }
 
 8108={ #Jebel Moya
@@ -429,7 +425,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_garang
 }
 
 8109={ #Rabak
@@ -507,7 +502,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_arensuphis
 }
 
 8591={ #Nagaa
@@ -519,7 +513,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_amesemi
 }
 
 8592={ #Kasir
@@ -828,7 +821,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_buk
 }
 
 8630={ #Dinder

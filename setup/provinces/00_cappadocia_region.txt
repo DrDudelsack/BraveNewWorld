@@ -51,7 +51,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_ma
 }
 
 173={ #Koropassos
@@ -195,7 +194,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_zeus_dacieus
 }
 
 1818={ #Ouenasa
@@ -570,7 +568,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_cataonian_apollo
 }
 
 1982={ #Ariaramneia
@@ -604,7 +601,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_ahura_mazda
 }
 
 1999={ #Maroga

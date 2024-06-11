@@ -62,7 +62,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_bamyan
 }
 
 6615={ #Alexandreia Opiane
@@ -327,7 +326,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_ramset
 }
 
 6649={ #Battak
@@ -537,7 +535,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_trapusa_and_bahalika
 }
 
 6679={ #Kaouaris
@@ -604,7 +601,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_vakhsh
 }
 
 6688={ #Alexandreia Oxou

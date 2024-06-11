@@ -18,7 +18,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_zurvan
 }
 
 3436={ #Asbana
@@ -96,7 +95,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	#holy_site=omen_adur_berzen_mihr #Doesn't exist - Rework?
 }
 
 3445={ #Sangast

@@ -214,7 +214,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_tonpa_shenrab
 }
 
 5616={ #Jangteng
@@ -248,7 +247,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_lha_mo
 }
 
 5619={ #Tanglha
@@ -369,7 +367,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_shenlha_okar
 }
 
 5631={ #Mon Bumtang
@@ -381,7 +378,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_sangpo_bumtri
 }
 
 5632={ #Khoting
@@ -590,7 +586,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_yeshe_walmo
 }
 
 5651={ #Shyri
@@ -700,7 +695,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_the_elements
 }
 
 5661={ #Rabten

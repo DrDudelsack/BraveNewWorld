@@ -7,7 +7,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_hephaestus
 	port_building=1
 }
 
@@ -466,7 +465,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_sabazios
 }
 
 4311={ #Parambole

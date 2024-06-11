@@ -484,7 +484,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_enejjaga
 }
 
 7139={ #Kanker
@@ -716,7 +715,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_kisa_sankicca
 }
 
 7166={ #Vinitapura

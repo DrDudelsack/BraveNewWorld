@@ -265,7 +265,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_amm
 }
 
 4663={ #Caripeta
@@ -310,7 +309,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_almaqah
 }
 
 4667={ #Athroula
@@ -388,7 +386,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_wadd
 }
 
 4675={ #Tretos
@@ -434,7 +431,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_sayin
 }
 
 4679={ #Sau
@@ -457,7 +453,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_shams
 }
 
 4681={ #Raida

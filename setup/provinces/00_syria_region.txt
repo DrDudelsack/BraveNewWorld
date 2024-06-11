@@ -40,7 +40,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_deborah
 }
 
 743={ #Tyros
@@ -52,7 +51,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_melqart
 	port_building=3
 }
 
@@ -65,7 +63,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_qetesh
 }
 
 745={ #Gelil
@@ -99,7 +96,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_eshmun
 	port_building=4
 }
 
@@ -134,7 +130,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_ashima
 }
 
 751={ #Leukas Chrysorrhoai
@@ -168,7 +163,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_el
 }
 
 754={ #Palmyra
@@ -180,7 +174,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_alilat
 }
 
 755={ #Beriaraka
@@ -280,7 +273,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_baal
 }
 
 764={ #Chalkis Libanon
@@ -314,7 +306,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_baalat
 	port_building=4
 }
 
@@ -483,7 +474,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_shahar
 }
 
 785={ #Pelleta
@@ -506,7 +496,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_astarte
 	port_building=1
 }
 
@@ -718,7 +707,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_atargatis
 }
 
 808={ #Beselatha
@@ -752,7 +740,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_hadad
 }
 
 811={ #Doliche
@@ -797,7 +784,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_amurru
 }
 
 815={ #Seriane

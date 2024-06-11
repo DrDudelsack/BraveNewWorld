@@ -51,7 +51,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_thraetona
 }
 
 1516={ #Shah Tepe
@@ -195,7 +194,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	#holy_site=omen_adur_gushnasp - Doesn't exist, rework?
 }
 
 1556={ #Giaur
@@ -284,7 +282,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_esther
 }
 
 1596={ #Apameia Medias
@@ -428,7 +425,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_zoroaster
 }
 
 1628={ #Piri
@@ -638,7 +634,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_angra_mainyu
 }
 
 3398={ #Themantika
@@ -694,7 +689,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_shoithrapati
 }
 
 3452={ #Goziris
@@ -805,7 +799,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_vata
 }
 
 4974={ #Gadamarta
@@ -916,7 +909,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_yima
 }
 
 4986={ #Padishkhvargar

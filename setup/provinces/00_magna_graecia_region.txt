@@ -7,7 +7,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_diana
 }
 
 7={ #Neapolis
@@ -43,7 +42,6 @@
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 	port_building=1
-	holy_site=omen_maphitis
 }
 
 10={ #Irna
@@ -111,7 +109,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_anterstatai
 }
 
 33={ #Corneliani
@@ -168,7 +165,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_juppiter_menzanas
 }
 
 40={ #Nola
@@ -336,7 +332,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_aphrodite_areia
 	port_building=1
 }
 
@@ -405,7 +400,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_zis
 }
 
 63={ #Kallipolis
@@ -451,7 +445,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_lahona
 }
 
 67={ #Egnatia
@@ -531,7 +524,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_persephone
 	port_building=1
 }
 
@@ -578,7 +570,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_fufluns
 }
 
 78={ #Kroton
@@ -659,7 +650,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_arethousa
 	port_building=3
 }
 
@@ -684,7 +674,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_heracles
 	port_building=1
 }
 

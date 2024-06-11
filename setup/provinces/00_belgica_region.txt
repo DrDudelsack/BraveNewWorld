@@ -1156,7 +1156,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_nehalennia
 }
 
 3845={ #Marsacia

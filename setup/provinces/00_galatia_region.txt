@@ -172,7 +172,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_cybele
 }
 
 189={ #Gordion
@@ -382,7 +381,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_attis
 }
 
 307={ #Bageis
@@ -449,7 +447,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_sangarios
 }
 
 314={ #Nakoleia
@@ -714,7 +711,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_men
 }
 
 1930={ #Mordiaion

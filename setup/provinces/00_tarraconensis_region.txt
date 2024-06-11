@@ -187,7 +187,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_lobegi
 }
 
 1017={ #Oiasso
@@ -398,7 +397,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_duillae
 }
 
 1069={ #Ager
@@ -718,7 +716,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_mari
 }
 
 1100={ #Tritium
@@ -752,7 +749,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_eacus
 }
 
 1104={ #Segontia Paramika

@@ -40,7 +40,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_rosmerta
 }
 
 3002={ #Pannorum

@@ -7,7 +7,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_nanna_tala
 }
 
 3302={ #Zanazia
@@ -86,7 +85,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_gurzil
 	port_building=1
 }
 
@@ -231,7 +229,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_tritonis
 }
 
 3341={ #Astrochonda
@@ -400,7 +397,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_antaeus
 }
 
 3358={ #Phykous
@@ -434,7 +430,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_cyre
 	port_building=1
 }
 
@@ -514,7 +509,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_lamia
 }
 
 3368={ #Batrachos
@@ -715,7 +709,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_ammon #Oracle of Ammon, where else would his holy site be?
 }
 
 5538={ #Gargara

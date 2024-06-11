@@ -344,7 +344,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_nerthus
 }
 
 3887={ #Halsingo
@@ -745,7 +744,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_hludana
 }
 
 6033={ #Dalaslanda

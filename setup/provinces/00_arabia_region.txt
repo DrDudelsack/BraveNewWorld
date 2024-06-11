@@ -151,7 +151,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_orotalt
 }
 
 4608={ #Phoinikon Kome
@@ -385,7 +384,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_manat
 }
 
 4630={ #Baruka
@@ -686,7 +684,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	#holy_site=omen_inzak - Removed as holy site to omen_inzak is established in Ikaros by Tylos mission tree
 }
 
 5408={ #Efa
@@ -1225,7 +1222,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_ailiah
 }
 
 7576={ #Ta'if
@@ -1237,7 +1233,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_al_uzza
 }
 
 7577={ #Attaba

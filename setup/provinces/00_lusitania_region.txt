@@ -62,7 +62,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_nabia
 }
 
 1153={ #Salacia Aebocosia
@@ -294,7 +293,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_vaelicus
 }
 
 1200={ #Vettonia Superioris
@@ -805,7 +803,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_ataecina
 }
 
 1400={ #Augusta Emerita
@@ -1004,7 +1001,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_endouellicus
 }
 
 1429={ #Badua

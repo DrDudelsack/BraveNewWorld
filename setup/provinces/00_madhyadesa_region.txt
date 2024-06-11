@@ -62,7 +62,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_kartikeya
 }
 
 4407={ #Isukara
@@ -228,7 +227,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_saraswati
 }
 
 4429={ #Varanasi
@@ -240,7 +238,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_shiva
 }
 
 4430={ #Kaushambi
@@ -329,7 +326,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_rama
 }
 
 4451={ #Sravasti
@@ -341,7 +337,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_makkhali_gosala
 }
 
 4452={ #Sambalhagrama
@@ -397,7 +392,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_sambhavanatha
 }
 
 4465={ #Bhabua
@@ -552,7 +546,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_abhinandananatha
 }
 
 7374={ #Kusapura
@@ -751,7 +744,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_bharaddai
 }
 
 7409={ #Kalapriya
@@ -763,7 +755,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_padmaprabha
 }
 
 7410={ #Kora Pancala

@@ -330,7 +330,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_dualos
 }
 
 398={ #Halos
@@ -508,7 +507,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_zibelthiurdos
 }
 
 1445={ #Chrysondyon
@@ -553,7 +551,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_redon
 	port_building=1
 }
 
@@ -599,7 +596,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_dracondracaena
 }
 
 4097={ #Helice

@@ -117,7 +117,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_vahagn
 }
 
 995={ #Bogunik
@@ -613,7 +612,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_astlik
 }
 
 1561={ #Mardastan
@@ -691,7 +689,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_noah
 }
 
 1569={ #Paracata
@@ -714,7 +711,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_khaldi
 }
 
 1571={ #Artashat
@@ -726,7 +722,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_tir
 }
 
 1572={ #Dowin
@@ -760,7 +755,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_theispas
 }
 
 1576={ #Vagharshapat
@@ -893,7 +887,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_tsovinar
 }
 
 1592={ #Akunk
@@ -1081,7 +1074,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_mihr
 }
 
 1763={ #Tareina

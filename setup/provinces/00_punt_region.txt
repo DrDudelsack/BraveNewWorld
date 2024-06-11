@@ -63,7 +63,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_maher
 }
 
 7507={ #Oreine
@@ -254,7 +253,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_wagar
 	port_building=1
 }
 
@@ -312,7 +310,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_amel_ali
 	port_building=1
 }
 
@@ -336,7 +333,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_nidar
 	port_building=1
 }
 
@@ -360,7 +356,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_waaq
 	port_building=1
 }
 
@@ -835,7 +830,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_biriir_ina_barqo
 }
 
 8674={ #Seeto
@@ -1123,7 +1117,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_ayaanle
 	port_building=1
 }
 

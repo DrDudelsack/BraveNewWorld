@@ -51,7 +51,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_adgilis_deda
 }
 
 1612={ #Tplis
@@ -173,7 +172,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_ga
 }
 
 1635={ #Nyudi
@@ -196,7 +194,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site = omen_arhan
 }
 
 1637={ #Mingechaur
@@ -274,7 +271,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_argimpasa
 }
 
 1644={ #Paytakaran
@@ -297,7 +293,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_movakanos
 }
 
 1646={ #Gardman
@@ -419,7 +414,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_iakhsari
 }
 
 1658={ #Shilda
@@ -541,7 +535,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_bardos
 }
 
 1671={ #Southwest Arran
@@ -707,7 +700,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	#holy_site=omen_argimpasa #Moved to 1643 - Samukh
 }
 
 5875={ #Ashawm
@@ -741,7 +733,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_lekos
 }
 
 7604={ #Tzur
@@ -786,7 +777,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_durdzuks
 }
 
 7624={ #Contani
@@ -809,7 +799,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_barbale
 }
 
 7626={ #Arukai

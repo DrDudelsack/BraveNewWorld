@@ -425,7 +425,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_kubera
 }
 
 4351={ #Apakara
@@ -811,7 +810,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_varuna
 }
 
 7319={ #Ataka
@@ -944,7 +942,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_sila_parami
 }
 
 9263={ #Inayati

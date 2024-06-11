@@ -51,7 +51,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_nusku
 }
 
 820={ #Kommisimbela
@@ -140,7 +139,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_gordys
 }
 
 834={ #Thamanon
@@ -163,7 +161,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_kommagene
 }
 
 837={ #Tarsa
@@ -219,7 +216,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_tork_angegh
 }
 
 842={ #Tigranokerta
@@ -396,7 +392,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_ninurta
 }
 
 863={ #Mespyla
@@ -419,7 +414,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_istaran
 }
 
 865={ #Gaugamela
@@ -508,7 +502,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_ishara
 }
 
 873={ #Asson
@@ -531,7 +524,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_ninazu
 }
 
 875={ #Zagourai
@@ -598,7 +590,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_dumuzid
 }
 
 881={ #Hliz

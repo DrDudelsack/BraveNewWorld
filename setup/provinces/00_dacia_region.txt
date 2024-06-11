@@ -1107,7 +1107,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_zalmoxis
 }
 
 4875={ #Antia
@@ -1328,7 +1327,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_bendis
 }
 
 4926={ #Dure

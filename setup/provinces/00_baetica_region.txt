@@ -87,7 +87,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_semnocosus
 }
 
 1324={ #Mirobriga Couneia

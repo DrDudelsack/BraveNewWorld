@@ -29,7 +29,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_ptah
 }
 
 501={ #Heliopolis
@@ -41,7 +40,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_ra
 }
 
 502={ #Heroopolis
@@ -64,7 +62,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_bastet #Patron goddess of Per-Bast/Bubastis
 }
 
 504={ #Leontopolis
@@ -76,7 +73,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_sekhmet
 }
 
 505={ #Klysma
@@ -100,7 +96,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_miriam
 }
 
 507={ #Leonton Polis
@@ -158,7 +153,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_joseph
 }
 
 512={ #Letous Polis
@@ -214,7 +208,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_alexander
 	port_building=3
 	library_building=3
 	commerce_building=2
@@ -242,7 +235,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_wadjet
 }
 
 519={ #Sais
@@ -254,7 +246,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_neith #Patron goddess of Zau/Sais, moved from Latopolis
 	port_building=1
 }
 
@@ -424,7 +415,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_banebdjedet
 }
 
 535={ #Ostrakine
@@ -481,7 +471,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_sobek
 }
 
 540={ #Dionysias
@@ -537,7 +526,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_heryshaf #Patron god of Henen-nesut/Herakleiopolis, replaced Set as he no longer possessed a significant cult
 }
 
 545={ #Oxyrrhynchos
@@ -703,7 +691,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_moses
 }
 
 1708={ #Tell el-Mashraba
@@ -913,7 +900,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	#holy_site=omen_thoth - Moved to Hermopolis Magna
 }
 
 7690={ #Tamiathis

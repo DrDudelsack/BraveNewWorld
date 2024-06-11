@@ -7,7 +7,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_thoth #Moved from Hermoupolis Mikra
 }
 
 551={ #Monkanei
@@ -41,7 +40,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_anubis
 }
 
 554={ #Pokis
@@ -119,7 +117,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_anhur
 }
 
 561={ #Abydos Aigptou
@@ -131,7 +128,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_osiris
 }
 
 562={ #Diospolis Mikra
@@ -154,7 +150,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_hathor
 }
 
 564={ #Kainepolis
@@ -188,7 +183,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_min
 }
 
 567={ #Apollonopolis Mikra
@@ -200,7 +194,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_heqet
 }
 
 568={ #Kerameia
@@ -223,7 +216,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_amun
 }
 
 570={ #Memnoneion
@@ -279,7 +271,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_heka #Changed to Heka, Temple was dedicated to a triad of Khnum, Neith and Heka
 }
 
 575={ #Eileithyias Polis
@@ -524,7 +515,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_khonsu
 }
 
 5505={ #Amoura

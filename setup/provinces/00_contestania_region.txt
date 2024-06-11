@@ -496,7 +496,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_dercetius
 }
 
 1255={ #Saltigi
@@ -850,7 +849,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_rasap_melqart
 	port_building=1
 }
 

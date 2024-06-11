@@ -131,7 +131,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_sinifere
 }
 
 3126={ #Saldi
@@ -542,7 +541,6 @@
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
-	holy_site=omen_mastinam
 }
 
 3164={ #Thibilis
