@@ -1,10 +1,10 @@
 ﻿divine_favour = { # This is to increase the pop growth across the board since there are so few pops
-	global_population_growth = 0.05
-	omen_power = 0.05
+	global_population_growth = 0.5
+	omen_power = 0.1
 }
 
 incentivised_pop_growth = {
-	local_population_growth = 1.5 # relatively short durations
+	local_population_growth = 2.0 # 10 years
 }
 
 change_of_scenery_mod = {

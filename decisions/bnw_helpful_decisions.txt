@@ -13,20 +13,24 @@
 		}
 
 		allow = {
-			treasury >= 150
-			political_influence >= 50
-			capital_scope = {
-				total_population >= 25
-				civilization_value >= 10
+			trigger_if = {
+				limit = {
+					is_ai = no
+				}
+				treasury >= 150
+				political_influence >= 50
+				capital_scope = {
+					total_population >= 25
+					civilization_value >= 10
+				}
 			}
-		}
-
-		ai_allow = {
-			treasury >= 50
-			political_influence >= 10
-			capital_scope = {
-				total_population >= 15
-				civilization_value >= 8
+			trigger_else = {
+				treasury >= 50
+				political_influence >= 10
+				capital_scope = {
+					total_population >= 15
+					civilization_value >= 6 # since tsrats at 5...
+				}
 			}
 		}
 
@@ -64,28 +68,22 @@
 		}
 
 		allow = {
-			treasury >= 150
-			political_influence >= 50
+			treasury >= 120
+			political_influence >= 25
 		}
 
 		effect = {
-			add_treasury = -150
-			add_political_influence = -50
-			add_centralization = 1
+			add_treasury = -120
+			add_political_influence = -25
+			add_centralization = 2
 			set_variable = {
 				name = city_pop_growth_cooldown_var
 				days = 9125 # 25 years
 			}
-			ordered_owned_province = {
+			every_owned_province = {
 				limit = {
 					has_city_status = yes
 				}
-				order_by = {
-					value = 0
-					add = population_cap
-					subtract = total_population
-				}
-				max = 5
 				add_province_modifier = {
 					name = incentivised_pop_growth
 					duration = 3650 # 10 years
@@ -106,28 +104,22 @@
 		}
 
 		allow = {
-			treasury >= 150
-			political_influence >= 50
+			treasury >= 120
+			political_influence >= 25
 		}
 
 		effect = {
-			add_treasury = -150
-			add_political_influence = -50
-			add_centralization = 1
+			add_treasury = -120
+			add_political_influence = -25
+			add_centralization = 2
 			set_variable = {
 				name = rural_pop_growth_cooldown_var
 				days = 9125 # 25 years
 			}
-			ordered_owned_province = {
+			every_owned_province = {
 				limit = {
 					has_city_status = no
 				}
-				order_by = {
-					value = 0
-					add = population_cap
-					subtract = total_population
-				}
-				max = 5
 				add_province_modifier = {
 					name = incentivised_pop_growth
 					duration = 3650 # 10 years
@@ -180,6 +172,10 @@
 			NOT = {
 				has_variable = civing_ongoing
 			}
+		}
+
+		ai_will_do = {
+			base = 10
 		}
 
 		allow = {
@@ -296,6 +292,167 @@
 			set_variable = {
 				name = aissimilation_help
 				days = 9125 # 25 years
+			}
+		}
+	}
+
+	ai_republic_reform_help = {
+		potential = {
+			is_ai = yes
+			is_tribal = yes
+			NOT = {
+				government = tribal_chiefdom
+			}
+		}
+
+		allow = {
+			trigger_if = {
+				limit = {
+					OR = {
+						tag = CAR
+						tag = ROM
+						tag = ATH
+						tag = YDD
+					}
+				}
+				civilization_value >= 35
+				political_influence >= 35
+			}
+			trigger_else = {
+				civilization_value >= 50
+				political_influence >= 50
+			}
+		}
+
+		ai_will_do = {
+			base = 10
+		}
+
+		effect = {
+			if = {
+				limit = {
+					tag = ROM
+				}
+				add_political_influence = -35
+				change_government = aristocratic_republic
+				switch_government_type_event_clearup_effect = yes
+			}
+			else_if = {
+				limit = {
+					tag = ATH
+				}
+				add_political_influence = -35
+				change_government = athenian_republic
+				switch_government_type_event_clearup_effect = yes
+			}
+			else_if = {
+				limit = {
+					tag = YDD
+				}
+				add_political_influence = -35
+				change_government = oligarchic_republic
+				switch_government_type_event_clearup_effect = yes
+			}
+			else_if = {
+				limit = {
+					OR = {
+						tag = CAR
+						tag = GAD # get this, but not the easier access conditions
+						tag = IOL # get this, but not the easier access conditions
+					}
+				}
+				add_political_influence = -35
+				change_government = punic_republic
+				switch_government_type_event_clearup_effect = yes
+			}
+			else = {
+				add_political_influence = -50
+				change_government = democratic_republic
+				switch_government_type_event_clearup_effect = yes
+			}
+		}
+	}
+
+	ai_monarchy_reform_help = { # ai only atm
+		potential = {
+			is_ai = yes
+			is_tribal = yes
+			NOT = {
+				government = tribal_chiefdom
+			}
+		}
+
+		allow = {
+			trigger_if = {
+				limit = {
+					OR = {
+						tag = MAC
+						tag = SEL
+						tag = EGY
+						tag = PRY
+						tag = EUM
+						tag = ARI
+						tag = SPA
+						tag = MRY
+						tag = JUD
+						tag = KSH
+						tag = PES
+					}
+				}
+				civilization_value >= 35
+				political_influence >= 35
+			}
+			trigger_else = {
+				civilization_value >= 50
+				political_influence >= 50
+			}
+		}
+
+		ai_will_do = {
+			base = 10
+		}
+
+		effect = {
+			if = {
+				limit = {
+					OR = {
+						tag = JUD
+						tag = KSH
+					}
+				}
+				add_political_influence = -35
+				change_government = theocratic_monarchy # not touching Judean Diarchy
+				switch_government_type_event_clearup_effect = yes
+			}
+			else_if = {
+				limit = {
+					tag = SPA
+				}
+				add_political_influence = -35
+				change_government = stratocratic_monarchy # I'm not touching the spartan diarchy
+				switch_government_type_event_clearup_effect = yes
+			}
+			else_if = {
+				limit = {
+					OR = {
+						tag = MAC
+						tag = SEL
+						tag = EGY
+						tag = PRY
+						tag = EUM
+						tag = ARI
+						tag = MRY
+						tag = PES
+					}
+				}
+				add_political_influence = -35
+				change_government = aristocratic_monarchy
+				switch_government_type_event_clearup_effect = yes
+			}
+			else = {
+				add_political_influence = -50
+				change_government = despotic_monarchy
+				switch_government_type_event_clearup_effect = yes
 			}
 		}
 	}
