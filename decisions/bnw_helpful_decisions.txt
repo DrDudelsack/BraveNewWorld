@@ -2,7 +2,7 @@
 	
 	urban_development_capital = {
 		potential = {
-			current_date < 550.1.1 # only first 100 years
+			current_date < 600.1.1 # only first 150 years
 			capital_scope = {
 				has_city_status = no
 			}
