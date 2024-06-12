@@ -17,7 +17,7 @@ jupiter_temple_event = {
 	localization_key = "wonder_temple_of_jupiter"
 	great_work_components = {
 		{
-			great_work_module = "wonder_wonder_temple_of_jupitermarib_dam"
+			great_work_module = "wonder_temple_of_jupitermarib_dam"
 		}
 	}
 	great_work_effect_selections = {
