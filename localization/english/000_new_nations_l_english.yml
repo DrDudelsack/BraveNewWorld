@@ -79,3 +79,6 @@
 
  # Provinces
  PROV1595_MEE:0 "Ecbatana"
+
+ # Tooltips
+ ai_assim_help_80_percent_tt:0 "Less than #Y 80#!% of our pops are our primary culture."

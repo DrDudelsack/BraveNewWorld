@@ -195,4 +195,100 @@
 			}
 		}
 	}
+
+	ai_assimilation_help = { # to help it catch up with player assimilation levels
+		potential = {
+			#always = yes # for testing
+			NOT = { # cooldown
+				has_variable = aissimilation_help
+			}
+			OR = {
+				current_date >= 475.1.1 # so ai doesn't take it too early
+				country_population >= 100
+			}
+			is_ai = yes
+			country_primary_population_svalue < 7500 # if you have over 7500 primary culture pops you don't get this anymore
+		}
+
+		allow = {
+			custom_tooltip = {
+				text = ai_assim_help_80_percent_tt
+				country_population_percentage_primary < 0.8
+			}
+		}
+
+		effect = {
+			if = {
+				limit = { # more than 50% non primary culture pops
+					country_population_primary_other_difference < 0
+				}
+				while = { # extra 5 pops if less than 50% are primary culture
+					count = 5
+					random_owned_province = {
+						limit = {
+							any_pops_in_province = {
+								NOT = {
+									pop_culture = root.culture
+								}
+							}
+						}
+						random_pops_in_province = {
+							limit = {
+								NOT = {
+									pop_culture = root.culture
+								}
+							}
+							set_pop_culture = root.culture
+						}
+					}
+				}
+				while = {
+					count = ai_help_assimilation_value
+					random_owned_province = {
+						limit = {
+							any_pops_in_province = {
+								NOT = {
+									pop_culture = root.culture
+								}
+							}
+						}
+						random_pops_in_province = {
+							limit = {
+								NOT = {
+									pop_culture = root.culture
+								}
+							}
+							set_pop_culture = root.culture
+						}
+					}
+				}
+			}
+			else = {
+				while = {
+					count = ai_help_assimilation_value
+					random_owned_province = {
+						limit = {
+							any_pops_in_province = {
+								NOT = {
+									pop_culture = root.culture
+								}
+							}
+						}
+						random_pops_in_province = {
+							limit = {
+								NOT = {
+									pop_culture = root.culture
+								}
+							}
+							set_pop_culture = root.culture
+						}
+					}
+				}
+			}
+			set_variable = {
+				name = aissimilation_help
+				days = 9125 # 25 years
+			}
+		}
+	}
 } 

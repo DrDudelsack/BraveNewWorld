@@ -2039,38 +2039,20 @@ galatian_invasion.35 = { # Settling - Settling
 				}
 			}
 			save_scope_as = new_city
-		}
-
-		while = {
-			count = { 15 20 }
-			if = {
-				limit = {
-					any_pops_in_province = {
-						pop_culture_group = gallic
-					}
-				}
-				random_pops_in_province = {
-					limit = {
-						pop_culture_group = gallic
-					}
-					move_pop = scope:new_city
-				}
+			while = {
+				count = { 15 20 }
 				if = {
 					limit = {
-						has_variable = galatian_pop_move_variable
+						any_pops_in_province = {
+							pop_culture_group = gallic
+						}
 					}
-					change_variable = {
-						name = galatian_pop_move_variable
-						add = 1
+					random_pops_in_province = {
+						limit = {
+							pop_culture_group = gallic
+						}
+						move_pop = scope:new_city
 					}
-				}
-				else = {
-					set_variable = {
-						name = galatian_pop_move_variable
-						value = 1
-					}
-				}
-				scope:new_city = {
 					if = {
 						limit = {
 							has_variable = galatian_pop_move_variable
@@ -2086,9 +2068,27 @@ galatian_invasion.35 = { # Settling - Settling
 							value = 1
 						}
 					}
+					scope:new_city = {
+						if = {
+							limit = {
+								has_variable = galatian_pop_move_variable
+							}
+							change_variable = {
+								name = galatian_pop_move_variable
+								add = 1
+							}
+						}
+						else = {
+							set_variable = {
+								name = galatian_pop_move_variable
+								value = 1
+							}
+						}
+					}
 				}
 			}
 		}
+		
 		if = {
 			limit = {
 				has_variable = tylis_chosen_city

@@ -100,6 +100,15 @@ bnw_startup_events.1 = {
 				create_state_pop = tribesmen
 			}
 		}
+		if = { # get's the Davidites back
+			limit = {
+				tag = JUD
+			}
+			trigger_event = {
+				id = judea_inv.23
+				days = { 365 730 }
+			}
+		}
 	}
 }
 

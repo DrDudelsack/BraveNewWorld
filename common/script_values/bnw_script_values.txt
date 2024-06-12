@@ -1,0 +1,58 @@
+﻿country_primary_population_svalue = {
+	value = 0
+	every_owned_province = {
+		limit = {
+			any_pops_in_province = {
+				pop_culture = root.culture
+			}
+		}
+		every_pops_in_province = {
+			limit = {
+				pop_culture = root.culture
+			}
+			add = 1
+		}
+	}
+}
+
+country_other_population_svalue = {
+	value = 0
+	every_owned_province = {
+		limit = {
+			any_pops_in_province = {
+				NOT = { pop_culture = root.culture }
+			}
+		}
+		every_pops_in_province = {
+			limit = {
+				NOT = { pop_culture = root.culture }
+			}
+			add = 1
+		}
+	}
+}
+
+country_population_percentage_primary = {
+	value = 0
+	add = {
+		value = country_primary_population_svalue
+		divide = country_population
+	}
+}
+
+country_population_primary_other_difference = {
+	value = 0
+	add = {
+		value = country_primary_population_svalue
+		subtract = country_other_population_svalue
+	}
+}
+
+ai_help_assimilation_value = { # should be something like 5% of unintegrated culture pops; number can be changed later
+	value = 0 # can be taken once every 25 years atm
+	add = country_other_population_svalue
+	multiply = 0.05
+	round = floor
+	min = 1
+	max = 100
+}
