@@ -101,9 +101,9 @@
 				change_country_adjective = "BARATANAC_ADJECTIVE"
 				change_country_color =  "baratanac_color"
 				change_country_tag = BTC
-				trigger_event = {
-					id = formable_heritage.153
-				}
+				##trigger_event = {
+				##	id = formable_heritage.153
+				##}
 			}
 			#add_country_modifier = {
 			#	name = parthia_formed

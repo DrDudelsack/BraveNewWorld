@@ -96,9 +96,9 @@
 				change_country_color =  "italy_color"
 				change_country_tag = ITA
 				change_country_flag = ITALY_FLAG
-				trigger_event = {
-					id = formable_heritage.92
-				}
+				##trigger_event = {
+				##	id = formable_heritage.92
+				##}
 			}
 			add_5_free_province_investments = yes
 		}

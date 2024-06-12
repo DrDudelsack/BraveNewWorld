@@ -73,6 +73,7 @@
  ALBA_ADJECTIVE:0 "Scottish"
  formable_not_alba_exists:0 "#Y Alba#! must NOT exist."
  formable_alba_capital:0 "Our capital must be located in the areas of #Y Caledonia#!, #Y Taexalia#!, or #Y Votadinia#!."
+ inherit_alba_provinces_tooltip:0 "We will inherit the provinces of #Y Caledonia#!, #Y Taexalia#!, or #Y Votadinia#! from any subjects we own."
 
  #Graecia Occidentis
  form_graecia_occidentis:0 "Form Graecia Occidentis"
@@ -105,6 +106,7 @@
  SICSYRIA_ADJECTIVE:0 "Sicsyria"
  formable_not_sicsyria_exists:0 "#Y Sicsyria#! must NOT exist."
  formable_sicsyria_capital:0 "Our capital must be located on the isle of Sicily!"
+ inherit_sicsyria_provinces_tooltip:0 "We will inherit the provinces in Sicily from any subjects we own."
 
  #Erreinu Atlantikoa
  form_erreinu_atlantikoa:0 "Form Erreinu Atlantikoa"
@@ -256,6 +258,7 @@
  OLOVIA_NAME:0 "Olovia"
  OLOVIA_ADJECTIVE:0 "Olovian"
  olovia_not_exists:0 "#Y Olovia#! must NOT exist."
+ formable_olovia_capital:0 "Our capital must be located in the regions of #Y Britannia#! or #Y Caledonia#!."
  
  #Pannonia (Berber)
  form_pannonia_berber:0 "Form Pannonia"

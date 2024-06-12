@@ -73,9 +73,9 @@
 			hidden_effect = {
 				change_country_adjective = "WIGAZA_ADJECTIVE"
 				change_country_color =  "wigaza_color"
-				trigger_event = {
-					id = formable_heritage.158
-				}
+				##trigger_event = {
+				##	id = formable_heritage.158
+				##}
 				change_country_flag = WIGAZA_FLAG
 				change_country_tag = WIG
 			}

@@ -135,9 +135,9 @@
 				change_country_color =  "vindelicia_color"
 				change_country_tag = VIN
 				change_country_flag = VINDELICIA_FLAG
-				trigger_event = {
-					id = formable_heritage.172
-				}					
+				##trigger_event = {
+				##	id = formable_heritage.172
+				##}					
 			}
 			capital_scope = {
 				establish_city_effect = yes

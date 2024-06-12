@@ -82,9 +82,9 @@
 				change_country_color = "gepidia_color"
 				change_country_tag = GEP
 				change_country_flag = GEPIDIA_FLAG
-				trigger_event = {
-					id = formable_heritage.170
-				}					
+				##trigger_event = {
+				##	id = formable_heritage.170
+				##}					
 			}
 			capital_scope = {
 				establish_city_effect = yes

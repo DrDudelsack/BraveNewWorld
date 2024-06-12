@@ -51,9 +51,9 @@
 				change_country_color =  "mann_empire_color"
 				change_country_tag = MXE
 				change_country_flag = MANN_EMPIRE_FLAG
-				trigger_event = {
-					id = formable_heritage.95
-				}				
+				##trigger_event = {
+				##	id = formable_heritage.95
+				##}				
 			}
 			capital_scope = {
 				establish_city_effect = yes				

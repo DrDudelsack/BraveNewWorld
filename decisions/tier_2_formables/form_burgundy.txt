@@ -69,9 +69,9 @@
 				change_country_color = "burgundy_formable_color"
 				change_country_tag = BGY
 				change_country_flag = BURGUNDY_FLAG
-				trigger_event = {
-					id = formable_heritage.168
-				}					
+				##trigger_event = {
+				##	id = formable_heritage.168
+				##}					
 			}
 			capital_scope = {
 				establish_city_effect = yes

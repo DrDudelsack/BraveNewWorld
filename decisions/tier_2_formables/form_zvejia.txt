@@ -76,9 +76,9 @@
 				change_country_color = "zvejia_color"
 				change_country_tag = ZVE
 				change_country_flag = ZVEJIA_FLAG
-				trigger_event = {
-					id = formable_heritage.162
-				}					
+				##trigger_event = {
+				##	id = formable_heritage.162
+				##}					
 			}
 			capital_scope = {
 				establish_city_effect = yes

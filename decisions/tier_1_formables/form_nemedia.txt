@@ -67,9 +67,9 @@
 				change_country_color =  "nemedia_color"
 				change_country_tag = NEM
 				change_country_flag = NEMEDIA_FLAG
-				trigger_event = {
-					id = formable_heritage.141
-				}					
+				##trigger_event = {
+				##	id = formable_heritage.141
+				##}					
 			}
 			custom_tooltip = inherit_hib_provinces_tooltip
 			#hidden_effect = {

@@ -149,9 +149,9 @@
 				change_country_color =  "graecia_occidentis_color"
 				change_country_tag = GRO
 				change_country_flag = GRAECIA_OCCIDENTIS_FLAG
-				trigger_event = {
-					id = formable_heritage.105
-				}				
+				##trigger_event = {
+				##	id = formable_heritage.105
+				##}				
 			}
 			capital_scope = {
 				capital_formable_large_effect = yes

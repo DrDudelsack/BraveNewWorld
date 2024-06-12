@@ -86,9 +86,9 @@
 			hidden_effect = {
 				change_country_adjective = "NYGUYLANIA_ADJECTIVE"
 				change_country_color =  "nyguylania_color"
-				trigger_event = {
-					id = formable_heritage.158
-				}
+				##trigger_event = {
+				##	id = formable_heritage.158
+				##}
 				change_country_flag = NYGUYLANIA_FLAG
 				change_country_tag = NYG
 			}

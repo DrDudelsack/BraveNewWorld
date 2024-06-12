@@ -75,9 +75,9 @@
 				change_country_color =  "brittany_color"
 				change_country_tag = BTN
 				change_country_flag = BRITTANY_FLAG
-				trigger_event = {
-					id = formable_heritage.128
-				}					
+				##trigger_event = {
+				##	id = formable_heritage.128
+				##}					
 			}
 			capital_scope = {
 				establish_city_effect = yes

@@ -87,9 +87,9 @@
 				change_country_color =  "albanian_albania_color"
 				change_country_tag = AAL
 				change_country_flag = ALBANIAN_ALBANIA_FLAG
-				trigger_event = {
-					id = formable_heritage.169
-				}					
+				##trigger_event = {
+				##	id = formable_heritage.169
+				##}					
 			}
 			capital_scope = {
 				establish_city_effect = yes

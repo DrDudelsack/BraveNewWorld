@@ -96,9 +96,9 @@
 				change_country_color =  "pannonia_berber_color"
 				change_country_tag = PAN
 				change_country_flag = PANNONIA_BERBER_FLAG
-				trigger_event = {
-					id = formable_heritage.164
-				}
+				##trigger_event = {
+				##	id = formable_heritage.164
+				##}
 			}
 			add_5_free_province_investments = yes
 		}

@@ -130,9 +130,9 @@
 				change_country_color =  "boihaemia_magna_color"
 				change_country_tag = BOM
 				change_country_flag = BOIHAEMIA_MAGNA_FLAG
-				trigger_event = {
-					id = formable_heritage.127
-				}
+				##trigger_event = {
+				##	id = formable_heritage.127
+				##}
 			}
 			add_5_free_province_investments = yes
 		}

@@ -75,9 +75,9 @@
 				change_country_color =  "atrebatia_color"
 				change_country_tag = ATR
 				change_country_flag = ATREBATIA_FLAG
-				trigger_event = {
-					id = formable_heritage.160
-				}					
+				##trigger_event = {
+				##	id = formable_heritage.160
+				##}					
 			}
 			capital_scope = {
 				establish_city_effect = yes

@@ -112,9 +112,9 @@
 				change_country_color =  "erreinu_atlantikoa_color"
 				change_country_tag = EAT
 				change_country_flag = ERREINU_ATLANTIKOA_FLAG
-				trigger_event = {
-					id = formable_heritage.115
-				}
+				##trigger_event = {
+				##	id = formable_heritage.115
+				##}
 			}
 			add_5_free_province_investments = yes
 		}

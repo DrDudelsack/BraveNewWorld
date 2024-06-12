@@ -64,9 +64,9 @@
 			hidden_effect = {
 				change_country_adjective = BRENNUSOVIA_ADJECTIVE
 				change_country_tag = BRN
-				trigger_event = {
-					id = formable_heritage.108
-				}
+				##trigger_event = {
+				##	id = formable_heritage.108
+				##}
 				change_country_color = brennusovia_color
 				change_country_flag = BRENNUSOVIA_FLAG
 			}

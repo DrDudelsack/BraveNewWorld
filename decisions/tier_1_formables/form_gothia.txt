@@ -79,9 +79,9 @@
 				change_country_color =  "gothia_color"
 				change_country_tag = GOT
 				change_country_flag = GOTHIA_FLAG
-				trigger_event = {
-					id = formable_heritage.126
-				}					
+				##trigger_event = {
+				##	id = formable_heritage.126
+				##}					
 			}
 			capital_scope = {
 				establish_city_effect = yes

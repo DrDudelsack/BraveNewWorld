@@ -67,9 +67,9 @@
 				change_country_tag = VAN
 				change_country_color = vandalia_color
 				change_country_flag = VANDALIA_FLAG
-				trigger_event = {
-					id = formable_heritage.97
-				}				
+				##trigger_event = {
+				##	id = formable_heritage.97
+				##}				
 			}
 			capital_scope = {
 				establish_city_effect = yes

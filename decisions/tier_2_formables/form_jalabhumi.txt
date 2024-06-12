@@ -83,9 +83,9 @@
 				change_country_adjective = "JALABHUMI_ADJECTIVE"
 				change_country_color =  "jalabhumi_color"
 				change_country_tag = JAL
-				trigger_event = {
-					id = formable_heritage.106
-				}
+				##trigger_event = {
+				##	id = formable_heritage.106
+				##}
 			}
 			#add_country_modifier = {
 			#	name = parthia_formed

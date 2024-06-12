@@ -76,16 +76,16 @@
 				change_country_color =  "sicsyria_color"
 				change_country_tag = SIC
 				change_country_flag = SICSYRIA_FLAG
-				trigger_event = {
-					id = formable_heritage.113
-				}					
+				##trigger_event = {
+				##	id = formable_heritage.113
+				##}					
 			}
 			capital_scope = {
 				establish_city_effect = yes				
 				capital_formable_medium_effect = yes
 				formable_capital_modifier_normal_effect = yes
 			}
-			custom_tooltip = "form_sicsyria_claims_tooltip"
+			custom_tooltip = "inherit_sicsyria_provinces_tooltip"
 			hidden_effect = {
 				area:east_sicily_area = { formable_area_province_effect = yes }
 				area:west_sicily_area = { formable_area_province_effect = yes }

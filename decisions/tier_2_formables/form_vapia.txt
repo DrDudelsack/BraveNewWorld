@@ -85,9 +85,9 @@
 			hidden_effect = {
 				change_country_adjective = "VAPIA_ADJECTIVE"
 				change_country_color =  "vapia_map_color"
-				trigger_event = {
-					id = formable_heritage.165
-				}
+				##trigger_event = {
+				##	id = formable_heritage.165
+				##}
 				change_country_flag = VAPIA_FLAG
 				change_country_tag = VAP
 			}

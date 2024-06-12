@@ -62,9 +62,9 @@
 				change_country_color =  "ishkuza_color"
 				change_country_tag = ISH
 				change_country_flag = ISHKUZA_FLAG
-				trigger_event = {
-					id = formable_heritage.143
-				}				
+				##trigger_event = {
+				##	id = formable_heritage.143
+				##}				
 			}
 			capital_scope = {
 				capital_formable_large_effect = yes

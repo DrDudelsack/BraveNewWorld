@@ -98,9 +98,9 @@
 				change_country_adjective = "KETURESAPA_ADJECTIVE"
 				change_country_color =  "keturesapa_color"
 				change_country_tag = KET
-				#trigger_event = {
-				#	id = formable_heritage.109
-				#}
+				##trigger_event = {
+				##	id = formable_heritage.109
+				##}
 			}
 			add_5_free_province_investments = yes
 		}
