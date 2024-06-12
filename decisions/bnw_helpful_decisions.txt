@@ -315,11 +315,11 @@
 						tag = YDD
 					}
 				}
-				civilization_value >= 35
+				centralization >= 50
 				political_influence >= 35
 			}
 			trigger_else = {
-				civilization_value >= 50
+				centralization >= 75
 				political_influence >= 50
 			}
 		}
@@ -399,11 +399,11 @@
 						tag = PES
 					}
 				}
-				civilization_value >= 35
+				centralization >= 50
 				political_influence >= 35
 			}
 			trigger_else = {
-				civilization_value >= 50
+				centralization >= 75
 				political_influence >= 50
 			}
 		}
