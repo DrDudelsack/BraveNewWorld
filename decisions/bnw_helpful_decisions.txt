@@ -8,6 +8,10 @@
 			}
 		}
 
+		ai_will_do = {
+			base = 10
+		}
+
 		allow = {
 			treasury >= 150
 			political_influence >= 50
@@ -208,6 +212,10 @@
 			}
 			is_ai = yes
 			country_primary_population_svalue < 7500 # if you have over 7500 primary culture pops you don't get this anymore
+		}
+
+		ai_will_do = {
+			base = 10
 		}
 
 		allow = {

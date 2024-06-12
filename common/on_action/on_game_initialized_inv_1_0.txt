@@ -8,8 +8,50 @@
 	}
 
 	events = {
+		# BNW
 		bnw_startup_events.1
 		bnw_startup_events.2
+
+		firstborn_traits.1
+		
+		###Roman Name Order
+		roman_name_order.1
+
+		###Bloodlines
+		bloodlines_startup.1 #Sparta
+		bloodlines_startup.2 #Rome
+		bloodlines_startup.3 #Athens
+		bloodlines_startup.4 #Armenia
+		bloodlines_startup.5 #Bactria
+		bloodlines_startup.6 #Bosporan
+		bloodlines_startup.7 #Heraclea
+		bloodlines_startup.8 #Judea
+		bloodlines_startup.9 #Atropatene
+		bloodlines_startup.10 #Syracuse
+		bloodlines_startup.11 #Taulantia
+		bloodlines_startup.12 #Maurya
+		bloodlines_startup.13 #Epirus
+		bloodlines_startup.14 #Senonia
+		bloodlines_startup.15 #Etruria
+		bloodlines_startup.16 #Kios
+		bloodlines_startup.17 #Macedon
+		bloodlines_startup.18 #Seleukids
+		bloodlines_startup.19 #Egypt
+		bloodlines_startup.20 #Phrygia
+		bloodlines_startup.21 #Thrace
+		bloodlines_startup.22 #Arvernia
+		bloodlines_startup.23 #Carthage
+		bloodlines_startup.24 #Pandya
+		bloodlines_startup.25 #Chola
+		bloodlines_startup.26 #Chera
+		bloodlines_startup.27 #Kalinga
+		bloodlines_startup.28 #Porus
+
+		bloodlines_startup.29 # Vijaya
+		bloodlines_startup.30 # Vijaya Ruhunu
+		bloodlines_startup.31 # Zipoetes
+		bloodlines_startup.32 # Samaria
+		bloodlines_startup.33 # Yaudheya
 	}
 
 	effect = {
@@ -263,17 +305,17 @@
 				}
 			}
 		}
-		# if = {
-		# 	limit = { tag = MRY }
-		# 	set_global_variable = {
-		# 		name = acting_as_ashoka
-		# 		value = char:66
-		# 	}
-		# 	set_variable = {
-		# 		name = ashoka_but_for_loc_local
-		# 		value = char:66
-		# 	}
-		# }
+		if = {
+			limit = { tag = MRY }
+			set_global_variable = {
+				name = acting_as_ashoka
+				value = char:66
+			}
+			set_variable = {
+				name = ashoka_but_for_loc_local
+				value = char:66
+			}
+		}
 
 		# if = {#Arseka Multireligious
 		# 	limit = { tag = SGS }

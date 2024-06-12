@@ -120,6 +120,7 @@ OLC = "setup/countries/iberia/olcadia.txt"
 #African
 
 CAR = "setup/countries/africa/carthage.txt"
+IOL = "setup/countries/africa/iol.txt"
 EGY = "setup/countries/africa/egypt.txt"
 MSS = "setup/countries/africa/massaesylia.txt"
 MSY = "setup/countries/africa/massylia.txt"
