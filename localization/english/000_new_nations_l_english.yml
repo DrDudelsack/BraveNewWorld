@@ -64,6 +64,8 @@
  divine_favour_desc:0 "The Gods have blessed you! They will send some more souls to fight for your cause."
  incentivised_pop_growth:0 "Incentivised Population Growth"
  change_of_scenery_mod:0 "Preparing Migration"
+ civ_help_me:0 "Consolidate Power"
+ civ_help_me_desxc:0 "In recent years, the leadership has increasingly wanted to centralize their power. Now, the time has come to follow through on that thought."
 
  # Decisions
  urban_development_capital:0 "Urbanising our Capital"

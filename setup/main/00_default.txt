@@ -3925,6 +3925,51 @@ provinces = { #Any entry must contain a comment with city name.
 	# Barbarian Spawn Spots
 	########################################
 
+	# New for BNW
+
+	7984 = {
+		modifier = { modifier = generic_barbarian_spawn_place }
+	}
+	7923 = {
+		modifier = { modifier = generic_barbarian_spawn_place }
+	}
+	5164 = {
+		modifier = { modifier = generic_barbarian_spawn_place }
+	}
+	5176 = {
+		modifier = { modifier = generic_barbarian_spawn_place }
+	}
+	5190 = {
+		modifier = { modifier = generic_barbarian_spawn_place }
+	}
+	5058 = {
+		modifier = { modifier = generic_barbarian_spawn_place }
+	}
+	5147 = {
+		modifier = { modifier = generic_barbarian_spawn_place }
+	}
+	5006 = {
+		modifier = { modifier = generic_barbarian_spawn_place }
+	}
+	5188 = {
+		modifier = { modifier = generic_barbarian_spawn_place }
+	}
+	9293 = {
+		modifier = { modifier = generic_barbarian_spawn_place }
+	}
+	5182 = {
+		modifier = { modifier = generic_barbarian_spawn_place }
+	}
+	5053 = {
+		modifier = { modifier = generic_barbarian_spawn_place }
+	}
+	5322 = {
+		modifier = { modifier = generic_barbarian_spawn_place }
+	}
+	5171 = {
+		modifier = { modifier = generic_barbarian_spawn_place }
+	}
+
 	#Egypt & Africa
 
 

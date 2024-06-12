@@ -17,9 +17,27 @@
 			}
 		}
 
+		ai_allow = {
+			treasury >= 50
+			political_influence >= 10
+			capital_scope = {
+				total_population >= 15
+				civilization_value >= 8
+			}
+		}
+
 		effect = {
-			add_treasury = -150
-			add_political_influence = -50
+			if = {
+				limit = {
+					is_ai = yes
+				}
+				add_treasury = -50
+				add_political_influence = -10
+			}
+			else = {
+				add_treasury = -150
+				add_political_influence = -50
+			}
 			add_centralization = 25
 			change_government = tribal_kingdom
 			capital_scope = {
@@ -142,6 +160,38 @@
 			add_country_modifier = {
 				name = change_of_scenery_mod
 				duration = 730 # 2 years
+			}
+		}
+	}
+
+	civ_help_me = { # helps civilizing
+		potential = {
+			is_tribal = yes
+			OR = {
+				centralization >= 25
+				NOT = {
+					government = tribal_chiefdom
+				}
+			}
+			NOT = {
+				has_variable = civing_ongoing
+			}
+		}
+
+		allow = {
+			centralization > -50
+			political_influence >= 15
+		}
+
+		effect = {
+			set_variable = {
+				name = civing_ongoing
+				days = 9125 # 25 years
+			}
+			add_political_influence = -15
+			add_centralization = 25
+			capital_scope = {
+				capital_formable_small_effect = yes
 			}
 		}
 	}
