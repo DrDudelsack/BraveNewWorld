@@ -342,11 +342,11 @@
 						tag = YDD
 					}
 				}
-				centralization >= 50
+				centralization >= 75
 				political_influence >= 35
 			}
 			trigger_else = {
-				centralization >= 75
+				centralization >= 90
 				political_influence >= 50
 			}
 		}
@@ -425,11 +425,11 @@
 						tag = PES
 					}
 				}
-				centralization >= 50
+				centralization >= 75
 				political_influence >= 35
 			}
 			trigger_else = {
-				centralization >= 75
+				centralization >= 90
 				political_influence >= 50
 			}
 		}
