@@ -793,6 +793,336 @@
 		}
 	}
 
+	build_wonder_stonehenge = { #wonder_stonehenge
+		potential = {
+			num_of_cities >= 1
+			owns = 3256
+			NOT = {
+				has_global_variable = carthage_cothon_event
+			}
+		}
+		highlight = {
+			scope:province = {
+				province_id = 3256
+			}
+		}
+		allow = {
+			treasury >= 1500
+			p:3256 = {
+				free_building_slots >= 1
+				great_work_locator_is_free = primary_great_work
+			}
+		}
+		ai_allow = {
+			treasury >= 500
+			p:3256 = {
+				free_building_slots >= 1
+				great_work_locator_is_free = primary_great_work
+			}
+		}
+		effect = {
+			if = {
+				limit = {
+					is_ai = yes
+				}
+				add_treasury = -500
+			}
+			else = {
+				add_treasury = -1500
+			}
+			custom_tooltip = "palace_tooltip"
+			hidden_effect = {
+				set_global_variable = {
+					name = carthage_cothon_event
+					days = -1
+				}
+				trigger_event = {
+					id = bnw_wonders.3256
+					days = { 1825 3650 } #to be balanced further
+					#days = 1 #for testing purposes
+				}
+				p:3256 = {
+					begin_great_work_construction = {
+						great_work = "wonder_stonehenge"
+						locator = primary_great_work
+						is_ancient = yes						
+					}
+				}
+			}
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				war = yes
+			}
+		}
+	}
+
+	build_carthage_cothon_event = { #carthage_cothon_event
+		potential = {
+			num_of_cities >= 1
+			owns = 3256
+			NOT = {
+				has_global_variable = built_carthage_cothon_event
+			}
+		}
+		highlight = {
+			scope:province = {
+				province_id = 3256
+			}
+		}
+		allow = {
+			treasury >= 1500
+			p:3256 = {
+				free_building_slots >= 1
+				great_work_locator_is_free = primary_great_work
+			}
+		}
+		ai_allow = {
+			treasury >= 500
+			p:3256 = {
+				free_building_slots >= 1
+				great_work_locator_is_free = primary_great_work
+			}
+		}
+		effect = {
+			if = {
+				limit = {
+					is_ai = yes
+				}
+				add_treasury = -500
+			}
+			else = {
+				add_treasury = -1500
+			}
+			custom_tooltip = "palace_tooltip"
+			hidden_effect = {
+				set_global_variable = {
+					name = built_carthage_cothon_event
+					days = -1
+				}
+				trigger_event = {
+					id = bnw_wonders.3256
+					days = { 1825 3650 } #to be balanced further
+					#days = 1 #for testing purposes
+				}
+				p:3256 = {
+					begin_great_work_construction = {
+						great_work = "carthage_cothon_event"
+						locator = primary_great_work
+						is_ancient = yes						
+					}
+				}
+			}
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				war = yes
+			}
+		}
+	}
+
+	build_marib_dam_event = { #marib_dam_event
+		potential = {
+			num_of_cities >= 1
+			owns = 4666
+			NOT = {
+				has_global_variable = built_marib_dam_event
+			}
+		}
+		highlight = {
+			scope:province = {
+				province_id = 4666
+			}
+		}
+		allow = {
+			treasury >= 1500
+			p:4666 = {
+				free_building_slots >= 1
+				great_work_locator_is_free = primary_great_work
+			}
+		}
+		ai_allow = {
+			treasury >= 500
+			p:4666 = {
+				free_building_slots >= 1
+				great_work_locator_is_free = primary_great_work
+			}
+		}
+		effect = {
+			if = {
+				limit = {
+					is_ai = yes
+				}
+				add_treasury = -500
+			}
+			else = {
+				add_treasury = -1500
+			}
+			custom_tooltip = "palace_tooltip"
+			hidden_effect = {
+				set_global_variable = {
+					name = built_marib_dam_event
+					days = -1
+				}
+				trigger_event = {
+					id = bnw_wonders.4666
+					days = { 1825 3650 } #to be balanced further
+					#days = 1 #for testing purposes
+				}
+				p:4666 = {
+					begin_great_work_construction = {
+						great_work = "marib_dam_event"
+						locator = primary_great_work
+						is_ancient = yes						
+					}
+				}
+			}
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				war = yes
+			}
+		}
+	}
+
+	build_wonder_sigiriya = { #wonder_sigiriya
+		potential = {
+			num_of_cities >= 1
+			owns = 6978
+			NOT = {
+				has_global_variable = built_wonder_sigiriya
+			}
+		}
+		highlight = {
+			scope:province = {
+				province_id = 6978
+			}
+		}
+		allow = {
+			treasury >= 1500
+			p:6978 = {
+				free_building_slots >= 1
+				great_work_locator_is_free = primary_great_work
+			}
+		}
+		ai_allow = {
+			treasury >= 500
+			p:6978 = {
+				free_building_slots >= 1
+				great_work_locator_is_free = primary_great_work
+			}
+		}
+		effect = {
+			if = {
+				limit = {
+					is_ai = yes
+				}
+				add_treasury = -500
+			}
+			else = {
+				add_treasury = -1500
+			}
+			custom_tooltip = "palace_tooltip"
+			hidden_effect = {
+				set_global_variable = {
+					name = built_wonder_sigiriya
+					days = -1
+				}
+				trigger_event = {
+					id = bnw_wonders.6978
+					days = { 1825 3650 } #to be balanced further
+					#days = 1 #for testing purposes
+				}
+				p:6978 = {
+					begin_great_work_construction = {
+						great_work = "wonder_sigiriya"
+						locator = primary_great_work
+						is_ancient = yes						
+					}
+				}
+			}
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				war = yes
+			}
+		}
+	}
+
+	build_wonder_taxila = { #wonder_taxila
+		potential = {
+			num_of_cities >= 1
+			owns = 7314
+			NOT = {
+				has_global_variable = built_wonder_taxila
+			}
+		}
+		highlight = {
+			scope:province = {
+				province_id = 7314
+			}
+		}
+		allow = {
+			treasury >= 1500
+			p:7314 = {
+				free_building_slots >= 1
+				great_work_locator_is_free = primary_great_work
+			}
+		}
+		ai_allow = {
+			treasury >= 500
+			p:7314 = {
+				free_building_slots >= 1
+				great_work_locator_is_free = primary_great_work
+			}
+		}
+		effect = {
+			if = {
+				limit = {
+					is_ai = yes
+				}
+				add_treasury = -500
+			}
+			else = {
+				add_treasury = -1500
+			}
+			custom_tooltip = "palace_tooltip"
+			hidden_effect = {
+				set_global_variable = {
+					name = built_wonder_taxila
+					days = -1
+				}
+				trigger_event = {
+					id = bnw_wonders.7314
+					days = { 1825 3650 } #to be balanced further
+					#days = 1 #for testing purposes
+				}
+				p:7314 = {
+					begin_great_work_construction = {
+						great_work = "wonder_taxila"
+						locator = primary_great_work
+						is_ancient = yes						
+					}
+				}
+			}
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				war = yes
+			}
+		}
+	}
+
 
 
 
