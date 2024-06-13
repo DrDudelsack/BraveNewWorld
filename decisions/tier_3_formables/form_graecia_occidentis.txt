@@ -169,9 +169,9 @@
 				area:alpes_graiae_area = { formable_area_province_effect = yes }
 				area:transpadana_area = { formable_area_province_effect = yes }
 				area:west_insubria_area = { formable_area_province_effect = yes }
-				trigger_event = {
-					id = formable_heritage.105
-				}
+				# trigger_event = {
+				# 	id = formable_heritage.105
+				# }
 			}
 			add_5_free_province_investments = yes
 		}

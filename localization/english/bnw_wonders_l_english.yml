@@ -1,0 +1,97 @@
+﻿l_english:
+
+ # Tooltips
+ palace_tooltip:0 "#T The construction of the wonder will begin.#!"
+
+ # Wonders
+
+ # Decisions
+
+ # Events
+ bnw_wonders.1.t:0 "The Temple to Jupiter"
+ bnw_wonders.1.desc:0 "We have completed the construction of the great Temple to Jupiter."
+ bnw_wonders.1.a:0 "May the Gods favour us."
+
+ bnw_wonders.2.t:0 "The Temple to Artemis"
+ bnw_wonders.2.desc:0 "We have completed the construction of the great Temple to Artemis."
+ bnw_wonders.2.a:0 "May the Gods favour us."
+
+ bnw_wonders.3.t:0 "The Knossos Palace"
+ bnw_wonders.3.desc:0 "We have completed the construction of the Minoan Palace at Knossos."
+ bnw_wonders.3.a:0 "May the Gods favour us."
+
+ bnw_wonders.4.t:0 "The Athenian Akropolis"
+ bnw_wonders.4.desc:0 "We have completed the construction of the Athenian Akropolis."
+ bnw_wonders.4.a:0 "May the Gods favour us."
+
+ bnw_wonders.5.t:0 "The Temple to Zeus"
+ bnw_wonders.5.desc:0 "We have completed the construction of the great Temple to Zeus."
+ bnw_wonders.5.a:0 "May the Gods favour us."
+
+ bnw_wonders.6.t:0 "The Pyramids at Giza"
+ bnw_wonders.6.desc:0 "We have completed the construction of the great Pyramids at Giza."
+ bnw_wonders.6.a:0 "May the Gods favour us."
+
+ bnw_wonders.7.t:0 "Abu Simbel"
+ bnw_wonders.7.desc:0 "We have completed the construction of the tomb Abu Simbel."
+ bnw_wonders.7.a:0 "May the Gods favour us."
+
+ bnw_wonders.8.t:0 "The Second Temple at Jerusalem"
+ bnw_wonders.8.desc:0 "We have completed the construction of the great Temple at Jerusalem."
+ bnw_wonders.8.a:0 "May God be with us."
+
+ bnw_wonders.9.t:0 "The Hanging Gardens of Semiramis"
+ bnw_wonders.9.desc:0 "We have completed the construction of the Hanging Gardens at Babylon."
+ bnw_wonders.9.a:0 "May the Gods favour us."
+
+ bnw_wonders.10.t:0 "The Punic Tomb on [GetProvince('(int32)1471').GetName]"
+ bnw_wonders.10.desc:0 "We have completed the construction of an impressive Punic Tomb."
+ bnw_wonders.10.a:0 "May the Gods favour us."
+
+ bnw_wonders.11.t:0 "The Mausoleum at Halikarnassos"
+ bnw_wonders.11.desc:0 "We have completed the construction of the great Mausoleum at Halikarnassos."
+ bnw_wonders.11.a:0 "May the Gods favour us."
+
+ bnw_wonders.12.t:0 "Stonehenge"
+ bnw_wonders.12.desc:0 "We have completed the construction of Stonehenge."
+ bnw_wonders.12.a:0 "May the Gods favour us."
+
+ bnw_wonders.13.t:0 "The Great Cothon"
+ bnw_wonders.13.desc:0 "We have completed the construction of the Great Carthaginian Cothon."
+ bnw_wonders.13.a:0 "May the Gods favour us."
+
+ bnw_wonders.14.t:0 "The Ma'rib Dam"
+ bnw_wonders.14.desc:0 "We have completed the construction of the great Dam in Ma'rib."
+ bnw_wonders.14.a:0 "May the Gods favour us."
+
+ bnw_wonders.15.t:0 "Sigiriya"
+ bnw_wonders.15.desc:0 "We have completed the construction of Sigiriya."
+ bnw_wonders.15.a:0 "May the Gods favour us."
+
+ bnw_wonders.16.t:0 "The University at Taxila"
+ bnw_wonders.16.desc:0 "We have completed the construction of the great University at Taxila."
+ bnw_wonders.16.a:0 "May the Gods favour us."
+
+ bnw_wonders.17.t:0 "The Rhodian Akropolis"
+ bnw_wonders.17.desc:0 "We have completed the construction of the Rhodian Akropolis."
+ bnw_wonders.17.a:0 "May the Gods favour us."
+
+ bnw_wonders.18.t:0 "The Pergamine Akropolis"
+ bnw_wonders.18.desc:0 "We have completed the construction of the Pergamine Akropolis."
+ bnw_wonders.18.a:0 "May the Gods favour us."
+
+ bnw_wonders.19.t:0 "The Palace of the Argeads"
+ bnw_wonders.19.desc:0 "We have completed the construction of the Argead Palace."
+ bnw_wonders.19.a:0 "May the Gods favour us."
+
+ bnw_wonders.20.t:0 "Ay Khanum"
+ bnw_wonders.20.desc:0 "We have completed the construction of the Ay Khanum."
+ bnw_wonders.20.a:0 "May the Gods favour us."
+
+ bnw_wonders.21.t:0 "The Ziggurat at Ur"
+ bnw_wonders.21.desc:0 "We have completed the construction of the great Ziggurat at Ur."
+ bnw_wonders.21.a:0 "May the Gods favour us."
+
+ bnw_wonders.22.t:0 "The Dodona Oracle"
+ bnw_wonders.22.desc:0 "We have completed the construction of a temple to the Oracle at Dodona."
+ bnw_wonders.22.a:0 "May the Gods favour us."

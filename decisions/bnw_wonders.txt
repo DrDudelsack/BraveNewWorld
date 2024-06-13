@@ -14,14 +14,15 @@
 			}
 		}
 		allow = {
-			treasury >= 1500
-			p:1 = {
-				free_building_slots >= 1
-				great_work_locator_is_free = primary_great_work
+			trigger_if = {
+				limit = {
+					is_ai = yes
+				}
+				treasury >= 500
 			}
-		}
-		ai_allow = {
-			treasury >= 500
+			trigger_else = {
+				treasury >= 1500
+			}
 			p:1 = {
 				free_building_slots >= 1
 				great_work_locator_is_free = primary_great_work
@@ -45,8 +46,8 @@
 				}
 				trigger_event = {
 					id = bnw_wonders.1
-					#days = { 1825 3650 } #to be balanced further
-					days = 1 #for testing purposes
+					days = { 1825 3650 } #to be balanced further
+					#days = 1 #for testing purposes
 				}
 				p:1 = {
 					begin_great_work_construction = {
@@ -80,14 +81,15 @@
 			}
 		}
 		allow = {
-			treasury >= 1500
-			p:290 = {
-				free_building_slots >= 1
-				great_work_locator_is_free = primary_great_work
+			trigger_if = {
+				limit = {
+					is_ai = yes
+				}
+				treasury >= 500
 			}
-		}
-		ai_allow = {
-			treasury >= 500
+			trigger_else = {
+				treasury >= 1500
+			}
 			p:290 = {
 				free_building_slots >= 1
 				great_work_locator_is_free = primary_great_work
@@ -110,13 +112,13 @@
 					days = -1
 				}
 				trigger_event = {
-					id = bnw_wonders.1
-					#days = { 1825 3650 } #to be balanced further
-					days = 1 #for testing purposes
+					id = bnw_wonders.2
+					days = { 1825 3650 } #to be balanced further
+					#days = 1 #for testing purposes
 				}
 				p:290 = {
 					begin_great_work_construction = {
-						great_work = "wonder_temple_artemis"
+						great_work = "artemis_temple_event"
 						locator = primary_great_work
 						is_ancient = yes						
 					}
@@ -146,14 +148,15 @@
 			}
 		}
 		allow = {
-			treasury >= 1500
-			p:358 = {
-				free_building_slots >= 1
-				great_work_locator_is_free = primary_great_work
+			trigger_if = {
+				limit = {
+					is_ai = yes
+				}
+				treasury >= 500
 			}
-		}
-		ai_allow = {
-			treasury >= 500
+			trigger_else = {
+				treasury >= 1500
+			}
 			p:358 = {
 				free_building_slots >= 1
 				great_work_locator_is_free = primary_great_work
@@ -176,9 +179,9 @@
 					days = -1
 				}
 				trigger_event = {
-					id = bnw_wonders.1
-					#days = { 1825 3650 } #to be balanced further
-					days = 1 #for testing purposes
+					id = bnw_wonders.3
+					days = { 1825 3650 } #to be balanced further
+					#days = 1 #for testing purposes
 				}
 				p:358 = {
 					begin_great_work_construction = {
@@ -212,14 +215,15 @@
 			}
 		}
 		allow = {
-			treasury >= 1500
-			p:416 = {
-				free_building_slots >= 1
-				great_work_locator_is_free = primary_great_work
+			trigger_if = {
+				limit = {
+					is_ai = yes
+				}
+				treasury >= 500
 			}
-		}
-		ai_allow = {
-			treasury >= 500
+			trigger_else = {
+				treasury >= 1500
+			}
 			p:416 = {
 				free_building_slots >= 1
 				great_work_locator_is_free = primary_great_work
@@ -242,9 +246,9 @@
 					days = -1
 				}
 				trigger_event = {
-					id = bnw_wonders.1
-					#days = { 1825 3650 } #to be balanced further
-					days = 1 #for testing purposes
+					id = bnw_wonders.4
+					days = { 1825 3650 } #to be balanced further
+					#days = 1 #for testing purposes
 				}
 				p:416 = {
 					begin_great_work_construction = {
@@ -278,14 +282,15 @@
 			}
 		}
 		allow = {
-			treasury >= 1500
-			p:439 = {
-				free_building_slots >= 1
-				great_work_locator_is_free = primary_great_work
+			trigger_if = {
+				limit = {
+					is_ai = yes
+				}
+				treasury >= 500
 			}
-		}
-		ai_allow = {
-			treasury >= 500
+			trigger_else = {
+				treasury >= 1500
+			}
 			p:439 = {
 				free_building_slots >= 1
 				great_work_locator_is_free = primary_great_work
@@ -308,13 +313,13 @@
 					days = -1
 				}
 				trigger_event = {
-					id = bnw_wonders.1
-					#days = { 1825 3650 } #to be balanced further
-					days = 1 #for testing purposes
+					id = bnw_wonders.5
+					days = { 1825 3650 } #to be balanced further
+					#days = 1 #for testing purposes
 				}
 				p:439 = {
 					begin_great_work_construction = {
-						great_work = "wonder_temple_of_zeus"
+						great_work = "temple_of_zeus_event"
 						locator = primary_great_work
 						is_ancient = yes						
 					}
@@ -344,14 +349,15 @@
 			}
 		}
 		allow = {
-			treasury >= 1500
-			p:536 = {
-				free_building_slots >= 1
-				great_work_locator_is_free = primary_great_work
+			trigger_if = {
+				limit = {
+					is_ai = yes
+				}
+				treasury >= 500
 			}
-		}
-		ai_allow = {
-			treasury >= 500
+			trigger_else = {
+				treasury >= 1500
+			}
 			p:536 = {
 				free_building_slots >= 1
 				great_work_locator_is_free = primary_great_work
@@ -374,13 +380,13 @@
 					days = -1
 				}
 				trigger_event = {
-					id = bnw_wonders.1
-					#days = { 1825 3650 } #to be balanced further
-					days = 1 #for testing purposes
+					id = bnw_wonders.6
+					days = { 1825 3650 } #to be balanced further
+					#days = 1 #for testing purposes
 				}
 				p:536 = {
 					begin_great_work_construction = {
-						great_work = "wonder_giza"
+						great_work = "giza_pyramids_event"
 						locator = primary_great_work
 						is_ancient = yes						
 					}
@@ -410,14 +416,15 @@
 			}
 		}
 		allow = {
-			treasury >= 1500
-			p:600 = {
-				free_building_slots >= 1
-				great_work_locator_is_free = primary_great_work
+			trigger_if = {
+				limit = {
+					is_ai = yes
+				}
+				treasury >= 500
 			}
-		}
-		ai_allow = {
-			treasury >= 500
+			trigger_else = {
+				treasury >= 1500
+			}
 			p:600 = {
 				free_building_slots >= 1
 				great_work_locator_is_free = primary_great_work
@@ -440,7 +447,7 @@
 					days = -1
 				}
 				trigger_event = {
-					id = bnw_wonders.600
+					id = bnw_wonders.7
 					days = { 1825 3650 } #to be balanced further
 					#days = 1 #for testing purposes
 				}
@@ -476,14 +483,15 @@
 			}
 		}
 		allow = {
-			treasury >= 1500
-			p:687 = {
-				free_building_slots >= 1
-				great_work_locator_is_free = primary_great_work
+			trigger_if = {
+				limit = {
+					is_ai = yes
+				}
+				treasury >= 500
 			}
-		}
-		ai_allow = {
-			treasury >= 500
+			trigger_else = {
+				treasury >= 1500
+			}
 			p:687 = {
 				free_building_slots >= 1
 				great_work_locator_is_free = primary_great_work
@@ -506,7 +514,7 @@
 					days = -1
 				}
 				trigger_event = {
-					id = bnw_wonders.687
+					id = bnw_wonders.8
 					days = { 1825 3650 } #to be balanced further
 					#days = 1 #for testing purposes
 				}
@@ -542,14 +550,15 @@
 			}
 		}
 		allow = {
-			treasury >= 1500
-			p:918 = {
-				free_building_slots >= 1
-				great_work_locator_is_free = primary_great_work
+			trigger_if = {
+				limit = {
+					is_ai = yes
+				}
+				treasury >= 500
 			}
-		}
-		ai_allow = {
-			treasury >= 500
+			trigger_else = {
+				treasury >= 1500
+			}
 			p:918 = {
 				free_building_slots >= 1
 				great_work_locator_is_free = primary_great_work
@@ -572,13 +581,13 @@
 					days = -1
 				}
 				trigger_event = {
-					id = bnw_wonders.918
+					id = bnw_wonders.9
 					days = { 1825 3650 } #to be balanced further
 					#days = 1 #for testing purposes
 				}
 				p:918 = {
 					begin_great_work_construction = {
-						great_work = "wonder_hanging_gardens"
+						great_work = "gardens_babylon_event"
 						locator = primary_great_work
 						is_ancient = yes						
 					}
@@ -608,14 +617,15 @@
 			}
 		}
 		allow = {
-			treasury >= 1500
-			p:1471 = {
-				free_building_slots >= 1
-				great_work_locator_is_free = primary_great_work
+			trigger_if = {
+				limit = {
+					is_ai = yes
+				}
+				treasury >= 500
 			}
-		}
-		ai_allow = {
-			treasury >= 500
+			trigger_else = {
+				treasury >= 1500
+			}
 			p:1471 = {
 				free_building_slots >= 1
 				great_work_locator_is_free = primary_great_work
@@ -638,7 +648,7 @@
 					days = -1
 				}
 				trigger_event = {
-					id = bnw_wonders.1471
+					id = bnw_wonders.10
 					days = { 1825 3650 } #to be balanced further
 					#days = 1 #for testing purposes
 				}
@@ -674,14 +684,15 @@
 			}
 		}
 		allow = {
-			treasury >= 1500
-			p:1981 = {
-				free_building_slots >= 1
-				great_work_locator_is_free = primary_great_work
+			trigger_if = {
+				limit = {
+					is_ai = yes
+				}
+				treasury >= 500
 			}
-		}
-		ai_allow = {
-			treasury >= 500
+			trigger_else = {
+				treasury >= 1500
+			}
 			p:1981 = {
 				free_building_slots >= 1
 				great_work_locator_is_free = primary_great_work
@@ -704,13 +715,13 @@
 					days = -1
 				}
 				trigger_event = {
-					id = bnw_wonders.1981
+					id = bnw_wonders.11
 					days = { 1825 3650 } #to be balanced further
 					#days = 1 #for testing purposes
 				}
 				p:1981 = {
 					begin_great_work_construction = {
-						great_work = "wonder_halicarnassus"
+						great_work = "mausoleum_event"
 						locator = primary_great_work
 						is_ancient = yes						
 					}
@@ -741,14 +752,15 @@
 			}
 		}
 		allow = {
-			treasury >= 1500
-			p:2012 = {
-				free_building_slots >= 1
-				great_work_locator_is_free = primary_great_work
+			trigger_if = {
+				limit = {
+					is_ai = yes
+				}
+				treasury >= 500
 			}
-		}
-		ai_allow = {
-			treasury >= 500
+			trigger_else = {
+				treasury >= 1500
+			}
 			p:2012 = {
 				free_building_slots >= 1
 				great_work_locator_is_free = primary_great_work
@@ -771,79 +783,13 @@
 					days = -1
 				}
 				trigger_event = {
-					id = bnw_wonders.2012
+					id = bnw_wonders.12
 					days = { 1825 3650 } #to be balanced further
 					#days = 1 #for testing purposes
 				}
 				p:2012 = {
 					begin_great_work_construction = {
-						great_work = "wonder_stonehenge"
-						locator = primary_great_work
-						is_ancient = yes						
-					}
-				}
-			}
-		}
-		ai_will_do = {
-			factor = 1
-			modifier = {
-				factor = 0
-				war = yes
-			}
-		}
-	}
-
-	build_wonder_stonehenge = { #wonder_stonehenge
-		potential = {
-			num_of_cities >= 1
-			owns = 3256
-			NOT = {
-				has_global_variable = carthage_cothon_event
-			}
-		}
-		highlight = {
-			scope:province = {
-				province_id = 3256
-			}
-		}
-		allow = {
-			treasury >= 1500
-			p:3256 = {
-				free_building_slots >= 1
-				great_work_locator_is_free = primary_great_work
-			}
-		}
-		ai_allow = {
-			treasury >= 500
-			p:3256 = {
-				free_building_slots >= 1
-				great_work_locator_is_free = primary_great_work
-			}
-		}
-		effect = {
-			if = {
-				limit = {
-					is_ai = yes
-				}
-				add_treasury = -500
-			}
-			else = {
-				add_treasury = -1500
-			}
-			custom_tooltip = "palace_tooltip"
-			hidden_effect = {
-				set_global_variable = {
-					name = carthage_cothon_event
-					days = -1
-				}
-				trigger_event = {
-					id = bnw_wonders.3256
-					days = { 1825 3650 } #to be balanced further
-					#days = 1 #for testing purposes
-				}
-				p:3256 = {
-					begin_great_work_construction = {
-						great_work = "wonder_stonehenge"
+						great_work = "stonehenge_original_event"
 						locator = primary_great_work
 						is_ancient = yes						
 					}
@@ -873,14 +819,15 @@
 			}
 		}
 		allow = {
-			treasury >= 1500
-			p:3256 = {
-				free_building_slots >= 1
-				great_work_locator_is_free = primary_great_work
+			trigger_if = {
+				limit = {
+					is_ai = yes
+				}
+				treasury >= 500
 			}
-		}
-		ai_allow = {
-			treasury >= 500
+			trigger_else = {
+				treasury >= 1500
+			}
 			p:3256 = {
 				free_building_slots >= 1
 				great_work_locator_is_free = primary_great_work
@@ -903,7 +850,7 @@
 					days = -1
 				}
 				trigger_event = {
-					id = bnw_wonders.3256
+					id = bnw_wonders.13
 					days = { 1825 3650 } #to be balanced further
 					#days = 1 #for testing purposes
 				}
@@ -939,14 +886,15 @@
 			}
 		}
 		allow = {
-			treasury >= 1500
-			p:4666 = {
-				free_building_slots >= 1
-				great_work_locator_is_free = primary_great_work
+			trigger_if = {
+				limit = {
+					is_ai = yes
+				}
+				treasury >= 500
 			}
-		}
-		ai_allow = {
-			treasury >= 500
+			trigger_else = {
+				treasury >= 1500
+			}
 			p:4666 = {
 				free_building_slots >= 1
 				great_work_locator_is_free = primary_great_work
@@ -969,7 +917,7 @@
 					days = -1
 				}
 				trigger_event = {
-					id = bnw_wonders.4666
+					id = bnw_wonders.14
 					days = { 1825 3650 } #to be balanced further
 					#days = 1 #for testing purposes
 				}
@@ -1005,14 +953,15 @@
 			}
 		}
 		allow = {
-			treasury >= 1500
-			p:6978 = {
-				free_building_slots >= 1
-				great_work_locator_is_free = primary_great_work
+			trigger_if = {
+				limit = {
+					is_ai = yes
+				}
+				treasury >= 500
 			}
-		}
-		ai_allow = {
-			treasury >= 500
+			trigger_else = {
+				treasury >= 1500
+			}
 			p:6978 = {
 				free_building_slots >= 1
 				great_work_locator_is_free = primary_great_work
@@ -1035,13 +984,13 @@
 					days = -1
 				}
 				trigger_event = {
-					id = bnw_wonders.6978
+					id = bnw_wonders.15
 					days = { 1825 3650 } #to be balanced further
 					#days = 1 #for testing purposes
 				}
 				p:6978 = {
 					begin_great_work_construction = {
-						great_work = "wonder_sigiriya"
+						great_work = "sigiriya_event"
 						locator = primary_great_work
 						is_ancient = yes						
 					}
@@ -1071,14 +1020,15 @@
 			}
 		}
 		allow = {
-			treasury >= 1500
-			p:7314 = {
-				free_building_slots >= 1
-				great_work_locator_is_free = primary_great_work
+			trigger_if = {
+				limit = {
+					is_ai = yes
+				}
+				treasury >= 500
 			}
-		}
-		ai_allow = {
-			treasury >= 500
+			trigger_else = {
+				treasury >= 1500
+			}
 			p:7314 = {
 				free_building_slots >= 1
 				great_work_locator_is_free = primary_great_work
@@ -1101,13 +1051,13 @@
 					days = -1
 				}
 				trigger_event = {
-					id = bnw_wonders.7314
+					id = bnw_wonders.16
 					days = { 1825 3650 } #to be balanced further
 					#days = 1 #for testing purposes
 				}
 				p:7314 = {
 					begin_great_work_construction = {
-						great_work = "wonder_taxila"
+						great_work = "taxila_event"
 						locator = primary_great_work
 						is_ancient = yes						
 					}
@@ -1123,9 +1073,405 @@
 		}
 	}
 
+	build_wonder_acropolis_rhodes = { #
+		potential = {
+			num_of_cities >= 1
+			owns = 266
+			NOT = {
+				has_global_variable = built_wonder_acropolis_rhodes
+			}
+		}
+		highlight = {
+			scope:province = {
+				province_id = 266
+			}
+		}
+		allow = {
+			trigger_if = {
+				limit = {
+					is_ai = yes
+				}
+				treasury >= 500
+			}
+			trigger_else = {
+				treasury >= 1500
+			}
+			p:266 = {
+				free_building_slots >= 1
+				great_work_locator_is_free = primary_great_work
+			}
+		}
+		effect = {
+			if = {
+				limit = {
+					is_ai = yes
+				}
+				add_treasury = -500
+			}
+			else = {
+				add_treasury = -1500
+			}
+			custom_tooltip = "palace_tooltip"
+			hidden_effect = {
+				set_global_variable = {
+					name = built_wonder_acropolis_rhodes
+					days = -1
+				}
+				trigger_event = {
+					id = bnw_wonders.17
+					days = { 1825 3650 } #to be balanced further
+					#days = 1 #for testing purposes
+				}
+				p:266 = {
+					begin_great_work_construction = {
+						great_work = "acropolis_rhodes_event"
+						locator = primary_great_work
+						is_ancient = yes						
+					}
+				}
+			}
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				war = yes
+			}
+		}
+	}
 
+	build_wonder_acropolis_pergamon = { #
+		potential = {
+			num_of_cities >= 1
+			owns = 278
+			NOT = {
+				has_global_variable = built_wonder_acropolis_pergamon
+			}
+		}
+		highlight = {
+			scope:province = {
+				province_id = 278
+			}
+		}
+		allow = {
+			trigger_if = {
+				limit = {
+					is_ai = yes
+				}
+				treasury >= 500
+			}
+			trigger_else = {
+				treasury >= 1500
+			}
+			p:278 = {
+				free_building_slots >= 1
+				great_work_locator_is_free = primary_great_work
+			}
+		}
+		effect = {
+			if = {
+				limit = {
+					is_ai = yes
+				}
+				add_treasury = -500
+			}
+			else = {
+				add_treasury = -1500
+			}
+			custom_tooltip = "palace_tooltip"
+			hidden_effect = {
+				set_global_variable = {
+					name = built_wonder_acropolis_pergamon
+					days = -1
+				}
+				trigger_event = {
+					id = bnw_wonders.18
+					days = { 1825 3650 } #to be balanced further
+					#days = 1 #for testing purposes
+				}
+				p:278 = {
+					begin_great_work_construction = {
+						great_work = "acropolis_pergamon_event"
+						locator = primary_great_work
+						is_ancient = yes						
+					}
+				}
+			}
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				war = yes
+			}
+		}
+	}
 
+	build_wonder_argead_palace = { #
+		potential = {
+			num_of_cities >= 1
+			owns = 428
+			NOT = {
+				has_global_variable = built_wonder_argead_palace
+			}
+		}
+		highlight = {
+			scope:province = {
+				province_id = 428
+			}
+		}
+		allow = {
+			trigger_if = {
+				limit = {
+					is_ai = yes
+				}
+				treasury >= 500
+			}
+			trigger_else = {
+				treasury >= 1500
+			}
+			p:428 = {
+				free_building_slots >= 1
+				great_work_locator_is_free = primary_great_work
+			}
+		}
+		effect = {
+			if = {
+				limit = {
+					is_ai = yes
+				}
+				add_treasury = -500
+			}
+			else = {
+				add_treasury = -1500
+			}
+			custom_tooltip = "palace_tooltip"
+			hidden_effect = {
+				set_global_variable = {
+					name = built_wonder_argead_palace
+					days = -1
+				}
+				trigger_event = {
+					id = bnw_wonders.19
+					days = { 1825 3650 } #to be balanced further
+					#days = 1 #for testing purposes
+				}
+				p:428 = {
+					begin_great_work_construction = {
+						great_work = "argead_palace_event"
+						locator = primary_great_work
+						is_ancient = yes						
+					}
+				}
+			}
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				war = yes
+			}
+		}
+	}
 
+	build_wonder_ay_khanum = { #
+		potential = {
+			num_of_cities >= 1
+			owns = 6694
+			NOT = {
+				has_global_variable = built_wonder_ay_khanum
+			}
+		}
+		highlight = {
+			scope:province = {
+				province_id = 6694
+			}
+		}
+		allow = {
+			trigger_if = {
+				limit = {
+					is_ai = yes
+				}
+				treasury >= 500
+			}
+			trigger_else = {
+				treasury >= 1500
+			}
+			p:6694 = {
+				free_building_slots >= 1
+				great_work_locator_is_free = primary_great_work
+			}
+		}
+		effect = {
+			if = {
+				limit = {
+					is_ai = yes
+				}
+				add_treasury = -500
+			}
+			else = {
+				add_treasury = -1500
+			}
+			custom_tooltip = "palace_tooltip"
+			hidden_effect = {
+				set_global_variable = {
+					name = built_wonder_ay_khanum
+					days = -1
+				}
+				trigger_event = {
+					id = bnw_wonders.20
+					days = { 1825 3650 } #to be balanced further
+					#days = 1 #for testing purposes
+				}
+				p:6694 = {
+					begin_great_work_construction = {
+						great_work = "ay_khanum_event"
+						locator = primary_great_work
+						is_ancient = yes						
+					}
+				}
+			}
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				war = yes
+			}
+		}
+	}
 
-	
+	build_wonder_ziggurat = { #
+		potential = {
+			num_of_cities >= 1
+			owns = 7723
+			NOT = {
+				has_global_variable = built_wonder_ziggurat
+			}
+		}
+		highlight = {
+			scope:province = {
+				province_id = 7723
+			}
+		}
+		allow = {
+			trigger_if = {
+				limit = {
+					is_ai = yes
+				}
+				treasury >= 500
+			}
+			trigger_else = {
+				treasury >= 1500
+			}
+			p:7723 = {
+				free_building_slots >= 1
+				great_work_locator_is_free = primary_great_work
+			}
+		}
+		effect = {
+			if = {
+				limit = {
+					is_ai = yes
+				}
+				add_treasury = -500
+			}
+			else = {
+				add_treasury = -1500
+			}
+			custom_tooltip = "palace_tooltip"
+			hidden_effect = {
+				set_global_variable = {
+					name = built_wonder_ziggurat
+					days = -1
+				}
+				trigger_event = {
+					id = bnw_wonders.21
+					days = { 1825 3650 } #to be balanced further
+					#days = 1 #for testing purposes
+				}
+				p:7723 = {
+					begin_great_work_construction = {
+						great_work = "ur_ziggurat_event"
+						locator = primary_great_work
+						is_ancient = yes						
+					}
+				}
+			}
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				war = yes
+			}
+		}
+	}
+
+	build_wonder_dodona_oracle = { #
+		potential = {
+			num_of_cities >= 1
+			owns = 425
+			NOT = {
+				has_global_variable = built_wonder_dodona_oracle
+			}
+		}
+		highlight = {
+			scope:province = {
+				province_id = 425
+			}
+		}
+		allow = {
+			trigger_if = {
+				limit = {
+					is_ai = yes
+				}
+				treasury >= 500
+			}
+			trigger_else = {
+				treasury >= 1500
+			}
+			p:425 = {
+				free_building_slots >= 1
+				great_work_locator_is_free = primary_great_work
+			}
+		}
+		effect = {
+			if = {
+				limit = {
+					is_ai = yes
+				}
+				add_treasury = -500
+			}
+			else = {
+				add_treasury = -1500
+			}
+			custom_tooltip = "palace_tooltip"
+			hidden_effect = {
+				set_global_variable = {
+					name = built_wonder_dodona_oracle
+					days = -1
+				}
+				trigger_event = {
+					id = bnw_wonders.22
+					days = { 1825 3650 } #to be balanced further
+					#days = 1 #for testing purposes
+				}
+				p:425 = {
+					begin_great_work_construction = {
+						great_work = "dodona_oracle"
+						locator = primary_great_work
+						is_ancient = yes						
+					}
+				}
+			}
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				war = yes
+			}
+		}
+	}
 }

@@ -1,19 +1,439 @@
 ﻿namespace = bnw_wonders
 
-bnw_wonders.1 = { #finishing construction of the the Palace
+bnw_wonders.1 = { #finishing construction of the the temple
 	type = country_event
-	title = ba_wonders.2.t
-	desc = ba_wonders.2.desc
+	title = bnw_wonders.1.t
+	desc = bnw_wonders.1.desc
 	picture = great_library
 
 	left_portrait = current_ruler
-	goto_location = capital_scope
+	goto_location = p:1
 
 	option = {
 		name = bnw_wonders.1.a
-		capital_scope = {
+		p:1 = {
 			finish_great_work_construction = {
 				great_work = "jupiter_temple_event"
+				locator = primary_great_work
+			}
+		}
+	}
+}
+
+bnw_wonders.2 = { 
+	type = country_event
+	title = bnw_wonders.2.t
+	desc = bnw_wonders.2.desc
+	picture = great_library
+
+	left_portrait = current_ruler
+	goto_location = p:290
+
+	option = {
+		name = bnw_wonders.2.a
+		p:290 = {
+			finish_great_work_construction = {
+				great_work = "artemis_temple_event"
+				locator = primary_great_work
+			}
+		}
+	}
+}
+
+bnw_wonders.3 = { 
+	type = country_event
+	title = bnw_wonders.3.t
+	desc = bnw_wonders.3.desc
+	picture = great_library
+
+	left_portrait = current_ruler
+	goto_location = p:358
+
+	option = {
+		name = bnw_wonders.3.a
+		p:358 = {
+			finish_great_work_construction = {
+				great_work = "knossos_palace_event"
+				locator = primary_great_work
+			}
+		}
+	}
+}
+
+bnw_wonders.4 = { 
+	type = country_event
+	title = bnw_wonders.4.t
+	desc = bnw_wonders.4.desc
+	picture = great_library
+
+	left_portrait = current_ruler
+	goto_location = p:416
+
+	option = {
+		name = bnw_wonders.4.a
+		p:416 = {
+			finish_great_work_construction = {
+				great_work = "athenian_acropolis_event"
+				locator = primary_great_work
+			}
+		}
+	}
+}
+
+bnw_wonders.5 = { 
+	type = country_event
+	title = bnw_wonders.5.t
+	desc = bnw_wonders.5.desc
+	picture = great_library
+
+	left_portrait = current_ruler
+	goto_location = p:439
+
+	option = {
+		name = bnw_wonders.5.a
+		p:439 = {
+			finish_great_work_construction = {
+				great_work = "temple_of_zeus_event"
+				locator = primary_great_work
+			}
+		}
+	}
+}
+
+bnw_wonders.6 = { 
+	type = country_event
+	title = bnw_wonders.6.t
+	desc = bnw_wonders.6.desc
+	picture = great_library
+
+	left_portrait = current_ruler
+	goto_location = p:536
+
+	option = {
+		name = bnw_wonders.6.a
+		p:536 = {
+			finish_great_work_construction = {
+				great_work = "giza_pyramids_event"
+				locator = primary_great_work
+			}
+		}
+	}
+}
+
+bnw_wonders.7 = { 
+	type = country_event
+	title = bnw_wonders.7.t
+	desc = bnw_wonders.7.desc
+	picture = great_library
+
+	left_portrait = current_ruler
+	goto_location = p:600
+
+	option = {
+		name = bnw_wonders.7.a
+		p:600 = {
+			finish_great_work_construction = {
+				great_work = "abu_simbel_event"
+				locator = primary_great_work
+			}
+		}
+	}
+}
+
+bnw_wonders.8 = { 
+	type = country_event
+	title = bnw_wonders.8.t
+	desc = bnw_wonders.8.desc
+	picture = great_library
+
+	left_portrait = current_ruler
+	goto_location = p:687
+
+	option = {
+		name = bnw_wonders.8.a
+		p:687 = {
+			finish_great_work_construction = {
+				great_work = "second_temple_herod_event"
+				locator = primary_great_work
+			}
+		}
+	}
+}
+
+bnw_wonders.9 = { 
+	type = country_event
+	title = bnw_wonders.9.t
+	desc = bnw_wonders.9.desc
+	picture = great_library
+
+	left_portrait = current_ruler
+	goto_location = p:918
+
+	option = {
+		name = bnw_wonders.9.a
+		p:918 = {
+			finish_great_work_construction = {
+				great_work = "gardens_babylon_event"
+				locator = primary_great_work
+			}
+		}
+	}
+}
+
+bnw_wonders.10 = { 
+	type = country_event
+	title = bnw_wonders.10.t
+	desc = bnw_wonders.10.desc
+	picture = great_library
+
+	left_portrait = current_ruler
+	goto_location = p:1471
+
+	option = {
+		name = bnw_wonders.10.a
+		p:1471 = {
+			finish_great_work_construction = {
+				great_work = "punic_tomb_event"
+				locator = primary_great_work
+			}
+		}
+	}
+}
+
+bnw_wonders.11 = { 
+	type = country_event
+	title = bnw_wonders.11.t
+	desc = bnw_wonders.11.desc
+	picture = great_library
+
+	left_portrait = current_ruler
+	goto_location = p:1981
+
+	option = {
+		name = bnw_wonders.11.a
+		p:1981 = {
+			finish_great_work_construction = {
+				great_work = "mausoleum_event"
+				locator = primary_great_work
+			}
+		}
+	}
+}
+
+bnw_wonders.12 = { 
+	type = country_event
+	title = bnw_wonders.12.t
+	desc = bnw_wonders.12.desc
+	picture = great_library
+
+	left_portrait = current_ruler
+	goto_location = p:2012
+
+	option = {
+		name = bnw_wonders.12.a
+		p:2012 = {
+			finish_great_work_construction = {
+				great_work = "stonehenge_original_event"
+				locator = primary_great_work
+			}
+		}
+	}
+}
+
+bnw_wonders.13 = { 
+	type = country_event
+	title = bnw_wonders.13.t
+	desc = bnw_wonders.13.desc
+	picture = great_library
+
+	left_portrait = current_ruler
+	goto_location = p:3256
+
+	option = {
+		name = bnw_wonders.13.a
+		p:3256 = {
+			finish_great_work_construction = {
+				great_work = "carthage_cothon_event"
+				locator = primary_great_work
+			}
+		}
+	}
+}
+
+bnw_wonders.14 = { 
+	type = country_event
+	title = bnw_wonders.14.t
+	desc = bnw_wonders.14.desc
+	picture = great_library
+
+	left_portrait = current_ruler
+	goto_location = p:4666
+
+	option = {
+		name = bnw_wonders.14.a
+		p:4666 = {
+			finish_great_work_construction = {
+				great_work = "marib_dam_event"
+				locator = primary_great_work
+			}
+		}
+	}
+}
+
+bnw_wonders.15 = { 
+	type = country_event
+	title = bnw_wonders.15.t
+	desc = bnw_wonders.15.desc
+	picture = great_library
+
+	left_portrait = current_ruler
+	goto_location = p:6978
+
+	option = {
+		name = bnw_wonders.15.a
+		p:6978 = {
+			finish_great_work_construction = {
+				great_work = "sigiriya_event"
+				locator = primary_great_work
+			}
+		}
+	}
+}
+
+bnw_wonders.16 = { 
+	type = country_event
+	title = bnw_wonders.16.t
+	desc = bnw_wonders.16.desc
+	picture = great_library
+
+	left_portrait = current_ruler
+	goto_location = p:7314
+
+	option = {
+		name = bnw_wonders.16.a
+		p:7314 = {
+			finish_great_work_construction = {
+				great_work = "taxila_event"
+				locator = primary_great_work
+			}
+		}
+	}
+}
+
+bnw_wonders.17 = { 
+	type = country_event
+	title = bnw_wonders.17.t
+	desc = bnw_wonders.17.desc
+	picture = great_library
+
+	left_portrait = current_ruler
+	goto_location = p:266
+
+	option = {
+		name = bnw_wonders.17.a
+		p:266 = {
+			finish_great_work_construction = {
+				great_work = "acropolis_rhodes_event"
+				locator = primary_great_work
+			}
+		}
+	}
+}
+
+bnw_wonders.18 = { 
+	type = country_event
+	title = bnw_wonders.18.t
+	desc = bnw_wonders.18.desc
+	picture = great_library
+
+	left_portrait = current_ruler
+	goto_location = p:278
+
+	option = {
+		name = bnw_wonders.18.a
+		p:278 = {
+			finish_great_work_construction = {
+				great_work = "acropolis_pergamon_event"
+				locator = primary_great_work
+			}
+		}
+	}
+}
+
+bnw_wonders.19 = { 
+	type = country_event
+	title = bnw_wonders.19.t
+	desc = bnw_wonders.19.desc
+	picture = great_library
+
+	left_portrait = current_ruler
+	goto_location = p:428
+
+	option = {
+		name = bnw_wonders.19.a
+		p:428 = {
+			finish_great_work_construction = {
+				great_work = "argead_palace_event"
+				locator = primary_great_work
+			}
+		}
+	}
+}
+
+bnw_wonders.20 = { 
+	type = country_event
+	title = bnw_wonders.20.t
+	desc = bnw_wonders.20.desc
+	picture = great_library
+
+	left_portrait = current_ruler
+	goto_location = p:6694
+
+	option = {
+		name = bnw_wonders.20.a
+		p:6694 = {
+			finish_great_work_construction = {
+				great_work = "ay_khanum_event"
+				locator = primary_great_work
+			}
+		}
+	}
+}
+
+bnw_wonders.21 = { 
+	type = country_event
+	title = bnw_wonders.21.t
+	desc = bnw_wonders.21.desc
+	picture = great_library
+
+	left_portrait = current_ruler
+	goto_location = p:7723
+
+	option = {
+		name = bnw_wonders.21.a
+		p:7723 = {
+			finish_great_work_construction = {
+				great_work = "ur_ziggurat_event"
+				locator = primary_great_work
+			}
+		}
+	}
+}
+
+bnw_wonders.22 = { 
+	type = country_event
+	title = bnw_wonders.22.t
+	desc = bnw_wonders.22.desc
+	picture = great_library
+
+	left_portrait = current_ruler
+	goto_location = p:425
+
+	option = {
+		name = bnw_wonders.22.a
+		p:425 = {
+			finish_great_work_construction = {
+				great_work = "dodona_oracle"
 				locator = primary_great_work
 			}
 		}

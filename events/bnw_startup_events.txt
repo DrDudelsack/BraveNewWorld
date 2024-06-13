@@ -8,6 +8,31 @@ bnw_startup_events.1 = {
 
 	fire_only_once = yes
 
+	immediate = {
+		hidden_effect = {
+			if = {
+				limit = {
+					capital_scope = {
+						has_building = port_building
+					}
+				}
+				capital_scope = {
+					remove_building_level = port_building
+					add_building_level = fortress_building
+				}
+			}
+			if = { # get's the Davidites back
+			limit = {
+				tag = JUD
+			}
+			trigger_event = {
+				id = judea_inv.23
+				days = { 365 730 }
+			}
+		}
+		}
+	}
+
 	option = {
 		name = bnw_startup_events.1.a
 		custom_tooltip = bnw_startup_events_tt_1
@@ -98,15 +123,6 @@ bnw_startup_events.1 = {
 				create_state_pop = tribesmen
 				create_state_pop = tribesmen
 				create_state_pop = tribesmen
-			}
-		}
-		if = { # get's the Davidites back
-			limit = {
-				tag = JUD
-			}
-			trigger_event = {
-				id = judea_inv.23
-				days = { 365 730 }
 			}
 		}
 	}
