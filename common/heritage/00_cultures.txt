@@ -449,6 +449,7 @@ punic_heritage = {
             tag = UTC
             tag = IOL
             tag = IBA
+			tag = GAD
         }
     }
 }

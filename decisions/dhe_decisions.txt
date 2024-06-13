@@ -23,7 +23,7 @@
 		}
 		allow = {
 			treasury >= 1200
-			stability > 50
+			#stability > 50
 			p:516 = {
 				free_building_slots >= 1
 				great_work_locator_is_free = secondary_great_work

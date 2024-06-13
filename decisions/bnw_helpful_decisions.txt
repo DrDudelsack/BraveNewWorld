@@ -47,11 +47,38 @@
 				add_political_influence = -50
 			}
 			add_centralization = 25
-			change_government = tribal_kingdom
+			if = {
+				limit = {
+					government = tribal_chiefdom
+				}
+				change_government = tribal_kingdom
+			}
 			capital_scope = {
+				if = {
+					limit = {
+						food_trade_good_trigger = yes
+						NOT = {
+							terrain = oasis
+						}
+					}
+					switch = { #Must not be cleared!
+						trigger = trade_goods
+						grain = { set_variable = had_grain }
+						fish = { set_variable = had_fish }
+						cattle = { set_variable = had_cattle  }
+						vegetables = { set_variable = had_vegetables }
+						fruits = { set_variable = had_fruits }
+						olive = { set_variable = had_olive }
+						dates = { set_variable = had_dates }
+					}
+					hidden_effect = {
+						replace_food_after_city_upgrade_effect = { VARIABLE_OR_SET_TRADE_GOODS = set_variable } #See comments in scripted effect before tampering with this
+					}
+				}
 				found_city_effect = yes
 				capital_formable_tribal_effect = yes
                 formable_capital_modifier_tribal_effect = yes
+				replace_food_after_city_upgrade_finish_effect = yes
 			}
 		}
 	}
@@ -367,8 +394,7 @@
 			}
 			else = {
 				add_political_influence = -50
-				change_government = democratic_republic
-				switch_government_type_event_clearup_effect = yes
+				trigger_event = bnw_startup_events.3
 			}
 		}
 	}
@@ -451,8 +477,7 @@
 			}
 			else = {
 				add_political_influence = -50
-				change_government = despotic_monarchy
-				switch_government_type_event_clearup_effect = yes
+				trigger_event = bnw_startup_events.3
 			}
 		}
 	}

@@ -58,6 +58,10 @@
  bnw_startup_events.1.desc:0 "One day, the sky suddenly began to rumble and the earth shattered. Then, the Gods spoke: for their amusement, all peoples would be divided and set on an equal footing so that the mortal men could prove themselves to their Gods. Only by defeating and subjugating the others could they prove their worth."
  bnw_startup_events.1.a:0 "In the name of the Gods!"
  bnw_startup_events_tt_1:0 "The Gods have sent a champion and some reinforcements to your settlement!"
+ bnw_startup_events.3.t:0 "Choice of Government"
+ bnw_startup_events.3.desc:0 "Choose: Monarchy or Republic"
+ bnw_startup_events.3.a:0 "We need a strong ruler to lead us."
+ bnw_startup_events.3.b:0 "Only by accounting for all desires can we prosper."
 
  # Modifiers
  divine_favour:0 "Divine Favour"

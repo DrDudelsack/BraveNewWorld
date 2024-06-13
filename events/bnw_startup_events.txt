@@ -167,3 +167,26 @@ bnw_startup_events.2 = { # all treasures start off here and get randomly distri
 		}
 	}
 }	
+
+bnw_startup_events.3 = { # not a startup event
+	type = country_event # gets triggered by the go republic/go monarchy decision if not a special case that is weighted
+	title = bnw_startup_events.3.t
+	desc = bnw_startup_events.3.desc
+	picture = greeks_marching
+
+	trigger = {
+		is_ai = ye
+	}
+
+	option = { # monarchy
+		name = bnw_startup_events.3.a
+		change_government = despotic_monarchy
+		switch_government_type_event_clearup_effect = yes
+	}
+
+	option = { # republic
+		name = bnw_startup_events.3.b
+		change_government = democratic_republic
+		switch_government_type_event_clearup_effect = yes
+	}
+}	
