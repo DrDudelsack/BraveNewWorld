@@ -1,0 +1,21 @@
+﻿namespace = bnw_wonders
+
+bnw_wonders.1 = { #finishing construction of the the Palace
+	type = country_event
+	title = ba_wonders.2.t
+	desc = ba_wonders.2.desc
+	picture = great_library
+
+	left_portrait = current_ruler
+	goto_location = capital_scope
+
+	option = {
+		name = bnw_wonders.1.a
+		capital_scope = {
+			finish_great_work_construction = {
+				great_work = "jupiter_temple_event"
+				locator = primary_great_work
+			}
+		}
+	}
+}
