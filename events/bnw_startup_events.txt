@@ -11,6 +11,10 @@ bnw_startup_events.1 = {
 	immediate = {
 		hidden_effect = {
 			if = {
+				limit = { ai = yes }
+				set_antagonist = yes
+			}
+			if = {
 				limit = {
 					capital_scope = {
 						has_building = port_building

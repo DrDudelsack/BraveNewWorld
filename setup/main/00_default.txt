@@ -7748,18 +7748,18 @@ country = {
 	# 		}
 	# 	}
 
-	# 	MDM = {
-	# 		government = tribal_kingdom
-	# 		primary_culture = treverian
-	# 		religion = druidism
-	# 		centralization=10
+	 	#MDM = {
+	 	#	government = tribal_cheifdom
+	 	#	primary_culture = treverian
+	 	#	religion = druidism
 
-	# 		capital = 2454
 
-	# 		own_control_core = 	{
-	# 			2454 3691 3692 3694 3695 3023 3025 3021 3024 3054 3053 3693
-	# 		}
-	# 	}
+	 	#	capital = 2454
+
+	 	#	own_control_core = {
+	 	#		2454
+	 	#	}
+	 	#}
 
 	# 	NMI = { #move to the east of the Rhine
 	# 		government = tribal_kingdom
@@ -10894,6 +10894,39 @@ country = {
 			}
 		}
 
+		YAZ = { #Yazd
+			government = tribal_chiefdom
+			primary_culture = median
+			religion = zoroaster
+			capital = 3417
+
+			own_control_core = 	{
+				3417
+			}
+		}
+
+		PVD = { #Arcticene
+			government = tribal_chiefdom
+			primary_culture = sagartian
+			religion = mithra_religion
+			capital = 3470
+
+			own_control_core = 	{
+				3470
+			}
+		}
+
+		SRK = { #Serakhis
+			government = tribal_chiefdom
+			primary_culture = margian
+			religion = mithra_religion
+			capital = 6664
+
+			own_control_core = 	{
+				6664
+			}
+		}
+
 		ELM = {
 			government = tribal_chiefdom
 	 		primary_culture = elamite
@@ -10941,7 +10974,9 @@ country = {
 	 	CRD = {
 	 		government = tribal_chiefdom
 	 		primary_culture = cardukoi
-	 		religion = mesopotamian_religion
+	 		#religion = mesopotamian_religion
+			religion = hurrian_pantheon
+			#Switched to Hurrian
 	 		capital = 833 #Pinaka
 
 	 		own_control_core = 	{
@@ -11827,6 +11862,16 @@ country = {
 	# 	    }
 	 	    own_control_core = {
 	 	        7165
+	 	    }
+	 	}
+
+	 	BDN = { # Badaun
+	 	    government = tribal_chiefdom
+	 	    primary_culture = kosala
+	 	    religion = ajivika
+	 	    capital = 7381
+	 	    own_control_core = {
+	 	        7381
 	 	    }
 	 	}
 

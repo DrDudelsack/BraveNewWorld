@@ -51,6 +51,9 @@ BBY = "setup/countries/caucasiamesopotamia/babylon.txt"
 ELM = "setup/countries/caucasiamesopotamia/elam.txt"
 ADI = "setup/countries/caucasiamesopotamia/adiabene.txt"
 ARM = "setup/countries/caucasiamesopotamia/armenia.txt"
+YAZ = "setup/countries/caucasiamesopotamia/yazd.txt"
+PVD = "setup/countries/caucasiamesopotamia/arcticene.txt"
+SRK = "setup/countries/caucasiamesopotamia/serakhis.txt"
 
 CRD = "setup/countries/caucasiamesopotamia/corduene.txt"
 MAP = "setup/countries/caucasiamesopotamia/media atropatene.txt"
@@ -197,6 +200,7 @@ SAT = "setup/countries/india/satrunavha.txt"
 KAC = "setup/countries/india/kaccha.txt"
 KOT = "setup/countries/india/kota.txt"
 ROR = "setup/countries/india/roruka.txt"
+BDN = "setup/countries/india/badaun.txt"
 
 #Germanic
 SXS = "setup/countries/germania/saxones.txt"

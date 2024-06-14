@@ -12,6 +12,12 @@
  EUM_ADJ:0 "Eumenid"
  ARI:0 "Ariarathid Kingdom"
  ARI_ADJ:0 "Ariarathid"
+ YAZ:0 "Yazd"
+ YAZ_ADJ:0 "Yazd"
+ PVD:0 "Arcticene"
+ PVD_ADJ:0 "Arcticene"
+ SRK:0 "Serakhis"
+ SRK_ADJ:0 "Serakhisian"
  JAI:0 "Jaintia"
  JAI_ADJ:0 "Jaintian"
  SAT:0 "Satrunavha"
@@ -24,6 +30,8 @@
  LAQ_ADJ:0 "Rhizaionian"
  ROR:0 "Roruka"
  ROR_ADJ:0 "Rorukan"
+ BDN:0 "Badaun"
+ BDN_ADJ:0 "Badaun"
  SIW:0 "Siwa" # Ammon
  SIW_ADJ:0 "Siwan"
  MEF:0 "Memphis" # Men-Nefer
