@@ -31,8 +31,8 @@
 				}
 			}
 			OR = {
-				is_ai = no
-				#num_of_cities <= 12
+				#is_ai = no
+				num_of_cities <= 200
 			}
 		}
 		

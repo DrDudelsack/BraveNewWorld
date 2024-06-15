@@ -6,9 +6,10 @@
 		
 		potential = {
 			num_of_cities >= 1
-			OR = {
-				primary_culture = libyan
-			}
+			country_culture_group = fezzani
+			#OR = {
+				#primary_culture = libyan
+			#}
 			is_monarchy = yes
 			NOT = {
 				tag = MSW

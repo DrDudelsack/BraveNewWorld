@@ -37,7 +37,10 @@ is_tier_1_formable_trigger = {
 		tag = 5RI #Punjab
 		tag = VNT #Formable Veneto
 
-		#Formable Nations Plus	
+		#Molon Labe Tags
+		#(Many nations weren't ported over, but their tags remain to prevent
+		#incompatibility in case there's ever a need)
+
 		tag = SAK #Sakastan
 		tag = LNK #Lanka
 		tag = DPR #Danapris
@@ -108,7 +111,10 @@ is_tier_2_formable_trigger = {
 		tag = ARY #Aryavarta
 		tag = AQ2 #Greater Aquitania	
 
-		#Formable Nations Plus
+		#Molon Labe Tags
+		#(Many nations weren't ported over, but their tags remain to prevent
+		#incompatibility in case there's ever a need)
+
 		tag = ASI #Asia
 		tag = BHK #Balhika
 		tag = EZY #Eretz Yisrael
@@ -183,7 +189,7 @@ is_endgame_tag_trigger = {
 		tag = KHN #Kushan
 		tag = DLA #Delian League
 		tag = PLL #Peloponnesian League
-		tag = SCY #Scythia
+		#tag = SCY #Scythia
 		tag = SLA #Slavia
 		tag = IDC #Indo-Greek Kingdom
 		tag = TIB #Tibetan Empire
@@ -196,7 +202,10 @@ is_endgame_tag_trigger = {
 		tag = APF #Alpine Confederation
 		tag = UBF #Umbrian Federation
 
-		#Formable Nations plus
+		#Molon Labe Tags
+		#(Many nations weren't ported over, but their tags remain to prevent
+		#incompatibility in case there's ever a need)
+
 		tag = EUE #Euxine Empire
 		tag = EUL #Euxine League
 		tag = LBA #Libya
@@ -218,7 +227,7 @@ is_endgame_tag_trigger = {
 		tag = HLK #Hellenic Kingdom
 		tag = ISH #Ishkuza
 		tag = MCB #Macrobia
-		tag = CAR #Carthage
+		#tag = CAR #Carthage
 		tag = BYT #Byzantine Empire
 		tag = GSC #Greater Scythia
 		tag = HEK #Hekamet

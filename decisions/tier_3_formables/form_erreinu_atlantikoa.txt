@@ -9,7 +9,7 @@
 			num_of_cities >= 1
 			NOT = { tag = EAT }
 			OR = {
-				country_culture_group = proto_european
+				#country_culture_group = proto_european
 				primary_culture = vasconian
 				primary_culture = aquitani
 			}
