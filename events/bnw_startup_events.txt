@@ -146,23 +146,34 @@ bnw_startup_events.2 = { # all treasures start off here and get randomly distri
 		random_country_treasure = {
 			save_scope_as = random_treasure_scope
 		}
-		random_country = {
-			NOT = {
-				THIS = ROOT
+		# random_country = {
+		# 	NOT = {
+		# 		THIS = ROOT
+		# 	}
+		# 	save_scope_as = random_country_scope
+		# }
+		# scope:random_treasure_scope = {
+		# 	transfer_treasure_to_country = scope:random_country_scope
+		# }
+		while = {
+			count = startup_treasures_svalue
+			random_country_treasure = {
+				add_to_list = distribution_treasure_list
 			}
-			save_scope_as = random_country_scope
-		}
-		scope:random_treasure_scope = {
-			transfer_treasure_to_country = scope:random_country_scope
 		}
 		every_country_treasure = {
-			add_to_list = distribution_treasure_list
+			limit = {
+				NOT = {
+					is_in_list = distribution_treasure_list
+				}
+			}
+			add_to_list = distribution_treasure_list_2
 		}
 		while = {
 			limit = {
 				list_size = {
 					name = distribution_treasure_list
-					value > 2
+					value > 1
 				}
 			}
 			random_country = {
@@ -176,6 +187,29 @@ bnw_startup_events.2 = { # all treasures start off here and get randomly distri
 			}
 			random_in_list = {
 				list = distribution_treasure_list
+				transfer_treasure_to_country = scope:treasure_target_country
+				remove_from_list = distribution_treasure_list
+			}
+			clear_saved_scope = treasure_target_country
+		}
+		while = {
+			limit = {
+				list_size = {
+					name = distribution_treasure_list_2
+					value > 1
+				}
+			}
+			random_country = {
+				limit = {
+					NOT = { this = root }
+					any_country_treasure = {
+						count < 2
+					}
+				}
+				save_scope_as = treasure_target_country
+			}
+			random_in_list = {
+				list = distribution_treasure_list_2
 				transfer_treasure_to_country = scope:treasure_target_country
 				remove_from_list = distribution_treasure_list
 			}
