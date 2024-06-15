@@ -1,21 +1,21 @@
 ﻿country_decisions = {
 	
-	# Form Keturesapa
-	# Created by Shinymewtwo99, name created by Edgor12
+	# Form Mudraya
+	# Created by Shinymewtwo99
 
-	form_keturesapa = {
+	form_mudraya = {
 		
 		potential = {
 			num_of_cities >= 1
-			NOT = { tag = KET }
-			OR = {
-				primary_culture = aestian
-				#primary_culture = galindian
-				#primary_culture = curonian
-				#primary_culture = semigallian
-				#primary_culture = selonian
+			NOT = { tag = MUD }
+			country_culture_group = persia
+			NOR = {
+				primary_culture = elamite
+				primary_culture = uxian
+				primary_culture = cossian
 			}
-			NOT = {
+			NOR = {
+				is_tier_2_formable_trigger = yes
 				is_endgame_tag_trigger = yes
 			}
 		}
@@ -42,10 +42,10 @@
 		
 		allow = {
 			custom_tooltip = {
-				text = keturesapa_not_exists
+				text = mudraya_not_exists
 				NOT = {
 					any_country = {
-						tag = KET
+						tag = MUD
 					}
 				}
 			}
@@ -61,7 +61,7 @@
 			owns_or_subject_owns_area = myos_hormos_area
 			owns_or_subject_owns_area = troglodytica_area
 			custom_tooltip = {
-				text = formable_keturesapa_capital
+				text = formable_mudraya_capital
 				capital_scope = {
 						OR = {
 							is_in_region = lower_egypt_region
@@ -77,9 +77,9 @@
 		}
 		
 		effect = {
-			custom_tooltip = "tier_3_formable_tooltip"
-			change_country_name = "KETURESAPA_NAME"
-			change_country_flag = KETURESAPA_FLAG
+			custom_tooltip = "tier_2_formable_tooltip"
+			change_country_name = "MUDRAYA_NAME"
+			change_country_flag = MUDRAYA_FLAG
 			if = {
 				limit = { is_tribal = yes }
 				add_country_modifier = {
@@ -92,12 +92,12 @@
 			capital_scope = {
 				establish_city_effect = yes
 				capital_formable_medium_effect = yes
-				formable_capital_modifier_normal_effect = yes
+				formable_capital_modifier_normal_effect = ye
 			}
 			hidden_effect = {
-				change_country_adjective = "KETURESAPA_ADJECTIVE"
-				change_country_color =  "keturesapa_color"
-				change_country_tag = KET
+				change_country_adjective = "MUDRAYA_ADJECTIVE"
+				change_country_color =  "mudraya_color"
+				change_country_tag = MUD
 				##trigger_event = {
 				##	id = formable_heritage.109
 				##}

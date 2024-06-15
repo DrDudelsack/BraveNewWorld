@@ -38,6 +38,8 @@
  MEF_ADJ:0 "Memphite"
  WST:0 "Waset" # Thebes in Egypt
  WST_ADJ:0 "Wasetan"
+ ARH:0 "Arhao"
+ ARH_ADJ:0 "Arhao"
 
  # Heritages 
  pergamine_heritage:0 "Pergamine Heritage"

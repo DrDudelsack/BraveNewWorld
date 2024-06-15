@@ -330,3 +330,19 @@
  KETURESAPA_ADJECTIVE:0 "Keturesapan"
  keturesapa_not_exists:0 "#Y Keturesapa#! must NOT exist."
  formable_keturesapa_capital:0 "Our capital must be located in the regions of Lower Egypt, Upper Egypt, Lower Nubia, Nubia, Punt, or Cyrenaica."
+ 
+ #Mudraya
+ form_mudraya:0 "Restore Persian rule over Egypt"
+ form_mudraya_desc:0 "For generations, the great and powerful Persian Empire ruled over the Egypt as a satrapy, its strict laws governing everyday life ensuring the integration of the Egyptians into Persian civilization. The territory, however, like so many others which followed, was lost to us when the barbarous Macedons invaded and destroyed our empire; now that we have at last reclaimed the region, we can officially re-establish the satrapy and proclaim ourselves its Pharaoh-governors."
+ MUDRAYA_NAME:0 "Mudraya"
+ MUDRAYA_ADJECTIVE:0 "Mudrayan"
+ mudraya_not_exists:0 "#Y Mudraya#! must NOT exist."
+ formable_mudraya_capital:0 "Our capital must be located in the regions of Lower Egypt, Upper Egypt, Lower Nubia, Nubia, Punt, or Cyrenaica."
+ 
+ #Norkhrul
+ form_norkhrul:0 "Form Norkhrul"
+ form_norkhrul_desc:0 "Through a miraculous fluke of nature, we have suddenly found ourselves halfway across the world in a strange place with few mountains, fertile valleys, and powerful neighbors speaking a myriad of unintelligible tongues; having no way back home and with hostile powers enveloping us on all sides, we have no choice but to adapt our mountain-orientated way of life to the hilly terrain and forge a new kingdom with what is left of our people, or risk our very destruction."
+ NORKHRUL_NAME:0 "Norkhrul"
+ NORKHRUL_ADJECTIVE:0 "Norkhrul"
+ norkhrul_not_exists:0 "#Y Norkhrul#! must NOT exist."
+ formable_norkhrul_capital:0 "Our capital must be either located in Anatolia, Syria, Assyria, Armenia, Colchis, Thrace, or Caucasian Albania."

@@ -1,0 +1,96 @@
+﻿country_decisions = {
+	
+	# Form Norkhrul - Reference to the bug in the Invictus Cappadocian tree that would see
+	# all of Cappadocia annexed by Zhangzhung
+	form_norkhrul = {
+		
+		potential = {
+			#num_of_cities >= 1
+			country_culture_group = tibetan
+			NOT = {
+				tag = NKH
+			}
+			NOR = {
+				is_tier_2_formable_trigger = yes
+				is_endgame_tag_trigger = yes
+			}
+		}
+		
+		highlight = {
+			scope:province = {
+				OR = {
+					is_in_region = cappadocia_region
+				}
+			}
+		}
+		
+		allow = {
+			custom_tooltip = {
+				text = norkhrul_not_exists
+				NOT = {
+					any_country = {
+						tag = NKH
+					}
+				}
+			}
+			can_form_nation_trigger = yes
+			owns_or_subject_owns_region = cappadocia_region
+			custom_tooltip = {
+				text = formable_norkhrul_capital
+				capital_scope = {
+						OR = {
+							is_in_region = asia_region
+							is_in_region = bithynia_region
+							is_in_region = galatia_region
+							is_in_region = cappadocia_region
+							is_in_region = cilicia_region
+							is_in_region = cappadocia_pontica_region
+							is_in_region = armenia_region
+							is_in_region = colchis_region
+							is_in_region = thrace_region
+							is_in_region = assyria_region
+							is_in_region = syria_region
+							is_in_region = albania_region
+					}
+				}
+			}
+		}
+		
+		effect = {
+			custom_tooltip = "tier_2_formable_tooltip"
+			change_country_name = "NORKHRUL_NAME"
+			if = {
+				limit = { is_tribal = yes }
+				add_country_modifier = {
+					name = civilized_tribe
+					duration = 5475
+				}
+				change_government = tribal_federation
+				switch_government_type_event_clearup_effect = yes
+			}
+			hidden_effect = {
+				change_country_adjective = "NORKHRUL_ADJECTIVE"
+				change_country_color = "norkhrul_color"
+				change_country_tag = NKH
+				change_country_flag = NORKHRUL_FLAG
+				##trigger_event = {
+				##	id = formable_heritage.168
+				##}					
+			}
+			capital_scope = {
+				establish_city_effect = yes
+				capital_formable_medium_effect = yes
+				formable_capital_modifier_normal_effect = ye
+			}
+			hidden_effect = {			
+			}
+			add_3_free_province_investments = yes
+		}
+		
+		ai_will_do = {
+			base = 1
+		}
+	}
+
+} 
+

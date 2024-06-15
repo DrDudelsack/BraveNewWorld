@@ -276,4 +276,8 @@ colors = {
 	varangia_flag_color = rgb { 37 29 58 }
 
 	keturesapa_color = rgb { 0 59 99 }
+
+	mudraya_color = rgb { 216 100 5 }
+
+	norkhrul_color = rgb { 135 0 47 }
 }

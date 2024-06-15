@@ -7336,18 +7336,17 @@ country = {
 	# 		}
 	# 	}
 
-	# 	RAU = {
-	# 		government = tribal_kingdom
-	# 		primary_culture = helvetian
-	# 		religion = druidism
-	# 		centralization=10
+		RAU = {
+			government = tribal_chiefdom
+			primary_culture = helvetian
+			religion = druidism
 
-	# 		capital = 3012
+			capital = 3012
 
-	# 		own_control_core = 	{
-	# 			3012 3020 3018 3019 3022
-	# 		}
-	# 	}
+			own_control_core = {
+				3012
+			}
+		}
 
 	# 	LTG = {
 	# 		government = tribal_kingdom
@@ -16265,6 +16264,18 @@ country = {
 
 	 		own_control_core = {
 	 			8413
+	 		}
+	 	}
+
+	 	ARH = { #Arhao
+	 		government = tribal_chiefdom
+	 		primary_culture = sporic
+	 		religion = matrist_religion
+
+	 		capital = 6238
+
+	 		own_control_core = {
+	 			6238
 	 		}
 	 	}
 

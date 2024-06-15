@@ -152,6 +152,7 @@ EBS = "setup/countries/gaul/eburones.txt"
 ABM = "setup/countries/gaul/ambiani.txt"
 MAS = "setup/countries/gaul/massilia.txt"
 BOA = "setup/countries/gaul/boioioi.txt"
+RAU = "setup/countries/gaul/rauraci.txt"
 
 #Illyria and Dacia
 SCD = "setup/countries/illyria_dacia/scordici.txt"
@@ -291,6 +292,7 @@ AOR = "setup/countries/barbaricum/aorsia.txt"
 BDI = "setup/countries/barbaricum/budinia.txt"
 NEU = "setup/countries/barbaricum/neuria.txt"
 MLN = "setup/countries/barbaricum/melanchlaenia.txt"
+ARH = "setup/countries/barbaricum/arhao.txt"
 
 # Turdetanian Kingdoms
 CRM = "setup/countries/iberia/carmo.txt"

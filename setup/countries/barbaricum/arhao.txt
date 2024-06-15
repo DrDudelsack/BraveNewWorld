@@ -1,0 +1,7 @@
+﻿color = rgb { 247 171 115 }
+color2 = rgb { 247 171 115 }
+
+ship_names = { #Names of the developers credited in the 2.0.4 patch
+	Arhao Katten Johan Niels Erik Lorenzo Rikard Peter Jakov Evan Kuba Alexander David
+	Erik Louise Jorge George
+}
