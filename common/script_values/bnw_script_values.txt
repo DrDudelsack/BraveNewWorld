@@ -56,11 +56,3 @@ ai_help_assimilation_value = { # should be something like 5% of unintegrated cul
 	min = 1
 	max = 100
 }
-
-startup_treasures_svalue = {
-	value = 0
-	every_country_treasure = {
-		add = 1
-	}
-	divide = 2 # we want 2 lists
-}
