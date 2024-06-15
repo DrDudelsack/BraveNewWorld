@@ -171,7 +171,7 @@ bnw_startup_events.2 = { # all treasures start off here and get randomly distri
 		}
 		trigger_event = {
 			id = bnw_startup_events.4 
-			days = 1
+			days = 31
 		}
 	}
 }	
