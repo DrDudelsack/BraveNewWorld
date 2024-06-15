@@ -143,6 +143,18 @@ bnw_startup_events.2 = { # all treasures start off here and get randomly distri
 	}
 
 	immediate = {
+		random_country_treasure = {
+			save_scope_as = random_treasure_scope
+		}
+		random_country = {
+			NOT = {
+				THIS = ROOT
+			}
+			save_scope_as = random_country_scope
+		}
+		scope:random_treasure_scope = {
+			transfer_treasure_to_country = scope:random_country_scope
+		}
 		every_country_treasure = {
 			add_to_list = distribution_treasure_list
 		}
