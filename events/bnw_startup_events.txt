@@ -148,6 +148,32 @@ bnw_startup_events.2 = { # all treasures start off here and get randomly distri
 		}
 		every_country = {
 			add_to_list = treasure_target_list
+			add_to_list = randomize_country_list
+		}
+		set_global_variable = {
+			name = global_randomizer_variable
+			value = amount_of_countries_svalue
+		}
+		while = {
+			limit = {
+				global_var:global_randomizer_variable > 0
+			}
+			ordered_in_list = {
+				list = randomize_country_list
+				limit = {
+					NOT = { has_variable = randomizer_variable }
+				}
+				position = 0
+				set_variable = {
+					name = randomizer_variable
+					value = global_var:global_randomizer_variable
+				}
+				change_global_variable = {
+					name = global_randomizer_variable
+					add = -1
+				}
+				remove_from_list = randomize_country_list
+			}
 		}
 		while = {
 			limit = {
@@ -156,7 +182,7 @@ bnw_startup_events.2 = { # all treasures start off here and get randomly distri
 					value > 2
 				}
 			}
-			ordered_in_list = {
+			random_in_list = {
 				list = treasure_target_list
 				limit = {
 					NOT = { this = root }
@@ -164,13 +190,16 @@ bnw_startup_events.2 = { # all treasures start off here and get randomly distri
 						count < 2
 					}
 				}
-				position = { 0 20 }
 				save_scope_as = treasure_target_country
 				random_list = {
 					100 = {
 						modifier = {
 							country_treasure_svalue < 100
 							add = country_treasure_svalue
+						}
+						modifier = {
+							always = yes
+							add = player_randomize_svalue
 						}
 						remove_from_list = treasure_target_list
 					}
@@ -181,6 +210,10 @@ bnw_startup_events.2 = { # all treasures start off here and get randomly distri
 								value = country_treasure_svalue
 								multiply = -1
 							}
+						}
+						modifier = {
+							always = yes
+							add = player_randomize_svalue
 						}
 						ordered_in_list = {
 							list = distribution_treasure_list

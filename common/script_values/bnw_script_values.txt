@@ -63,3 +63,21 @@ country_treasure_svalue = {
 		add = 1
 	}
 }
+
+amount_of_countries_svalue = {
+	value = 0
+	every_country = {
+		add = 1
+	}
+}
+
+player_randomize_svalue = {
+	value = 0
+	every_country = {
+		limit = {
+			is_ai = no
+			has_variable = randomizer_variable
+		}
+		add = var:randomizer_variable
+	}
+}
