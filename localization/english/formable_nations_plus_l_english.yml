@@ -22,6 +22,15 @@
  ITALY_NAME:0 "Italy"
  ITALY_ADJECTIVE:0 "Italian"
  italy_not_exists:0 "#Y Italy#! must NOT exist."
+ 
+ #Isle of Mann
+ form_mann:0 "Form the Isle of Mann"
+ form_mann_desc:0 "We have settled our people on this island, and have called it our home. The customs of the native islanders are intriguing and unique, we can adopt their customs and culture to cement our hold over the island, thus proclaiming ourselves to be the rightful rulers of the Isle of Mann."
+ MANN_NAME:0 "Isle of Mann"
+ MANN_ADJECTIVE:0 "Manx"
+ mann_not_exists:0 "#Y Isle of Mann#! must NOT exist."
+ switch_to_manavian_culture:0 "We will adopt #Y Monapian#! as our primary culture, and all pops in our country of our previous primary culture will be converted to it."
+ switch_characters_to_manavian_culture:0 "All of our characters in major families of our previous primary culture will convert to #Y Monapian#! culture."
 
  #Empire of Mann
  form_mann_empire:0 "Form Empire of Mann"
