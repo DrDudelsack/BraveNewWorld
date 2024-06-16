@@ -86,6 +86,9 @@
  bnw_startup_events.3.desc:0 "Choose: Monarchy or Republic"
  bnw_startup_events.3.a:0 "We need a strong ruler to lead us."
  bnw_startup_events.3.b:0 "Only by accounting for all desires can we prosper."
+ bnw_startup_events.5.t:0 "Divine Intervention"
+ bnw_startup_events.5.desc:0 "While the nations of the mediterranean sea have a warm climate that helps them grow, we other nations do not have that advantage. Thus, the Gods deccided to intervene and even the playing fields."
+ bnw_startup_events.5.a:0:0 "The Gods favour us!"
 
  # Modifiers
  divine_favour:0 "Divine Favour"
@@ -94,6 +97,7 @@
  change_of_scenery_mod:0 "Preparing Migration"
  civ_help_me:0 "Consolidate Power"
  civ_help_me_desc:0 "In recent years, the leadership has increasingly wanted to centralize their power. Now, the time has come to follow through on that thought."
+ other_warm_period:0 "Warm Period"
 
  # Decisions
  urban_development_capital:0 "Urbanising our Capital"
@@ -110,3 +114,4 @@
 
  # Tooltips
  ai_assim_help_80_percent_tt:0 "Less than #Y 80#!% of our pops are our primary culture."
+ not_so_warm_period_tt:0 "All provinces that usually do not get #Y $province_improvement_warm_period$#! will get #Y $other_warm_period$#!."

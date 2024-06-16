@@ -26,14 +26,20 @@ bnw_startup_events.1 = {
 				}
 			}
 			if = { # get's the Davidites back
-			limit = {
-				tag = JUD
+				limit = {
+					tag = JUD
+				}
+				trigger_event = {
+					id = judea_inv.23
+					days = { 365 730 }
+				}
 			}
-			trigger_event = {
-				id = judea_inv.23
-				days = { 365 730 }
+			every_country = {
+				trigger_event = {
+					id = bnw_startup_events.5
+					days = 18250 # 50 years, i.e. same time as regular warm period (500.1.1); trigger checks for relevancy
+				}
 			}
-		}
 		}
 	}
 
@@ -298,3 +304,35 @@ bnw_startup_events.3 = { # not a startup event
 # 		}
 # 	}
 # }
+
+bnw_startup_events.5 = { # not a startup event
+	type = country_event 
+	title = bnw_startup_events.5.t
+	desc = bnw_startup_events.5.desc
+	picture = greeks_marching
+
+	trigger = {
+		any_owned_province = {
+			city_is_in_warm_region = no
+		}
+	}
+
+	option = {
+		name = bnw_startup_events.5.a
+		custom_tooltip = not_so_warm_period_tt
+		hidden_effect = {
+			every_province = {
+				limit = {
+					city_is_in_warm_region = no
+					NOT = {
+						has_province_modifier = province_improvement_warm_period
+					}
+				}
+				add_province_modifier = {
+					name = province_improvement_warm_period
+					duration = 3650 # 10 years
+				}
+			}
+		}
+	}
+}	

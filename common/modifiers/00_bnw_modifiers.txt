@@ -10,3 +10,7 @@ incentivised_pop_growth = {
 change_of_scenery_mod = {
 	start_migration_cost_modifier = -0.5 # 2 years
 }
+
+other_warm_period = {
+	local_population_growth = 1.5
+}
