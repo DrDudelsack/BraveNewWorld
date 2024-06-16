@@ -146,33 +146,52 @@ bnw_startup_events.2 = { # all treasures start off here and get randomly distri
 		every_country_treasure = {
 			add_to_list = distribution_treasure_list
 		}
+		every_country = {
+			add_to_list = treasure_target_list
+		}
 		while = {
 			limit = {
 				list_size = {
 					name = distribution_treasure_list
-					value > 110
+					value > 2
 				}
 			}
-			random_country = {
+			ordered_in_list = {
+				list = treasure_target_list
 				limit = {
 					NOT = { this = root }
 					any_country_treasure = {
 						count < 2
 					}
 				}
+				position = { 0 20 }
 				save_scope_as = treasure_target_country
+				random_list = {
+					5 = {
+						remove_from_list = treasure_target_country
+					}
+					5 = {
+						ordered_in_list = {
+							list = distribution_treasure_list
+							position = { 0 2 }
+							transfer_treasure_to_country = scope:treasure_target_country
+							remove_from_list = distribution_treasure_list
+						}
+					}
+				}
 			}
-			random_in_list = {
+			ordered_in_list = {
 				list = distribution_treasure_list
+				position = { 0 2 }
 				transfer_treasure_to_country = scope:treasure_target_country
 				remove_from_list = distribution_treasure_list
 			}
 			clear_saved_scope = treasure_target_country
 		}
-		trigger_event = {
-			id = bnw_startup_events.4 
-			days = 31
-		}
+		# trigger_event = {
+		# 	id = bnw_startup_events.4 
+		# 	days = 31
+		# }
 	}
 }	
 
@@ -199,39 +218,39 @@ bnw_startup_events.3 = { # not a startup event
 	}
 }	
 
-bnw_startup_events.4 = { # all treasures start off here and get randomly distributed
-	type = country_event
-	hidden = yes
+# bnw_startup_events.4 = { # all treasures start off here and get randomly distributed
+# 	type = country_event
+# 	hidden = yes
 
-	fire_only_once = yes
+# 	fire_only_once = yes
 
-	trigger = {
-		tag = AES
-	}
+# 	trigger = {
+# 		tag = AES
+# 	}
 
-	immediate = {
-		while = {
-			limit = {
-				list_size = {
-					name = distribution_treasure_list
-					value > 2
-				}
-			}
-			random_country = {
-				limit = {
-					NOT = { this = root }
-					any_country_treasure = {
-						count < 2
-					}
-				}
-				save_scope_as = treasure_target_country
-			}
-			random_in_list = {
-				list = distribution_treasure_list
-				transfer_treasure_to_country = scope:treasure_target_country
-				remove_from_list = distribution_treasure_list
-			}
-			clear_saved_scope = treasure_target_country
-		}
-	}
-}
+# 	immediate = {
+# 		while = {
+# 			limit = {
+# 				list_size = {
+# 					name = distribution_treasure_list
+# 					value > 2
+# 				}
+# 			}
+# 			random_country = {
+# 				limit = {
+# 					NOT = { this = root }
+# 					any_country_treasure = {
+# 						count < 2
+# 					}
+# 				}
+# 				save_scope_as = treasure_target_country
+# 			}
+# 			random_in_list = {
+# 				list = distribution_treasure_list
+# 				transfer_treasure_to_country = scope:treasure_target_country
+# 				remove_from_list = distribution_treasure_list
+# 			}
+# 			clear_saved_scope = treasure_target_country
+# 		}
+# 	}
+# }
