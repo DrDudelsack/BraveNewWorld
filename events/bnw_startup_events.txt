@@ -34,11 +34,9 @@ bnw_startup_events.1 = {
 					days = { 365 730 }
 				}
 			}
-			every_country = {
-				trigger_event = {
-					id = bnw_startup_events.5
-					days = 18250 # 50 years, i.e. same time as regular warm period (500.1.1); trigger checks for relevancy
-				}
+			trigger_event = {
+				id = bnw_startup_events.5
+				days = 21900 # 60 years, i.e. 10 yrs after regular warm period (500.1.1); trigger checks for relevancy
 			}
 		}
 	}
