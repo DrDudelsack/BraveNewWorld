@@ -167,10 +167,21 @@ bnw_startup_events.2 = { # all treasures start off here and get randomly distri
 				position = { 0 20 }
 				save_scope_as = treasure_target_country
 				random_list = {
-					5 = {
-						remove_from_list = treasure_target_country
+					100 = {
+						modifier = {
+							country_treasure_svalue < 100
+							add = country_treasure_svalue
+						}
+						remove_from_list = treasure_target_list
 					}
-					5 = {
+					100 = {
+						modifier = {
+							country_treasure_svalue < 100
+							add = {
+								value = country_treasure_svalue
+								multiply = -1
+							}
+						}
 						ordered_in_list = {
 							list = distribution_treasure_list
 							position = { 0 2 }
