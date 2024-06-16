@@ -11569,10 +11569,10 @@ country = {
 	 		primary_culture = matsya
 	 		religion = hindu
 	 		centralization=10
-	 		capital = 7436
+	 		capital = 4473
 
 	 		own_control_core = 	{
-	 			7436
+	 			4473
 	 		}
 	 	}
 

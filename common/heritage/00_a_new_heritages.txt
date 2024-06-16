@@ -110,3 +110,83 @@ civ_waset_heritage = {
 		tag = WST
 	}
 }
+
+roruka_heritage = {
+	modifier = {
+		global_population_growth = 0.05
+		global_population_capacity_modifier = 0.1
+		discipline = -0.025
+	}
+	trigger = {
+		tag = ROR
+	}
+}
+
+kaccha_heritage = {
+	modifier = {
+		happiness_for_same_religion_modifier = 0.05
+		global_monthly_civilization = 0.02
+		global_manpower_modifier = -0.05
+	}
+	trigger = {
+		tag = KAC
+	}
+}
+
+gangetic_heritage = {
+	modifier = {
+		global_population_capacity_modifier = 0.10
+		omen_power = 0.05
+		land_morale_modifier = -0.05
+	}
+	trigger = {
+		tag = BDN
+	}
+}
+
+nagari_heritage = {
+	modifier = {
+		happiness_for_same_religion_modifier = 0.03
+		global_monthly_civilization = 0.05
+		global_defensive = -0.10
+	}
+	trigger = {
+		tag = KOT
+	}
+}
+
+margiana_heritage = {
+	modifier = {
+		global_commerce_modifier = 0.1
+		happiness_for_wrong_religion_modifier = 0.08
+		global_pop_conversion_speed_modifier = -0.1
+	}
+	trigger = {
+		tag = SRK
+	}
+}
+
+yazd_heritage = {
+	modifier = {
+		global_pop_conversion_speed_modifier = 0.15
+		happiness_for_same_religion_modifier = 0.08
+		research_points_modifier = -0.15
+		
+	}
+	trigger = {
+		tag = YAZ
+	}
+}
+
+mastian_heritage = {
+	modifier = {
+		global_export_commerce_modifier = 0.15
+		global_monthly_civilization = 0.03
+		monthly_political_influence_modifier = -0.05
+	}
+	trigger = {
+		tag = MAT
+	}
+}
+
+
