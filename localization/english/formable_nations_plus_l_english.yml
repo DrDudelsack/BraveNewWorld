@@ -355,3 +355,11 @@
  NORKHRUL_ADJECTIVE:0 "Norkhrul"
  norkhrul_not_exists:0 "#Y Norkhrul#! must NOT exist."
  formable_norkhrul_capital:0 "Our capital must be either located in Anatolia, Syria, Assyria, Armenia, Colchis, Thrace, or Caucasian Albania."
+ 
+ #Hantram
+ form_hantram:0 "Form Hantram"
+ form_hantram_desc:0 "Having been defeated in battle, we have been cast out from our homeland, forced to take refuge in the faraway jungles of Burma. In spite of our losses, however, our warriors are as strong and as bold as they always have been, and with the seclusion and protection that our new territory provides us, we can now raid and harrass the larger empires of the region without fear of reprisal. In combining our nomadic traditions of the steppe with the resourcefulness and ingenuity of the local jungle tribes, we have ceased being true Scythians, and instead have become something new: we are now Hantramians."
+ HANTRAM_NAME:0 "Hantram"
+ HANTRAM_ADJECTIVE:0 "Hantramian"
+ hantram_not_exists:0 "#Y Hantram#! must NOT exist."
+ formable_hantram_capital:0 "Our capital must be either located in the region of Burma."

@@ -280,4 +280,6 @@ colors = {
 	mudraya_color = rgb { 216 100 5 }
 
 	norkhrul_color = rgb { 135 0 47 }
+
+	hantram_color = rgb { 79 7 15 }
 }

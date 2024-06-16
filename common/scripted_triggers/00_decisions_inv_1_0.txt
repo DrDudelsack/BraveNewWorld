@@ -36,6 +36,7 @@ is_tier_1_formable_trigger = {
 		tag = HSD #Hellespontine District
 		tag = 5RI #Punjab
 		tag = VNT #Formable Veneto
+		tag = VIN #Vindelicia
 
 		#Molon Labe Tags
 		#(Many nations weren't ported over, but their tags remain to prevent
@@ -57,11 +58,10 @@ is_tier_1_formable_trigger = {
 		tag = BTN #Brittany
 		tag = NEM #Nemedia
 		tag = LIG #Liguria
-
 		tag = ATR #Atrebatia
 		tag = AAL #Albanian Albania
 		tag = FRA #Franks
-		tag = VIN #Vindelicia
+		tag = HNT #Hantram
 	}
 }
 
