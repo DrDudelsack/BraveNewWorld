@@ -481,4 +481,49 @@
 			}
 		}
 	}
+
+	ai_colonization_help = {
+		ai_will_do = {
+			base = 10
+		}
+		potential = {
+			is_ai = yes
+			NOT = {
+				has_variable = ai_colo_help_cooldown
+			}
+		}
+
+		allow = {
+			treasury >= 1
+			any_owned_province = {
+				any_neighbor_province = {
+					has_owner = no
+					is_uninhabitable = no
+				}
+			}
+		}
+
+		effect = {
+			add_treasury = -1
+			set_variable = {
+				name = ai_colo_help_cooldown
+				days = 365 # 1 year, like button for territory
+			}
+			random_owned_province = {
+				limit = {
+					any_neighbor_province = {
+						has_owner = no
+						is_uninhabitable = no
+					}
+				}
+				random_neighbor_province = {
+					limit = {
+						has_owner = no
+						is_uninhabitable = no
+					}
+					set_owned_by = root
+				}
+			}
+		}
+	}
 } 
