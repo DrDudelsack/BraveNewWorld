@@ -10,7 +10,7 @@
 			#OR = {
 				#primary_culture = libyan
 			#}
-			is_monarchy = yes
+			#is_monarchy = yes
 			NOT = {
 				tag = MSW
 			}
@@ -95,7 +95,10 @@
 				change_country_tag = MSW
 				##trigger_event = {
 				##	id = formable_heritage.139
-				##}				
+				##}		
+				trigger_event = {
+					id = kush.43
+				}		
 			}
 
 			capital_scope = {

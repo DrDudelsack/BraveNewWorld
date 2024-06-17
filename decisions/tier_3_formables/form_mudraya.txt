@@ -101,6 +101,9 @@
 				##trigger_event = {
 				##	id = formable_heritage.109
 				##}
+				#trigger_event = {
+				#	id = me_kush.43
+				#}
 			}
 			add_5_free_province_investments = yes
 		}
