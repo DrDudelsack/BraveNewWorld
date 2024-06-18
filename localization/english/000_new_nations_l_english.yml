@@ -88,7 +88,7 @@
  bnw_startup_events.3.b:0 "Only by accounting for all desires can we prosper."
  bnw_startup_events.5.t:0 "Divine Intervention"
  bnw_startup_events.5.desc:0 "While the nations of the mediterranean sea have a warm climate that helps them grow, we other nations do not have that advantage. Thus, the Gods deccided to intervene and even the playing fields."
- bnw_startup_events.5.a:0:0 "The Gods favour us!"
+ bnw_startup_events.5.a:0 "The Gods favour us!"
 
  # Modifiers
  divine_favour:0 "Divine Favour"
