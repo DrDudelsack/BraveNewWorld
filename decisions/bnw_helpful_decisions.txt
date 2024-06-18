@@ -6,6 +6,10 @@
 			capital_scope = {
 				has_city_status = no
 			}
+			any_owned_province = {
+				count < 3
+				has_city_status = yes
+			}
 		}
 
 		ai_will_do = {
@@ -498,7 +502,7 @@
 			any_owned_province = {
 				any_neighbor_province = {
 					has_owner = no
-					is_uninhabitable = no
+					is_inhabitable = yes
 				}
 			}
 		}
@@ -513,13 +517,13 @@
 				limit = {
 					any_neighbor_province = {
 						has_owner = no
-						is_uninhabitable = no
+						is_inhabitable = yes
 					}
 				}
 				random_neighbor_province = {
 					limit = {
 						has_owner = no
-						is_uninhabitable = no
+						is_inhabitable = yes
 					}
 					set_owned_by = root
 				}
