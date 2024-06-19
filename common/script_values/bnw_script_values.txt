@@ -37,7 +37,11 @@ country_population_percentage_primary = {
 	add = {
 		value = country_primary_population_svalue
 		divide = country_population
+		multiply = 100 # so it's a number and not
 	}
+	round = ceiling
+	min = 1
+	max = 100
 }
 
 country_population_primary_other_difference = {
