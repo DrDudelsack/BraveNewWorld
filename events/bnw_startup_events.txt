@@ -219,18 +219,18 @@ bnw_startup_events.2 = { # all treasures start off here and get randomly distri
 							always = yes
 							add = player_randomize_svalue
 						}
-						ordered_in_list = {
+						random_in_list = {
 							list = distribution_treasure_list
-							position = { 0 2 }
+							#position = { 0 2 }
 							transfer_treasure_to_country = scope:treasure_target_country
 							remove_from_list = distribution_treasure_list
 						}
 					}
 				}
 			}
-			ordered_in_list = {
+			random_in_list = {
 				list = distribution_treasure_list
-				position = { 0 2 }
+				#position = { 0 2 }
 				transfer_treasure_to_country = scope:treasure_target_country
 				remove_from_list = distribution_treasure_list
 			}
