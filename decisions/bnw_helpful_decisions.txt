@@ -134,6 +134,10 @@
 			}
 		}
 
+		ai_will_do = {
+			base = 10
+		}
+
 		allow = {
 			treasury >= 120
 			political_influence >= 25
