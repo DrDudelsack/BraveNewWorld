@@ -252,7 +252,7 @@
 		allow = {
 			custom_tooltip = {
 				text = ai_assim_help_80_percent_tt
-				country_population_percentage_primary < 0.8
+				country_population_percentage_primary < 80 # 80 percent
 			}
 		}
 
