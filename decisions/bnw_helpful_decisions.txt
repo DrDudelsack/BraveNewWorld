@@ -514,7 +514,7 @@
 		}
 
 		effect = {
-			add_treasury = -1
+			#add_treasury = -1
 			set_variable = {
 				name = ai_colo_help_cooldown
 				days = 365 # 1 year, like button for territory
