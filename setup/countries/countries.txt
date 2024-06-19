@@ -208,7 +208,7 @@ SAT = "setup/countries/india/satrunavha.txt"
 KAC = "setup/countries/india/kaccha.txt"
 KOT = "setup/countries/india/kota.txt"
 ROR = "setup/countries/india/roruka.txt"
-ROR = "setup/countries/india/multan.txt"
+MLT = "setup/countries/india/multan.txt"
 BDN = "setup/countries/india/badaun.txt"
 
 #Germanic
@@ -301,7 +301,7 @@ AOR = "setup/countries/barbaricum/aorsia.txt"
 #Barbarians - Other
 BDI = "setup/countries/barbaricum/budinia.txt"
 NEU = "setup/countries/barbaricum/neuria.txt"
-MLT = "setup/countries/barbaricum/melanchlaenia.txt"
+MLN = "setup/countries/barbaricum/melanchlaenia.txt"
 ARH = "setup/countries/barbaricum/arhao.txt"
 
 # Turdetanian Kingdoms
