@@ -36,6 +36,7 @@ ODR = "setup/countries/greece/odrysia.txt"
 ## Asia Minor
 #New
 PRY = "setup/countries/anatolia/phrygia.txt"
+FRY = "setup/countries/anatolia/native_phrygia.txt"
 RHO = "setup/countries/anatolia/rhodes.txt"
 BIT = "setup/countries/anatolia/bithynia.txt"
 HCP = "setup/countries/anatolia/heraclea_pontica.txt"
@@ -106,7 +107,7 @@ BRI = "setup/countries/britannia/brigantes.txt"
 CAL = "setup/countries/britannia/caledonia.txt"
 
 #Iberian
-
+AVG = "setup/countries/iberia/avarigini.txt"
 CLC = "setup/countries/iberia/celtici.txt"
 VSC = "setup/countries/iberia/vascones.txt"
 EPO = "setup/countries/iberia/emporion.txt"
@@ -123,6 +124,7 @@ OLC = "setup/countries/iberia/olcadia.txt"
 #African
 
 CAR = "setup/countries/africa/carthage.txt"
+EMP = "setup/countries/africa/emporia.txt"
 IOL = "setup/countries/africa/iol.txt"
 EGY = "setup/countries/africa/egypt.txt"
 MSS = "setup/countries/africa/massaesylia.txt"
@@ -136,9 +138,11 @@ AVL = "setup/countries/africa/avalites.txt"
 BOR = "setup/countries/africa/boras.txt"
 AUT = "setup/countries/africa/alut.txt"
 DOD = "setup/countries/africa/dodekaschoinos.txt"
+BMY = "setup/countries/africa/blemmyes.txt"
 SIW = "setup/countries/africa/siwa.txt"
 MEF = "setup/countries/africa/memphis.txt"
 WST = "setup/countries/africa/waset.txt"
+FAR = "setup/countries/africa/farafra.txt"
 
 #Gaul
 
@@ -157,6 +161,7 @@ RAU = "setup/countries/gaul/rauraci.txt"
 #Illyria and Dacia
 SCD = "setup/countries/illyria_dacia/scordici.txt"
 GTE = "setup/countries/illyria_dacia/getae.txt"
+TYG = "setup/countries/greece/tyrgetae.txt"
 BUD = "setup/countries/illyria_dacia/buridavenses.txt"
 NRC = "setup/countries/illyria_dacia/norici.txt"
 TLN = "setup/countries/illyria_dacia/taulantii.txt"
@@ -187,8 +192,10 @@ ALU = "setup/countries/india/alupa.txt"
 ZHZ = "setup/countries/india/zhangzhung.txt"
 SMP = "setup/countries/india/sumpa.txt"
 ATV = "setup/countries/india/atavia.txt"
+KRA = "setup/countries/india/karusa.txt"
 #GHA = "setup/countries/india/gandhara.txt"
 PRA = "setup/countries/india/paurava.txt"
+HYA = "setup/countries/india/haihaya.txt"
 YDD = "setup/countries/india/yadheuya.txt"
 NBP = "setup/countries/india/nabapankti.txt"
 SMT = "setup/countries/india/samatata.txt"
@@ -201,9 +208,11 @@ SAT = "setup/countries/india/satrunavha.txt"
 KAC = "setup/countries/india/kaccha.txt"
 KOT = "setup/countries/india/kota.txt"
 ROR = "setup/countries/india/roruka.txt"
+MLT = "setup/countries/india/multan.txt"
 BDN = "setup/countries/india/badaun.txt"
 
 #Germanic
+TVI = "setup/countries/gaul/treveri.txt"
 SXS = "setup/countries/germania/saxones.txt"
 VDL = "setup/countries/germania/aetelrugia.txt"
 GIT = "setup/countries/germania/gutonia.txt"
@@ -218,6 +227,7 @@ LGB = "setup/countries/germania/langobardia.txt"
 PRN = "setup/countries/bactria/parni.txt"
 KRZ = "setup/countries/bactria/kharesmia.txt"
 ARS = "setup/countries/bactria/arachosia.txt"
+SOG = "setup/countries/india/sogdia.txt"
 
 #Extra Crimea
 SCY = "setup/countries/greece/scythia_europea.txt"
@@ -323,6 +333,7 @@ PES = "setup/countries/caucasiamesopotamia/persis.txt"
 HWK = "setup/countries/burma/hnawkan.txt"
 FGD = "setup/countries/burma/fugandulu.txt"
 SHN = "setup/countries/burma/shan.txt"
+AKN = "setup/countries/burma/arakan.txt"
 
 #New Arabia
 

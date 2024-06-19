@@ -344,6 +344,7 @@
 						tag = ROM
 						tag = ATH
 						tag = YDD
+						tag = EMP
 					}
 				}
 				centralization >= 75
@@ -390,6 +391,7 @@
 						tag = CAR
 						tag = GAD # get this, but not the easier access conditions
 						tag = IOL # get this, but not the easier access conditions
+						tag = EMP # get this, but not the easier access conditions
 					}
 				}
 				add_political_influence = -35

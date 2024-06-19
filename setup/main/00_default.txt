@@ -2601,13 +2601,13 @@ family={
 # 			culture=tamil
 # 			owner=KSR
 # 		}
-# 		#Haihaya
-# 		84={
-# 			key = "Haihaya"
-# 			prestige=300
-# 			culture=avanti
-# 			owner=HYA
-# 		}
+		#Haihaya
+		84={
+			key = "Haihaya"
+			prestige=300
+			culture=avanti
+			owner=HYA
+		}
 		#Paurava
 		85={
 			key = "Pauravid"
@@ -5235,26 +5235,17 @@ country = {
 	# 	}
 
 
-	# 	EMP = { #Emporia
-	# 		government = oligarchic_republic
-	# 		primary_culture = carthaginian
-	# 		religion = carthaginian_pantheon
-	# 		diplomatic_stance=trading_stance
+		EMP = { #Emporia
+			government = tribal_chiefdom
+			primary_culture = carthaginian
+			religion = carthaginian_pantheon
 
-	# 		technology={
-	# 			military_tech={ level=2 progress=0 }
-	# 			civic_tech={ level=2 progress=0 }
-	# 			oratory_tech={ level=2 progress=0 }
-	# 			religious_tech= { level=2 progress=0  }
-	# 		}
+			capital = 3303 #Tacape
+			own_control_core = 	{
+				3303
+			}
 
-	# 		capital = 3291 #Tacape
-	# 		own_control_core = 	{
-	# 			3288 3289 #africa_meridionalis_region
-	# 			3291 3293 3294 3295 3296 3297 3298 #tripolitania_occidentalis_region
-	# 		}
-
-	# 	}
+		}
 
 	# 	TRP = { #Tripolitania - Leptis Magna, Oea and Sabratha
 	# 		government = oligarchic_republic
@@ -5505,6 +5496,17 @@ country = {
 				569
 			}
 
+		}
+
+		FAR = {
+			government = tribal_chiefdom
+			primary_culture = oasis_egyptian
+			religion = egyptian_pantheon
+			capital = 5514
+
+			own_control_core = 	{
+				5514
+			}
 		}
 
 		EGY = {
@@ -6565,18 +6567,17 @@ country = {
 	# 		}
 	# 	}
 
-	# 	AVG = {
-	# 		government = tribal_kingdom
-	# 		primary_culture = cantabrian
-	# 		religion = druidism
-	# 		centralization=10
+		AVG = {
+			government = tribal_chiefdom
+			primary_culture = cantabrian
+			religion = druidism
 
-	# 		capital = 1112
+			capital = 1108
 
-	# 		own_control_core = 	{
-	# 			1108 1112
-	# 		}
-	# 	}
+			own_control_core = 	{
+				1108
+			}
+		}
 
 	# 	COC = {
 	# 		government = tribal_kingdom
@@ -7784,18 +7785,18 @@ country = {
 	# 		}
 	# 	}
 
-	# 	TVI = {
-	# 		government = tribal_kingdom
-	# 		primary_culture = treverian
-	# 		religion = druidism
-	# 		centralization=10
+		TVI = {
+			government = tribal_chiefdom
+			primary_culture = treverian
+			religion = druidism
+			centralization=10
 
-	# 		capital = 3687
+			capital = 3692
 
-	# 		own_control_core = 	{
-	# 			3690 3724 3725 3723 3722 3726 3721 3730 3689 3685 3729 3688 3001 2455 3686 3687 7738 3696 3697 3698 3701 3056
-	# 		}
-	# 	}
+			own_control_core = 	{
+				3692
+			}
+		}
 
 		ADT = {
 			government = tribal_chiefdom
@@ -10472,6 +10473,18 @@ country = {
 			}
 		}
 
+		FRY = {
+			government = tribal_chiefdom
+			primary_culture = phrygian
+			religion = anatolian_religion
+
+			capital = 188 #
+
+			own_control_core = 	{
+				188
+			}
+		}
+
 		CAP = {
 			family = 34
 			government = tribal_chiefdom
@@ -11296,33 +11309,24 @@ country = {
 			government = tribal_chiefdom
 			primary_culture = atavi
 			religion = hindu
-			capital = 7455
+			capital = 4467
 
 			own_control_core = 	{
-				7455
+				4467
 			}
 		}
 
-	# 	HYA = { #Haihaya
-	# 		family=84
-	# 		government = aristocratic_monarchy
-	# 		primary_culture = avanti
-	# 		religion = hindu
-	# 		capital = 4476
+		HYA = { #Haihaya
+			family=84
+			government = tribal_chiefdom
+			primary_culture = avanti
+			religion = hindu
+			capital = 4476
 
-	# 		technology={
-	# 			military_tech={ level=2 progress=0 }
-	# 			civic_tech={ level=2 progress=0 }
-	# 			oratory_tech={ level=2 progress=0 }
-	# 			religious_tech= { level=2 progress=0  }
-	# 		}
-
-	# 		own_control_core = 	{
-	# 			4476 4492 4493 7311 7315 7316 7420 7421 7422 7424 #anupa_region
-	# 			4483 7312 7313 7457 #dahala_region
-	# 			4486
-	# 		}
-	# 	}
+			own_control_core = {
+				4476
+			}
+		}
 
 	# 	PLD = { #Paladas
 	# 		government = tribal_kingdom
@@ -11568,7 +11572,6 @@ country = {
 	 		government = tribal_chiefdom
 	 		primary_culture = matsya
 	 		religion = hindu
-	 		centralization=10
 	 		capital = 4473
 
 	 		own_control_core = 	{
@@ -11580,7 +11583,6 @@ country = {
 	 		government = tribal_chiefdom
 	 		primary_culture = sindhi
 	 		religion = hindu
-	 		centralization=10
 	 		capital = 4352
 
 	 		own_control_core = 	{
@@ -11588,12 +11590,21 @@ country = {
 	 		}
 	 	}
 
+		MLT = { 
+			government = tribal_chiefdom
+			primary_culture = sivi
+			religion = hindu
+			capital = 4349
+
+			own_control_core = 	{
+				4349
+			}
+		}
 
 	 	SMT = { #Samatata
 	 		government = tribal_chiefdom
 	 		primary_culture = bangli
 	 		religion = hindu
-	 		centralization=10
 	 		#capital = 7356
 	 		capital = 7336
 
@@ -11830,23 +11841,16 @@ country = {
 			##Bingo#treasure_slots 886 887 }
 		}
 
-	# 	KRA = {
-	# 		government = tribal_kingdom
-	# 		primary_culture = atavi
-	# 		religion = hindu
-	# 		centralization=-10
-	# 		capital = 7169
+		KRA = {
+			government = tribal_chiefdom
+			primary_culture = atavi
+			religion = hindu
+			capital = 7455
 
-	# 		own_control_core = 	{
-	# 			7166 7169 7175
-	# 			7140 7095 7096
-	# 			7130 7132
-	# 			7068 7139
-	# 			7455 7131 7168
-	# 			5442
-	# 			9277
-	# 		}
-	# 	}
+			own_control_core = 	{
+				7455
+			}
+		}
 	 	VDP = { # Vidarbha
 	 	    government = tribal_chiefdom
 	 	    diplomatic_stance = trading_stance
@@ -12383,26 +12387,17 @@ country = {
 	 		}
 	 	}
 
-	# 	SOG = {
-	# 		government = despotic_monarchy
-	# 		primary_culture = sogdian
-	# 		religion = vaksh_religion
+		SOG = {
+			government = tribal_chiefdom
+			primary_culture = sogdian
+			religion = vaksh_religion
 
-	# 		technology={
-	# 			military_tech={ level=1 progress=0 }
-	# 			civic_tech={ level=1 progress=0 }
-	# 			oratory_tech={ level=1 progress=0 }
-	# 			religious_tech= { level=1 progress=0  }
-	# 		}
+			capital = 7263
 
-	# 		capital = 6784
-
-	# 		own_control_core = {
-	# 			6784 6783 6786 6777 6792 6791 6789 6785
-	# 			#new
-	# 			7265 6790 7267 7270 7268 7264 7245 7263 7276 7278 7277 7275 7274 7273 7271
-	# 		}
-	# 	}
+			own_control_core = {
+				7263
+			}
+		}
 		
 	# 	MGT = {
 	# 		government = tribal_chiefdom
@@ -12601,18 +12596,17 @@ country = {
 
 	# 	}
 
-	# 	TYG = {
-	# 		government = tribal_chiefdom
-	# 		primary_culture = getian
-	# 		religion = shamanism
+		TYG = {
+			government = tribal_chiefdom
+			primary_culture = getian
+			religion = shamanism
 
-	# 		capital = 4915
+			capital = 4920
 
-	# 		own_control_core = {
-	# 		4930 4931 4932
-	# 		4915 4916 4925 4928 4929 4934
-	# 		}
-	# 	}
+			own_control_core = {
+				4920
+			}
+		}
 
 	# 	# Ethiopia and Nubia
 
@@ -12724,20 +12718,17 @@ country = {
 			}
 		}
 
-	# 	BMY = {
-	# 		government = tribal_kingdom
-	# 		primary_culture = blemmyan
-	# 		religion = egyptian_pantheon
+		BMY = {
+			government = tribal_chiefdom
+			primary_culture = blemmyan
+			religion = egyptian_pantheon
 
-	# 		capital = 8089
+			capital = 7500
 
-	# 		own_control_core = {
-	# 			7599 7501 7500 7596 7595 7594 7598 7597
-	# 			8074 8075 8076 8077 8078 #eastern_desert
-	# 			8080 8081 8082 8083 8084 8085 8086 8087 8088 8089 8090 #allaqi
-	# 			8091 8092 8093 8094 8095 8096 8097 8098 #gabgaba
-	# 		}
-	# 	}
+			own_control_core = {
+				7500
+			}
+		}
 
 		BOR = {
 			government = tribal_chiefdom
@@ -15205,33 +15196,15 @@ country = {
 	# 		}
 	# 	}
 	#	
-	# 	AKN = {
-	# 		government = tribal_kingdom
-	# 		primary_culture = rhakine
-	# 		religion = hindu
-	# 		capital = 8769
-	# 		technology = {
-	# 			military_tech = {
-	# 				level = 1
-	# 				progress = 0
-	# 			}
-	# 			civic_tech = {
-	# 				level = 1
-	# 				progress = 0
-	# 			}
-	# 			oratory_tech = {
-	# 				level = 1
-	# 				progress = 0
-	# 			}
-	# 			religious_tech = {
-	# 				level = 1
-	# 				progress = 0
-	# 			}
-	# 		}
-	# 		own_control_core = {
-	# 			8767 8768 8769 8786 8787
-	# 		}
-	# 	}
+		AKN = {
+			government = tribal_chiefdom
+			primary_culture = rhakine
+			religion = hindu
+			capital = 8787
+			own_control_core = {
+				8787
+			}
+		}
 		
 	# 	TGU = {
 	# 		government = tribal_kingdom
