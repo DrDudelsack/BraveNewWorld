@@ -40,6 +40,12 @@
  WST_ADJ:0 "Wasetan"
  ARH:0 "Arhao"
  ARH_ADJ:0 "Arhao"
+ FAR:0 "Farafra"
+ FAR_ADJ:0 "Farafran"
+ FRY:0 "Phrygia"
+ FRY_ADJ:0 "Phrygian"
+ MLT:0 "Mallia" # wanted to call it Multan lol
+ MLT_ADJ:0 "Mallian"
 
  # Heritages 
  pergamine_heritage:0 "Pergamine Heritage"
