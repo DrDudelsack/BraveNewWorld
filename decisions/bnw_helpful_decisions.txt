@@ -501,10 +501,13 @@
 			NOT = {
 				has_variable = ai_colo_help_cooldown
 			}
+			NOT = {
+				rank = major_power
+			}
 		}
 
 		allow = {
-			treasury >= 1
+			#treasury >= 1
 			any_owned_province = {
 				any_neighbor_province = {
 					has_owner = no

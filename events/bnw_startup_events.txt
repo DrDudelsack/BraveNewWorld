@@ -46,7 +46,7 @@ bnw_startup_events.1 = {
 		custom_tooltip = bnw_startup_events_tt_1
 		add_country_modifier = {
 			name = divine_favour
-			duration = -1
+			duration = 61685 # 169 years - late game pop growth would explode too much if not curbed around this time
 		}
 		hidden_effect = {
 			random_list = { # "Champions of the Gods" xD
