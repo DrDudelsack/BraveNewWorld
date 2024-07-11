@@ -100,7 +100,7 @@
 888={ #Lair
 	terrain="plains"
 	culture="assyrian"
-	religion="zoroaster"
+	religion="mesopotamian_religion"
 	trade_goods="honey"
 	civilization_value = 5
 	barbarian_power=0
@@ -111,7 +111,7 @@
 889={ #Physkon
 	terrain="plains"
 	culture="babylonian"
-	religion="zoroaster"
+	religion="mesopotamian_religion"
 	trade_goods="wild_game"
 	civilization_value = 5
 	barbarian_power=0
@@ -122,7 +122,7 @@
 890={ #Gouba
 	terrain="plains"
 	culture="babylonian"
-	religion="zoroaster"
+	religion="mesopotamian_religion"
 	trade_goods="cattle"
 	civilization_value = 5
 	barbarian_power=0

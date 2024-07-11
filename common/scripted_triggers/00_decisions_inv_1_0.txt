@@ -37,6 +37,8 @@ is_tier_1_formable_trigger = {
 		tag = 5RI #Punjab
 		tag = VNT #Formable Veneto
 		tag = VIN #Vindelicia
+		tag = TOC #Tocharia
+		tag = POG #Pong
 
 		#Molon Labe Tags
 		#(Many nations weren't ported over, but their tags remain to prevent
@@ -110,6 +112,7 @@ is_tier_2_formable_trigger = {
 		tag = GMA #Greater Maeotia
 		tag = ARY #Aryavarta
 		tag = AQ2 #Greater Aquitania	
+		tag = DL2 #Delphic Amphictyony
 
 		#Molon Labe Tags
 		#(Many nations weren't ported over, but their tags remain to prevent
@@ -201,6 +204,7 @@ is_endgame_tag_trigger = {
 		tag = ITL #Italy
 		tag = APF #Alpine Confederation
 		tag = UBF #Umbrian Federation
+		tag = INP #Indo-Parthia
 
 		#Molon Labe Tags
 		#(Many nations weren't ported over, but their tags remain to prevent

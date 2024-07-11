@@ -386,7 +386,7 @@
 862={ #Ninos
 	terrain="plains"
 	culture="assyrian"
-	religion="zoroaster"
+	religion="mesopotamian_religion"
 	trade_goods="base_metals"
 	civilization_value = 5
 	barbarian_power=0
@@ -408,7 +408,7 @@
 864={ #Atouria
 	terrain="plains"
 	culture="assyrian"
-	religion="zoroaster"
+	religion="mesopotamian_religion"
 	trade_goods="leather"
 	civilization_value = 5
 	barbarian_power=0
@@ -595,7 +595,7 @@
 881={ #Hliz
 	terrain="plains"
 	culture="assyrian"
-	religion="zoroaster"
+	religion="mesopotamian_religion"
 	trade_goods="leather"
 	civilization_value = 5
 	barbarian_power=0
@@ -606,7 +606,7 @@
 882={ #Larissa
 	terrain="plains"
 	culture="assyrian"
-	religion="zoroaster"
+	religion="mesopotamian_religion"
 	trade_goods="dates"
 	civilization_value = 5
 	barbarian_power=0
@@ -617,7 +617,7 @@
 884={ #Harka
 	terrain="plains"
 	culture="assyrian"
-	religion="zoroaster"
+	religion="mesopotamian_religion"
 	trade_goods="dates"
 	civilization_value = 5
 	barbarian_power=0
@@ -628,7 +628,7 @@
 886={ #Nuzi
 	terrain="plains"
 	culture="assyrian"
-	religion="zoroaster"
+	religion="mesopotamian_religion"
 	trade_goods="gems"
 	civilization_value = 5
 	barbarian_power=0
@@ -650,7 +650,7 @@
 957={ #Turshan
 	terrain="plains"
 	culture="assyrian"
-	religion="zoroaster"
+	religion="mesopotamian_religion"
 	trade_goods="steppe_horses"
 	civilization_value = 5
 	barbarian_power=0
@@ -661,7 +661,7 @@
 984={ #Hazza
 	terrain="plains"
 	culture="assyrian"
-	religion="zoroaster"
+	religion="mesopotamian_religion"
 	trade_goods="wild_game"
 	civilization_value = 5
 	barbarian_power=0

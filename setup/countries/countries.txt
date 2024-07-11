@@ -303,6 +303,8 @@ BDI = "setup/countries/barbaricum/budinia.txt"
 NEU = "setup/countries/barbaricum/neuria.txt"
 MLN = "setup/countries/barbaricum/melanchlaenia.txt"
 ARH = "setup/countries/barbaricum/arhao.txt"
+MOR = "setup/countries/barbaricum/mordvinia.txt"
+FEN = "setup/countries/barbaricum/fennia.txt"
 
 # Turdetanian Kingdoms
 CRM = "setup/countries/iberia/carmo.txt"

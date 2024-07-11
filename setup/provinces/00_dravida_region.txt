@@ -914,7 +914,7 @@
 	terrain="jungle"
 	culture="telugu"
 	religion="agama"
-	trade_goods="fruits"
+	trade_goods="fur"
 	civilization_value = 5
 	barbarian_power=0
 	province_rank = "settlement"

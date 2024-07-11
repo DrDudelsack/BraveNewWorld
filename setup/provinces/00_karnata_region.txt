@@ -481,7 +481,7 @@
 	terrain="jungle"
 	culture="kannadan"
 	religion="agama"
-	trade_goods="glass"
+	trade_goods="fruits"
 	civilization_value = 5
 	barbarian_power=0
 	province_rank = "settlement"
@@ -613,7 +613,7 @@
 	terrain="hills"
 	culture="kannadan"
 	religion="agama"
-	trade_goods="fruits"
+	trade_goods="glass"
 	civilization_value = 5
 	barbarian_power=0
 	province_rank = "settlement"

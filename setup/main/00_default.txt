@@ -16268,6 +16268,30 @@ country = {
 	 		}
 	 	}
 
+	 	MOR = { #Mordvinia
+	 		government = tribal_chiefdom
+	 		primary_culture = mordvin
+	 		religion = uralic_pantheon
+
+	 		capital = 9325
+
+	 		own_control_core = {
+	 			9325
+	 		}
+	 	}
+
+	 	FEN = { #Fennia
+	 		government = tribal_chiefdom
+	 		primary_culture = fennic
+	 		religion = uralic_pantheon
+
+	 		capital = 9385
+
+	 		own_control_core = {
+	 			9385
+	 		}
+	 	}
+
 	# 	#Alizones
 	# 	ALZ = {
 	# 		government = tribal_chiefdom

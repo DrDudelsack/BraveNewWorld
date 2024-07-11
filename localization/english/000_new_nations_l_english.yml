@@ -46,6 +46,10 @@
  FRY_ADJ:0 "Phrygian"
  MLT:0 "Mallia" # wanted to call it Multan lol
  MLT_ADJ:0 "Mallian"
+ MOR:0 "Mordvinia"
+ MOR_ADJ:0 "Mordvin"
+ FEN:0 "Fennia"
+ FEN_ADJ:0 "Fennic"
 
  # Heritages 
  pergamine_heritage:0 "Pergamine Heritage"

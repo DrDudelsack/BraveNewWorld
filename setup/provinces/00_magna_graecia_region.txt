@@ -70,7 +70,7 @@
 	terrain="hills"
 	culture="italiotian"
 	religion="roman_pantheon"
-	trade_goods="fruits"
+	trade_goods="wood"
 	civilization_value = 5
 	barbarian_power=0
 	province_rank = "settlement"

@@ -1105,3 +1105,45 @@
 	tribesmen = { amount = 2 }
 }
 
+9461={ #Nili
+	terrain="desert"
+	culture="melanogaetulian"
+	religion="berber_religion"
+	trade_goods="wild_game"
+	civilization_value = 5
+	barbarian_power=0
+	province_rank = "settlement"
+	tribesmen = { amount = 2 }
+}
+
+9462={ #Trekfine
+	terrain="desert"
+	culture="melanogaetulian"
+	religion="berber_religion"
+	trade_goods="leather"
+	civilization_value = 5
+	barbarian_power=0
+	province_rank = "settlement"
+	tribesmen = { amount = 2 }
+}
+
+9463={ #Hannacha
+	terrain="desert"
+	culture="melanogaetulian"
+	religion="berber_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank = "settlement"
+}
+
+9464={ #Makhoukhia
+	terrain="desert"
+	culture="melanogaetulian"
+	religion="berber_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank = "settlement"
+}
+
