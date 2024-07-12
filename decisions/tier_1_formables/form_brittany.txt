@@ -6,10 +6,19 @@
 		
 		potential = {
 			num_of_cities >= 1
-			primary_culture = dumnonian
+			#primary_culture = dumnonian
+			country_culture_group = britannic
 			is_tribal = yes
 			NOT = {
 				tag = BTN
+			}
+			NOT = {
+				primary_culture = ivernian
+				primary_culture = voluntian
+				primary_culture = caledonian
+				primary_culture = taexalian
+				primary_culture = votadinian
+				primary_culture = damnonian
 			}
 			OR = {
 				is_ai = no
