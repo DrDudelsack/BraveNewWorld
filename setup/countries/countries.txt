@@ -143,6 +143,7 @@ SIW = "setup/countries/africa/siwa.txt"
 MEF = "setup/countries/africa/memphis.txt"
 WST = "setup/countries/africa/waset.txt"
 FAR = "setup/countries/africa/farafra.txt"
+MGU = "setup/countries/africa/melanogaetuli.txt"
 
 #Gaul
 

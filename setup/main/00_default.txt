@@ -5644,6 +5644,21 @@ country = {
 			}
 		}
 
+		MGU = {
+			government = tribal_chiefdom
+			primary_culture = melanogaetulian
+			religion = berber_religion
+
+			centralization = -75
+
+			capital = 9453
+			
+
+			own_control_core = {
+				9453
+			}
+		}
+
 	 	MHY = {
 	 		government = tribal_chiefdom
 	 		primary_culture = macaean

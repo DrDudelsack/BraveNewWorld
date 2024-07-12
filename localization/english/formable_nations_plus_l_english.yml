@@ -363,3 +363,11 @@
  HANTRAM_ADJECTIVE:0 "Hantramian"
  hantram_not_exists:0 "#Y Hantram#! must NOT exist."
  formable_hantram_capital:0 "Our capital must be either located in the region of Burma."
+ 
+ #Aengland
+ form_aengland:0 "Form Angland"
+ form_aengland_desc:0 "For generations we have called these marshy shores our home, however, our homeland is destitute and the winters have become more harsh and unforgiving. Our bountiful neighbors across the sea, on the otherhand, find themselves in chaos and disarray, presenting our people with a golden opportunity; if we board our warriors onto boats and sail across the sea posing as mercenaries, we can subdue the Bretons with ease and guarentee a prosperous future for posterity yet to come."
+ AENGLAND_NAME:0 "Aengland"
+ AENGLAND_ADJECTIVE:0 "Anglo-Saxon"
+ aengland_not_exists:0 "#Y Aengland#! must NOT exist."
+ formable_aengland_capital:0 "Our capital must be located in the regions of #Y Britannia#! or #Y Caledonia#!."
