@@ -2151,6 +2151,29 @@ ALBANIAN_ALBANIA_FLAG = {
 	}
 }
 
+FRANKISH_EMPIRE_FLAG = {
+	pattern = "pattern_solid.tga"
+	color1 = "frankish_empire_color"
+	color2 = "roman_gold"
+	colored_emblem = {
+		texture = "ce_frankish.dds"
+		color1 = "roman_gold"
+		color2= "roman_gold"
+		instance = { 
+			scale = { 1.1 1.1 }
+			position = { 0.50 0.60 }
+		}
+		instance = { 
+			scale = { 1.1 1.1 }
+			position = { 0.80 0.35 }
+		}
+		instance = { 
+			scale = { 1.1 1.1 }
+			position = { 0.20 0.35 }
+		}
+	}
+}
+
 BURGUNDY_FLAG = {
 	pattern = "pattern_solid.tga"
 	color1 = "bone_white"
@@ -2643,3 +2666,5 @@ AENGLAND_FLAG = {
 		}
 	}
 }
+
+

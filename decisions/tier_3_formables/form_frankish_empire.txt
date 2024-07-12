@@ -1,0 +1,123 @@
+﻿country_decisions = {
+	
+	# Form Frankish Empire
+
+	form_frankish_empire = {
+		
+		potential = {
+			num_of_cities >= 1
+			NOT = { tag = FKE }
+			OR = {
+				primary_culture = istvaeonic
+			}
+			NOT = {
+				is_endgame_tag_trigger = yes
+			}
+		}
+		
+		highlight = {
+			scope:province = {
+				OR = {
+					province_id = 3850
+					province_id = 3851
+					province_id = 3825
+					province_id = 3824
+					province_id = 3960
+					is_in_area = bructeria_area
+					is_in_area = sicambria_area
+					is_in_area = armorica_maioris_area
+					is_in_area = pictonia_septentrionalis_area
+					is_in_area = cenomannia_area
+					is_in_area = bituriga_occidentalis_area
+					is_in_area = carnutia_area
+					#is_in_area = chattia_occidentalis_area
+					#is_in_area = raurica_area
+					is_in_area = helvetia_inferioris_area
+					is_in_area = helvetia_superioris_area
+					#is_in_area = germanicum_area
+					is_in_region = aquitaine_region
+					is_in_region = central_gaul_region
+					#is_in_region = gaul_minor_region
+					is_in_region = belgica_region
+					is_in_region = germania_superior_region
+					#is_in_region = transalpine_gaul_region
+				}
+			}
+		}
+		
+		allow = {
+			custom_tooltip = {
+				text = frankish_empire_not_exists
+				NOT = {
+					any_country = {
+						tag = FKE
+					}
+				}
+			}
+			can_form_nation_trigger = yes
+			owns_or_subject_owns = 3850
+			owns_or_subject_owns = 3851
+			owns_or_subject_owns = 3825
+			owns_or_subject_owns = 3824
+			owns_or_subject_owns = 3960
+			owns_or_subject_owns_area = bructeria_area
+			owns_or_subject_owns_area = sicambria_area
+			owns_or_subject_owns_area = armorica_maioris_area
+			owns_or_subject_owns_area = pictonia_septentrionalis_area
+			owns_or_subject_owns_area = cenomannia_area
+			owns_or_subject_owns_area = bituriga_occidentalis_area
+			owns_or_subject_owns_area = carnutia_area
+			#owns_or_subject_owns_area = chattia_occidentalis_area
+			#owns_or_subject_owns_area = raurica_area
+			owns_or_subject_owns_area = helvetia_inferioris_area
+			owns_or_subject_owns_area = helvetia_superioris_area
+			#owns_or_subject_owns_area = germanicum_area
+			owns_or_subject_owns_region = aquitaine_region
+			owns_or_subject_owns_region = central_gaul_region
+			#owns_or_subject_owns_region = gaul_minor_region
+			owns_or_subject_owns_region = belgica_region
+			owns_or_subject_owns_region = germania_superior_region
+			#owns_or_subject_owns_region = transalpine_gaul_region
+		}
+		
+		effect = {
+			custom_tooltip = "tier_3_formable_tooltip"
+			change_country_name = "FRANKISH_EMPIRE_NAME"
+			if = {
+				limit = {
+					NOR = { 
+						government = imperium 
+						government = imperial_cult
+					}
+				}
+				change_government = imperium
+				switch_government_type_event_clearup_effect = yes
+			}			
+			capital_scope = {
+				establish_city_effect = yes
+				capital_formable_large_effect = yes
+				formable_capital_modifier_large_effect = yes
+			}
+			hidden_effect = {
+				change_country_adjective = "FRANKISH_EMPIRE_ADJECTIVE"
+				change_country_color =  "frankish_empire_color"
+				change_country_tag = FKE
+				change_country_flag = FRANKISH_EMPIRE_FLAG
+				#trigger_event = {
+				#	id = formable_heritage.167
+				#}
+			}
+			add_5_free_province_investments = yes
+		}
+		
+		ai_will_do = {
+			base = 1
+			modifier = {
+				add = 10
+				current_date > 600.1.1
+			}
+		}
+	}
+
+} 
+
