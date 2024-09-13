@@ -2667,4 +2667,179 @@ AENGLAND_FLAG = {
 	}
 }
 
+PER_SHEKLESH_FLAG = {
+	pattern = "pattern_solid.tga"
+	color1 = "per_sheklesh_color"
+	color2 = "judea_blue"
+
+	colored_emblem = {
+		texture = "ce_circle_01.dds"
+		color1 = "ck2_black"
+		color2= "silver"
+		instance = { 
+			scale = { 2.0 0.85 }
+			position = { 0.5 0.485 }
+		}
+	}
+
+	colored_emblem = {
+		texture = "ce_circle_01.dds"
+		color1 = "sicsyria_color"
+		color2= "silver"
+		instance = { 
+			scale = { 2.0 0.85 }
+			position = { 0.5 0.5 }
+		}
+	}
+
+	colored_emblem = {
+		texture = "ce_block.dds"
+		color1 = "navy_blue"
+		color2= "navy_blue"
+		instance = { 
+			scale = { 1.0 0.4 }
+			position = { 0.5 0.78 }
+		}
+	}
+
+	colored_emblem = {
+		texture = "ce_circle_01.dds"
+		color1 = "ck2_black"
+		color2= "varangia_flag_color"
+		instance = { 
+			scale = { 0.30 0.30 }
+			position = { 0.73 0.48 }
+			#rotation = 180
+		}
+	}
+
+	colored_emblem = {
+		texture = "ce_circle_01.dds"
+		color1 = "blood_red"
+		color2= "varangia_flag_color"
+		instance = { 
+			scale = { 0.27 0.27 }
+			position = { 0.73 0.48 }
+			#rotation = 180
+		}
+	}
+
+
+	colored_emblem = {
+		texture = "ce_fish_01.dds"
+		color1 = "silver"
+		color2= "varangia_flag_color"
+		instance = { 
+			scale = { 1.0 1.1 }
+			position = { 0.5 0.65 }
+			#rotation = 180
+		}
+	}
+
+	colored_emblem = {
+		texture = "ce_crescent_02.dds"
+		color1 = "ck2_black"
+		color2= "varangia_flag_color"
+		instance = { 
+			scale = { 0.265 0.265 }
+			position = { 0.73 0.48 }
+			#rotation = 180
+		}
+	}
+
+	colored_emblem = {
+		texture = "ce_crescent_02.dds"
+		color1 = "silver"
+		color2= "varangia_flag_color"
+		instance = { 
+			scale = { 0.25 0.25 }
+			position = { 0.73 0.48 }
+			#rotation = 180
+		}
+	}
+
+	colored_emblem = {
+		texture = "ce_border_dacian_02.dds"
+		color1 = "navy_blue"
+		color2= "silver"
+		instance = { 
+			rotation = 180
+		}
+	}
+
+
+}
+
+PER_KHATI_FLAG = {
+	pattern = "pattern_solid.tga"
+	color1 = per_khati_color
+	color2 = ck2_black
+
+	colored_emblem = {
+		texture = "ce_border_rug_01.tga"
+		color1 = "roman_gold"
+		color2 = "ck2_black"
+		instance = { 
+			rotation = 0
+		}
+		instance = { 
+			rotation = 180
+		}
+	}
+
+	colored_emblem = {
+		texture = "ce_circle_01.dds"
+		color1 = "ck2_black"
+		color2 = "blood_red"
+		instance = { 
+			scale = { 0.60 0.60 } 
+			position = { 0.50 0.35 }
+			rotation = 0
+		}
+	}
+
+	colored_emblem = {
+		texture = "ce_circle_01.dds"
+		color1 = "roman_gold"
+		color2 = "blood_red"
+		instance = { 
+			scale = { 0.55 0.55 } 
+			position = { 0.50 0.35 }
+			rotation = 0
+		}
+	}
+
+	colored_emblem = {
+		texture = "ce_egyptian_05.dds"
+		color1 = "maurya_brown"
+		color2= "silver"
+		instance = { 
+			scale = { -0.7 0.6 }
+			position = { 0.23 0.60 }
+		}
+	}
+
+	colored_emblem = {
+		texture = "ce_deer_cheruscia.dds"
+		color1 = "maurya_brown"
+		color2= "silver"
+		instance = { 
+			scale = { -0.7 0.7 }
+			position = { 0.75 0.60 }
+		}
+	}
+
+	colored_emblem = {
+		texture = "ce_egypt_udjat_eye.dds"
+		color1 = "ck2_black"
+		color2 = "blood_red"
+		instance = { 
+			scale = { 0.40 0.40 } 
+			position = { 0.50 0.35 }
+			rotation = 0
+		}
+	}
+
+}
+
 

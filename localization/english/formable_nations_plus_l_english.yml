@@ -371,3 +371,19 @@
  AENGLAND_ADJECTIVE:0 "Anglo-Saxon"
  aengland_not_exists:0 "#Y Aengland#! must NOT exist."
  formable_aengland_capital:0 "Our capital must be located in the regions of #Y Britannia#! or #Y Caledonia#!."
+ 
+ #Per-Sheklesh
+ form_per_sheklesh:0 "Form Per-Sheklesh"
+ form_per_sheklesh_desc:0 "For thousands of years, our people have lived in prosperity along the banks of the Nile, whose yearly floods ensure a steady harvest and mitigate the risk of starvation. However, with the sudden collapse of civilization, the region is engulfed in chaos, with barbarian hordes hailing from the deep desert roaming freely to pillage the few remaining Nile settlements, unchecked and unchallenged. From the Greeks, we have learned that there are plenty of fertile, habitable, and uncontested ports in the former homeland of the ancient Sheklesh; to escape from the constant raids, perhaps it is time for us to face our fear of the sea and sail westward across the Great Green to establish a new Egypt from which we will forge our great civilization anew."
+ PER_SHEKLESH_NAME:0 "Per-Sheklesh"
+ PER_SHEKLESH_ADJECTIVE:0 "Per-Sheklesh"
+ per_sheklesh_not_exists:0 "#Y Per-Sheklesh#! must NOT exist."
+ formable_per_sheklesh_capital:0 "Our capital must be located in the regions of #Y Magna Graecia#!, #Y Italia#!, or #Y Cisalpine Gaul#!."
+ 
+ #Per-Khati
+ form_per_khati:0 "Form Per-Khati"
+ form_per_khati_desc:0 "In a past age, the Hatti were our greatest rivals, whose might and power prevented our empire from expanding beyond Kadesh. With the sudden collapse of civilization across the globe, however, their old lands are left deserted and unoccupied, ripe for the pickings for anyone bold enough to take the chance; by settling and claiming the wealthy hills, valleys, and lakes of Anatolia instead of fighting other nomarchs over lordship of the nile, we can establish a new dynasty in the north to surpass both the Egypt and Hatti of old."
+ PER_KHATI_NAME:0 "Per-Khati"
+ PER_KHATI_ADJECTIVE:0 "Per-Khati"
+ per_khati_not_exists:0 "#Y Per-Khati#! must NOT exist."
+ formable_per_khati_capital:0 "Our capital must be located in Anatolia."

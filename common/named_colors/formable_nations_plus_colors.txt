@@ -284,4 +284,8 @@ colors = {
 	hantram_color = rgb { 79 7 15 }
 
 	aengland_color = rgb { 202 26 26 }
+
+	per_sheklesh_color = rgb { 152 163 0 }
+
+	per_khati_color = rgb { 100 44 178 }
 }

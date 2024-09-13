@@ -1,0 +1,112 @@
+﻿country_decisions = {		
+	# Form Per Sheklesh
+	# Suggested by Izn, created by Shinymewtwo99
+	form_per_sheklesh = {
+		
+		potential = {
+			num_of_cities >= 1
+			country_culture_group = north_african
+			NOR = {
+				tag = PSE
+			}
+			NOR = {
+				is_endgame_tag_trigger = yes
+				is_tier_2_formable_trigger = yes
+			}
+		}
+		
+		#AI for now also uses this to get the list of provinces it must try to conquer.
+		highlight = {
+			scope:province = {
+				OR = {
+					province_id = 80 #Messana
+					province_id = 84 #Syracuse
+					province_id = 86 #Acragas
+					province_id = 94 #Lilybaeum
+					province_id = 88 #Murgantia
+					province_id = 96 #Panormus
+					province_id = 72
+					province_id = 78
+					province_id = 52
+					province_id = 56
+					province_id = 64
+					province_id = 12
+					province_id = 54
+					province_id = 46
+				}
+			}
+		}
+		
+		allow = {
+			custom_tooltip = {
+				text = formable_not_per_sheklesh_exists
+				NOT = {
+					any_country = {
+						tag = PSE
+					}
+				}
+			}
+			can_form_nation_trigger = yes
+			owns = 84 #Syracuse
+			owns = 86 #Acragas
+			owns_or_subject_owns = 80 #Mess
+			owns_or_subject_owns = 94 #Lilybaeum
+			owns_or_subject_owns = 88 #Murgantia
+			owns_or_subject_owns = 96 #Panormus
+			owns_or_subject_owns = 72
+			owns_or_subject_owns = 78
+			owns_or_subject_owns = 52
+			owns_or_subject_owns = 56
+			owns_or_subject_owns = 64
+			owns_or_subject_owns = 12
+			owns_or_subject_owns = 54
+			owns_or_subject_owns = 46
+
+			custom_tooltip = {
+				text = formable_per_sheklesh_capital
+				capital_scope = {
+						OR = {
+							is_in_region = magna_graecia_region
+							is_in_region = central_italy_region
+							is_in_region = cisalpine_gaul_region
+					}
+				}
+			}
+		}
+		
+		effect = {
+			custom_tooltip = "tier_2_formable_tooltip"
+			change_country_name = "PER_SHEKLESH_NAME"
+			if = {
+				limit = { is_tribal = yes }
+				add_country_modifier = {
+					name = civilized_tribe
+					duration = 5475
+				}
+				change_government = tribal_federation
+				switch_government_type_event_clearup_effect = yes
+			}
+			hidden_effect = {
+				change_country_adjective = "PER_SHEKLESH_ADJECTIVE"
+				change_country_color =  "per_sheklesh_color"
+				change_country_tag = PSE
+				change_country_flag = PER_SHEKLESH_FLAG
+				##trigger_event = {
+				##	id = formable_heritage.113
+				##}					
+			}
+			capital_scope = {
+				establish_city_effect = yes				
+				capital_formable_medium_effect = yes
+				formable_capital_modifier_normal_effect = yes
+			}
+			add_2_free_province_investments = yes
+		}
+		
+		ai_will_do = {
+			base = 1
+		}
+	}
+
+} 
+
