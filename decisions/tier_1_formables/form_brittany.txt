@@ -38,8 +38,8 @@
 					is_in_area = armorica_centralis_area
 					province_id = 3308
 					province_id = 2212
-					province_id = 2210
-					province_id = 2211
+					#province_id = 2210
+					#province_id = 2211
 					province_id = 2215
 					province_id = 2144
 				}
@@ -61,8 +61,8 @@
 			owns_or_subject_owns_area = armorica_centralis_area
 			owns_or_subject_owns = 3308
 			owns_or_subject_owns = 2212
-			owns_or_subject_owns = 2210
-			owns_or_subject_owns = 2211
+			#owns_or_subject_owns = 2210
+			#owns_or_subject_owns = 2211
 			owns_or_subject_owns = 2215
 			owns_or_subject_owns = 2144
 		}
