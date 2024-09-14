@@ -2846,3 +2846,7 @@
  LOL_ADJ:0 "Loulan"
  X32:0 "Teuria"
  X32_ADJ:0 "Teurian"
+ 
+ AETHIOPIA_NAME:0 "Aethiopia"
+ AETHIOPIA_ADJECTIVE:0 "Aethiopian"
+ form_aethiopia:0 "Form Aethiopia"
