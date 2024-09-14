@@ -2894,4 +2894,71 @@ MEGABACTRIA_FLAG = {
 
 }
 
+ALAMANNIA_FLAG = {
+	pattern = "pattern_solid.tga"
+	color1 = sicily_color
+	color2 = ck2_black
+
+	colored_emblem = {
+		texture = "ce_border_checker_01.tga"
+		color1 = "gallaecia_color"
+		color2 = "ck2_black"
+		instance = { 
+			rotation = 90
+		}
+		instance = { 
+			rotation = 270
+		}
+	}
+
+	colored_emblem = {
+		texture = "ce_thrace.dds"
+		color1 = "ck2_black"
+		color2 = "blood_red"
+		instance = { 
+			scale = { -0.57 0.52 } 
+			position = { 0.50 0.21 }
+		}
+		instance = { 
+			scale = { -0.57 0.52 } 
+			position = { 0.50 0.50 }
+		}
+		instance = { 
+			scale = { -0.57 0.52 } 
+			position = { 0.50 0.79 }
+		}
+	}
+
+	colored_emblem = {
+		texture = "ce_block.dds"
+		color1 = "sicily_color"
+		color2 = "ck2_black"
+		instance = { 
+			scale = { 0.10 0.06 } 
+			position = { 0.50 0.03 }
+		}
+		instance = { 
+			scale = { 0.10 0.06 } 
+			position = { 0.50 0.305 }
+		}
+		instance = { 
+			scale = { 0.05 0.06 } 
+			position = { 0.50 0.40 }
+		}
+		instance = { 
+			scale = { 0.10 0.06 } 
+			position = { 0.50 0.595 }
+		}
+		instance = { 
+			scale = { 0.05 0.06 } 
+			position = { 0.50 0.70 }
+		}
+		instance = { 
+			scale = { 0.10 0.08 } 
+			position = { 0.50 0.96 }
+		}
+	}
+
+}
+
 

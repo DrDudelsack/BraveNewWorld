@@ -395,3 +395,11 @@
  MEGABACTRIA_ADJECTIVE:0 "Megabactrian"
  megabactria_not_exists:0 "#Y Megabactria#! must NOT exist."
  formable_megabactria_capital:0 "Our capital must be located in the regions of #Y Bactriana#!, #Y Sogdiana#!, #Y Sakia#!, #Y Parthia#!, #Y Ariana#!, #Y Gandhara#!, or #Y Himalaya#!."
+ 
+ #Alemannia
+ form_alamannia:0 "Form Alemannia"
+ form_alamannia_desc:0 "With the collapse of the Suebi, our people are scattered, divided, and leaderless; Our southern neighbors living on the Alpine foothills, however, similarly find themselves embroiled turmoil and chaos, making them vulnerable to an outside incursion. Should we manage to unite enough of the various Suebi remnants under our banner, we can march southward and stake out a new homeland for our people, securing our future for generations to come."
+ ALAMANNIA_NAME:0 "Alemannia"
+ ALAMANNIA_ADJECTIVE:0 "Alemannic"
+ alamannia_not_exists:0 "#Y Alemannia#! must NOT exist."
+ formable_alamannia_capital:0 "Our capital must be located in the regions of #Y Germania Superior#!, #Y Rhaetia#!, or #Y Celtica#!."

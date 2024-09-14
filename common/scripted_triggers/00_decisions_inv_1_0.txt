@@ -68,6 +68,7 @@ is_tier_1_formable_trigger = {
 		tag = AAL #Albanian Albania
 		tag = FRA #Franks
 		tag = HNT #Hantram
+		tag = ALM #Alamannia
 	}
 }
 

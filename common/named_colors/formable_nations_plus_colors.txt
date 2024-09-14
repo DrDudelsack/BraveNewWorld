@@ -290,4 +290,6 @@ colors = {
 	per_khati_color = rgb { 100 44 178 }
 
 	megabactria_color = rgb { 79 206 23 }
+
+	alamannia_color = rgb { 48 92 35 }
 }

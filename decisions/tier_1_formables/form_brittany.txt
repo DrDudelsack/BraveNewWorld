@@ -8,7 +8,6 @@
 			num_of_cities >= 1
 			#primary_culture = dumnonian
 			country_culture_group = britannic
-			is_tribal = yes
 			NOT = {
 				tag = BTN
 			}
