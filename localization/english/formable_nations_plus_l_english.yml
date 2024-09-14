@@ -387,3 +387,11 @@
  PER_KHATI_ADJECTIVE:0 "Per-Khati"
  per_khati_not_exists:0 "#Y Per-Khati#! must NOT exist."
  formable_per_khati_capital:0 "Our capital must be located in Anatolia."
+ 
+ #Megabactria
+ form_megabactria:0 "Form Megabactria"
+ form_megabactria_desc:0 "Long have we called the African bush our home, taking advantage of the interconnected rivers to trade exotic beasts and goods with outsiders for high prices. With the recent instability and chaos unfolding across the civilized world, however, fewer people are willing and able to afford our wares, making it much more difficult to maintain the livlihoods upon which we have grown accustomed. In a faraway land across great deserts and mountains, there reportedly sits a fertile river valley at the crossroads of the world's major trade networks, or whatever is left of them. Although the journey will be dangerous, by bringing along our most skilled warriors hardened by the African bush and our most shrewd traders, we can seize control of this vital trade artery and dominate global trade, ensuring that our people will prosper for generations to come."
+ MEGABACTRIA_NAME:0 "Megabactria"
+ MEGABACTRIA_ADJECTIVE:0 "Megabactrian"
+ megabactria_not_exists:0 "#Y Megabactria#! must NOT exist."
+ formable_megabactria_capital:0 "Our capital must be located in the regions of #Y Bactriana#!, #Y Sogdiana#!, #Y Sakia#!, #Y Parthia#!, #Y Ariana#!, #Y Gandhara#!, or #Y Himalaya#!."
