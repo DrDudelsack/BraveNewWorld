@@ -3976,21 +3976,21 @@ provinces = { #Any entry must contain a comment with city name.
 	5294 = {
 		modifier = { modifier = generic_barbarian_spawn_place }
 	}
-	5293 = {
-		modifier = { modifier = generic_barbarian_spawn_place }
-	}
+	#5293 = {
+	#	modifier = { modifier = generic_barbarian_spawn_place }
+	#}
 	5334 = {
 		modifier = { modifier = generic_barbarian_spawn_place }
 	}
-	5333 = {
-		modifier = { modifier = generic_barbarian_spawn_place }
-	}
+	#5333 = {
+	#	modifier = { modifier = generic_barbarian_spawn_place }
+	#}
 	5337 = {
 		modifier = { modifier = generic_barbarian_spawn_place }
 	}
-	5338 = {
-		modifier = { modifier = generic_barbarian_spawn_place }
-	}
+	#5338 = {
+	#	modifier = { modifier = generic_barbarian_spawn_place }
+	#}
 	5341 = {
 		modifier = { modifier = major_barbarian_spawn_place }
 	}
@@ -4003,9 +4003,9 @@ provinces = { #Any entry must contain a comment with city name.
 	5947 = {
 		modifier = { modifier = generic_barbarian_spawn_place }
 	}
-	5974 = {
-		modifier = { modifier = major_barbarian_spawn_place }
-	}
+	#5974 = {
+	#	modifier = { modifier = major_barbarian_spawn_place }
+	#}
 	5975 = {
 		modifier = { modifier = generic_barbarian_spawn_place }
 	}
@@ -4018,9 +4018,9 @@ provinces = { #Any entry must contain a comment with city name.
 	5993 = {
 		modifier = { modifier = generic_barbarian_spawn_place }
 	}
-	5994 = {
-		modifier = { modifier = generic_barbarian_spawn_place }
-	}
+	#5994 = {
+	#	modifier = { modifier = generic_barbarian_spawn_place }
+	#}
 	5995 = {
 		modifier = { modifier = generic_barbarian_spawn_place }
 	}
@@ -4030,30 +4030,30 @@ provinces = { #Any entry must contain a comment with city name.
 	8115 = {
 		modifier = { modifier = generic_barbarian_spawn_place }
 	}
-	8116 = {
-		modifier = { modifier = generic_barbarian_spawn_place }
-	}
-	8117 = {
-		modifier = { modifier = generic_barbarian_spawn_place }
-	}
-	8118 = {
-		modifier = { modifier = generic_barbarian_spawn_place }
-	}
+	#8116 = {
+	#	modifier = { modifier = generic_barbarian_spawn_place }
+	#}
+	#8117 = {
+	#	modifier = { modifier = generic_barbarian_spawn_place }
+	#}
+	#8118 = {
+	#	modifier = { modifier = generic_barbarian_spawn_place }
+	#}
 	8119 = {
 		modifier = { modifier = generic_barbarian_spawn_place }
 	}
 	8692 = {
 		modifier = { modifier = generic_barbarian_spawn_place }
 	}
-	8694 = {
-		modifier = { modifier = generic_barbarian_spawn_place }
-	}
+	#8694 = {
+	#	modifier = { modifier = generic_barbarian_spawn_place }
+	#}
 	8717 = {
 		modifier = { modifier = major_barbarian_spawn_place }
 	}
-	8718 = {
-		modifier = { modifier = major_barbarian_spawn_place }
-	}
+	#8718 = {
+	#	modifier = { modifier = major_barbarian_spawn_place }
+	#}
 	8719 = {
 		modifier = { modifier = minor_barbarian_spawn_place }
 	}
