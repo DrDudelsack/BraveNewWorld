@@ -12,7 +12,10 @@
 			p:4799 = {
 				# has_province_rank = city_metropolis
 				# total_population >= 80
-				has_province_rank = city
+				OR = {
+					has_province_rank = city
+					has_province_rank = city_metropolis
+				}
 				total_population >= 50
 				num_province_treasures >= 3
 			}
