@@ -765,12 +765,23 @@
 	terrain="desert"
 	culture="utian"
 	religion="zoroaster"
-	trade_goods="vegetables"
+	trade_goods="dates"
 	civilization_value = 5
 	barbarian_power=0
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 	port_building=1
+}
+
+9469={ #Khamir
+	terrain="desert"
+	culture="utian"
+	religion="zoroaster"
+	trade_goods="vegetables"
+	civilization_value = 5
+	barbarian_power=0
+	province_rank = "settlement"
+	tribesmen = { amount = 2 }
 }
 
 4956={ #Portospana

@@ -147,7 +147,7 @@
 	terrain="plains"
 	culture="cypriot"
 	religion="roman_pantheon"
-	trade_goods="glass"
+	trade_goods="cedar"
 	civilization_value = 5
 	barbarian_power=0
 	province_rank = "settlement"
@@ -157,9 +157,9 @@
 
 332={ #Kition
 	terrain="forest"
-	culture="cypriot"
-	religion="roman_pantheon"
-	trade_goods="cedar"
+	culture="phoenician"
+	religion="carthaginian_pantheon"
+	trade_goods="dye"
 	civilization_value = 5
 	barbarian_power=0
 	province_rank = "settlement"
@@ -807,7 +807,7 @@
 
 7942={ #Daidala
 	terrain="hills"
-	culture="ionian"
+	culture="carian"
 	religion="roman_pantheon"
 	trade_goods="hemp"
 	civilization_value = 5

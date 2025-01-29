@@ -481,7 +481,7 @@
 
 295={ #Hypaipa
 	terrain="hills"
-	culture="carian"
+	culture="lydian"
 	religion="anatolian_religion"
 	trade_goods="base_metals"
 	civilization_value = 5
@@ -937,7 +937,7 @@
 
 1989={ #Kaunos
 	terrain="hills"
-	culture="ionian"
+	culture="carian"
 	religion="roman_pantheon"
 	trade_goods="dye"
 	civilization_value = 5
@@ -1057,4 +1057,3 @@
 	province_rank = "settlement"
 	tribesmen = { amount = 2 }
 }
-

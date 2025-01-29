@@ -183,7 +183,7 @@
 	terrain="plains"
 	culture="turdetanian"
 	religion="carthaginian_pantheon"
-	trade_goods="leather"
+	trade_goods="earthware"
 	civilization_value = 5
 	barbarian_power=0
 	province_rank = "settlement"
@@ -230,7 +230,7 @@
 	terrain="marsh"
 	culture="turdetanian"
 	religion="carthaginian_pantheon"
-	trade_goods="grain"
+	trade_goods="cattle"
 	civilization_value = 5
 	barbarian_power=0
 	province_rank = "settlement"
@@ -264,7 +264,7 @@
 	terrain="hills"
 	culture="turdetanian"
 	religion="carthaginian_pantheon"
-	trade_goods="base_metals"
+	trade_goods="horses"
 	civilization_value = 5
 	barbarian_power=0
 	province_rank = "settlement"
@@ -306,7 +306,7 @@
 	tribesmen = { amount = 2 }
 }
 
-1350={ #Acinippo
+1350={ #Lacippo
 	terrain="hills"
 	culture="turdetanian"
 	religion="animism"
@@ -341,7 +341,7 @@
 }
 
 1353={ #Urgia
-	terrain="plains"
+	terrain="marsh"
 	culture="turdetanian"
 	religion="animism"
 	trade_goods="earthware"
@@ -363,7 +363,7 @@
 }
 
 1355={ #Ispal
-	terrain="plains"
+	terrain="farmland"
 	culture="turdetanian"
 	religion="carthaginian_pantheon"
 	trade_goods="horses" #Swapped tradegoods with Osset, as this appears to be what was intended by Paradox
@@ -373,7 +373,7 @@
 	tribesmen = { amount = 2 }
 }
 
-1356={ #Orippo
+1356={ #Iptucci
 	terrain="farmland"
 	culture="turdetanian"
 	religion="animism"
@@ -385,7 +385,7 @@
 }
 
 1357={ #Osset
-	terrain="plains"
+	terrain="farmland"
 	culture="turdetanian"
 	religion="animism"
 	trade_goods="grain"
@@ -398,7 +398,7 @@
 1358={ #Olontigi
 	terrain="farmland"
 	culture="turdetanian"
-	religion="carthaginian_pantheon"
+	religion="animism"
 	trade_goods="leather"
 	civilization_value = 5
 	barbarian_power=0
@@ -406,11 +406,11 @@
 	tribesmen = { amount = 2 }
 }
 
-1359={ #Ilpulla
-	terrain="farmland"
+1359={ #Ilpulla-Ilipla
+	terrain="plains"
 	culture="turdetanian"
 	religion="carthaginian_pantheon"
-	trade_goods="base_metals"
+	trade_goods="honey"
 	civilization_value = 5
 	barbarian_power=0
 	province_rank = "settlement"
@@ -462,11 +462,11 @@
 	tribesmen = { amount = 2 }
 }
 
-1364={ #Arunda
+1364={ #Arunda-Acinippo
 	terrain="hills"
 	culture="turdetanian"
 	religion="animism"
-	trade_goods="horses"
+	trade_goods="wood"
 	civilization_value = 5
 	barbarian_power=0
 	province_rank = "settlement"
@@ -510,7 +510,7 @@
 	terrain="plains"
 	culture="turdetanian"
 	religion="animism"
-	trade_goods="stone"
+	trade_goods="wood"
 	civilization_value = 5
 	barbarian_power=0
 	province_rank = "settlement"
@@ -521,7 +521,7 @@
 	terrain="plains"
 	culture="turdetanian"
 	religion="animism"
-	trade_goods="wood"
+	trade_goods="grain"
 	civilization_value = 5
 	barbarian_power=0
 	province_rank = "settlement"
@@ -532,7 +532,7 @@
 	terrain="plains"
 	culture="turdetanian"
 	religion="animism"
-	trade_goods="wood"
+	trade_goods="fruits"
 	civilization_value = 5
 	barbarian_power=0
 	province_rank = "settlement"
@@ -540,7 +540,7 @@
 }
 
 1371={ #Astigi
-	terrain="plains"
+	terrain="farmland"
 	culture="turdetanian"
 	religion="animism"
 	trade_goods="cloth"
@@ -550,7 +550,7 @@
 	tribesmen = { amount = 2 }
 }
 
-1372={ #Celti
+1372={ #Segida-Celti
 	terrain="farmland"
 	culture="turdetanian"
 	religion="animism"
@@ -595,7 +595,7 @@
 }
 
 1376={ #Sabetanum
-	terrain="plains"
+	terrain="farmland"
 	culture="turdetanian"
 	religion="animism"
 	trade_goods="olive"
@@ -609,7 +609,7 @@
 	terrain="farmland"
 	culture="turdetanian"
 	religion="animism"
-	trade_goods="wine"
+	trade_goods="grain"
 	civilization_value = 5
 	barbarian_power=0
 	province_rank = "settlement"
@@ -617,10 +617,10 @@
 }
 
 1378={ #Epora
-	terrain="plains"
+	terrain="farmland"
 	culture="turdetanian"
 	religion="animism"
-	trade_goods="grain"
+	trade_goods="wine"
 	civilization_value = 5
 	barbarian_power=0
 	province_rank = "settlement"
@@ -649,7 +649,7 @@
 	tribesmen = { amount = 2 }
 }
 
-1381={ #Kastilo
+1381={ #Castulo-Kastilo
 	terrain="plains"
 	culture="oretanian"
 	religion="animism"
@@ -705,7 +705,7 @@
 }
 
 1386={ #Claritas Iulia
-	terrain="farmland"
+	terrain="plains"
 	culture="turdetanian"
 	religion="animism"
 	trade_goods="fruits"
@@ -906,7 +906,7 @@
 	terrain="plains"
 	culture="turdetanian"
 	religion="animism"
-	trade_goods="iron"
+	trade_goods="base_metals"
 	civilization_value = 5
 	barbarian_power=0
 	province_rank = "settlement"
@@ -914,7 +914,7 @@
 }
 
 1411={ #Iporca
-	terrain="farmland"
+	terrain="plains"
 	culture="turdulian"
 	religion="animism"
 	trade_goods="leather"
@@ -935,11 +935,11 @@
 	tribesmen = { amount = 2 }
 }
 
-1414={ #Fodinae
-	terrain="plains"
+1414={ #Fodinae-Luxia
+	terrain="hills"
 	culture="turdetanian"
 	religion="animism"
-	trade_goods="honey"
+	trade_goods="iron"
 	civilization_value = 5
 	barbarian_power=0
 	province_rank = "settlement"
@@ -949,7 +949,7 @@
 1415={ #Tharsis
 	terrain="farmland"
 	culture="turdetanian"
-	religion="carthaginian_pantheon"
+	religion="animism"
 	trade_goods="iron"
 	civilization_value = 5
 	barbarian_power=0
