@@ -499,10 +499,10 @@
 }
 
 1255={ #Saltigi
-	terrain="plains"
+	terrain="hills"
 	culture="contestanian"
 	religion="animism"
-	trade_goods="vegetables"
+	trade_goods="salt"
 	civilization_value = 5
 	barbarian_power=0
 	province_rank = "settlement"
@@ -510,7 +510,7 @@
 }
 
 1256={ #Parietinae
-	terrain="plains"
+	terrain="marsh"
 	culture="lobetanian"
 	religion="animism"
 	trade_goods="grain"
@@ -565,7 +565,7 @@
 }
 
 1261={ #Ad Putea
-	terrain="plains"
+	terrain="marsh"
 	culture="edetanian"
 	religion="animism"
 	trade_goods="grain"

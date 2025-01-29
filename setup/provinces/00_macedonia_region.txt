@@ -1,5 +1,5 @@
 ﻿356={ #Thasos
-	terrain="hills"
+	terrain="forest"
 	culture="macedonian"
 	religion="roman_pantheon"
 	trade_goods="precious_metals"

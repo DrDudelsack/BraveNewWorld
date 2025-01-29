@@ -960,6 +960,18 @@
 	tribesmen = { amount = 2 }
 }
 
+7801={ #Kallipolis 
+	terrain="mountain"
+	culture="aetolian"
+	religion="roman_pantheon"
+	trade_goods="stone"
+	civilization_value = 5
+	barbarian_power=0
+	province_rank = "settlement"
+	tribesmen = { amount = 2 }
+}
+
+
 7802={ #Tanagra
 	terrain="plains"
 	culture="boeotian"

@@ -388,7 +388,7 @@
 	terrain="flood_plain"
 	culture="macedonian"
 	religion="roman_pantheon"
-	trade_goods="elephants"
+	trade_goods="earthware"
 	civilization_value = 5
 	barbarian_power=0
 	province_rank = "settlement"
